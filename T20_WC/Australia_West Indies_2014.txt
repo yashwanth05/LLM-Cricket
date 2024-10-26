@@ -1,0 +1,308 @@
+Match: World T20 - T20
+Date: 2014-03-28
+Venue: Shere Bangla National Stadium, Mirpur
+Teams: Australia vs West Indies
+Toss: Australia won the toss and decided to bat
+Result: West Indies won by 6 wickets
+Man of the Match: DJG Sammy
+
+Innings 1:
+0.1: AJ Finch faced K Santokie, scored 0 runs. Team score: 0/0
+0.2: AJ Finch faced K Santokie, scored 1 runs. Team score: 1/0
+0.3: DA Warner faced K Santokie, scored 1 runs. Team score: 2/0
+0.4: AJ Finch faced K Santokie, scored 1 runs. Team score: 3/0
+0.5: DA Warner faced K Santokie, scored 1 runs. Team score: 4/0
+0.6: AJ Finch faced K Santokie, scored 0 runs. Team score: 4/0
+1.1: DA Warner faced S Badree, scored 1 runs. Team score: 5/0
+1.2: AJ Finch faced S Badree, scored 0 runs. Team score: 5/0
+1.3: AJ Finch faced S Badree, scored 0 runs. Team score: 5/0
+1.4: AJ Finch faced S Badree, scored 6 runs. Team score: 11/0
+1.5: AJ Finch faced S Badree, scored 4 runs. Team score: 15/0
+1.6: AJ Finch faced S Badree, scored 4 runs. Team score: 19/0
+2.1: DA Warner faced K Santokie, scored 4 runs. Team score: 23/0
+2.2: DA Warner faced K Santokie, scored 0 runs. Team score: 23/0
+2.3: DA Warner faced K Santokie, scored 4 runs. Team score: 27/0
+2.4: DA Warner faced K Santokie, scored 0 runs. Team score: 27/0
+2.5: DA Warner faced K Santokie, scored 1 runs. Team score: 28/0
+2.6: AJ Finch faced K Santokie, scored 0 runs. Team score: 28/0
+3.1: DA Warner faced MN Samuels, scored 0 runs. Team score: 28/0
+3.2: DA Warner faced MN Samuels, scored 4 runs. Team score: 32/0
+3.3: DA Warner faced MN Samuels, scored 1 runs. Team score: 33/0
+3.4: AJ Finch faced MN Samuels, scored 0 runs. Team score: 33/0
+bowled!, Batsman: AJ Finch (16 runs from 11 balls), Bowler: MN Samuels (figures: 1/5). Fielders involved: None. Team score: 33/1
+3.5: SR Watson faced MN Samuels, scored 1 runs. Team score: 34/1
+3.6: SR Watson faced MN Samuels, scored 0 runs. Team score: 34/1
+3.0: SR Watson faced MN Samuels, scored 1 runs. Team score: 35/1
+4.1: SR Watson faced S Badree, scored 0 runs. Team score: 35/1
+4.2: SR Watson faced S Badree, scored 1 runs. Team score: 36/1
+4.3: DA Warner faced S Badree, scored 0 runs. Team score: 36/1
+4.4: DA Warner faced S Badree, scored 4 runs. Team score: 40/1
+4.5: DA Warner faced S Badree, scored 1 runs. Team score: 41/1
+4.6: DA Warner faced S Badree, scored 0 runs. Team score: 41/1
+bowled!, Batsman: DA Warner (22 runs from 15 balls), Bowler: S Badree (figures: 1/21). Fielders involved: None. Team score: 41/2
+4.0: GJ Maxwell faced S Badree, scored 0 runs. Team score: 41/2
+5.1: SR Watson faced SP Narine, scored 0 runs. Team score: 41/2
+5.2: SR Watson faced SP Narine, scored 0 runs. Team score: 41/2
+5.3: SR Watson faced SP Narine, scored 0 runs. Team score: 41/2
+5.4: SR Watson faced SP Narine, scored 0 runs. Team score: 41/2
+stumped!, Batsman: SR Watson (3 runs from 9 balls), Bowler: SP Narine (figures: 1/0). Fielders involved: D Ramdin. Team score: 41/3
+5.5: GJ Bailey faced SP Narine, scored 0 runs. Team score: 41/3
+5.6: GJ Bailey faced SP Narine, scored 0 runs. Team score: 41/3
+Maiden over by SP Narine
+6.1: GJ Maxwell faced S Badree, scored 1 runs. Team score: 42/3
+6.2: GJ Bailey faced S Badree, scored 1 runs. Team score: 43/3
+6.3: GJ Maxwell faced S Badree, scored 1 runs. Team score: 44/3
+6.4: GJ Bailey faced S Badree, scored 0 runs. Team score: 44/3
+6.5: GJ Bailey faced S Badree, scored 0 runs. Team score: 44/3
+6.6: GJ Bailey faced S Badree, scored 6 runs. Team score: 50/3
+7.1: GJ Maxwell faced SP Narine, scored 1 runs. Team score: 51/3
+7.2: GJ Bailey faced SP Narine, scored 1 runs. Team score: 52/3
+7.3: GJ Maxwell faced SP Narine, scored 4 runs. Team score: 56/3
+7.4: GJ Maxwell faced SP Narine, scored 1 runs. Team score: 57/3
+7.5: GJ Bailey faced SP Narine, scored 0 runs. Team score: 57/3
+7.6: GJ Bailey faced SP Narine, scored 2 runs. Team score: 59/3
+8.1: GJ Maxwell faced DJG Sammy, scored 4 runs. Team score: 63/3
+8.2: GJ Maxwell faced DJG Sammy, scored 6 runs. Team score: 69/3
+8.3: GJ Maxwell faced DJG Sammy, scored 4 runs. Team score: 73/3
+8.4: GJ Maxwell faced DJG Sammy, scored 1 runs. Team score: 74/3
+8.5: GJ Bailey faced DJG Sammy, scored 1 runs. Team score: 75/3
+8.6: GJ Maxwell faced DJG Sammy, scored 0 runs. Team score: 75/3
+9.1: GJ Bailey faced MN Samuels, scored 1 runs. Team score: 76/3
+9.2: GJ Maxwell faced MN Samuels, scored 1 runs. Team score: 77/3
+9.3: GJ Bailey faced MN Samuels, scored 0 runs. Team score: 77/3
+caught!, Batsman: GJ Bailey (12 runs from 12 balls), Bowler: MN Samuels (figures: 2/9). Fielders involved: DJG Sammy. Team score: 77/4
+9.4: BJ Hodge faced MN Samuels, scored 1 runs. Team score: 78/4
+9.5: GJ Maxwell faced MN Samuels, scored 4 runs. Team score: 82/4
+9.6: GJ Maxwell faced MN Samuels, scored 6 runs. Team score: 88/4
+10.1: BJ Hodge faced DJ Bravo, scored 1 runs. Team score: 89/4
+10.2: GJ Maxwell faced DJ Bravo, scored 4 runs. Team score: 93/4
+10.3: GJ Maxwell faced DJ Bravo, scored 0 runs. Team score: 93/4
+10.4: GJ Maxwell faced DJ Bravo, scored 0 runs. Team score: 93/4
+10.5: GJ Maxwell faced DJ Bravo, scored 0 runs. Team score: 93/4
+10.6: GJ Maxwell faced DJ Bravo, scored 1 runs. Team score: 94/4
+11.1: GJ Maxwell faced S Badree, scored 6 runs. Team score: 100/4
+11.2: GJ Maxwell faced S Badree, scored 0 runs. Team score: 100/4
+11.3: GJ Maxwell faced S Badree, scored 0 runs. Team score: 100/4
+caught!, Batsman: GJ Maxwell (45 runs from 22 balls), Bowler: S Badree (figures: 2/36). Fielders involved: DJ Bravo. Team score: 100/5
+11.4: BJ Hodge faced S Badree, scored 1 runs. Team score: 101/5
+11.5: JP Faulkner faced S Badree, scored 0 runs. Team score: 101/5
+11.6: JP Faulkner faced S Badree, scored 0 runs. Team score: 101/5
+12.1: BJ Hodge faced DJ Bravo, scored 1 runs. Team score: 102/5
+12.2: JP Faulkner faced DJ Bravo, scored 4 runs. Team score: 106/5
+12.3: JP Faulkner faced DJ Bravo, scored 0 runs. Team score: 106/5
+12.4: JP Faulkner faced DJ Bravo, scored 0 runs. Team score: 106/5
+12.5: JP Faulkner faced DJ Bravo, scored 1 runs. Team score: 107/5
+12.6: BJ Hodge faced DJ Bravo, scored 1 runs. Team score: 108/5
+13.1: BJ Hodge faced SP Narine, scored 2 runs. Team score: 110/5
+13.2: BJ Hodge faced SP Narine, scored 1 runs. Team score: 111/5
+13.3: JP Faulkner faced SP Narine, scored 1 runs. Team score: 112/5
+13.4: BJ Hodge faced SP Narine, scored 0 runs. Team score: 112/5
+13.5: BJ Hodge faced SP Narine, scored 0 runs. Team score: 112/5
+13.6: BJ Hodge faced SP Narine, scored 1 runs. Team score: 113/5
+14.1: BJ Hodge faced AD Russell, scored 1 runs. Team score: 114/5
+14.2: JP Faulkner faced AD Russell, scored 1 runs. Team score: 115/5
+14.3: BJ Hodge faced AD Russell, scored 1 runs. Team score: 116/5
+14.4: JP Faulkner faced AD Russell, scored 5 runs. Team score: 121/5
+14.5: JP Faulkner faced AD Russell, scored 1 runs. Team score: 122/5
+14.6: BJ Hodge faced AD Russell, scored 2 runs. Team score: 124/5
+14.0: BJ Hodge faced AD Russell, scored 4 runs. Team score: 128/5
+15.1: JP Faulkner faced K Santokie, scored 1 runs. Team score: 129/5
+15.2: BJ Hodge faced K Santokie, scored 1 runs. Team score: 130/5
+15.3: JP Faulkner faced K Santokie, scored 0 runs. Team score: 130/5
+15.4: JP Faulkner faced K Santokie, scored 1 runs. Team score: 131/5
+15.5: BJ Hodge faced K Santokie, scored 0 runs. Team score: 131/5
+15.6: BJ Hodge faced K Santokie, scored 1 runs. Team score: 132/5
+16.1: BJ Hodge faced DJ Bravo, scored 4 runs. Team score: 136/5
+16.2: BJ Hodge faced DJ Bravo, scored 7 runs. Team score: 143/5
+16.3: BJ Hodge faced DJ Bravo, scored 1 runs. Team score: 144/5
+16.4: JP Faulkner faced DJ Bravo, scored 1 runs. Team score: 145/5
+16.5: BJ Hodge faced DJ Bravo, scored 1 runs. Team score: 146/5
+16.6: JP Faulkner faced DJ Bravo, scored 1 runs. Team score: 147/5
+16.0: BJ Hodge faced DJ Bravo, scored 1 runs. Team score: 148/5
+17.1: BJ Hodge faced SP Narine, scored 2 runs. Team score: 150/5
+17.2: BJ Hodge faced SP Narine, scored 0 runs. Team score: 150/5
+17.3: BJ Hodge faced SP Narine, scored 1 runs. Team score: 151/5
+17.4: JP Faulkner faced SP Narine, scored 1 runs. Team score: 152/5
+17.5: BJ Hodge faced SP Narine, scored 0 runs. Team score: 152/5
+bowled!, Batsman: BJ Hodge (36 runs from 26 balls), Bowler: SP Narine (figures: 2/18). Fielders involved: None. Team score: 152/6
+17.6: BJ Haddin faced SP Narine, scored 1 runs. Team score: 153/6
+18.1: BJ Haddin faced K Santokie, scored 1 runs. Team score: 154/6
+18.2: JP Faulkner faced K Santokie, scored 0 runs. Team score: 154/6
+caught!, Batsman: JP Faulkner (18 runs from 17 balls), Bowler: K Santokie (figures: 1/18). Fielders involved: DJ Bravo. Team score: 154/7
+18.3: BJ Haddin faced K Santokie, scored 2 runs. Team score: 156/7
+18.4: BJ Haddin faced K Santokie, scored 6 runs. Team score: 162/7
+18.5: BJ Haddin faced K Santokie, scored 2 runs. Team score: 164/7
+18.6: MA Starc faced K Santokie, scored 2 runs. Team score: 166/7
+18.0: MA Starc faced K Santokie, scored 2 runs. Team score: 168/7
+19.1: BJ Haddin faced DJ Bravo, scored 1 runs. Team score: 169/7
+19.2: MA Starc faced DJ Bravo, scored 1 runs. Team score: 170/7
+19.3: MA Starc faced DJ Bravo, scored 1 runs. Team score: 171/7
+19.4: MA Starc faced DJ Bravo, scored 0 runs. Team score: 171/7
+19.5: MA Starc faced DJ Bravo, scored 0 runs. Team score: 171/7
+caught!, Batsman: MA Starc (6 runs from 6 balls), Bowler: DJ Bravo (figures: 1/32). Fielders involved: AD Russell. Team score: 171/8
+19.6: BJ Haddin faced DJ Bravo, scored 1 runs. Team score: 172/8
+19.0: JM Muirhead faced DJ Bravo, scored 1 runs. Team score: 173/8
+19.1: BJ Haddin faced DJ Bravo, scored 1 runs. Team score: 174/8
+19.2: BJ Haddin faced DJ Bravo, scored 4 runs. Team score: 178/8
+End of innings for Australia: 178/8 in 20.0 overs
+Batsman scores:
+AJ Finch: 16 runs from 11 balls
+DA Warner: 22 runs from 15 balls
+SR Watson: 3 runs from 9 balls
+GJ Maxwell: 45 runs from 22 balls
+GJ Bailey: 12 runs from 12 balls
+BJ Hodge: 36 runs from 26 balls
+JP Faulkner: 18 runs from 17 balls
+BJ Haddin: 19 runs from 9 balls
+MA Starc: 6 runs from 6 balls
+JM Muirhead: 1 runs from 1 balls
+Bowler figures:
+K Santokie: 1 wickets for 32 runs
+S Badree: 2 wickets for 37 runs
+MN Samuels: 2 wickets for 20 runs
+SP Narine: 2 wickets for 19 runs
+DJG Sammy: 0 wickets for 16 runs
+DJ Bravo: 1 wickets for 39 runs
+AD Russell: 0 wickets for 15 runs
+
+Innings 2:
+0.1: DR Smith faced SR Watson, scored 0 runs. Team score: 0/0
+0.2: DR Smith faced SR Watson, scored 0 runs. Team score: 0/0
+0.3: DR Smith faced SR Watson, scored 0 runs. Team score: 0/0
+0.4: DR Smith faced SR Watson, scored 0 runs. Team score: 0/0
+0.5: DR Smith faced SR Watson, scored 2 runs. Team score: 2/0
+0.6: DR Smith faced SR Watson, scored 0 runs. Team score: 2/0
+1.1: CH Gayle faced MA Starc, scored 0 runs. Team score: 2/0
+1.2: CH Gayle faced MA Starc, scored 0 runs. Team score: 2/0
+1.3: CH Gayle faced MA Starc, scored 4 runs. Team score: 6/0
+1.4: CH Gayle faced MA Starc, scored 4 runs. Team score: 10/0
+1.5: CH Gayle faced MA Starc, scored 4 runs. Team score: 14/0
+1.6: CH Gayle faced MA Starc, scored 4 runs. Team score: 18/0
+2.1: DR Smith faced DE Bollinger, scored 0 runs. Team score: 18/0
+2.2: DR Smith faced DE Bollinger, scored 4 runs. Team score: 22/0
+2.3: DR Smith faced DE Bollinger, scored 4 runs. Team score: 26/0
+2.4: DR Smith faced DE Bollinger, scored 1 runs. Team score: 27/0
+2.5: CH Gayle faced DE Bollinger, scored 0 runs. Team score: 27/0
+2.6: CH Gayle faced DE Bollinger, scored 6 runs. Team score: 33/0
+3.1: DR Smith faced GJ Maxwell, scored 0 runs. Team score: 33/0
+3.2: DR Smith faced GJ Maxwell, scored 4 runs. Team score: 37/0
+3.3: DR Smith faced GJ Maxwell, scored 1 runs. Team score: 38/0
+3.4: CH Gayle faced GJ Maxwell, scored 4 runs. Team score: 42/0
+3.5: CH Gayle faced GJ Maxwell, scored 0 runs. Team score: 42/0
+3.6: CH Gayle faced GJ Maxwell, scored 4 runs. Team score: 46/0
+4.1: DR Smith faced MA Starc, scored 0 runs. Team score: 46/0
+4.2: DR Smith faced MA Starc, scored 4 runs. Team score: 50/0
+4.3: DR Smith faced MA Starc, scored 0 runs. Team score: 50/0
+4.4: DR Smith faced MA Starc, scored 0 runs. Team score: 50/0
+4.5: DR Smith faced MA Starc, scored 0 runs. Team score: 50/0
+4.6: DR Smith faced MA Starc, scored 0 runs. Team score: 50/0
+caught!, Batsman: DR Smith (20 runs from 19 balls), Bowler: MA Starc (figures: 1/20). Fielders involved: BJ Haddin. Team score: 50/1
+5.1: CH Gayle faced SR Watson, scored 2 runs. Team score: 52/1
+5.2: CH Gayle faced SR Watson, scored 2 runs. Team score: 54/1
+5.3: CH Gayle faced SR Watson, scored 6 runs. Team score: 60/1
+5.4: CH Gayle faced SR Watson, scored 0 runs. Team score: 60/1
+5.5: CH Gayle faced SR Watson, scored 0 runs. Team score: 60/1
+5.6: CH Gayle faced SR Watson, scored 1 runs. Team score: 61/1
+6.1: CH Gayle faced JP Faulkner, scored 1 runs. Team score: 62/1
+6.2: LMP Simmons faced JP Faulkner, scored 1 runs. Team score: 63/1
+6.3: CH Gayle faced JP Faulkner, scored 1 runs. Team score: 64/1
+6.4: CH Gayle faced JP Faulkner, scored 1 runs. Team score: 65/1
+6.5: LMP Simmons faced JP Faulkner, scored 2 runs. Team score: 67/1
+6.6: LMP Simmons faced JP Faulkner, scored 1 runs. Team score: 68/1
+6.0: CH Gayle faced JP Faulkner, scored 1 runs. Team score: 69/1
+6.1: CH Gayle faced JP Faulkner, scored 1 runs. Team score: 70/1
+7.1: CH Gayle faced DE Bollinger, scored 0 runs. Team score: 70/1
+7.2: CH Gayle faced DE Bollinger, scored 1 runs. Team score: 71/1
+7.3: LMP Simmons faced DE Bollinger, scored 0 runs. Team score: 71/1
+7.4: LMP Simmons faced DE Bollinger, scored 4 runs. Team score: 75/1
+7.5: LMP Simmons faced DE Bollinger, scored 1 runs. Team score: 76/1
+7.6: CH Gayle faced DE Bollinger, scored 0 runs. Team score: 76/1
+8.1: LMP Simmons faced JP Faulkner, scored 0 runs. Team score: 76/1
+8.2: LMP Simmons faced JP Faulkner, scored 0 runs. Team score: 76/1
+8.3: LMP Simmons faced JP Faulkner, scored 0 runs. Team score: 76/1
+8.4: LMP Simmons faced JP Faulkner, scored 1 runs. Team score: 77/1
+8.5: CH Gayle faced JP Faulkner, scored 0 runs. Team score: 77/1
+8.6: CH Gayle faced JP Faulkner, scored 1 runs. Team score: 78/1
+9.1: CH Gayle faced GJ Maxwell, scored 0 runs. Team score: 78/1
+9.2: CH Gayle faced GJ Maxwell, scored 0 runs. Team score: 78/1
+9.3: CH Gayle faced GJ Maxwell, scored 2 runs. Team score: 80/1
+9.4: CH Gayle faced GJ Maxwell, scored 1 runs. Team score: 81/1
+9.5: LMP Simmons faced GJ Maxwell, scored 4 runs. Team score: 85/1
+9.6: LMP Simmons faced GJ Maxwell, scored 2 runs. Team score: 87/1
+10.1: CH Gayle faced JM Muirhead, scored 0 runs. Team score: 87/1
+10.2: CH Gayle faced JM Muirhead, scored 2 runs. Team score: 89/1
+10.3: CH Gayle faced JM Muirhead, scored 0 runs. Team score: 89/1
+10.4: CH Gayle faced JM Muirhead, scored 1 runs. Team score: 90/1
+10.5: LMP Simmons faced JM Muirhead, scored 2 runs. Team score: 92/1
+10.6: LMP Simmons faced JM Muirhead, scored 1 runs. Team score: 93/1
+11.1: LMP Simmons faced GJ Maxwell, scored 4 runs. Team score: 97/1
+11.2: LMP Simmons faced GJ Maxwell, scored 2 runs. Team score: 99/1
+11.3: LMP Simmons faced GJ Maxwell, scored 0 runs. Team score: 99/1
+11.4: LMP Simmons faced GJ Maxwell, scored 0 runs. Team score: 99/1
+11.5: LMP Simmons faced GJ Maxwell, scored 1 runs. Team score: 100/1
+11.6: CH Gayle faced GJ Maxwell, scored 1 runs. Team score: 101/1
+12.1: CH Gayle faced JM Muirhead, scored 0 runs. Team score: 101/1
+caught!, Batsman: CH Gayle (55 runs from 37 balls), Bowler: JM Muirhead (figures: 1/6). Fielders involved: GJ Maxwell. Team score: 101/2
+12.2: MN Samuels faced JM Muirhead, scored 0 runs. Team score: 101/2
+12.3: MN Samuels faced JM Muirhead, scored 0 runs. Team score: 101/2
+12.4: MN Samuels faced JM Muirhead, scored 0 runs. Team score: 101/2
+12.5: MN Samuels faced JM Muirhead, scored 1 runs. Team score: 102/2
+12.6: LMP Simmons faced JM Muirhead, scored 1 runs. Team score: 103/2
+13.1: LMP Simmons faced DE Bollinger, scored 0 runs. Team score: 103/2
+13.2: LMP Simmons faced DE Bollinger, scored 2 runs. Team score: 105/2
+13.3: LMP Simmons faced DE Bollinger, scored 1 runs. Team score: 106/2
+13.4: MN Samuels faced DE Bollinger, scored 1 runs. Team score: 107/2
+13.5: LMP Simmons faced DE Bollinger, scored 0 runs. Team score: 107/2
+caught!, Batsman: LMP Simmons (30 runs from 24 balls), Bowler: DE Bollinger (figures: 1/25). Fielders involved: GJ Maxwell. Team score: 107/3
+13.6: MN Samuels faced DE Bollinger, scored 0 runs. Team score: 107/3
+14.1: DJ Bravo faced JM Muirhead, scored 2 runs. Team score: 109/3
+14.2: DJ Bravo faced JM Muirhead, scored 1 runs. Team score: 110/3
+14.3: MN Samuels faced JM Muirhead, scored 4 runs. Team score: 114/3
+14.4: MN Samuels faced JM Muirhead, scored 1 runs. Team score: 115/3
+14.5: DJ Bravo faced JM Muirhead, scored 6 runs. Team score: 121/3
+14.6: DJ Bravo faced JM Muirhead, scored 1 runs. Team score: 122/3
+15.1: DJ Bravo faced JP Faulkner, scored 1 runs. Team score: 123/3
+15.2: MN Samuels faced JP Faulkner, scored 0 runs. Team score: 123/3
+15.3: MN Samuels faced JP Faulkner, scored 0 runs. Team score: 123/3
+15.4: MN Samuels faced JP Faulkner, scored 1 runs. Team score: 124/3
+15.5: DJ Bravo faced JP Faulkner, scored 1 runs. Team score: 125/3
+15.6: MN Samuels faced JP Faulkner, scored 1 runs. Team score: 126/3
+16.1: MN Samuels faced MA Starc, scored 2 runs. Team score: 128/3
+16.2: MN Samuels faced MA Starc, scored 2 runs. Team score: 130/3
+16.3: MN Samuels faced MA Starc, scored 0 runs. Team score: 130/3
+caught!, Batsman: MN Samuels (13 runs from 15 balls), Bowler: MA Starc (figures: 2/24). Fielders involved: BJ Haddin. Team score: 130/4
+16.4: DJG Sammy faced MA Starc, scored 1 runs. Team score: 131/4
+16.5: DJ Bravo faced MA Starc, scored 0 runs. Team score: 131/4
+16.6: DJ Bravo faced MA Starc, scored 6 runs. Team score: 137/4
+17.1: DJG Sammy faced DE Bollinger, scored 1 runs. Team score: 138/4
+17.2: DJ Bravo faced DE Bollinger, scored 0 runs. Team score: 138/4
+17.3: DJ Bravo faced DE Bollinger, scored 4 runs. Team score: 142/4
+17.4: DJ Bravo faced DE Bollinger, scored 1 runs. Team score: 143/4
+17.5: DJG Sammy faced DE Bollinger, scored 1 runs. Team score: 144/4
+17.6: DJ Bravo faced DE Bollinger, scored 4 runs. Team score: 148/4
+18.1: DJG Sammy faced MA Starc, scored 6 runs. Team score: 154/4
+18.2: DJG Sammy faced MA Starc, scored 2 runs. Team score: 156/4
+18.3: DJG Sammy faced MA Starc, scored 4 runs. Team score: 160/4
+18.4: DJG Sammy faced MA Starc, scored 2 runs. Team score: 162/4
+18.5: DJG Sammy faced MA Starc, scored 4 runs. Team score: 166/4
+18.6: DJG Sammy faced MA Starc, scored 1 runs. Team score: 167/4
+19.1: DJG Sammy faced JP Faulkner, scored 0 runs. Team score: 167/4
+19.2: DJG Sammy faced JP Faulkner, scored 0 runs. Team score: 167/4
+19.3: DJG Sammy faced JP Faulkner, scored 6 runs. Team score: 173/4
+19.4: DJG Sammy faced JP Faulkner, scored 6 runs. Team score: 179/4
+End of innings for West Indies: 179/4 in 20.0 overs
+Batsman scores:
+DR Smith: 20 runs from 19 balls
+CH Gayle: 55 runs from 37 balls
+LMP Simmons: 30 runs from 24 balls
+MN Samuels: 13 runs from 15 balls
+DJ Bravo: 27 runs from 12 balls
+DJG Sammy: 34 runs from 13 balls
+Bowler figures:
+SR Watson: 0 wickets for 13 runs
+MA Starc: 2 wickets for 50 runs
+DE Bollinger: 1 wickets for 36 runs
+GJ Maxwell: 0 wickets for 30 runs
+JP Faulkner: 0 wickets for 27 runs
+JM Muirhead: 1 wickets for 23 runs
+

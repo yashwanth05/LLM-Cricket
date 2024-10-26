@@ -1,0 +1,256 @@
+Match: World T20 - T20
+Date: 2016-03-13
+Venue: Himachal Pradesh Cricket Association Stadium, Dharamsala
+Teams: Bangladesh vs Oman
+Toss: Oman won the toss and decided to field
+Result: Bangladesh won by 54 runs
+Man of the Match: Tamim Iqbal
+
+Innings 1:
+0.1: Tamim Iqbal faced Bilal Khan, scored 0 runs. Team score: 0/0
+0.2: Tamim Iqbal faced Bilal Khan, scored 0 runs. Team score: 0/0
+0.3: Tamim Iqbal faced Bilal Khan, scored 0 runs. Team score: 0/0
+0.4: Tamim Iqbal faced Bilal Khan, scored 0 runs. Team score: 0/0
+0.5: Tamim Iqbal faced Bilal Khan, scored 1 runs. Team score: 1/0
+0.6: Soumya Sarkar faced Bilal Khan, scored 0 runs. Team score: 1/0
+1.1: Tamim Iqbal faced Amir Ali, scored 1 runs. Team score: 2/0
+1.2: Tamim Iqbal faced Amir Ali, scored 2 runs. Team score: 4/0
+1.3: Tamim Iqbal faced Amir Ali, scored 1 runs. Team score: 5/0
+1.4: Soumya Sarkar faced Amir Ali, scored 1 runs. Team score: 6/0
+1.5: Tamim Iqbal faced Amir Ali, scored 4 runs. Team score: 10/0
+1.6: Tamim Iqbal faced Amir Ali, scored 1 runs. Team score: 11/0
+1.0: Soumya Sarkar faced Amir Ali, scored 1 runs. Team score: 12/0
+2.1: Soumya Sarkar faced Bilal Khan, scored 0 runs. Team score: 12/0
+2.2: Soumya Sarkar faced Bilal Khan, scored 0 runs. Team score: 12/0
+2.3: Soumya Sarkar faced Bilal Khan, scored 0 runs. Team score: 12/0
+2.4: Soumya Sarkar faced Bilal Khan, scored 0 runs. Team score: 12/0
+2.5: Soumya Sarkar faced Bilal Khan, scored 4 runs. Team score: 16/0
+2.6: Soumya Sarkar faced Bilal Khan, scored 0 runs. Team score: 16/0
+3.1: Tamim Iqbal faced Amir Ali, scored 0 runs. Team score: 16/0
+3.2: Tamim Iqbal faced Amir Ali, scored 1 runs. Team score: 17/0
+3.3: Soumya Sarkar faced Amir Ali, scored 0 runs. Team score: 17/0
+3.4: Soumya Sarkar faced Amir Ali, scored 0 runs. Team score: 17/0
+3.5: Soumya Sarkar faced Amir Ali, scored 0 runs. Team score: 17/0
+3.6: Soumya Sarkar faced Amir Ali, scored 2 runs. Team score: 19/0
+4.1: Tamim Iqbal faced AV Lalcheta, scored 0 runs. Team score: 19/0
+4.2: Tamim Iqbal faced AV Lalcheta, scored 4 runs. Team score: 23/0
+4.3: Tamim Iqbal faced AV Lalcheta, scored 1 runs. Team score: 24/0
+4.4: Soumya Sarkar faced AV Lalcheta, scored 0 runs. Team score: 24/0
+4.5: Soumya Sarkar faced AV Lalcheta, scored 0 runs. Team score: 24/0
+4.6: Soumya Sarkar faced AV Lalcheta, scored 0 runs. Team score: 24/0
+5.1: Tamim Iqbal faced Amir Ali, scored 1 runs. Team score: 25/0
+5.2: Soumya Sarkar faced Amir Ali, scored 0 runs. Team score: 25/0
+5.3: Soumya Sarkar faced Amir Ali, scored 4 runs. Team score: 29/0
+5.4: Soumya Sarkar faced Amir Ali, scored 0 runs. Team score: 29/0
+5.5: Soumya Sarkar faced Amir Ali, scored 0 runs. Team score: 29/0
+5.6: Soumya Sarkar faced Amir Ali, scored 0 runs. Team score: 29/0
+6.1: Tamim Iqbal faced AV Lalcheta, scored 2 runs. Team score: 31/0
+6.2: Tamim Iqbal faced AV Lalcheta, scored 4 runs. Team score: 35/0
+6.3: Tamim Iqbal faced AV Lalcheta, scored 6 runs. Team score: 41/0
+6.4: Tamim Iqbal faced AV Lalcheta, scored 1 runs. Team score: 42/0
+6.5: Soumya Sarkar faced AV Lalcheta, scored 0 runs. Team score: 42/0
+bowled!, Batsman: Soumya Sarkar (12 runs from 22 balls), Bowler: AV Lalcheta (figures: 1/18). Fielders involved: None. Team score: 42/1
+6.6: Sabbir Rahman faced AV Lalcheta, scored 1 runs. Team score: 43/1
+7.1: Sabbir Rahman faced Amir Ali, scored 1 runs. Team score: 44/1
+7.2: Tamim Iqbal faced Amir Ali, scored 1 runs. Team score: 45/1
+7.3: Sabbir Rahman faced Amir Ali, scored 4 runs. Team score: 49/1
+7.4: Sabbir Rahman faced Amir Ali, scored 1 runs. Team score: 50/1
+7.5: Tamim Iqbal faced Amir Ali, scored 1 runs. Team score: 51/1
+7.6: Sabbir Rahman faced Amir Ali, scored 1 runs. Team score: 52/1
+8.1: Sabbir Rahman faced M Ansari, scored 0 runs. Team score: 52/1
+8.2: Sabbir Rahman faced M Ansari, scored 1 runs. Team score: 53/1
+8.3: Tamim Iqbal faced M Ansari, scored 0 runs. Team score: 53/1
+8.4: Tamim Iqbal faced M Ansari, scored 1 runs. Team score: 54/1
+8.5: Sabbir Rahman faced M Ansari, scored 4 runs. Team score: 58/1
+8.6: Sabbir Rahman faced M Ansari, scored 1 runs. Team score: 59/1
+9.1: Sabbir Rahman faced Mehran Khan, scored 0 runs. Team score: 59/1
+9.2: Sabbir Rahman faced Mehran Khan, scored 1 runs. Team score: 60/1
+9.3: Tamim Iqbal faced Mehran Khan, scored 1 runs. Team score: 61/1
+9.4: Sabbir Rahman faced Mehran Khan, scored 4 runs. Team score: 65/1
+9.5: Sabbir Rahman faced Mehran Khan, scored 1 runs. Team score: 66/1
+9.6: Tamim Iqbal faced Mehran Khan, scored 4 runs. Team score: 70/1
+10.1: Sabbir Rahman faced M Ansari, scored 4 runs. Team score: 74/1
+10.2: Sabbir Rahman faced M Ansari, scored 1 runs. Team score: 75/1
+10.3: Tamim Iqbal faced M Ansari, scored 4 runs. Team score: 79/1
+10.4: Tamim Iqbal faced M Ansari, scored 0 runs. Team score: 79/1
+10.5: Tamim Iqbal faced M Ansari, scored 4 runs. Team score: 83/1
+10.6: Tamim Iqbal faced M Ansari, scored 1 runs. Team score: 84/1
+11.1: Tamim Iqbal faced Khawar Ali, scored 0 runs. Team score: 84/1
+11.2: Tamim Iqbal faced Khawar Ali, scored 0 runs. Team score: 84/1
+11.3: Tamim Iqbal faced Khawar Ali, scored 1 runs. Team score: 85/1
+11.4: Sabbir Rahman faced Khawar Ali, scored 1 runs. Team score: 86/1
+11.5: Tamim Iqbal faced Khawar Ali, scored 0 runs. Team score: 86/1
+11.6: Tamim Iqbal faced Khawar Ali, scored 1 runs. Team score: 87/1
+12.1: Tamim Iqbal faced Aamir Kaleem, scored 4 runs. Team score: 91/1
+12.2: Tamim Iqbal faced Aamir Kaleem, scored 6 runs. Team score: 97/1
+12.3: Tamim Iqbal faced Aamir Kaleem, scored 1 runs. Team score: 98/1
+12.4: Sabbir Rahman faced Aamir Kaleem, scored 2 runs. Team score: 100/1
+12.5: Sabbir Rahman faced Aamir Kaleem, scored 1 runs. Team score: 101/1
+12.6: Tamim Iqbal faced Aamir Kaleem, scored 1 runs. Team score: 102/1
+13.1: Tamim Iqbal faced Khawar Ali, scored 1 runs. Team score: 103/1
+13.2: Sabbir Rahman faced Khawar Ali, scored 6 runs. Team score: 109/1
+13.3: Sabbir Rahman faced Khawar Ali, scored 1 runs. Team score: 110/1
+13.4: Tamim Iqbal faced Khawar Ali, scored 0 runs. Team score: 110/1
+13.5: Tamim Iqbal faced Khawar Ali, scored 1 runs. Team score: 111/1
+13.6: Sabbir Rahman faced Khawar Ali, scored 2 runs. Team score: 113/1
+14.1: Tamim Iqbal faced AV Lalcheta, scored 4 runs. Team score: 117/1
+14.2: Tamim Iqbal faced AV Lalcheta, scored 6 runs. Team score: 123/1
+14.3: Tamim Iqbal faced AV Lalcheta, scored 0 runs. Team score: 123/1
+14.4: Tamim Iqbal faced AV Lalcheta, scored 1 runs. Team score: 124/1
+14.5: Sabbir Rahman faced AV Lalcheta, scored 4 runs. Team score: 128/1
+14.6: Sabbir Rahman faced AV Lalcheta, scored 1 runs. Team score: 129/1
+15.1: Sabbir Rahman faced Khawar Ali, scored 1 runs. Team score: 130/1
+15.2: Tamim Iqbal faced Khawar Ali, scored 6 runs. Team score: 136/1
+15.3: Tamim Iqbal faced Khawar Ali, scored 1 runs. Team score: 137/1
+15.4: Sabbir Rahman faced Khawar Ali, scored 1 runs. Team score: 138/1
+15.5: Tamim Iqbal faced Khawar Ali, scored 1 runs. Team score: 139/1
+15.6: Sabbir Rahman faced Khawar Ali, scored 0 runs. Team score: 139/1
+bowled!, Batsman: Sabbir Rahman (45 runs from 26 balls), Bowler: Khawar Ali (figures: 1/24). Fielders involved: None. Team score: 139/2
+16.1: Tamim Iqbal faced Bilal Khan, scored 0 runs. Team score: 139/2
+16.2: Tamim Iqbal faced Bilal Khan, scored 4 runs. Team score: 143/2
+16.3: Tamim Iqbal faced Bilal Khan, scored 1 runs. Team score: 144/2
+16.4: Shakib Al Hasan faced Bilal Khan, scored 0 runs. Team score: 144/2
+16.5: Shakib Al Hasan faced Bilal Khan, scored 0 runs. Team score: 144/2
+16.6: Shakib Al Hasan faced Bilal Khan, scored 0 runs. Team score: 144/2
+17.1: Tamim Iqbal faced M Ansari, scored 2 runs. Team score: 146/2
+17.2: Tamim Iqbal faced M Ansari, scored 0 runs. Team score: 146/2
+17.3: Tamim Iqbal faced M Ansari, scored 6 runs. Team score: 152/2
+17.4: Tamim Iqbal faced M Ansari, scored 2 runs. Team score: 154/2
+17.5: Tamim Iqbal faced M Ansari, scored 1 runs. Team score: 155/2
+17.6: Shakib Al Hasan faced M Ansari, scored 4 runs. Team score: 159/2
+18.1: Tamim Iqbal faced Bilal Khan, scored 0 runs. Team score: 159/2
+18.2: Tamim Iqbal faced Bilal Khan, scored 0 runs. Team score: 159/2
+18.3: Tamim Iqbal faced Bilal Khan, scored 0 runs. Team score: 159/2
+18.4: Tamim Iqbal faced Bilal Khan, scored 4 runs. Team score: 163/2
+18.5: Tamim Iqbal faced Bilal Khan, scored 1 runs. Team score: 164/2
+18.6: Shakib Al Hasan faced Bilal Khan, scored 1 runs. Team score: 165/2
+19.1: Shakib Al Hasan faced M Ansari, scored 4 runs. Team score: 169/2
+19.2: Shakib Al Hasan faced M Ansari, scored 6 runs. Team score: 175/2
+19.3: Shakib Al Hasan faced M Ansari, scored 1 runs. Team score: 176/2
+19.4: Shakib Al Hasan faced M Ansari, scored 1 runs. Team score: 177/2
+19.5: Shakib Al Hasan faced M Ansari, scored 1 runs. Team score: 178/2
+19.6: Tamim Iqbal faced M Ansari, scored 0 runs. Team score: 178/2
+19.0: Tamim Iqbal faced M Ansari, scored 1 runs. Team score: 179/2
+19.1: Shakib Al Hasan faced M Ansari, scored 1 runs. Team score: 180/2
+End of innings for Bangladesh: 180/2 in 20.0 overs
+Batsman scores:
+Tamim Iqbal: 104 runs from 64 balls
+Soumya Sarkar: 12 runs from 22 balls
+Sabbir Rahman: 45 runs from 26 balls
+Shakib Al Hasan: 19 runs from 11 balls
+Bowler figures:
+Bilal Khan: 0 wickets for 16 runs
+Amir Ali: 0 wickets for 28 runs
+AV Lalcheta: 1 wickets for 35 runs
+M Ansari: 0 wickets for 51 runs
+Mehran Khan: 0 wickets for 11 runs
+Khawar Ali: 1 wickets for 24 runs
+Aamir Kaleem: 0 wickets for 15 runs
+
+Innings 2:
+0.1: Zeeshan Maqsood faced Taskin Ahmed, scored 0 runs. Team score: 0/0
+0.2: Zeeshan Maqsood faced Taskin Ahmed, scored 1 runs. Team score: 1/0
+0.3: Zeeshan Maqsood faced Taskin Ahmed, scored 0 runs. Team score: 1/0
+caught!, Batsman: Zeeshan Maqsood (1 runs from 3 balls), Bowler: Taskin Ahmed (figures: 1/1). Fielders involved: Mahmudullah. Team score: 1/1
+0.4: Khawar Ali faced Taskin Ahmed, scored 0 runs. Team score: 1/1
+0.5: Khawar Ali faced Taskin Ahmed, scored 0 runs. Team score: 1/1
+0.6: Khawar Ali faced Taskin Ahmed, scored 0 runs. Team score: 1/1
+0.0: Khawar Ali faced Taskin Ahmed, scored 1 runs. Team score: 2/1
+1.1: Khawar Ali faced Al-Amin Hossain, scored 0 runs. Team score: 2/1
+1.2: Khawar Ali faced Al-Amin Hossain, scored 0 runs. Team score: 2/1
+1.3: Khawar Ali faced Al-Amin Hossain, scored 1 runs. Team score: 3/1
+1.4: Jatinder Singh faced Al-Amin Hossain, scored 0 runs. Team score: 3/1
+1.5: Jatinder Singh faced Al-Amin Hossain, scored 0 runs. Team score: 3/1
+1.6: Jatinder Singh faced Al-Amin Hossain, scored 4 runs. Team score: 7/1
+2.1: Khawar Ali faced Taskin Ahmed, scored 6 runs. Team score: 13/1
+2.2: Khawar Ali faced Taskin Ahmed, scored 0 runs. Team score: 13/1
+2.3: Khawar Ali faced Taskin Ahmed, scored 0 runs. Team score: 13/1
+2.4: Khawar Ali faced Taskin Ahmed, scored 0 runs. Team score: 13/1
+2.5: Khawar Ali faced Taskin Ahmed, scored 1 runs. Team score: 14/1
+2.6: Jatinder Singh faced Taskin Ahmed, scored 0 runs. Team score: 14/1
+3.1: Khawar Ali faced Al-Amin Hossain, scored 0 runs. Team score: 14/1
+3.2: Khawar Ali faced Al-Amin Hossain, scored 0 runs. Team score: 14/1
+caught!, Batsman: Khawar Ali (9 runs from 14 balls), Bowler: Al-Amin Hossain (figures: 1/5). Fielders involved: Mashrafe Mortaza. Team score: 14/2
+3.3: Jatinder Singh faced Al-Amin Hossain, scored 1 runs. Team score: 15/2
+3.4: Adnan Ilyas faced Al-Amin Hossain, scored 0 runs. Team score: 15/2
+3.5: Adnan Ilyas faced Al-Amin Hossain, scored 4 runs. Team score: 19/2
+3.6: Adnan Ilyas faced Al-Amin Hossain, scored 0 runs. Team score: 19/2
+4.1: Jatinder Singh faced Abu Hider, scored 0 runs. Team score: 19/2
+4.2: Jatinder Singh faced Abu Hider, scored 4 runs. Team score: 23/2
+4.3: Jatinder Singh faced Abu Hider, scored 0 runs. Team score: 23/2
+4.4: Jatinder Singh faced Abu Hider, scored 1 runs. Team score: 24/2
+4.5: Adnan Ilyas faced Abu Hider, scored 4 runs. Team score: 28/2
+4.6: Adnan Ilyas faced Abu Hider, scored 0 runs. Team score: 28/2
+5.1: Jatinder Singh faced Shakib Al Hasan, scored 1 runs. Team score: 29/2
+5.2: Adnan Ilyas faced Shakib Al Hasan, scored 0 runs. Team score: 29/2
+5.3: Adnan Ilyas faced Shakib Al Hasan, scored 1 runs. Team score: 30/2
+5.4: Jatinder Singh faced Shakib Al Hasan, scored 0 runs. Team score: 30/2
+5.5: Jatinder Singh faced Shakib Al Hasan, scored 4 runs. Team score: 34/2
+5.6: Jatinder Singh faced Shakib Al Hasan, scored 1 runs. Team score: 35/2
+6.1: Jatinder Singh faced Abu Hider, scored 1 runs. Team score: 36/2
+6.2: Adnan Ilyas faced Abu Hider, scored 1 runs. Team score: 37/2
+6.3: Adnan Ilyas faced Abu Hider, scored 0 runs. Team score: 37/2
+6.4: Adnan Ilyas faced Abu Hider, scored 1 runs. Team score: 38/2
+6.5: Jatinder Singh faced Abu Hider, scored 1 runs. Team score: 39/2
+6.6: Adnan Ilyas faced Abu Hider, scored 1 runs. Team score: 40/2
+6.0: Jatinder Singh faced Abu Hider, scored 1 runs. Team score: 41/2
+7.1: Jatinder Singh faced Mashrafe Mortaza, scored 1 runs. Team score: 42/2
+7.2: Adnan Ilyas faced Mashrafe Mortaza, scored 0 runs. Team score: 42/2
+7.3: Adnan Ilyas faced Mashrafe Mortaza, scored 2 runs. Team score: 44/2
+7.4: Adnan Ilyas faced Mashrafe Mortaza, scored 0 runs. Team score: 44/2
+run out!, Batsman: Adnan Ilyas (14 runs from 14 balls), Bowler: Mashrafe Mortaza (figures: 1/3). Fielders involved: Soumya Sarkar. Team score: 44/3
+7.5: Aamir Kaleem faced Mashrafe Mortaza, scored 0 runs. Team score: 44/3
+7.6: Aamir Kaleem faced Mashrafe Mortaza, scored 0 runs. Team score: 44/3
+8.1: Jatinder Singh faced Shakib Al Hasan, scored 1 runs. Team score: 45/3
+8.2: Aamir Kaleem faced Shakib Al Hasan, scored 0 runs. Team score: 45/3
+caught!, Batsman: Aamir Kaleem (0 runs from 3 balls), Bowler: Shakib Al Hasan (figures: 1/8). Fielders involved: Mushfiqur Rahim. Team score: 45/4
+8.3: Amir Ali faced Shakib Al Hasan, scored 0 runs. Team score: 45/4
+8.4: Amir Ali faced Shakib Al Hasan, scored 1 runs. Team score: 46/4
+8.5: Amir Ali faced Shakib Al Hasan, scored 4 runs. Team score: 50/4
+8.6: Amir Ali faced Shakib Al Hasan, scored 0 runs. Team score: 50/4
+stumped!, Batsman: Amir Ali (5 runs from 4 balls), Bowler: Shakib Al Hasan (figures: 2/13). Fielders involved: Mushfiqur Rahim. Team score: 50/5
+8.0: Mehran Khan faced Shakib Al Hasan, scored 1 runs. Team score: 51/5
+9.1: Mehran Khan faced Mashrafe Mortaza, scored 1 runs. Team score: 52/5
+9.2: Jatinder Singh faced Mashrafe Mortaza, scored 4 runs. Team score: 56/5
+9.3: Jatinder Singh faced Mashrafe Mortaza, scored 0 runs. Team score: 56/5
+caught!, Batsman: Jatinder Singh (25 runs from 20 balls), Bowler: Mashrafe Mortaza (figures: 2/8). Fielders involved: Mohammad Mithun. Team score: 56/6
+9.4: Mehran Khan faced Mashrafe Mortaza, scored 1 runs. Team score: 57/6
+9.5: Sultan Ahmed faced Mashrafe Mortaza, scored 1 runs. Team score: 58/6
+9.6: Mehran Khan faced Mashrafe Mortaza, scored 1 runs. Team score: 59/6
+10.1: Mehran Khan faced Shakib Al Hasan, scored 0 runs. Team score: 59/6
+caught!, Batsman: Mehran Khan (4 runs from 5 balls), Bowler: Shakib Al Hasan (figures: 3/14). Fielders involved: Sabbir Rahman. Team score: 59/7
+10.2: Sultan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 59/7
+10.3: Sultan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 59/7
+caught!, Batsman: Sultan Ahmed (1 runs from 3 balls), Bowler: Shakib Al Hasan (figures: 4/14). Fielders involved: Mahmudullah. Team score: 59/8
+10.4: M Ansari faced Shakib Al Hasan, scored 1 runs. Team score: 60/8
+10.5: AV Lalcheta faced Shakib Al Hasan, scored 0 runs. Team score: 60/8
+10.6: AV Lalcheta faced Shakib Al Hasan, scored 0 runs. Team score: 60/8
+11.1: M Ansari faced Sabbir Rahman, scored 1 runs. Team score: 61/8
+11.2: M Ansari faced Sabbir Rahman, scored 1 runs. Team score: 62/8
+11.3: AV Lalcheta faced Sabbir Rahman, scored 0 runs. Team score: 62/8
+11.4: AV Lalcheta faced Sabbir Rahman, scored 1 runs. Team score: 63/8
+11.5: M Ansari faced Sabbir Rahman, scored 1 runs. Team score: 64/8
+11.6: AV Lalcheta faced Sabbir Rahman, scored 0 runs. Team score: 64/8
+caught!, Batsman: AV Lalcheta (1 runs from 5 balls), Bowler: Sabbir Rahman (figures: 1/4). Fielders involved: Mohammad Mithun. Team score: 64/9
+11.0: Bilal Khan faced Sabbir Rahman, scored 1 runs. Team score: 65/9
+End of innings for Oman: 65/9 in 12.0 overs
+Batsman scores:
+Zeeshan Maqsood: 1 runs from 3 balls
+Khawar Ali: 9 runs from 14 balls
+Jatinder Singh: 25 runs from 20 balls
+Adnan Ilyas: 14 runs from 14 balls
+Aamir Kaleem: 0 runs from 3 balls
+Amir Ali: 5 runs from 4 balls
+Mehran Khan: 4 runs from 5 balls
+Sultan Ahmed: 1 runs from 3 balls
+M Ansari: 4 runs from 4 balls
+AV Lalcheta: 1 runs from 5 balls
+Bilal Khan: 1 runs from 1 balls
+Bowler figures:
+Taskin Ahmed: 1 wickets for 9 runs
+Al-Amin Hossain: 1 wickets for 10 runs
+Abu Hider: 0 wickets for 15 runs
+Shakib Al Hasan: 4 wickets for 15 runs
+Mashrafe Mortaza: 2 wickets for 11 runs
+Sabbir Rahman: 1 wickets for 5 runs
+

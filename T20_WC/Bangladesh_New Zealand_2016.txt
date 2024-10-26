@@ -1,0 +1,285 @@
+Match: World T20 - T20
+Date: 2016-03-26
+Venue: Eden Gardens, Kolkata
+Teams: Bangladesh vs New Zealand
+Toss: New Zealand won the toss and decided to bat
+Result: New Zealand won by 75 runs
+Man of the Match: KS Williamson
+
+Innings 1:
+0.1: HM Nicholls faced Mashrafe Mortaza, scored 0 runs. Team score: 0/0
+0.2: HM Nicholls faced Mashrafe Mortaza, scored 1 runs. Team score: 1/0
+0.3: KS Williamson faced Mashrafe Mortaza, scored 0 runs. Team score: 1/0
+0.4: KS Williamson faced Mashrafe Mortaza, scored 0 runs. Team score: 1/0
+0.5: KS Williamson faced Mashrafe Mortaza, scored 4 runs. Team score: 5/0
+0.6: KS Williamson faced Mashrafe Mortaza, scored 4 runs. Team score: 9/0
+1.1: HM Nicholls faced Shuvagata Hom, scored 0 runs. Team score: 9/0
+1.2: HM Nicholls faced Shuvagata Hom, scored 0 runs. Team score: 9/0
+1.3: HM Nicholls faced Shuvagata Hom, scored 4 runs. Team score: 13/0
+1.4: HM Nicholls faced Shuvagata Hom, scored 0 runs. Team score: 13/0
+1.5: HM Nicholls faced Shuvagata Hom, scored 1 runs. Team score: 14/0
+1.6: KS Williamson faced Shuvagata Hom, scored 1 runs. Team score: 15/0
+2.1: KS Williamson faced Shakib Al Hasan, scored 4 runs. Team score: 19/0
+2.2: KS Williamson faced Shakib Al Hasan, scored 0 runs. Team score: 19/0
+2.3: KS Williamson faced Shakib Al Hasan, scored 2 runs. Team score: 21/0
+2.4: KS Williamson faced Shakib Al Hasan, scored 0 runs. Team score: 21/0
+2.5: KS Williamson faced Shakib Al Hasan, scored 2 runs. Team score: 23/0
+2.6: KS Williamson faced Shakib Al Hasan, scored 0 runs. Team score: 23/0
+3.1: HM Nicholls faced Mustafizur Rahman, scored 0 runs. Team score: 23/0
+3.2: HM Nicholls faced Mustafizur Rahman, scored 0 runs. Team score: 23/0
+3.3: HM Nicholls faced Mustafizur Rahman, scored 1 runs. Team score: 24/0
+3.4: KS Williamson faced Mustafizur Rahman, scored 0 runs. Team score: 24/0
+3.5: KS Williamson faced Mustafizur Rahman, scored 1 runs. Team score: 25/0
+3.6: HM Nicholls faced Mustafizur Rahman, scored 0 runs. Team score: 25/0
+bowled!, Batsman: HM Nicholls (7 runs from 11 balls), Bowler: Mustafizur Rahman (figures: 1/2). Fielders involved: None. Team score: 25/1
+4.1: KS Williamson faced Shakib Al Hasan, scored 0 runs. Team score: 25/1
+4.2: KS Williamson faced Shakib Al Hasan, scored 4 runs. Team score: 29/1
+4.3: KS Williamson faced Shakib Al Hasan, scored 0 runs. Team score: 29/1
+4.4: KS Williamson faced Shakib Al Hasan, scored 0 runs. Team score: 29/1
+4.5: KS Williamson faced Shakib Al Hasan, scored 6 runs. Team score: 35/1
+4.6: KS Williamson faced Shakib Al Hasan, scored 0 runs. Team score: 35/1
+5.1: C Munro faced Al-Amin Hossain, scored 0 runs. Team score: 35/1
+5.2: C Munro faced Al-Amin Hossain, scored 0 runs. Team score: 35/1
+5.3: C Munro faced Al-Amin Hossain, scored 0 runs. Team score: 35/1
+5.4: C Munro faced Al-Amin Hossain, scored 1 runs. Team score: 36/1
+5.5: KS Williamson faced Al-Amin Hossain, scored 1 runs. Team score: 37/1
+5.6: C Munro faced Al-Amin Hossain, scored 2 runs. Team score: 39/1
+6.1: KS Williamson faced Shuvagata Hom, scored 0 runs. Team score: 39/1
+6.2: KS Williamson faced Shuvagata Hom, scored 1 runs. Team score: 40/1
+6.3: C Munro faced Shuvagata Hom, scored 1 runs. Team score: 41/1
+6.4: KS Williamson faced Shuvagata Hom, scored 1 runs. Team score: 42/1
+6.5: C Munro faced Shuvagata Hom, scored 1 runs. Team score: 43/1
+6.6: KS Williamson faced Shuvagata Hom, scored 1 runs. Team score: 44/1
+7.1: KS Williamson faced Mahmudullah, scored 1 runs. Team score: 45/1
+7.2: C Munro faced Mahmudullah, scored 1 runs. Team score: 46/1
+7.3: KS Williamson faced Mahmudullah, scored 1 runs. Team score: 47/1
+7.4: C Munro faced Mahmudullah, scored 1 runs. Team score: 48/1
+7.5: KS Williamson faced Mahmudullah, scored 2 runs. Team score: 50/1
+7.6: KS Williamson faced Mahmudullah, scored 2 runs. Team score: 52/1
+8.1: C Munro faced Mustafizur Rahman, scored 0 runs. Team score: 52/1
+8.2: C Munro faced Mustafizur Rahman, scored 1 runs. Team score: 53/1
+8.3: KS Williamson faced Mustafizur Rahman, scored 4 runs. Team score: 57/1
+8.4: KS Williamson faced Mustafizur Rahman, scored 0 runs. Team score: 57/1
+8.5: KS Williamson faced Mustafizur Rahman, scored 0 runs. Team score: 57/1
+8.6: KS Williamson faced Mustafizur Rahman, scored 0 runs. Team score: 57/1
+bowled!, Batsman: KS Williamson (42 runs from 32 balls), Bowler: Mustafizur Rahman (figures: 2/7). Fielders involved: None. Team score: 57/2
+9.1: C Munro faced Shakib Al Hasan, scored 0 runs. Team score: 57/2
+9.2: C Munro faced Shakib Al Hasan, scored 0 runs. Team score: 57/2
+9.3: C Munro faced Shakib Al Hasan, scored 0 runs. Team score: 57/2
+9.4: C Munro faced Shakib Al Hasan, scored 0 runs. Team score: 57/2
+9.5: C Munro faced Shakib Al Hasan, scored 1 runs. Team score: 58/2
+9.6: LRPL Taylor faced Shakib Al Hasan, scored 1 runs. Team score: 59/2
+10.1: LRPL Taylor faced Mashrafe Mortaza, scored 1 runs. Team score: 60/2
+10.2: C Munro faced Mashrafe Mortaza, scored 1 runs. Team score: 61/2
+10.3: LRPL Taylor faced Mashrafe Mortaza, scored 1 runs. Team score: 62/2
+10.4: C Munro faced Mashrafe Mortaza, scored 1 runs. Team score: 63/2
+10.5: LRPL Taylor faced Mashrafe Mortaza, scored 1 runs. Team score: 64/2
+10.6: C Munro faced Mashrafe Mortaza, scored 1 runs. Team score: 65/2
+11.1: C Munro faced Shuvagata Hom, scored 1 runs. Team score: 66/2
+11.2: LRPL Taylor faced Shuvagata Hom, scored 1 runs. Team score: 67/2
+11.3: C Munro faced Shuvagata Hom, scored 1 runs. Team score: 68/2
+11.4: LRPL Taylor faced Shuvagata Hom, scored 0 runs. Team score: 68/2
+11.5: LRPL Taylor faced Shuvagata Hom, scored 1 runs. Team score: 69/2
+11.6: C Munro faced Shuvagata Hom, scored 1 runs. Team score: 70/2
+12.1: C Munro faced Al-Amin Hossain, scored 1 runs. Team score: 71/2
+12.2: LRPL Taylor faced Al-Amin Hossain, scored 1 runs. Team score: 72/2
+12.3: C Munro faced Al-Amin Hossain, scored 1 runs. Team score: 73/2
+12.4: LRPL Taylor faced Al-Amin Hossain, scored 1 runs. Team score: 74/2
+12.5: LRPL Taylor faced Al-Amin Hossain, scored 0 runs. Team score: 74/2
+12.6: LRPL Taylor faced Al-Amin Hossain, scored 0 runs. Team score: 74/2
+12.0: LRPL Taylor faced Al-Amin Hossain, scored 4 runs. Team score: 78/2
+13.1: C Munro faced Mahmudullah, scored 4 runs. Team score: 82/2
+13.2: C Munro faced Mahmudullah, scored 1 runs. Team score: 83/2
+13.3: LRPL Taylor faced Mahmudullah, scored 1 runs. Team score: 84/2
+13.4: C Munro faced Mahmudullah, scored 0 runs. Team score: 84/2
+13.5: C Munro faced Mahmudullah, scored 6 runs. Team score: 90/2
+13.6: C Munro faced Mahmudullah, scored 1 runs. Team score: 91/2
+14.1: C Munro faced Al-Amin Hossain, scored 0 runs. Team score: 91/2
+14.2: C Munro faced Al-Amin Hossain, scored 6 runs. Team score: 97/2
+14.3: C Munro faced Al-Amin Hossain, scored 1 runs. Team score: 98/2
+14.4: LRPL Taylor faced Al-Amin Hossain, scored 1 runs. Team score: 99/2
+14.5: C Munro faced Al-Amin Hossain, scored 0 runs. Team score: 99/2
+bowled!, Batsman: C Munro (36 runs from 33 balls), Bowler: Al-Amin Hossain (figures: 1/20). Fielders involved: None. Team score: 99/3
+14.6: CJ Anderson faced Al-Amin Hossain, scored 0 runs. Team score: 99/3
+15.1: LRPL Taylor faced Mashrafe Mortaza, scored 0 runs. Team score: 99/3
+15.2: LRPL Taylor faced Mashrafe Mortaza, scored 1 runs. Team score: 100/3
+15.3: CJ Anderson faced Mashrafe Mortaza, scored 0 runs. Team score: 100/3
+15.4: CJ Anderson faced Mashrafe Mortaza, scored 0 runs. Team score: 100/3
+bowled!, Batsman: CJ Anderson (0 runs from 3 balls), Bowler: Mashrafe Mortaza (figures: 1/16). Fielders involved: None. Team score: 100/4
+15.5: GD Elliott faced Mashrafe Mortaza, scored 1 runs. Team score: 101/4
+15.6: LRPL Taylor faced Mashrafe Mortaza, scored 4 runs. Team score: 105/4
+16.1: GD Elliott faced Shakib Al Hasan, scored 1 runs. Team score: 106/4
+16.2: LRPL Taylor faced Shakib Al Hasan, scored 6 runs. Team score: 112/4
+16.3: LRPL Taylor faced Shakib Al Hasan, scored 1 runs. Team score: 113/4
+16.4: GD Elliott faced Shakib Al Hasan, scored 4 runs. Team score: 117/4
+16.5: GD Elliott faced Shakib Al Hasan, scored 1 runs. Team score: 118/4
+16.6: LRPL Taylor faced Shakib Al Hasan, scored 0 runs. Team score: 118/4
+17.1: GD Elliott faced Mustafizur Rahman, scored 1 runs. Team score: 119/4
+17.2: LRPL Taylor faced Mustafizur Rahman, scored 1 runs. Team score: 120/4
+17.3: GD Elliott faced Mustafizur Rahman, scored 1 runs. Team score: 121/4
+17.4: LRPL Taylor faced Mustafizur Rahman, scored 1 runs. Team score: 122/4
+17.5: GD Elliott faced Mustafizur Rahman, scored 0 runs. Team score: 122/4
+caught!, Batsman: GD Elliott (9 runs from 7 balls), Bowler: Mustafizur Rahman (figures: 3/11). Fielders involved: Shuvagata Hom. Team score: 122/5
+17.6: LRPL Taylor faced Mustafizur Rahman, scored 1 runs. Team score: 123/5
+18.1: LRPL Taylor faced Al-Amin Hossain, scored 4 runs. Team score: 127/5
+18.2: LRPL Taylor faced Al-Amin Hossain, scored 0 runs. Team score: 127/5
+caught!, Batsman: LRPL Taylor (33 runs from 25 balls), Bowler: Al-Amin Hossain (figures: 2/24). Fielders involved: Mohammad Mithun. Team score: 127/6
+18.3: L Ronchi faced Al-Amin Hossain, scored 0 runs. Team score: 127/6
+18.4: L Ronchi faced Al-Amin Hossain, scored 4 runs. Team score: 131/6
+18.5: L Ronchi faced Al-Amin Hossain, scored 2 runs. Team score: 133/6
+18.6: L Ronchi faced Al-Amin Hossain, scored 2 runs. Team score: 135/6
+19.1: MJ Santner faced Mustafizur Rahman, scored 1 runs. Team score: 136/6
+19.2: L Ronchi faced Mustafizur Rahman, scored 1 runs. Team score: 137/6
+19.3: MJ Santner faced Mustafizur Rahman, scored 2 runs. Team score: 139/6
+19.4: MJ Santner faced Mustafizur Rahman, scored 0 runs. Team score: 139/6
+bowled!, Batsman: MJ Santner (3 runs from 3 balls), Bowler: Mustafizur Rahman (figures: 4/16). Fielders involved: None. Team score: 139/7
+19.5: NL McCullum faced Mustafizur Rahman, scored 0 runs. Team score: 139/7
+bowled!, Batsman: NL McCullum (0 runs from 1 balls), Bowler: Mustafizur Rahman (figures: 5/16). Fielders involved: None. Team score: 139/8
+19.6: MJ McClenaghan faced Mustafizur Rahman, scored 6 runs. Team score: 145/8
+End of innings for New Zealand: 145/8 in 20.0 overs
+Batsman scores:
+HM Nicholls: 7 runs from 11 balls
+KS Williamson: 42 runs from 32 balls
+C Munro: 36 runs from 33 balls
+LRPL Taylor: 33 runs from 25 balls
+CJ Anderson: 0 runs from 3 balls
+GD Elliott: 9 runs from 7 balls
+L Ronchi: 9 runs from 5 balls
+MJ Santner: 3 runs from 3 balls
+NL McCullum: 0 runs from 1 balls
+MJ McClenaghan: 6 runs from 1 balls
+Bowler figures:
+Mashrafe Mortaza: 1 wickets for 21 runs
+Shuvagata Hom: 0 wickets for 16 runs
+Shakib Al Hasan: 0 wickets for 33 runs
+Mustafizur Rahman: 5 wickets for 22 runs
+Al-Amin Hossain: 2 wickets for 32 runs
+Mahmudullah: 0 wickets for 21 runs
+
+Innings 2:
+0.1: Tamim Iqbal faced NL McCullum, scored 0 runs. Team score: 0/0
+0.2: Tamim Iqbal faced NL McCullum, scored 0 runs. Team score: 0/0
+0.3: Tamim Iqbal faced NL McCullum, scored 0 runs. Team score: 0/0
+0.4: Tamim Iqbal faced NL McCullum, scored 0 runs. Team score: 0/0
+0.5: Tamim Iqbal faced NL McCullum, scored 0 runs. Team score: 0/0
+0.6: Tamim Iqbal faced NL McCullum, scored 2 runs. Team score: 2/0
+1.1: Mohammad Mithun faced CJ Anderson, scored 0 runs. Team score: 2/0
+1.2: Mohammad Mithun faced CJ Anderson, scored 0 runs. Team score: 2/0
+1.3: Mohammad Mithun faced CJ Anderson, scored 1 runs. Team score: 3/0
+1.4: Tamim Iqbal faced CJ Anderson, scored 0 runs. Team score: 3/0
+1.5: Tamim Iqbal faced CJ Anderson, scored 1 runs. Team score: 4/0
+1.6: Mohammad Mithun faced CJ Anderson, scored 0 runs. Team score: 4/0
+run out!, Batsman: Tamim Iqbal (3 runs from 8 balls), Bowler: CJ Anderson (figures: 1/2). Fielders involved: C Munro. Team score: 4/1
+2.1: Mohammad Mithun faced MJ Santner, scored 0 runs. Team score: 4/1
+2.2: Mohammad Mithun faced MJ Santner, scored 0 runs. Team score: 4/1
+2.3: Mohammad Mithun faced MJ Santner, scored 0 runs. Team score: 4/1
+2.4: Mohammad Mithun faced MJ Santner, scored 2 runs. Team score: 6/1
+2.5: Mohammad Mithun faced MJ Santner, scored 1 runs. Team score: 7/1
+2.6: Sabbir Rahman faced MJ Santner, scored 0 runs. Team score: 7/1
+3.1: Mohammad Mithun faced CJ Anderson, scored 1 runs. Team score: 8/1
+3.2: Sabbir Rahman faced CJ Anderson, scored 2 runs. Team score: 10/1
+3.3: Sabbir Rahman faced CJ Anderson, scored 1 runs. Team score: 11/1
+3.4: Mohammad Mithun faced CJ Anderson, scored 0 runs. Team score: 11/1
+3.5: Mohammad Mithun faced CJ Anderson, scored 1 runs. Team score: 12/1
+3.6: Sabbir Rahman faced CJ Anderson, scored 1 runs. Team score: 13/1
+4.1: Sabbir Rahman faced MJ Santner, scored 0 runs. Team score: 13/1
+4.2: Sabbir Rahman faced MJ Santner, scored 4 runs. Team score: 17/1
+4.3: Sabbir Rahman faced MJ Santner, scored 1 runs. Team score: 18/1
+4.4: Mohammad Mithun faced MJ Santner, scored 4 runs. Team score: 22/1
+4.5: Mohammad Mithun faced MJ Santner, scored 1 runs. Team score: 23/1
+4.6: Sabbir Rahman faced MJ Santner, scored 4 runs. Team score: 27/1
+5.1: Mohammad Mithun faced MJ McClenaghan, scored 0 runs. Team score: 27/1
+5.2: Mohammad Mithun faced MJ McClenaghan, scored 1 runs. Team score: 28/1
+5.3: Sabbir Rahman faced MJ McClenaghan, scored 1 runs. Team score: 29/1
+5.4: Mohammad Mithun faced MJ McClenaghan, scored 0 runs. Team score: 29/1
+bowled!, Batsman: Mohammad Mithun (12 runs from 17 balls), Bowler: MJ McClenaghan (figures: 1/2). Fielders involved: None. Team score: 29/2
+5.5: Shakib Al Hasan faced MJ McClenaghan, scored 1 runs. Team score: 30/2
+5.6: Sabbir Rahman faced MJ McClenaghan, scored 0 runs. Team score: 30/2
+6.1: Shakib Al Hasan faced GD Elliott, scored 0 runs. Team score: 30/2
+6.2: Shakib Al Hasan faced GD Elliott, scored 0 runs. Team score: 30/2
+6.3: Shakib Al Hasan faced GD Elliott, scored 0 runs. Team score: 30/2
+6.4: Shakib Al Hasan faced GD Elliott, scored 1 runs. Team score: 31/2
+6.5: Sabbir Rahman faced GD Elliott, scored 0 runs. Team score: 31/2
+6.6: Sabbir Rahman faced GD Elliott, scored 0 runs. Team score: 31/2
+7.1: Shakib Al Hasan faced MJ Santner, scored 0 runs. Team score: 31/2
+caught!, Batsman: Shakib Al Hasan (2 runs from 6 balls), Bowler: MJ Santner (figures: 1/17). Fielders involved: NL McCullum. Team score: 31/3
+7.2: Soumya Sarkar faced MJ Santner, scored 1 runs. Team score: 32/3
+7.3: Sabbir Rahman faced MJ Santner, scored 1 runs. Team score: 33/3
+7.4: Soumya Sarkar faced MJ Santner, scored 1 runs. Team score: 34/3
+7.5: Sabbir Rahman faced MJ Santner, scored 0 runs. Team score: 34/3
+7.6: Sabbir Rahman faced MJ Santner, scored 0 runs. Team score: 34/3
+8.1: Soumya Sarkar faced NL McCullum, scored 1 runs. Team score: 35/3
+8.2: Sabbir Rahman faced NL McCullum, scored 1 runs. Team score: 36/3
+8.3: Soumya Sarkar faced NL McCullum, scored 1 runs. Team score: 37/3
+8.4: Soumya Sarkar faced NL McCullum, scored 1 runs. Team score: 38/3
+8.5: Sabbir Rahman faced NL McCullum, scored 0 runs. Team score: 38/3
+8.6: Sabbir Rahman faced NL McCullum, scored 0 runs. Team score: 38/3
+caught!, Batsman: Sabbir Rahman (16 runs from 18 balls), Bowler: NL McCullum (figures: 1/6). Fielders involved: MJ Santner. Team score: 38/4
+8.0: Soumya Sarkar faced NL McCullum, scored 0 runs. Team score: 38/4
+9.1: Mahmudullah faced IS Sodhi, scored 1 runs. Team score: 39/4
+9.2: Soumya Sarkar faced IS Sodhi, scored 1 runs. Team score: 40/4
+9.3: Mahmudullah faced IS Sodhi, scored 1 runs. Team score: 41/4
+9.4: Soumya Sarkar faced IS Sodhi, scored 1 runs. Team score: 42/4
+9.5: Mahmudullah faced IS Sodhi, scored 1 runs. Team score: 43/4
+9.6: Soumya Sarkar faced IS Sodhi, scored 0 runs. Team score: 43/4
+stumped!, Batsman: Soumya Sarkar (7 runs from 9 balls), Bowler: IS Sodhi (figures: 1/5). Fielders involved: L Ronchi. Team score: 43/5
+10.1: Mahmudullah faced GD Elliott, scored 0 runs. Team score: 43/5
+10.2: Mahmudullah faced GD Elliott, scored 1 runs. Team score: 44/5
+10.3: Mushfiqur Rahim faced GD Elliott, scored 0 runs. Team score: 44/5
+10.4: Mushfiqur Rahim faced GD Elliott, scored 0 runs. Team score: 44/5
+bowled!, Batsman: Mushfiqur Rahim (0 runs from 2 balls), Bowler: GD Elliott (figures: 1/2). Fielders involved: None. Team score: 44/6
+10.5: Shuvagata Hom faced GD Elliott, scored 0 runs. Team score: 44/6
+10.6: Shuvagata Hom faced GD Elliott, scored 1 runs. Team score: 45/6
+11.1: Shuvagata Hom faced IS Sodhi, scored 0 runs. Team score: 45/6
+11.2: Shuvagata Hom faced IS Sodhi, scored 1 runs. Team score: 46/6
+11.3: Mahmudullah faced IS Sodhi, scored 0 runs. Team score: 46/6
+11.4: Mahmudullah faced IS Sodhi, scored 1 runs. Team score: 47/6
+11.5: Shuvagata Hom faced IS Sodhi, scored 1 runs. Team score: 48/6
+11.6: Mahmudullah faced IS Sodhi, scored 0 runs. Team score: 48/6
+bowled!, Batsman: Mahmudullah (5 runs from 8 balls), Bowler: IS Sodhi (figures: 2/8). Fielders involved: None. Team score: 48/7
+12.1: Shuvagata Hom faced GD Elliott, scored 0 runs. Team score: 48/7
+12.2: Shuvagata Hom faced GD Elliott, scored 1 runs. Team score: 49/7
+12.3: Mashrafe Mortaza faced GD Elliott, scored 1 runs. Team score: 50/7
+12.4: Shuvagata Hom faced GD Elliott, scored 0 runs. Team score: 50/7
+12.5: Shuvagata Hom faced GD Elliott, scored 0 runs. Team score: 50/7
+12.6: Shuvagata Hom faced GD Elliott, scored 0 runs. Team score: 50/7
+13.1: Mashrafe Mortaza faced IS Sodhi, scored 1 runs. Team score: 51/7
+13.2: Shuvagata Hom faced IS Sodhi, scored 1 runs. Team score: 52/7
+13.3: Mashrafe Mortaza faced IS Sodhi, scored 0 runs. Team score: 52/7
+13.4: Mashrafe Mortaza faced IS Sodhi, scored 1 runs. Team score: 53/7
+13.5: Shuvagata Hom faced IS Sodhi, scored 4 runs. Team score: 57/7
+13.6: Shuvagata Hom faced IS Sodhi, scored 1 runs. Team score: 58/7
+14.1: Shuvagata Hom faced GD Elliott, scored 1 runs. Team score: 59/7
+14.2: Mashrafe Mortaza faced GD Elliott, scored 0 runs. Team score: 59/7
+lbw!, Batsman: Mashrafe Mortaza (3 runs from 5 balls), Bowler: GD Elliott (figures: 2/6). Fielders involved: None. Team score: 59/8
+14.3: Mustafizur Rahman faced GD Elliott, scored 0 runs. Team score: 59/8
+14.4: Mustafizur Rahman faced GD Elliott, scored 6 runs. Team score: 65/8
+14.5: Mustafizur Rahman faced GD Elliott, scored 0 runs. Team score: 65/8
+caught!, Batsman: Mustafizur Rahman (6 runs from 3 balls), Bowler: GD Elliott (figures: 3/12). Fielders involved: L Ronchi. Team score: 65/9
+14.6: Al-Amin Hossain faced GD Elliott, scored 0 runs. Team score: 65/9
+15.1: Shuvagata Hom faced IS Sodhi, scored 0 runs. Team score: 65/9
+15.2: Shuvagata Hom faced IS Sodhi, scored 4 runs. Team score: 69/9
+15.3: Shuvagata Hom faced IS Sodhi, scored 1 runs. Team score: 70/9
+15.4: Al-Amin Hossain faced IS Sodhi, scored 0 runs. Team score: 70/9
+bowled!, Batsman: Al-Amin Hossain (0 runs from 2 balls), Bowler: IS Sodhi (figures: 3/21). Fielders involved: None. Team score: 70/10
+End of innings for Bangladesh: 70/10 in 16.4 overs
+Batsman scores:
+Tamim Iqbal: 3 runs from 8 balls
+Mohammad Mithun: 12 runs from 17 balls
+Sabbir Rahman: 16 runs from 18 balls
+Shakib Al Hasan: 2 runs from 6 balls
+Soumya Sarkar: 7 runs from 9 balls
+Mahmudullah: 5 runs from 8 balls
+Mushfiqur Rahim: 0 runs from 2 balls
+Shuvagata Hom: 16 runs from 17 balls
+Mashrafe Mortaza: 3 runs from 5 balls
+Mustafizur Rahman: 6 runs from 3 balls
+Al-Amin Hossain: 0 runs from 2 balls
+Bowler figures:
+NL McCullum: 1 wickets for 6 runs
+CJ Anderson: 1 wickets for 8 runs
+MJ Santner: 1 wickets for 20 runs
+MJ McClenaghan: 1 wickets for 3 runs
+GD Elliott: 3 wickets for 12 runs
+IS Sodhi: 3 wickets for 21 runs
+

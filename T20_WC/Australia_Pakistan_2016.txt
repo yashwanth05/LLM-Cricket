@@ -1,0 +1,302 @@
+Match: World T20 - T20
+Date: 2016-03-25
+Venue: Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh
+Teams: Australia vs Pakistan
+Toss: Australia won the toss and decided to bat
+Result: Australia won by 21 runs
+Man of the Match: JP Faulkner
+
+Innings 1:
+0.1: UT Khawaja faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.2: UT Khawaja faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.3: UT Khawaja faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.4: UT Khawaja faced Mohammad Amir, scored 4 runs. Team score: 4/0
+0.5: UT Khawaja faced Mohammad Amir, scored 1 runs. Team score: 5/0
+0.6: AJ Finch faced Mohammad Amir, scored 0 runs. Team score: 5/0
+1.1: UT Khawaja faced Mohammad Sami, scored 4 runs. Team score: 9/0
+1.2: UT Khawaja faced Mohammad Sami, scored 0 runs. Team score: 9/0
+1.3: UT Khawaja faced Mohammad Sami, scored 1 runs. Team score: 10/0
+1.4: UT Khawaja faced Mohammad Sami, scored 0 runs. Team score: 10/0
+1.5: UT Khawaja faced Mohammad Sami, scored 1 runs. Team score: 11/0
+1.6: AJ Finch faced Mohammad Sami, scored 1 runs. Team score: 12/0
+1.0: UT Khawaja faced Mohammad Sami, scored 4 runs. Team score: 16/0
+2.1: AJ Finch faced Mohammad Amir, scored 1 runs. Team score: 17/0
+2.2: UT Khawaja faced Mohammad Amir, scored 0 runs. Team score: 17/0
+2.3: UT Khawaja faced Mohammad Amir, scored 1 runs. Team score: 18/0
+2.4: AJ Finch faced Mohammad Amir, scored 0 runs. Team score: 18/0
+2.5: AJ Finch faced Mohammad Amir, scored 3 runs. Team score: 21/0
+2.6: UT Khawaja faced Mohammad Amir, scored 0 runs. Team score: 21/0
+3.1: AJ Finch faced Wahab Riaz, scored 1 runs. Team score: 22/0
+3.2: UT Khawaja faced Wahab Riaz, scored 6 runs. Team score: 28/0
+3.3: UT Khawaja faced Wahab Riaz, scored 0 runs. Team score: 28/0
+3.4: UT Khawaja faced Wahab Riaz, scored 0 runs. Team score: 28/0
+bowled!, Batsman: UT Khawaja (22 runs from 17 balls), Bowler: Wahab Riaz (figures: 1/7). Fielders involved: None. Team score: 28/1
+3.5: DA Warner faced Wahab Riaz, scored 0 runs. Team score: 28/1
+3.6: DA Warner faced Wahab Riaz, scored 4 runs. Team score: 32/1
+4.1: AJ Finch faced Mohammad Sami, scored 4 runs. Team score: 36/1
+4.2: AJ Finch faced Mohammad Sami, scored 0 runs. Team score: 36/1
+4.3: AJ Finch faced Mohammad Sami, scored 1 runs. Team score: 37/1
+4.4: DA Warner faced Mohammad Sami, scored 4 runs. Team score: 41/1
+4.5: DA Warner faced Mohammad Sami, scored 0 runs. Team score: 41/1
+4.6: DA Warner faced Mohammad Sami, scored 1 runs. Team score: 42/1
+5.1: DA Warner faced Wahab Riaz, scored 0 runs. Team score: 42/1
+bowled!, Batsman: DA Warner (9 runs from 6 balls), Bowler: Wahab Riaz (figures: 2/11). Fielders involved: None. Team score: 42/2
+5.2: SPD Smith faced Wahab Riaz, scored 1 runs. Team score: 43/2
+5.3: AJ Finch faced Wahab Riaz, scored 1 runs. Team score: 44/2
+5.4: SPD Smith faced Wahab Riaz, scored 0 runs. Team score: 44/2
+5.5: SPD Smith faced Wahab Riaz, scored 4 runs. Team score: 48/2
+5.6: SPD Smith faced Wahab Riaz, scored 4 runs. Team score: 52/2
+6.1: AJ Finch faced Shahid Afridi, scored 1 runs. Team score: 53/2
+6.2: SPD Smith faced Shahid Afridi, scored 1 runs. Team score: 54/2
+6.3: AJ Finch faced Shahid Afridi, scored 1 runs. Team score: 55/2
+6.4: SPD Smith faced Shahid Afridi, scored 1 runs. Team score: 56/2
+6.5: AJ Finch faced Shahid Afridi, scored 0 runs. Team score: 56/2
+6.6: AJ Finch faced Shahid Afridi, scored 1 runs. Team score: 57/2
+7.1: AJ Finch faced Imad Wasim, scored 0 runs. Team score: 57/2
+7.2: AJ Finch faced Imad Wasim, scored 0 runs. Team score: 57/2
+bowled!, Batsman: AJ Finch (15 runs from 16 balls), Bowler: Imad Wasim (figures: 1/0). Fielders involved: None. Team score: 57/3
+7.3: GJ Maxwell faced Imad Wasim, scored 1 runs. Team score: 58/3
+7.4: SPD Smith faced Imad Wasim, scored 4 runs. Team score: 62/3
+7.5: SPD Smith faced Imad Wasim, scored 1 runs. Team score: 63/3
+7.6: GJ Maxwell faced Imad Wasim, scored 1 runs. Team score: 64/3
+8.1: GJ Maxwell faced Shahid Afridi, scored 0 runs. Team score: 64/3
+8.2: GJ Maxwell faced Shahid Afridi, scored 1 runs. Team score: 65/3
+8.3: SPD Smith faced Shahid Afridi, scored 1 runs. Team score: 66/3
+8.4: GJ Maxwell faced Shahid Afridi, scored 1 runs. Team score: 67/3
+8.5: SPD Smith faced Shahid Afridi, scored 2 runs. Team score: 69/3
+8.6: SPD Smith faced Shahid Afridi, scored 1 runs. Team score: 70/3
+9.1: SPD Smith faced Imad Wasim, scored 0 runs. Team score: 70/3
+9.2: SPD Smith faced Imad Wasim, scored 2 runs. Team score: 72/3
+9.3: SPD Smith faced Imad Wasim, scored 1 runs. Team score: 73/3
+9.4: GJ Maxwell faced Imad Wasim, scored 2 runs. Team score: 75/3
+9.5: GJ Maxwell faced Imad Wasim, scored 1 runs. Team score: 76/3
+9.6: SPD Smith faced Imad Wasim, scored 1 runs. Team score: 77/3
+10.1: SPD Smith faced Shahid Afridi, scored 1 runs. Team score: 78/3
+10.2: GJ Maxwell faced Shahid Afridi, scored 4 runs. Team score: 82/3
+10.3: GJ Maxwell faced Shahid Afridi, scored 1 runs. Team score: 83/3
+10.4: SPD Smith faced Shahid Afridi, scored 1 runs. Team score: 84/3
+10.5: GJ Maxwell faced Shahid Afridi, scored 2 runs. Team score: 86/3
+10.6: GJ Maxwell faced Shahid Afridi, scored 4 runs. Team score: 90/3
+11.1: SPD Smith faced Imad Wasim, scored 0 runs. Team score: 90/3
+11.2: SPD Smith faced Imad Wasim, scored 1 runs. Team score: 91/3
+11.3: GJ Maxwell faced Imad Wasim, scored 1 runs. Team score: 92/3
+11.4: SPD Smith faced Imad Wasim, scored 1 runs. Team score: 93/3
+11.5: GJ Maxwell faced Imad Wasim, scored 1 runs. Team score: 94/3
+11.6: SPD Smith faced Imad Wasim, scored 1 runs. Team score: 95/3
+12.1: SPD Smith faced Mohammad Sami, scored 1 runs. Team score: 96/3
+12.2: SPD Smith faced Mohammad Sami, scored 4 runs. Team score: 100/3
+12.3: SPD Smith faced Mohammad Sami, scored 1 runs. Team score: 101/3
+12.4: GJ Maxwell faced Mohammad Sami, scored 0 runs. Team score: 101/3
+12.5: GJ Maxwell faced Mohammad Sami, scored 1 runs. Team score: 102/3
+12.6: GJ Maxwell faced Mohammad Sami, scored 0 runs. Team score: 102/3
+12.0: GJ Maxwell faced Mohammad Sami, scored 4 runs. Team score: 106/3
+12.1: GJ Maxwell faced Mohammad Sami, scored 6 runs. Team score: 112/3
+13.1: SPD Smith faced Imad Wasim, scored 4 runs. Team score: 116/3
+13.2: SPD Smith faced Imad Wasim, scored 2 runs. Team score: 118/3
+13.3: SPD Smith faced Imad Wasim, scored 1 runs. Team score: 119/3
+13.4: GJ Maxwell faced Imad Wasim, scored 0 runs. Team score: 119/3
+caught!, Batsman: GJ Maxwell (31 runs from 19 balls), Bowler: Imad Wasim (figures: 2/26). Fielders involved: Ahmed Shehzad. Team score: 119/4
+13.5: SR Watson faced Imad Wasim, scored 1 runs. Team score: 120/4
+13.6: SPD Smith faced Imad Wasim, scored 4 runs. Team score: 124/4
+14.1: SR Watson faced Shahid Afridi, scored 0 runs. Team score: 124/4
+14.2: SR Watson faced Shahid Afridi, scored 0 runs. Team score: 124/4
+14.3: SR Watson faced Shahid Afridi, scored 1 runs. Team score: 125/4
+14.4: SPD Smith faced Shahid Afridi, scored 1 runs. Team score: 126/4
+14.5: SR Watson faced Shahid Afridi, scored 0 runs. Team score: 126/4
+14.6: SR Watson faced Shahid Afridi, scored 1 runs. Team score: 127/4
+15.1: SR Watson faced Wahab Riaz, scored 1 runs. Team score: 128/4
+15.2: SPD Smith faced Wahab Riaz, scored 0 runs. Team score: 128/4
+15.3: SPD Smith faced Wahab Riaz, scored 1 runs. Team score: 129/4
+15.4: SR Watson faced Wahab Riaz, scored 4 runs. Team score: 133/4
+15.5: SR Watson faced Wahab Riaz, scored 1 runs. Team score: 134/4
+15.6: SPD Smith faced Wahab Riaz, scored 1 runs. Team score: 135/4
+16.1: SPD Smith faced Mohammad Amir, scored 1 runs. Team score: 136/4
+16.2: SR Watson faced Mohammad Amir, scored 1 runs. Team score: 137/4
+16.3: SPD Smith faced Mohammad Amir, scored 4 runs. Team score: 141/4
+16.4: SPD Smith faced Mohammad Amir, scored 1 runs. Team score: 142/4
+16.5: SR Watson faced Mohammad Amir, scored 6 runs. Team score: 148/4
+16.6: SR Watson faced Mohammad Amir, scored 4 runs. Team score: 152/4
+17.1: SPD Smith faced Mohammad Sami, scored 2 runs. Team score: 154/4
+17.2: SPD Smith faced Mohammad Sami, scored 1 runs. Team score: 155/4
+17.3: SR Watson faced Mohammad Sami, scored 6 runs. Team score: 161/4
+17.4: SR Watson faced Mohammad Sami, scored 1 runs. Team score: 162/4
+17.5: SPD Smith faced Mohammad Sami, scored 4 runs. Team score: 166/4
+17.6: SPD Smith faced Mohammad Sami, scored 1 runs. Team score: 167/4
+18.1: SPD Smith faced Wahab Riaz, scored 1 runs. Team score: 168/4
+18.2: SR Watson faced Wahab Riaz, scored 0 runs. Team score: 168/4
+18.3: SR Watson faced Wahab Riaz, scored 4 runs. Team score: 172/4
+18.4: SR Watson faced Wahab Riaz, scored 2 runs. Team score: 174/4
+18.5: SR Watson faced Wahab Riaz, scored 1 runs. Team score: 175/4
+18.6: SPD Smith faced Wahab Riaz, scored 4 runs. Team score: 179/4
+19.1: SR Watson faced Mohammad Amir, scored 2 runs. Team score: 181/4
+19.2: SPD Smith faced Mohammad Amir, scored 0 runs. Team score: 181/4
+19.3: SPD Smith faced Mohammad Amir, scored 0 runs. Team score: 181/4
+19.4: SPD Smith faced Mohammad Amir, scored 1 runs. Team score: 182/4
+19.5: SR Watson faced Mohammad Amir, scored 4 runs. Team score: 186/4
+19.6: SR Watson faced Mohammad Amir, scored 6 runs. Team score: 192/4
+19.0: SR Watson faced Mohammad Amir, scored 1 runs. Team score: 193/4
+End of innings for Australia: 193/4 in 20.0 overs
+Batsman scores:
+UT Khawaja: 22 runs from 17 balls
+AJ Finch: 15 runs from 16 balls
+DA Warner: 9 runs from 6 balls
+SPD Smith: 69 runs from 44 balls
+GJ Maxwell: 31 runs from 19 balls
+SR Watson: 47 runs from 22 balls
+Bowler figures:
+Mohammad Amir: 0 wickets for 41 runs
+Mohammad Sami: 0 wickets for 53 runs
+Wahab Riaz: 2 wickets for 41 runs
+Shahid Afridi: 0 wickets for 27 runs
+Imad Wasim: 2 wickets for 31 runs
+
+Innings 2:
+0.1: Sharjeel Khan faced JR Hazlewood, scored 0 runs. Team score: 0/0
+0.2: Sharjeel Khan faced JR Hazlewood, scored 1 runs. Team score: 1/0
+0.3: Sharjeel Khan faced JR Hazlewood, scored 0 runs. Team score: 1/0
+0.4: Sharjeel Khan faced JR Hazlewood, scored 1 runs. Team score: 2/0
+0.5: Ahmed Shehzad faced JR Hazlewood, scored 0 runs. Team score: 2/0
+0.6: Ahmed Shehzad faced JR Hazlewood, scored 0 runs. Team score: 2/0
+0.0: Ahmed Shehzad faced JR Hazlewood, scored 0 runs. Team score: 2/0
+1.1: Sharjeel Khan faced NM Coulter-Nile, scored 0 runs. Team score: 2/0
+1.2: Sharjeel Khan faced NM Coulter-Nile, scored 4 runs. Team score: 6/0
+1.3: Sharjeel Khan faced NM Coulter-Nile, scored 0 runs. Team score: 6/0
+1.4: Sharjeel Khan faced NM Coulter-Nile, scored 4 runs. Team score: 10/0
+1.5: Sharjeel Khan faced NM Coulter-Nile, scored 4 runs. Team score: 14/0
+1.6: Sharjeel Khan faced NM Coulter-Nile, scored 0 runs. Team score: 14/0
+2.1: Ahmed Shehzad faced JR Hazlewood, scored 0 runs. Team score: 14/0
+2.2: Ahmed Shehzad faced JR Hazlewood, scored 1 runs. Team score: 15/0
+2.3: Sharjeel Khan faced JR Hazlewood, scored 4 runs. Team score: 19/0
+2.4: Sharjeel Khan faced JR Hazlewood, scored 1 runs. Team score: 20/0
+2.5: Ahmed Shehzad faced JR Hazlewood, scored 0 runs. Team score: 20/0
+caught!, Batsman: Ahmed Shehzad (1 runs from 6 balls), Bowler: JR Hazlewood (figures: 1/8). Fielders involved: NM Coulter-Nile. Team score: 20/1
+2.6: Khalid Latif faced JR Hazlewood, scored 1 runs. Team score: 21/1
+3.1: Khalid Latif faced NM Coulter-Nile, scored 1 runs. Team score: 22/1
+3.2: Sharjeel Khan faced NM Coulter-Nile, scored 2 runs. Team score: 24/1
+3.3: Sharjeel Khan faced NM Coulter-Nile, scored 4 runs. Team score: 28/1
+3.4: Sharjeel Khan faced NM Coulter-Nile, scored 0 runs. Team score: 28/1
+3.5: Sharjeel Khan faced NM Coulter-Nile, scored 0 runs. Team score: 28/1
+3.6: Sharjeel Khan faced NM Coulter-Nile, scored 2 runs. Team score: 30/1
+4.1: Khalid Latif faced JR Hazlewood, scored 0 runs. Team score: 30/1
+4.2: Khalid Latif faced JR Hazlewood, scored 0 runs. Team score: 30/1
+4.3: Khalid Latif faced JR Hazlewood, scored 4 runs. Team score: 34/1
+4.4: Khalid Latif faced JR Hazlewood, scored 2 runs. Team score: 36/1
+4.5: Khalid Latif faced JR Hazlewood, scored 0 runs. Team score: 36/1
+4.6: Khalid Latif faced JR Hazlewood, scored 0 runs. Team score: 36/1
+5.1: Sharjeel Khan faced JP Faulkner, scored 4 runs. Team score: 40/1
+5.2: Sharjeel Khan faced JP Faulkner, scored 0 runs. Team score: 40/1
+5.3: Sharjeel Khan faced JP Faulkner, scored 0 runs. Team score: 40/1
+bowled!, Batsman: Sharjeel Khan (31 runs from 20 balls), Bowler: JP Faulkner (figures: 1/4). Fielders involved: None. Team score: 40/2
+5.4: Umar Akmal faced JP Faulkner, scored 1 runs. Team score: 41/2
+5.5: Khalid Latif faced JP Faulkner, scored 0 runs. Team score: 41/2
+5.6: Khalid Latif faced JP Faulkner, scored 0 runs. Team score: 41/2
+6.1: Umar Akmal faced SR Watson, scored 0 runs. Team score: 41/2
+6.2: Umar Akmal faced SR Watson, scored 6 runs. Team score: 47/2
+6.3: Umar Akmal faced SR Watson, scored 2 runs. Team score: 49/2
+6.4: Umar Akmal faced SR Watson, scored 4 runs. Team score: 53/2
+6.5: Umar Akmal faced SR Watson, scored 4 runs. Team score: 57/2
+6.6: Umar Akmal faced SR Watson, scored 1 runs. Team score: 58/2
+7.1: Umar Akmal faced A Zampa, scored 1 runs. Team score: 59/2
+7.2: Khalid Latif faced A Zampa, scored 1 runs. Team score: 60/2
+7.3: Umar Akmal faced A Zampa, scored 0 runs. Team score: 60/2
+7.4: Umar Akmal faced A Zampa, scored 1 runs. Team score: 61/2
+7.5: Khalid Latif faced A Zampa, scored 1 runs. Team score: 62/2
+7.6: Umar Akmal faced A Zampa, scored 0 runs. Team score: 62/2
+8.1: Khalid Latif faced JP Faulkner, scored 1 runs. Team score: 63/2
+8.2: Umar Akmal faced JP Faulkner, scored 2 runs. Team score: 65/2
+8.3: Umar Akmal faced JP Faulkner, scored 1 runs. Team score: 66/2
+8.4: Khalid Latif faced JP Faulkner, scored 6 runs. Team score: 72/2
+8.5: Khalid Latif faced JP Faulkner, scored 1 runs. Team score: 73/2
+8.6: Umar Akmal faced JP Faulkner, scored 0 runs. Team score: 73/2
+9.1: Khalid Latif faced GJ Maxwell, scored 1 runs. Team score: 74/2
+9.2: Umar Akmal faced GJ Maxwell, scored 1 runs. Team score: 75/2
+9.3: Khalid Latif faced GJ Maxwell, scored 1 runs. Team score: 76/2
+9.4: Umar Akmal faced GJ Maxwell, scored 1 runs. Team score: 77/2
+9.5: Khalid Latif faced GJ Maxwell, scored 1 runs. Team score: 78/2
+9.6: Umar Akmal faced GJ Maxwell, scored 1 runs. Team score: 79/2
+10.1: Umar Akmal faced A Zampa, scored 4 runs. Team score: 83/2
+10.2: Umar Akmal faced A Zampa, scored 2 runs. Team score: 85/2
+10.3: Umar Akmal faced A Zampa, scored 0 runs. Team score: 85/2
+bowled!, Batsman: Umar Akmal (32 runs from 20 balls), Bowler: A Zampa (figures: 1/10). Fielders involved: None. Team score: 85/3
+10.4: Shahid Afridi faced A Zampa, scored 0 runs. Team score: 85/3
+10.5: Shahid Afridi faced A Zampa, scored 1 runs. Team score: 86/3
+10.6: Khalid Latif faced A Zampa, scored 1 runs. Team score: 87/3
+11.1: Khalid Latif faced GJ Maxwell, scored 0 runs. Team score: 87/3
+11.2: Khalid Latif faced GJ Maxwell, scored 0 runs. Team score: 87/3
+11.3: Khalid Latif faced GJ Maxwell, scored 0 runs. Team score: 87/3
+11.4: Khalid Latif faced GJ Maxwell, scored 0 runs. Team score: 87/3
+11.5: Khalid Latif faced GJ Maxwell, scored 1 runs. Team score: 88/3
+11.6: Shahid Afridi faced GJ Maxwell, scored 6 runs. Team score: 94/3
+12.1: Khalid Latif faced NM Coulter-Nile, scored 4 runs. Team score: 98/3
+12.2: Khalid Latif faced NM Coulter-Nile, scored 1 runs. Team score: 99/3
+12.3: Shahid Afridi faced NM Coulter-Nile, scored 0 runs. Team score: 99/3
+12.4: Shahid Afridi faced NM Coulter-Nile, scored 1 runs. Team score: 100/3
+12.5: Khalid Latif faced NM Coulter-Nile, scored 4 runs. Team score: 104/3
+12.6: Khalid Latif faced NM Coulter-Nile, scored 0 runs. Team score: 104/3
+13.1: Shahid Afridi faced A Zampa, scored 6 runs. Team score: 110/3
+13.2: Shahid Afridi faced A Zampa, scored 0 runs. Team score: 110/3
+stumped!, Batsman: Shahid Afridi (14 runs from 7 balls), Bowler: A Zampa (figures: 2/18). Fielders involved: PM Nevill. Team score: 110/4
+13.3: Shoaib Malik faced A Zampa, scored 1 runs. Team score: 111/4
+13.4: Khalid Latif faced A Zampa, scored 1 runs. Team score: 112/4
+13.5: Shoaib Malik faced A Zampa, scored 1 runs. Team score: 113/4
+13.6: Khalid Latif faced A Zampa, scored 1 runs. Team score: 114/4
+14.1: Khalid Latif faced JR Hazlewood, scored 2 runs. Team score: 116/4
+14.2: Khalid Latif faced JR Hazlewood, scored 4 runs. Team score: 120/4
+14.3: Khalid Latif faced JR Hazlewood, scored 1 runs. Team score: 121/4
+14.4: Shoaib Malik faced JR Hazlewood, scored 2 runs. Team score: 123/4
+14.5: Shoaib Malik faced JR Hazlewood, scored 1 runs. Team score: 124/4
+14.6: Khalid Latif faced JR Hazlewood, scored 1 runs. Team score: 125/4
+15.1: Khalid Latif faced A Zampa, scored 1 runs. Team score: 126/4
+15.2: Shoaib Malik faced A Zampa, scored 6 runs. Team score: 132/4
+15.3: Shoaib Malik faced A Zampa, scored 1 runs. Team score: 133/4
+15.4: Khalid Latif faced A Zampa, scored 0 runs. Team score: 133/4
+15.5: Khalid Latif faced A Zampa, scored 1 runs. Team score: 134/4
+15.6: Shoaib Malik faced A Zampa, scored 1 runs. Team score: 135/4
+16.1: Shoaib Malik faced SR Watson, scored 1 runs. Team score: 136/4
+16.2: Khalid Latif faced SR Watson, scored 1 runs. Team score: 137/4
+16.3: Shoaib Malik faced SR Watson, scored 2 runs. Team score: 139/4
+16.4: Shoaib Malik faced SR Watson, scored 4 runs. Team score: 143/4
+16.5: Shoaib Malik faced SR Watson, scored 1 runs. Team score: 144/4
+16.6: Khalid Latif faced SR Watson, scored 1 runs. Team score: 145/4
+17.1: Khalid Latif faced JP Faulkner, scored 1 runs. Team score: 146/4
+17.2: Shoaib Malik faced JP Faulkner, scored 1 runs. Team score: 147/4
+17.3: Khalid Latif faced JP Faulkner, scored 0 runs. Team score: 147/4
+bowled!, Batsman: Khalid Latif (47 runs from 41 balls), Bowler: JP Faulkner (figures: 2/18). Fielders involved: None. Team score: 147/5
+17.4: Imad Wasim faced JP Faulkner, scored 0 runs. Team score: 147/5
+caught!, Batsman: Imad Wasim (0 runs from 1 balls), Bowler: JP Faulkner (figures: 3/18). Fielders involved: NM Coulter-Nile. Team score: 147/6
+17.5: Shoaib Malik faced JP Faulkner, scored 2 runs. Team score: 149/6
+17.6: Shoaib Malik faced JP Faulkner, scored 1 runs. Team score: 150/6
+18.1: Shoaib Malik faced NM Coulter-Nile, scored 1 runs. Team score: 151/6
+18.2: Sarfraz Ahmed faced NM Coulter-Nile, scored 1 runs. Team score: 152/6
+18.3: Shoaib Malik faced NM Coulter-Nile, scored 1 runs. Team score: 153/6
+18.4: Sarfraz Ahmed faced NM Coulter-Nile, scored 1 runs. Team score: 154/6
+18.5: Shoaib Malik faced NM Coulter-Nile, scored 6 runs. Team score: 160/6
+18.6: Shoaib Malik faced NM Coulter-Nile, scored 4 runs. Team score: 164/6
+19.1: Sarfraz Ahmed faced JP Faulkner, scored 0 runs. Team score: 164/6
+caught!, Batsman: Sarfraz Ahmed (2 runs from 3 balls), Bowler: JP Faulkner (figures: 4/21). Fielders involved: UT Khawaja. Team score: 164/7
+19.2: Wahab Riaz faced JP Faulkner, scored 0 runs. Team score: 164/7
+caught!, Batsman: Wahab Riaz (0 runs from 1 balls), Bowler: JP Faulkner (figures: 5/21). Fielders involved: JR Hazlewood. Team score: 164/8
+19.3: Shoaib Malik faced JP Faulkner, scored 1 runs. Team score: 165/8
+19.4: Mohammad Sami faced JP Faulkner, scored 4 runs. Team score: 169/8
+19.5: Mohammad Sami faced JP Faulkner, scored 1 runs. Team score: 170/8
+19.6: Shoaib Malik faced JP Faulkner, scored 2 runs. Team score: 172/8
+End of innings for Pakistan: 172/8 in 20.0 overs
+Batsman scores:
+Sharjeel Khan: 31 runs from 20 balls
+Ahmed Shehzad: 1 runs from 6 balls
+Khalid Latif: 47 runs from 41 balls
+Umar Akmal: 32 runs from 20 balls
+Shahid Afridi: 14 runs from 7 balls
+Shoaib Malik: 40 runs from 20 balls
+Imad Wasim: 0 runs from 1 balls
+Sarfraz Ahmed: 2 runs from 3 balls
+Wahab Riaz: 0 runs from 1 balls
+Mohammad Sami: 5 runs from 2 balls
+Bowler figures:
+JR Hazlewood: 1 wickets for 26 runs
+NM Coulter-Nile: 0 wickets for 45 runs
+JP Faulkner: 5 wickets for 29 runs
+SR Watson: 0 wickets for 27 runs
+A Zampa: 2 wickets for 32 runs
+GJ Maxwell: 0 wickets for 13 runs
+

@@ -1,0 +1,308 @@
+Match: World T20 - T20
+Date: 2016-03-18
+Venue: Wankhede Stadium, Mumbai
+Teams: England vs South Africa
+Toss: England won the toss and decided to field
+Result: England won by 2 wickets
+Man of the Match: JE Root
+
+Innings 1:
+0.1: HM Amla faced DJ Willey, scored 0 runs. Team score: 0/0
+0.2: HM Amla faced DJ Willey, scored 1 runs. Team score: 1/0
+0.3: Q de Kock faced DJ Willey, scored 0 runs. Team score: 1/0
+0.4: Q de Kock faced DJ Willey, scored 0 runs. Team score: 1/0
+0.5: Q de Kock faced DJ Willey, scored 0 runs. Team score: 1/0
+0.6: Q de Kock faced DJ Willey, scored 1 runs. Team score: 2/0
+1.1: Q de Kock faced RJW Topley, scored 6 runs. Team score: 8/0
+1.2: Q de Kock faced RJW Topley, scored 0 runs. Team score: 8/0
+1.3: Q de Kock faced RJW Topley, scored 4 runs. Team score: 12/0
+1.4: Q de Kock faced RJW Topley, scored 4 runs. Team score: 16/0
+1.5: Q de Kock faced RJW Topley, scored 1 runs. Team score: 17/0
+1.6: HM Amla faced RJW Topley, scored 0 runs. Team score: 17/0
+2.1: Q de Kock faced DJ Willey, scored 0 runs. Team score: 17/0
+2.2: Q de Kock faced DJ Willey, scored 0 runs. Team score: 17/0
+2.3: Q de Kock faced DJ Willey, scored 6 runs. Team score: 23/0
+2.4: Q de Kock faced DJ Willey, scored 4 runs. Team score: 27/0
+2.5: Q de Kock faced DJ Willey, scored 4 runs. Team score: 31/0
+2.6: Q de Kock faced DJ Willey, scored 6 runs. Team score: 37/0
+3.1: HM Amla faced MM Ali, scored 4 runs. Team score: 41/0
+3.2: HM Amla faced MM Ali, scored 0 runs. Team score: 41/0
+3.3: HM Amla faced MM Ali, scored 4 runs. Team score: 45/0
+3.4: HM Amla faced MM Ali, scored 1 runs. Team score: 46/0
+3.5: Q de Kock faced MM Ali, scored 4 runs. Team score: 50/0
+3.6: Q de Kock faced MM Ali, scored 0 runs. Team score: 50/0
+4.1: HM Amla faced CJ Jordan, scored 4 runs. Team score: 54/0
+4.2: HM Amla faced CJ Jordan, scored 4 runs. Team score: 58/0
+4.3: HM Amla faced CJ Jordan, scored 4 runs. Team score: 62/0
+4.4: HM Amla faced CJ Jordan, scored 6 runs. Team score: 68/0
+4.5: HM Amla faced CJ Jordan, scored 4 runs. Team score: 72/0
+4.6: HM Amla faced CJ Jordan, scored 0 runs. Team score: 72/0
+5.1: Q de Kock faced BA Stokes, scored 1 runs. Team score: 73/0
+5.2: HM Amla faced BA Stokes, scored 0 runs. Team score: 73/0
+5.3: HM Amla faced BA Stokes, scored 4 runs. Team score: 77/0
+5.4: HM Amla faced BA Stokes, scored 1 runs. Team score: 78/0
+5.5: Q de Kock faced BA Stokes, scored 4 runs. Team score: 82/0
+5.6: Q de Kock faced BA Stokes, scored 1 runs. Team score: 83/0
+6.1: Q de Kock faced AU Rashid, scored 4 runs. Team score: 87/0
+6.2: Q de Kock faced AU Rashid, scored 1 runs. Team score: 88/0
+6.3: HM Amla faced AU Rashid, scored 0 runs. Team score: 88/0
+6.4: HM Amla faced AU Rashid, scored 1 runs. Team score: 89/0
+6.5: Q de Kock faced AU Rashid, scored 1 runs. Team score: 90/0
+6.6: HM Amla faced AU Rashid, scored 6 runs. Team score: 96/0
+7.1: Q de Kock faced MM Ali, scored 0 runs. Team score: 96/0
+caught!, Batsman: Q de Kock (52 runs from 24 balls), Bowler: MM Ali (figures: 1/13). Fielders involved: AD Hales. Team score: 96/1
+7.2: HM Amla faced MM Ali, scored 1 runs. Team score: 97/1
+7.3: AB de Villiers faced MM Ali, scored 1 runs. Team score: 98/1
+7.4: HM Amla faced MM Ali, scored 0 runs. Team score: 98/1
+7.5: HM Amla faced MM Ali, scored 1 runs. Team score: 99/1
+7.6: AB de Villiers faced MM Ali, scored 1 runs. Team score: 100/1
+8.1: AB de Villiers faced AU Rashid, scored 2 runs. Team score: 102/1
+8.2: AB de Villiers faced AU Rashid, scored 0 runs. Team score: 102/1
+8.3: AB de Villiers faced AU Rashid, scored 6 runs. Team score: 108/1
+8.4: AB de Villiers faced AU Rashid, scored 6 runs. Team score: 114/1
+8.5: AB de Villiers faced AU Rashid, scored 0 runs. Team score: 114/1
+8.6: AB de Villiers faced AU Rashid, scored 0 runs. Team score: 114/1
+caught!, Batsman: AB de Villiers (16 runs from 8 balls), Bowler: AU Rashid (figures: 1/27). Fielders involved: EJG Morgan. Team score: 114/2
+9.1: F du Plessis faced MM Ali, scored 1 runs. Team score: 115/2
+9.2: HM Amla faced MM Ali, scored 1 runs. Team score: 116/2
+9.3: F du Plessis faced MM Ali, scored 1 runs. Team score: 117/2
+9.4: HM Amla faced MM Ali, scored 1 runs. Team score: 118/2
+9.5: F du Plessis faced MM Ali, scored 1 runs. Team score: 119/2
+9.6: HM Amla faced MM Ali, scored 6 runs. Team score: 125/2
+10.1: F du Plessis faced AU Rashid, scored 1 runs. Team score: 126/2
+10.2: HM Amla faced AU Rashid, scored 1 runs. Team score: 127/2
+10.3: F du Plessis faced AU Rashid, scored 0 runs. Team score: 127/2
+10.4: F du Plessis faced AU Rashid, scored 1 runs. Team score: 128/2
+10.5: HM Amla faced AU Rashid, scored 0 runs. Team score: 128/2
+10.6: HM Amla faced AU Rashid, scored 0 runs. Team score: 128/2
+11.1: F du Plessis faced MM Ali, scored 1 runs. Team score: 129/2
+11.2: HM Amla faced MM Ali, scored 2 runs. Team score: 131/2
+11.3: HM Amla faced MM Ali, scored 1 runs. Team score: 132/2
+11.4: F du Plessis faced MM Ali, scored 1 runs. Team score: 133/2
+11.5: HM Amla faced MM Ali, scored 0 runs. Team score: 133/2
+lbw!, Batsman: HM Amla (58 runs from 31 balls), Bowler: MM Ali (figures: 2/33). Fielders involved: None. Team score: 133/3
+11.6: JP Duminy faced MM Ali, scored 1 runs. Team score: 134/3
+12.1: JP Duminy faced AU Rashid, scored 1 runs. Team score: 135/3
+12.2: F du Plessis faced AU Rashid, scored 1 runs. Team score: 136/3
+12.3: JP Duminy faced AU Rashid, scored 1 runs. Team score: 137/3
+12.4: F du Plessis faced AU Rashid, scored 0 runs. Team score: 137/3
+12.5: F du Plessis faced AU Rashid, scored 1 runs. Team score: 138/3
+12.6: JP Duminy faced AU Rashid, scored 1 runs. Team score: 139/3
+13.1: JP Duminy faced JE Root, scored 2 runs. Team score: 141/3
+13.2: JP Duminy faced JE Root, scored 1 runs. Team score: 142/3
+13.3: F du Plessis faced JE Root, scored 1 runs. Team score: 143/3
+13.4: JP Duminy faced JE Root, scored 4 runs. Team score: 147/3
+13.5: JP Duminy faced JE Root, scored 4 runs. Team score: 151/3
+13.6: JP Duminy faced JE Root, scored 1 runs. Team score: 152/3
+14.1: JP Duminy faced BA Stokes, scored 1 runs. Team score: 153/3
+14.2: F du Plessis faced BA Stokes, scored 4 runs. Team score: 157/3
+14.3: F du Plessis faced BA Stokes, scored 2 runs. Team score: 159/3
+14.4: F du Plessis faced BA Stokes, scored 1 runs. Team score: 160/3
+14.5: JP Duminy faced BA Stokes, scored 4 runs. Team score: 164/3
+14.6: JP Duminy faced BA Stokes, scored 1 runs. Team score: 165/3
+14.0: JP Duminy faced BA Stokes, scored 1 runs. Team score: 166/3
+15.1: JP Duminy faced DJ Willey, scored 1 runs. Team score: 167/3
+15.2: F du Plessis faced DJ Willey, scored 2 runs. Team score: 169/3
+15.3: F du Plessis faced DJ Willey, scored 0 runs. Team score: 169/3
+caught!, Batsman: F du Plessis (19 runs from 17 balls), Bowler: DJ Willey (figures: 1/25). Fielders involved: JJ Roy. Team score: 169/4
+15.4: JP Duminy faced DJ Willey, scored 1 runs. Team score: 170/4
+15.5: JP Duminy faced DJ Willey, scored 1 runs. Team score: 171/4
+15.6: DA Miller faced DJ Willey, scored 1 runs. Team score: 172/4
+15.0: JP Duminy faced DJ Willey, scored 1 runs. Team score: 173/4
+16.1: JP Duminy faced CJ Jordan, scored 1 runs. Team score: 174/4
+16.2: DA Miller faced CJ Jordan, scored 4 runs. Team score: 178/4
+16.3: DA Miller faced CJ Jordan, scored 1 runs. Team score: 179/4
+16.4: JP Duminy faced CJ Jordan, scored 1 runs. Team score: 180/4
+16.5: DA Miller faced CJ Jordan, scored 1 runs. Team score: 181/4
+16.6: JP Duminy faced CJ Jordan, scored 1 runs. Team score: 182/4
+17.1: JP Duminy faced DJ Willey, scored 1 runs. Team score: 183/4
+17.2: DA Miller faced DJ Willey, scored 1 runs. Team score: 184/4
+17.3: JP Duminy faced DJ Willey, scored 1 runs. Team score: 185/4
+17.4: DA Miller faced DJ Willey, scored 6 runs. Team score: 191/4
+17.5: DA Miller faced DJ Willey, scored 1 runs. Team score: 192/4
+17.6: JP Duminy faced DJ Willey, scored 1 runs. Team score: 193/4
+18.1: JP Duminy faced RJW Topley, scored 6 runs. Team score: 199/4
+18.2: JP Duminy faced RJW Topley, scored 6 runs. Team score: 205/4
+18.3: JP Duminy faced RJW Topley, scored 1 runs. Team score: 206/4
+18.4: DA Miller faced RJW Topley, scored 1 runs. Team score: 207/4
+18.5: JP Duminy faced RJW Topley, scored 3 runs. Team score: 210/4
+18.6: DA Miller faced RJW Topley, scored 1 runs. Team score: 211/4
+19.1: DA Miller faced CJ Jordan, scored 1 runs. Team score: 212/4
+19.2: JP Duminy faced CJ Jordan, scored 6 runs. Team score: 218/4
+19.3: JP Duminy faced CJ Jordan, scored 0 runs. Team score: 218/4
+19.4: JP Duminy faced CJ Jordan, scored 1 runs. Team score: 219/4
+19.5: DA Miller faced CJ Jordan, scored 6 runs. Team score: 225/4
+19.6: DA Miller faced CJ Jordan, scored 4 runs. Team score: 229/4
+End of innings for South Africa: 229/4 in 20.0 overs
+Batsman scores:
+HM Amla: 58 runs from 31 balls
+Q de Kock: 52 runs from 24 balls
+AB de Villiers: 16 runs from 8 balls
+F du Plessis: 19 runs from 17 balls
+JP Duminy: 56 runs from 30 balls
+DA Miller: 28 runs from 12 balls
+Bowler figures:
+DJ Willey: 1 wickets for 40 runs
+RJW Topley: 0 wickets for 33 runs
+MM Ali: 2 wickets for 34 runs
+CJ Jordan: 0 wickets for 49 runs
+BA Stokes: 0 wickets for 25 runs
+AU Rashid: 1 wickets for 35 runs
+JE Root: 0 wickets for 13 runs
+
+Innings 2:
+0.1: JJ Roy faced K Rabada, scored 4 runs. Team score: 4/0
+0.2: JJ Roy faced K Rabada, scored 4 runs. Team score: 8/0
+0.3: JJ Roy faced K Rabada, scored 0 runs. Team score: 8/0
+0.4: JJ Roy faced K Rabada, scored 5 runs. Team score: 13/0
+0.5: JJ Roy faced K Rabada, scored 4 runs. Team score: 17/0
+0.6: JJ Roy faced K Rabada, scored 0 runs. Team score: 17/0
+0.0: JJ Roy faced K Rabada, scored 4 runs. Team score: 21/0
+1.1: AD Hales faced DW Steyn, scored 4 runs. Team score: 25/0
+1.2: AD Hales faced DW Steyn, scored 4 runs. Team score: 29/0
+1.3: AD Hales faced DW Steyn, scored 4 runs. Team score: 33/0
+1.4: AD Hales faced DW Steyn, scored 1 runs. Team score: 34/0
+1.5: JJ Roy faced DW Steyn, scored 4 runs. Team score: 38/0
+1.6: JJ Roy faced DW Steyn, scored 6 runs. Team score: 44/0
+2.1: AD Hales faced KJ Abbott, scored 4 runs. Team score: 48/0
+2.2: AD Hales faced KJ Abbott, scored 0 runs. Team score: 48/0
+2.3: AD Hales faced KJ Abbott, scored 0 runs. Team score: 48/0
+lbw!, Batsman: AD Hales (17 runs from 7 balls), Bowler: KJ Abbott (figures: 1/4). Fielders involved: None. Team score: 48/1
+2.4: BA Stokes faced KJ Abbott, scored 1 runs. Team score: 49/1
+2.5: JJ Roy faced KJ Abbott, scored 6 runs. Team score: 55/1
+2.6: JJ Roy faced KJ Abbott, scored 1 runs. Team score: 56/1
+3.1: JJ Roy faced K Rabada, scored 2 runs. Team score: 58/1
+3.2: JJ Roy faced K Rabada, scored 1 runs. Team score: 59/1
+3.3: BA Stokes faced K Rabada, scored 4 runs. Team score: 63/1
+3.4: BA Stokes faced K Rabada, scored 0 runs. Team score: 63/1
+3.5: BA Stokes faced K Rabada, scored 1 runs. Team score: 64/1
+3.6: JJ Roy faced K Rabada, scored 1 runs. Team score: 65/1
+4.1: JJ Roy faced KJ Abbott, scored 0 runs. Team score: 65/1
+4.2: JJ Roy faced KJ Abbott, scored 6 runs. Team score: 71/1
+4.3: JJ Roy faced KJ Abbott, scored 0 runs. Team score: 71/1
+caught!, Batsman: JJ Roy (48 runs from 17 balls), Bowler: KJ Abbott (figures: 2/18). Fielders involved: Q de Kock. Team score: 71/2
+4.4: BA Stokes faced KJ Abbott, scored 5 runs. Team score: 76/2
+4.5: BA Stokes faced KJ Abbott, scored 1 runs. Team score: 77/2
+4.6: JE Root faced KJ Abbott, scored 1 runs. Team score: 78/2
+4.0: BA Stokes faced KJ Abbott, scored 1 runs. Team score: 79/2
+5.1: BA Stokes faced K Rabada, scored 6 runs. Team score: 85/2
+5.2: BA Stokes faced K Rabada, scored 1 runs. Team score: 86/2
+5.3: JE Root faced K Rabada, scored 1 runs. Team score: 87/2
+5.4: BA Stokes faced K Rabada, scored 0 runs. Team score: 87/2
+caught!, Batsman: BA Stokes (20 runs from 10 balls), Bowler: K Rabada (figures: 1/38). Fielders involved: CH Morris. Team score: 87/3
+5.5: EJG Morgan faced K Rabada, scored 1 runs. Team score: 88/3
+5.6: EJG Morgan faced K Rabada, scored 1 runs. Team score: 89/3
+5.0: JE Root faced K Rabada, scored 0 runs. Team score: 89/3
+6.1: EJG Morgan faced Imran Tahir, scored 1 runs. Team score: 90/3
+6.2: JE Root faced Imran Tahir, scored 2 runs. Team score: 92/3
+6.3: JE Root faced Imran Tahir, scored 1 runs. Team score: 93/3
+6.4: EJG Morgan faced Imran Tahir, scored 1 runs. Team score: 94/3
+6.5: JE Root faced Imran Tahir, scored 1 runs. Team score: 95/3
+6.6: EJG Morgan faced Imran Tahir, scored 1 runs. Team score: 96/3
+7.1: EJG Morgan faced JP Duminy, scored 1 runs. Team score: 97/3
+7.2: JE Root faced JP Duminy, scored 2 runs. Team score: 99/3
+7.3: JE Root faced JP Duminy, scored 1 runs. Team score: 100/3
+7.4: EJG Morgan faced JP Duminy, scored 1 runs. Team score: 101/3
+7.5: JE Root faced JP Duminy, scored 1 runs. Team score: 102/3
+7.6: EJG Morgan faced JP Duminy, scored 1 runs. Team score: 103/3
+8.1: EJG Morgan faced Imran Tahir, scored 1 runs. Team score: 104/3
+8.2: JE Root faced Imran Tahir, scored 1 runs. Team score: 105/3
+8.3: JE Root faced Imran Tahir, scored 1 runs. Team score: 106/3
+8.4: EJG Morgan faced Imran Tahir, scored 0 runs. Team score: 106/3
+8.5: EJG Morgan faced Imran Tahir, scored 0 runs. Team score: 106/3
+8.6: EJG Morgan faced Imran Tahir, scored 2 runs. Team score: 108/3
+8.0: EJG Morgan faced Imran Tahir, scored 1 runs. Team score: 109/3
+9.1: EJG Morgan faced JP Duminy, scored 1 runs. Team score: 110/3
+9.2: JE Root faced JP Duminy, scored 1 runs. Team score: 111/3
+9.3: EJG Morgan faced JP Duminy, scored 0 runs. Team score: 111/3
+9.4: EJG Morgan faced JP Duminy, scored 0 runs. Team score: 111/3
+bowled!, Batsman: EJG Morgan (13 runs from 16 balls), Bowler: JP Duminy (figures: 1/9). Fielders involved: None. Team score: 111/4
+9.5: JC Buttler faced JP Duminy, scored 1 runs. Team score: 112/4
+9.6: JE Root faced JP Duminy, scored 6 runs. Team score: 118/4
+10.1: JC Buttler faced CH Morris, scored 1 runs. Team score: 119/4
+10.2: JE Root faced CH Morris, scored 6 runs. Team score: 125/4
+10.3: JE Root faced CH Morris, scored 1 runs. Team score: 126/4
+10.4: JC Buttler faced CH Morris, scored 1 runs. Team score: 127/4
+10.5: JC Buttler faced CH Morris, scored 1 runs. Team score: 128/4
+10.6: JE Root faced CH Morris, scored 1 runs. Team score: 129/4
+10.0: JC Buttler faced CH Morris, scored 4 runs. Team score: 133/4
+11.1: JE Root faced JP Duminy, scored 4 runs. Team score: 137/4
+11.2: JE Root faced JP Duminy, scored 1 runs. Team score: 138/4
+11.3: JC Buttler faced JP Duminy, scored 1 runs. Team score: 139/4
+11.4: JE Root faced JP Duminy, scored 2 runs. Team score: 141/4
+11.5: JE Root faced JP Duminy, scored 1 runs. Team score: 142/4
+11.6: JC Buttler faced JP Duminy, scored 6 runs. Team score: 148/4
+12.1: JE Root faced DW Steyn, scored 2 runs. Team score: 150/4
+12.2: JE Root faced DW Steyn, scored 1 runs. Team score: 151/4
+12.3: JE Root faced DW Steyn, scored 1 runs. Team score: 152/4
+12.4: JC Buttler faced DW Steyn, scored 1 runs. Team score: 153/4
+12.5: JE Root faced DW Steyn, scored 2 runs. Team score: 155/4
+12.6: JE Root faced DW Steyn, scored 4 runs. Team score: 159/4
+12.0: JE Root faced DW Steyn, scored 1 runs. Team score: 160/4
+13.1: JE Root faced Imran Tahir, scored 1 runs. Team score: 161/4
+13.2: JC Buttler faced Imran Tahir, scored 3 runs. Team score: 164/4
+13.3: JC Buttler faced Imran Tahir, scored 2 runs. Team score: 166/4
+13.4: JC Buttler faced Imran Tahir, scored 1 runs. Team score: 167/4
+13.5: JE Root faced Imran Tahir, scored 1 runs. Team score: 168/4
+13.6: JC Buttler faced Imran Tahir, scored 1 runs. Team score: 169/4
+13.0: JE Root faced Imran Tahir, scored 1 runs. Team score: 170/4
+14.1: JE Root faced CH Morris, scored 1 runs. Team score: 171/4
+14.2: JE Root faced CH Morris, scored 1 runs. Team score: 172/4
+14.3: JC Buttler faced CH Morris, scored 1 runs. Team score: 173/4
+14.4: JE Root faced CH Morris, scored 6 runs. Team score: 179/4
+14.5: JE Root faced CH Morris, scored 1 runs. Team score: 180/4
+14.6: JC Buttler faced CH Morris, scored 1 runs. Team score: 181/4
+14.0: JC Buttler faced CH Morris, scored 1 runs. Team score: 182/4
+14.1: JE Root faced CH Morris, scored 1 runs. Team score: 183/4
+15.1: JE Root faced Imran Tahir, scored 1 runs. Team score: 184/4
+15.2: JC Buttler faced Imran Tahir, scored 1 runs. Team score: 185/4
+15.3: JE Root faced Imran Tahir, scored 1 runs. Team score: 186/4
+15.4: JC Buttler faced Imran Tahir, scored 0 runs. Team score: 186/4
+stumped!, Batsman: JC Buttler (27 runs from 17 balls), Bowler: Imran Tahir (figures: 1/26). Fielders involved: Q de Kock. Team score: 186/5
+15.5: MM Ali faced Imran Tahir, scored 1 runs. Team score: 187/5
+15.6: JE Root faced Imran Tahir, scored 1 runs. Team score: 188/5
+16.1: JE Root faced KJ Abbott, scored 4 runs. Team score: 192/5
+16.2: JE Root faced KJ Abbott, scored 6 runs. Team score: 198/5
+16.3: JE Root faced KJ Abbott, scored 1 runs. Team score: 199/5
+16.4: MM Ali faced KJ Abbott, scored 1 runs. Team score: 200/5
+16.5: MM Ali faced KJ Abbott, scored 1 runs. Team score: 201/5
+16.6: JE Root faced KJ Abbott, scored 1 runs. Team score: 202/5
+16.0: MM Ali faced KJ Abbott, scored 0 runs. Team score: 202/5
+17.1: JE Root faced CH Morris, scored 4 runs. Team score: 206/5
+17.2: JE Root faced CH Morris, scored 4 runs. Team score: 210/5
+17.3: JE Root faced CH Morris, scored 4 runs. Team score: 214/5
+17.4: JE Root faced CH Morris, scored 1 runs. Team score: 215/5
+17.5: MM Ali faced CH Morris, scored 0 runs. Team score: 215/5
+17.6: MM Ali faced CH Morris, scored 4 runs. Team score: 219/5
+18.1: JE Root faced K Rabada, scored 0 runs. Team score: 219/5
+18.2: JE Root faced K Rabada, scored 0 runs. Team score: 219/5
+caught!, Batsman: JE Root (87 runs from 47 balls), Bowler: K Rabada (figures: 2/40). Fielders involved: DA Miller. Team score: 219/6
+18.3: MM Ali faced K Rabada, scored 4 runs. Team score: 223/6
+18.4: MM Ali faced K Rabada, scored 1 runs. Team score: 224/6
+18.5: CJ Jordan faced K Rabada, scored 4 runs. Team score: 228/6
+18.6: CJ Jordan faced K Rabada, scored 1 runs. Team score: 229/6
+19.1: CJ Jordan faced KJ Abbott, scored 0 runs. Team score: 229/6
+caught!, Batsman: CJ Jordan (5 runs from 3 balls), Bowler: KJ Abbott (figures: 3/40). Fielders involved: JP Duminy. Team score: 229/7
+19.2: MM Ali faced KJ Abbott, scored 0 runs. Team score: 229/7
+run out!, Batsman: DJ Willey (0 runs from 0 balls), Bowler: KJ Abbott (figures: 4/40). Fielders involved: DA Miller, AB de Villiers. Team score: 229/8
+19.3: MM Ali faced KJ Abbott, scored 0 runs. Team score: 229/8
+19.4: MM Ali faced KJ Abbott, scored 1 runs. Team score: 230/8
+End of innings for England: 230/8 in 20.0 overs
+Batsman scores:
+JJ Roy: 48 runs from 17 balls
+AD Hales: 17 runs from 7 balls
+BA Stokes: 20 runs from 10 balls
+JE Root: 87 runs from 47 balls
+EJG Morgan: 13 runs from 16 balls
+JC Buttler: 27 runs from 17 balls
+MM Ali: 13 runs from 11 balls
+CJ Jordan: 5 runs from 3 balls
+DJ Willey: 0 runs from 0 balls
+Bowler figures:
+K Rabada: 2 wickets for 50 runs
+DW Steyn: 0 wickets for 35 runs
+KJ Abbott: 4 wickets for 41 runs
+Imran Tahir: 1 wickets for 28 runs
+JP Duminy: 1 wickets for 31 runs
+CH Morris: 0 wickets for 45 runs
+

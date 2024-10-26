@@ -1,0 +1,204 @@
+Match: ICC Men's T20 World Cup - T20
+Date: 2014-03-22
+Venue: Zahur Ahmed Chowdhury Stadium, Chattogram
+Teams: England vs New Zealand
+Toss: New Zealand won the toss and decided to field
+Result: New Zealand won by 9 runs
+Man of the Match: CJ Anderson
+
+Innings 1:
+0.1: MJ Lumb faced KD Mills, scored 1 runs. Team score: 1/0
+0.2: AD Hales faced KD Mills, scored 0 runs. Team score: 1/0
+0.3: AD Hales faced KD Mills, scored 0 runs. Team score: 1/0
+caught!, Batsman: AD Hales (0 runs from 2 balls), Bowler: KD Mills (figures: 1/1). Fielders involved: CJ Anderson. Team score: 1/1
+0.4: MJ Lumb faced KD Mills, scored 0 runs. Team score: 1/1
+0.5: MJ Lumb faced KD Mills, scored 0 runs. Team score: 1/1
+0.6: MJ Lumb faced KD Mills, scored 0 runs. Team score: 1/1
+1.1: MM Ali faced MJ McClenaghan, scored 0 runs. Team score: 1/1
+1.2: MM Ali faced MJ McClenaghan, scored 4 runs. Team score: 5/1
+1.3: MM Ali faced MJ McClenaghan, scored 1 runs. Team score: 6/1
+1.4: MJ Lumb faced MJ McClenaghan, scored 3 runs. Team score: 9/1
+1.5: MM Ali faced MJ McClenaghan, scored 0 runs. Team score: 9/1
+1.6: MM Ali faced MJ McClenaghan, scored 0 runs. Team score: 9/1
+2.1: MJ Lumb faced KD Mills, scored 1 runs. Team score: 10/1
+2.2: MM Ali faced KD Mills, scored 0 runs. Team score: 10/1
+2.3: MM Ali faced KD Mills, scored 0 runs. Team score: 10/1
+2.4: MM Ali faced KD Mills, scored 1 runs. Team score: 11/1
+2.5: MM Ali faced KD Mills, scored 4 runs. Team score: 15/1
+2.6: MM Ali faced KD Mills, scored 6 runs. Team score: 21/1
+2.0: MM Ali faced KD Mills, scored 4 runs. Team score: 25/1
+3.1: MJ Lumb faced MJ McClenaghan, scored 1 runs. Team score: 26/1
+3.2: MM Ali faced MJ McClenaghan, scored 1 runs. Team score: 27/1
+3.3: MJ Lumb faced MJ McClenaghan, scored 0 runs. Team score: 27/1
+3.4: MJ Lumb faced MJ McClenaghan, scored 4 runs. Team score: 31/1
+3.5: MJ Lumb faced MJ McClenaghan, scored 0 runs. Team score: 31/1
+3.6: MJ Lumb faced MJ McClenaghan, scored 0 runs. Team score: 31/1
+4.1: MM Ali faced TG Southee, scored 4 runs. Team score: 35/1
+4.2: MM Ali faced TG Southee, scored 4 runs. Team score: 39/1
+4.3: MM Ali faced TG Southee, scored 0 runs. Team score: 39/1
+4.4: MM Ali faced TG Southee, scored 1 runs. Team score: 40/1
+4.5: MJ Lumb faced TG Southee, scored 6 runs. Team score: 46/1
+4.6: MJ Lumb faced TG Southee, scored 2 runs. Team score: 48/1
+5.1: MM Ali faced CJ Anderson, scored 1 runs. Team score: 49/1
+5.2: MJ Lumb faced CJ Anderson, scored 1 runs. Team score: 50/1
+5.3: MM Ali faced CJ Anderson, scored 1 runs. Team score: 51/1
+5.4: MM Ali faced CJ Anderson, scored 0 runs. Team score: 51/1
+5.5: MM Ali faced CJ Anderson, scored 4 runs. Team score: 55/1
+5.6: MM Ali faced CJ Anderson, scored 0 runs. Team score: 55/1
+5.0: MM Ali faced CJ Anderson, scored 0 runs. Team score: 55/1
+6.1: MJ Lumb faced NL McCullum, scored 1 runs. Team score: 56/1
+6.2: MM Ali faced NL McCullum, scored 1 runs. Team score: 57/1
+6.3: MJ Lumb faced NL McCullum, scored 4 runs. Team score: 61/1
+6.4: MJ Lumb faced NL McCullum, scored 4 runs. Team score: 65/1
+6.5: MJ Lumb faced NL McCullum, scored 0 runs. Team score: 65/1
+6.6: MJ Lumb faced NL McCullum, scored 1 runs. Team score: 66/1
+7.1: MJ Lumb faced CJ Anderson, scored 4 runs. Team score: 70/1
+7.2: MJ Lumb faced CJ Anderson, scored 1 runs. Team score: 71/1
+7.3: MM Ali faced CJ Anderson, scored 1 runs. Team score: 72/1
+7.4: MJ Lumb faced CJ Anderson, scored 1 runs. Team score: 73/1
+7.5: MM Ali faced CJ Anderson, scored 0 runs. Team score: 73/1
+caught!, Batsman: MM Ali (38 runs from 25 balls), Bowler: CJ Anderson (figures: 1/14). Fielders involved: MJ McClenaghan. Team score: 73/2
+7.6: MJ Lumb faced CJ Anderson, scored 2 runs. Team score: 75/2
+8.1: EJG Morgan faced MJ McClenaghan, scored 0 runs. Team score: 75/2
+8.2: EJG Morgan faced MJ McClenaghan, scored 0 runs. Team score: 75/2
+8.3: EJG Morgan faced MJ McClenaghan, scored 1 runs. Team score: 76/2
+8.4: MJ Lumb faced MJ McClenaghan, scored 0 runs. Team score: 76/2
+caught!, Batsman: MJ Lumb (37 runs from 24 balls), Bowler: MJ McClenaghan (figures: 1/15). Fielders involved: CJ Anderson. Team score: 76/3
+8.5: EJG Morgan faced MJ McClenaghan, scored 0 runs. Team score: 76/3
+8.6: EJG Morgan faced MJ McClenaghan, scored 1 runs. Team score: 77/3
+9.1: EJG Morgan faced NL McCullum, scored 0 runs. Team score: 77/3
+9.2: EJG Morgan faced NL McCullum, scored 0 runs. Team score: 77/3
+9.3: EJG Morgan faced NL McCullum, scored 1 runs. Team score: 78/3
+9.4: EJG Morgan faced NL McCullum, scored 2 runs. Team score: 80/3
+9.5: EJG Morgan faced NL McCullum, scored 2 runs. Team score: 82/3
+9.6: EJG Morgan faced NL McCullum, scored 1 runs. Team score: 83/3
+9.0: JC Buttler faced NL McCullum, scored 1 runs. Team score: 84/3
+10.1: JC Buttler faced MJ McClenaghan, scored 2 runs. Team score: 86/3
+10.2: JC Buttler faced MJ McClenaghan, scored 1 runs. Team score: 87/3
+10.3: EJG Morgan faced MJ McClenaghan, scored 4 runs. Team score: 91/3
+10.4: EJG Morgan faced MJ McClenaghan, scored 1 runs. Team score: 92/3
+10.5: JC Buttler faced MJ McClenaghan, scored 1 runs. Team score: 93/3
+10.6: EJG Morgan faced MJ McClenaghan, scored 0 runs. Team score: 93/3
+11.1: JC Buttler faced NL McCullum, scored 4 runs. Team score: 97/3
+11.2: JC Buttler faced NL McCullum, scored 0 runs. Team score: 97/3
+11.3: JC Buttler faced NL McCullum, scored 4 runs. Team score: 101/3
+11.4: JC Buttler faced NL McCullum, scored 0 runs. Team score: 101/3
+11.5: JC Buttler faced NL McCullum, scored 2 runs. Team score: 103/3
+11.6: JC Buttler faced NL McCullum, scored 0 runs. Team score: 103/3
+12.1: EJG Morgan faced TG Southee, scored 0 runs. Team score: 103/3
+12.2: EJG Morgan faced TG Southee, scored 0 runs. Team score: 103/3
+caught!, Batsman: EJG Morgan (13 runs from 16 balls), Bowler: TG Southee (figures: 1/17). Fielders involved: BB McCullum. Team score: 103/4
+12.3: RS Bopara faced TG Southee, scored 1 runs. Team score: 104/4
+12.4: RS Bopara faced TG Southee, scored 1 runs. Team score: 105/4
+12.5: JC Buttler faced TG Southee, scored 0 runs. Team score: 105/4
+12.6: JC Buttler faced TG Southee, scored 0 runs. Team score: 105/4
+12.0: JC Buttler faced TG Southee, scored 0 runs. Team score: 105/4
+13.1: RS Bopara faced KD Mills, scored 1 runs. Team score: 106/4
+13.2: RS Bopara faced KD Mills, scored 1 runs. Team score: 107/4
+13.3: JC Buttler faced KD Mills, scored 2 runs. Team score: 109/4
+13.4: JC Buttler faced KD Mills, scored 1 runs. Team score: 110/4
+13.5: RS Bopara faced KD Mills, scored 1 runs. Team score: 111/4
+13.6: JC Buttler faced KD Mills, scored 2 runs. Team score: 113/4
+13.0: JC Buttler faced KD Mills, scored 1 runs. Team score: 114/4
+14.1: JC Buttler faced TG Southee, scored 0 runs. Team score: 114/4
+14.2: JC Buttler faced TG Southee, scored 3 runs. Team score: 117/4
+14.3: RS Bopara faced TG Southee, scored 1 runs. Team score: 118/4
+14.4: JC Buttler faced TG Southee, scored 4 runs. Team score: 122/4
+14.5: JC Buttler faced TG Southee, scored 0 runs. Team score: 122/4
+14.6: JC Buttler faced TG Southee, scored 4 runs. Team score: 126/4
+15.1: RS Bopara faced CJ Anderson, scored 2 runs. Team score: 128/4
+15.2: RS Bopara faced CJ Anderson, scored 0 runs. Team score: 128/4
+15.3: RS Bopara faced CJ Anderson, scored 1 runs. Team score: 129/4
+15.4: JC Buttler faced CJ Anderson, scored 0 runs. Team score: 129/4
+bowled!, Batsman: JC Buttler (32 runs from 23 balls), Bowler: CJ Anderson (figures: 2/19). Fielders involved: None. Team score: 129/5
+15.5: CJ Jordan faced CJ Anderson, scored 0 runs. Team score: 129/5
+15.6: CJ Jordan faced CJ Anderson, scored 1 runs. Team score: 130/5
+16.1: CJ Jordan faced TG Southee, scored 1 runs. Team score: 131/5
+16.2: RS Bopara faced TG Southee, scored 0 runs. Team score: 131/5
+16.3: RS Bopara faced TG Southee, scored 6 runs. Team score: 137/5
+16.4: RS Bopara faced TG Southee, scored 0 runs. Team score: 137/5
+16.5: RS Bopara faced TG Southee, scored 1 runs. Team score: 138/5
+16.6: CJ Jordan faced TG Southee, scored 1 runs. Team score: 139/5
+16.0: CJ Jordan faced TG Southee, scored 6 runs. Team score: 145/5
+17.1: RS Bopara faced NL McCullum, scored 2 runs. Team score: 147/5
+17.2: RS Bopara faced NL McCullum, scored 1 runs. Team score: 148/5
+17.3: CJ Jordan faced NL McCullum, scored 0 runs. Team score: 148/5
+17.4: CJ Jordan faced NL McCullum, scored 0 runs. Team score: 148/5
+caught!, Batsman: CJ Jordan (9 runs from 7 balls), Bowler: NL McCullum (figures: 1/31). Fielders involved: TG Southee. Team score: 148/6
+17.5: TT Bresnan faced NL McCullum, scored 1 runs. Team score: 149/6
+17.6: RS Bopara faced NL McCullum, scored 0 runs. Team score: 149/6
+18.1: TT Bresnan faced KD Mills, scored 0 runs. Team score: 149/6
+18.2: TT Bresnan faced KD Mills, scored 1 runs. Team score: 150/6
+18.3: RS Bopara faced KD Mills, scored 1 runs. Team score: 151/6
+18.4: TT Bresnan faced KD Mills, scored 0 runs. Team score: 151/6
+18.5: TT Bresnan faced KD Mills, scored 4 runs. Team score: 155/6
+18.6: TT Bresnan faced KD Mills, scored 4 runs. Team score: 159/6
+19.1: RS Bopara faced CJ Anderson, scored 2 runs. Team score: 161/6
+19.2: RS Bopara faced CJ Anderson, scored 2 runs. Team score: 163/6
+19.3: RS Bopara faced CJ Anderson, scored 1 runs. Team score: 164/6
+19.4: TT Bresnan faced CJ Anderson, scored 6 runs. Team score: 170/6
+19.5: TT Bresnan faced CJ Anderson, scored 1 runs. Team score: 171/6
+19.6: RS Bopara faced CJ Anderson, scored 1 runs. Team score: 172/6
+End of innings for England: 172/6 in 20.0 overs
+Batsman scores:
+MJ Lumb: 37 runs from 24 balls
+AD Hales: 0 runs from 2 balls
+MM Ali: 38 runs from 25 balls
+EJG Morgan: 13 runs from 16 balls
+JC Buttler: 32 runs from 23 balls
+RS Bopara: 26 runs from 21 balls
+CJ Jordan: 9 runs from 7 balls
+TT Bresnan: 17 runs from 8 balls
+Bowler figures:
+KD Mills: 1 wickets for 36 runs
+MJ McClenaghan: 1 wickets for 25 runs
+TG Southee: 1 wickets for 46 runs
+CJ Anderson: 2 wickets for 33 runs
+NL McCullum: 1 wickets for 32 runs
+
+Innings 2:
+0.1: MJ Guptill faced MM Ali, scored 0 runs. Team score: 0/0
+0.2: MJ Guptill faced MM Ali, scored 1 runs. Team score: 1/0
+0.3: KS Williamson faced MM Ali, scored 1 runs. Team score: 2/0
+0.4: MJ Guptill faced MM Ali, scored 1 runs. Team score: 3/0
+0.5: KS Williamson faced MM Ali, scored 0 runs. Team score: 3/0
+0.6: KS Williamson faced MM Ali, scored 4 runs. Team score: 7/0
+1.1: MJ Guptill faced JW Dernbach, scored 1 runs. Team score: 8/0
+1.2: KS Williamson faced JW Dernbach, scored 1 runs. Team score: 9/0
+1.3: MJ Guptill faced JW Dernbach, scored 4 runs. Team score: 13/0
+1.4: MJ Guptill faced JW Dernbach, scored 1 runs. Team score: 14/0
+1.5: KS Williamson faced JW Dernbach, scored 0 runs. Team score: 14/0
+1.6: KS Williamson faced JW Dernbach, scored 1 runs. Team score: 15/0
+2.1: KS Williamson faced TT Bresnan, scored 0 runs. Team score: 15/0
+2.2: KS Williamson faced TT Bresnan, scored 4 runs. Team score: 19/0
+2.3: KS Williamson faced TT Bresnan, scored 4 runs. Team score: 23/0
+2.4: KS Williamson faced TT Bresnan, scored 2 runs. Team score: 25/0
+2.5: KS Williamson faced TT Bresnan, scored 0 runs. Team score: 25/0
+2.6: KS Williamson faced TT Bresnan, scored 0 runs. Team score: 25/0
+3.1: MJ Guptill faced JW Dernbach, scored 4 runs. Team score: 29/0
+3.2: MJ Guptill faced JW Dernbach, scored 0 runs. Team score: 29/0
+3.3: MJ Guptill faced JW Dernbach, scored 0 runs. Team score: 29/0
+caught!, Batsman: MJ Guptill (12 runs from 9 balls), Bowler: JW Dernbach (figures: 1/12). Fielders involved: CJ Jordan. Team score: 29/1
+3.4: KS Williamson faced JW Dernbach, scored 0 runs. Team score: 29/1
+3.5: KS Williamson faced JW Dernbach, scored 2 runs. Team score: 31/1
+3.6: KS Williamson faced JW Dernbach, scored 0 runs. Team score: 31/1
+4.1: BB McCullum faced SCJ Broad, scored 0 runs. Team score: 31/1
+4.2: BB McCullum faced SCJ Broad, scored 0 runs. Team score: 31/1
+4.3: BB McCullum faced SCJ Broad, scored 6 runs. Team score: 37/1
+4.4: BB McCullum faced SCJ Broad, scored 4 runs. Team score: 41/1
+4.5: BB McCullum faced SCJ Broad, scored 0 runs. Team score: 41/1
+4.6: BB McCullum faced SCJ Broad, scored 6 runs. Team score: 47/1
+5.1: KS Williamson faced CJ Jordan, scored 4 runs. Team score: 51/1
+5.2: KS Williamson faced CJ Jordan, scored 1 runs. Team score: 52/1
+End of innings for New Zealand: 52/1 in 6.2 overs
+Batsman scores:
+MJ Guptill: 12 runs from 9 balls
+KS Williamson: 24 runs from 17 balls
+BB McCullum: 16 runs from 6 balls
+Bowler figures:
+MM Ali: 0 wickets for 7 runs
+JW Dernbach: 1 wickets for 14 runs
+TT Bresnan: 0 wickets for 10 runs
+SCJ Broad: 0 wickets for 16 runs
+CJ Jordan: 0 wickets for 5 runs
+

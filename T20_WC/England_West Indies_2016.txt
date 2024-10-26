@@ -1,0 +1,310 @@
+Match: World T20 - T20
+Date: 2016-04-03
+Venue: Eden Gardens, Kolkata
+Teams: England vs West Indies
+Toss: West Indies won the toss and decided to field
+Result: West Indies won by 4 wickets
+Man of the Match: MN Samuels
+
+Innings 1:
+0.1: JJ Roy faced S Badree, scored 0 runs. Team score: 0/0
+0.2: JJ Roy faced S Badree, scored 0 runs. Team score: 0/0
+bowled!, Batsman: JJ Roy (0 runs from 2 balls), Bowler: S Badree (figures: 1/0). Fielders involved: None. Team score: 0/1
+0.3: JE Root faced S Badree, scored 1 runs. Team score: 1/1
+0.4: AD Hales faced S Badree, scored 1 runs. Team score: 2/1
+0.5: JE Root faced S Badree, scored 4 runs. Team score: 6/1
+0.6: JE Root faced S Badree, scored 1 runs. Team score: 7/1
+1.1: JE Root faced AD Russell, scored 0 runs. Team score: 7/1
+1.2: JE Root faced AD Russell, scored 0 runs. Team score: 7/1
+1.3: JE Root faced AD Russell, scored 1 runs. Team score: 8/1
+1.4: AD Hales faced AD Russell, scored 0 runs. Team score: 8/1
+1.5: AD Hales faced AD Russell, scored 0 runs. Team score: 8/1
+caught!, Batsman: AD Hales (1 runs from 3 balls), Bowler: AD Russell (figures: 1/1). Fielders involved: S Badree. Team score: 8/2
+1.6: EJG Morgan faced AD Russell, scored 0 runs. Team score: 8/2
+2.1: JE Root faced S Badree, scored 1 runs. Team score: 9/2
+2.2: EJG Morgan faced S Badree, scored 0 runs. Team score: 9/2
+2.3: EJG Morgan faced S Badree, scored 0 runs. Team score: 9/2
+2.4: EJG Morgan faced S Badree, scored 0 runs. Team score: 9/2
+2.5: EJG Morgan faced S Badree, scored 0 runs. Team score: 9/2
+2.6: EJG Morgan faced S Badree, scored 0 runs. Team score: 9/2
+3.1: JE Root faced SJ Benn, scored 0 runs. Team score: 9/2
+3.2: JE Root faced SJ Benn, scored 4 runs. Team score: 13/2
+3.3: JE Root faced SJ Benn, scored 1 runs. Team score: 14/2
+3.4: EJG Morgan faced SJ Benn, scored 4 runs. Team score: 18/2
+3.5: EJG Morgan faced SJ Benn, scored 1 runs. Team score: 19/2
+3.6: JE Root faced SJ Benn, scored 4 runs. Team score: 23/2
+4.1: EJG Morgan faced S Badree, scored 0 runs. Team score: 23/2
+4.2: EJG Morgan faced S Badree, scored 0 runs. Team score: 23/2
+4.3: EJG Morgan faced S Badree, scored 0 runs. Team score: 23/2
+4.4: EJG Morgan faced S Badree, scored 0 runs. Team score: 23/2
+caught!, Batsman: EJG Morgan (5 runs from 12 balls), Bowler: S Badree (figures: 2/8). Fielders involved: CH Gayle. Team score: 23/3
+4.5: JC Buttler faced S Badree, scored 0 runs. Team score: 23/3
+4.6: JC Buttler faced S Badree, scored 0 runs. Team score: 23/3
+Maiden over by S Badree
+5.1: JE Root faced DJ Bravo, scored 1 runs. Team score: 24/3
+5.2: JC Buttler faced DJ Bravo, scored 4 runs. Team score: 28/3
+5.3: JC Buttler faced DJ Bravo, scored 2 runs. Team score: 30/3
+5.4: JC Buttler faced DJ Bravo, scored 1 runs. Team score: 31/3
+5.5: JE Root faced DJ Bravo, scored 0 runs. Team score: 31/3
+5.6: JE Root faced DJ Bravo, scored 2 runs. Team score: 33/3
+6.1: JC Buttler faced S Badree, scored 0 runs. Team score: 33/3
+6.2: JC Buttler faced S Badree, scored 1 runs. Team score: 34/3
+6.3: JE Root faced S Badree, scored 1 runs. Team score: 35/3
+6.4: JC Buttler faced S Badree, scored 1 runs. Team score: 36/3
+6.5: JE Root faced S Badree, scored 4 runs. Team score: 40/3
+6.6: JE Root faced S Badree, scored 1 runs. Team score: 41/3
+7.1: JE Root faced CR Brathwaite, scored 2 runs. Team score: 43/3
+7.2: JE Root faced CR Brathwaite, scored 1 runs. Team score: 44/3
+7.3: JC Buttler faced CR Brathwaite, scored 1 runs. Team score: 45/3
+7.4: JE Root faced CR Brathwaite, scored 0 runs. Team score: 45/3
+7.5: JE Root faced CR Brathwaite, scored 1 runs. Team score: 46/3
+7.6: JC Buttler faced CR Brathwaite, scored 1 runs. Team score: 47/3
+8.1: JC Buttler faced SJ Benn, scored 0 runs. Team score: 47/3
+8.2: JC Buttler faced SJ Benn, scored 1 runs. Team score: 48/3
+8.3: JE Root faced SJ Benn, scored 1 runs. Team score: 49/3
+8.4: JC Buttler faced SJ Benn, scored 6 runs. Team score: 55/3
+8.5: JC Buttler faced SJ Benn, scored 2 runs. Team score: 57/3
+8.6: JC Buttler faced SJ Benn, scored 0 runs. Team score: 57/3
+9.1: JE Root faced AD Russell, scored 2 runs. Team score: 59/3
+9.2: JE Root faced AD Russell, scored 1 runs. Team score: 60/3
+9.3: JC Buttler faced AD Russell, scored 1 runs. Team score: 61/3
+9.4: JE Root faced AD Russell, scored 4 runs. Team score: 65/3
+9.5: JE Root faced AD Russell, scored 1 runs. Team score: 66/3
+9.6: JC Buttler faced AD Russell, scored 1 runs. Team score: 67/3
+10.1: JC Buttler faced SJ Benn, scored 6 runs. Team score: 73/3
+10.2: JC Buttler faced SJ Benn, scored 6 runs. Team score: 79/3
+10.3: JC Buttler faced SJ Benn, scored 1 runs. Team score: 80/3
+10.4: JE Root faced SJ Benn, scored 1 runs. Team score: 81/3
+10.5: JC Buttler faced SJ Benn, scored 1 runs. Team score: 82/3
+10.6: JE Root faced SJ Benn, scored 1 runs. Team score: 83/3
+11.1: JE Root faced CR Brathwaite, scored 1 runs. Team score: 84/3
+11.2: JC Buttler faced CR Brathwaite, scored 0 runs. Team score: 84/3
+caught!, Batsman: JC Buttler (36 runs from 22 balls), Bowler: CR Brathwaite (figures: 1/7). Fielders involved: DJ Bravo. Team score: 84/4
+11.3: BA Stokes faced CR Brathwaite, scored 2 runs. Team score: 86/4
+11.4: BA Stokes faced CR Brathwaite, scored 1 runs. Team score: 87/4
+11.5: JE Root faced CR Brathwaite, scored 1 runs. Team score: 88/4
+11.6: BA Stokes faced CR Brathwaite, scored 1 runs. Team score: 89/4
+12.1: BA Stokes faced DJG Sammy, scored 1 runs. Team score: 90/4
+12.2: JE Root faced DJG Sammy, scored 2 runs. Team score: 92/4
+12.3: JE Root faced DJG Sammy, scored 4 runs. Team score: 96/4
+12.4: JE Root faced DJG Sammy, scored 1 runs. Team score: 97/4
+12.5: BA Stokes faced DJG Sammy, scored 4 runs. Team score: 101/4
+12.6: BA Stokes faced DJG Sammy, scored 2 runs. Team score: 103/4
+13.1: JE Root faced DJ Bravo, scored 4 runs. Team score: 107/4
+13.2: JE Root faced DJ Bravo, scored 1 runs. Team score: 108/4
+13.3: BA Stokes faced DJ Bravo, scored 2 runs. Team score: 110/4
+13.4: BA Stokes faced DJ Bravo, scored 0 runs. Team score: 110/4
+caught!, Batsman: BA Stokes (13 runs from 8 balls), Bowler: DJ Bravo (figures: 1/17). Fielders involved: LMP Simmons. Team score: 110/5
+13.5: MM Ali faced DJ Bravo, scored 0 runs. Team score: 110/5
+13.6: MM Ali faced DJ Bravo, scored 0 runs. Team score: 110/5
+caught!, Batsman: MM Ali (0 runs from 2 balls), Bowler: DJ Bravo (figures: 2/17). Fielders involved: D Ramdin. Team score: 110/6
+14.1: JE Root faced CR Brathwaite, scored 1 runs. Team score: 111/6
+14.2: JE Root faced CR Brathwaite, scored 0 runs. Team score: 111/6
+caught!, Batsman: JE Root (56 runs from 37 balls), Bowler: CR Brathwaite (figures: 2/13). Fielders involved: SJ Benn. Team score: 111/7
+14.3: DJ Willey faced CR Brathwaite, scored 2 runs. Team score: 113/7
+14.4: DJ Willey faced CR Brathwaite, scored 0 runs. Team score: 113/7
+14.5: DJ Willey faced CR Brathwaite, scored 1 runs. Team score: 114/7
+14.6: CJ Jordan faced CR Brathwaite, scored 0 runs. Team score: 114/7
+14.0: CJ Jordan faced CR Brathwaite, scored 1 runs. Team score: 115/7
+15.1: CJ Jordan faced AD Russell, scored 1 runs. Team score: 116/7
+15.2: DJ Willey faced AD Russell, scored 0 runs. Team score: 116/7
+15.3: DJ Willey faced AD Russell, scored 0 runs. Team score: 116/7
+15.4: DJ Willey faced AD Russell, scored 0 runs. Team score: 116/7
+15.5: DJ Willey faced AD Russell, scored 1 runs. Team score: 117/7
+15.6: CJ Jordan faced AD Russell, scored 0 runs. Team score: 117/7
+16.1: DJ Willey faced DJ Bravo, scored 0 runs. Team score: 117/7
+16.2: DJ Willey faced DJ Bravo, scored 6 runs. Team score: 123/7
+16.3: DJ Willey faced DJ Bravo, scored 0 runs. Team score: 123/7
+16.4: DJ Willey faced DJ Bravo, scored 1 runs. Team score: 124/7
+16.5: CJ Jordan faced DJ Bravo, scored 1 runs. Team score: 125/7
+16.6: DJ Willey faced DJ Bravo, scored 6 runs. Team score: 131/7
+17.1: CJ Jordan faced CR Brathwaite, scored 1 runs. Team score: 132/7
+17.2: DJ Willey faced CR Brathwaite, scored 4 runs. Team score: 136/7
+17.3: DJ Willey faced CR Brathwaite, scored 0 runs. Team score: 136/7
+caught!, Batsman: DJ Willey (21 runs from 14 balls), Bowler: CR Brathwaite (figures: 3/22). Fielders involved: J Charles. Team score: 136/8
+17.4: CJ Jordan faced CR Brathwaite, scored 1 runs. Team score: 137/8
+17.5: LE Plunkett faced CR Brathwaite, scored 1 runs. Team score: 138/8
+17.6: CJ Jordan faced CR Brathwaite, scored 0 runs. Team score: 138/8
+18.1: LE Plunkett faced DJ Bravo, scored 2 runs. Team score: 140/8
+18.2: LE Plunkett faced DJ Bravo, scored 2 runs. Team score: 142/8
+18.3: LE Plunkett faced DJ Bravo, scored 0 runs. Team score: 142/8
+caught!, Batsman: LE Plunkett (5 runs from 4 balls), Bowler: DJ Bravo (figures: 3/35). Fielders involved: S Badree. Team score: 142/9
+18.4: AU Rashid faced DJ Bravo, scored 1 runs. Team score: 143/9
+18.5: CJ Jordan faced DJ Bravo, scored 1 runs. Team score: 144/9
+18.6: AU Rashid faced DJ Bravo, scored 1 runs. Team score: 145/9
+19.1: AU Rashid faced AD Russell, scored 1 runs. Team score: 146/9
+19.2: CJ Jordan faced AD Russell, scored 0 runs. Team score: 146/9
+19.3: CJ Jordan faced AD Russell, scored 4 runs. Team score: 150/9
+19.4: CJ Jordan faced AD Russell, scored 2 runs. Team score: 152/9
+19.5: CJ Jordan faced AD Russell, scored 1 runs. Team score: 153/9
+19.6: AU Rashid faced AD Russell, scored 2 runs. Team score: 155/9
+End of innings for England: 155/9 in 20.0 overs
+Batsman scores:
+JJ Roy: 0 runs from 2 balls
+JE Root: 56 runs from 37 balls
+AD Hales: 1 runs from 3 balls
+EJG Morgan: 5 runs from 12 balls
+JC Buttler: 36 runs from 22 balls
+BA Stokes: 13 runs from 8 balls
+MM Ali: 0 runs from 2 balls
+DJ Willey: 21 runs from 14 balls
+CJ Jordan: 13 runs from 13 balls
+LE Plunkett: 5 runs from 4 balls
+AU Rashid: 5 runs from 4 balls
+Bowler figures:
+S Badree: 2 wickets for 16 runs
+AD Russell: 1 wickets for 23 runs
+SJ Benn: 0 wickets for 40 runs
+DJ Bravo: 3 wickets for 38 runs
+CR Brathwaite: 3 wickets for 24 runs
+DJG Sammy: 0 wickets for 14 runs
+
+Innings 2:
+0.1: J Charles faced DJ Willey, scored 0 runs. Team score: 0/0
+0.2: J Charles faced DJ Willey, scored 0 runs. Team score: 0/0
+0.3: J Charles faced DJ Willey, scored 0 runs. Team score: 0/0
+0.4: J Charles faced DJ Willey, scored 0 runs. Team score: 0/0
+0.5: J Charles faced DJ Willey, scored 0 runs. Team score: 0/0
+0.6: J Charles faced DJ Willey, scored 1 runs. Team score: 1/0
+1.1: J Charles faced JE Root, scored 0 runs. Team score: 1/0
+caught!, Batsman: J Charles (1 runs from 7 balls), Bowler: JE Root (figures: 1/0). Fielders involved: BA Stokes. Team score: 1/1
+1.2: CH Gayle faced JE Root, scored 4 runs. Team score: 5/1
+1.3: CH Gayle faced JE Root, scored 0 runs. Team score: 5/1
+caught!, Batsman: CH Gayle (4 runs from 2 balls), Bowler: JE Root (figures: 2/4). Fielders involved: BA Stokes. Team score: 5/2
+1.4: MN Samuels faced JE Root, scored 0 runs. Team score: 5/2
+1.5: MN Samuels faced JE Root, scored 4 runs. Team score: 9/2
+1.6: MN Samuels faced JE Root, scored 1 runs. Team score: 10/2
+2.1: MN Samuels faced DJ Willey, scored 0 runs. Team score: 10/2
+2.2: MN Samuels faced DJ Willey, scored 1 runs. Team score: 11/2
+2.3: LMP Simmons faced DJ Willey, scored 0 runs. Team score: 11/2
+lbw!, Batsman: LMP Simmons (0 runs from 1 balls), Bowler: DJ Willey (figures: 1/2). Fielders involved: None. Team score: 11/3
+2.4: DJ Bravo faced DJ Willey, scored 1 runs. Team score: 12/3
+2.5: MN Samuels faced DJ Willey, scored 1 runs. Team score: 13/3
+2.6: DJ Bravo faced DJ Willey, scored 0 runs. Team score: 13/3
+3.1: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 14/3
+3.2: DJ Bravo faced CJ Jordan, scored 1 runs. Team score: 15/3
+3.3: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 16/3
+3.4: DJ Bravo faced CJ Jordan, scored 0 runs. Team score: 16/3
+3.5: DJ Bravo faced CJ Jordan, scored 1 runs. Team score: 17/3
+3.6: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 18/3
+4.1: MN Samuels faced LE Plunkett, scored 0 runs. Team score: 18/3
+4.2: MN Samuels faced LE Plunkett, scored 0 runs. Team score: 18/3
+4.3: MN Samuels faced LE Plunkett, scored 0 runs. Team score: 18/3
+4.4: MN Samuels faced LE Plunkett, scored 1 runs. Team score: 19/3
+4.5: DJ Bravo faced LE Plunkett, scored 1 runs. Team score: 20/3
+4.6: MN Samuels faced LE Plunkett, scored 1 runs. Team score: 21/3
+5.1: MN Samuels faced CJ Jordan, scored 4 runs. Team score: 25/3
+5.2: MN Samuels faced CJ Jordan, scored 4 runs. Team score: 29/3
+5.3: MN Samuels faced CJ Jordan, scored 2 runs. Team score: 31/3
+5.4: MN Samuels faced CJ Jordan, scored 4 runs. Team score: 35/3
+5.5: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 36/3
+5.6: MN Samuels faced CJ Jordan, scored 0 runs. Team score: 36/3
+5.0: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 37/3
+6.1: MN Samuels faced LE Plunkett, scored 0 runs. Team score: 37/3
+6.2: MN Samuels faced LE Plunkett, scored 0 runs. Team score: 37/3
+6.3: MN Samuels faced LE Plunkett, scored 1 runs. Team score: 38/3
+6.4: DJ Bravo faced LE Plunkett, scored 0 runs. Team score: 38/3
+6.5: DJ Bravo faced LE Plunkett, scored 1 runs. Team score: 39/3
+6.6: MN Samuels faced LE Plunkett, scored 0 runs. Team score: 39/3
+7.1: DJ Bravo faced AU Rashid, scored 0 runs. Team score: 39/3
+7.2: DJ Bravo faced AU Rashid, scored 0 runs. Team score: 39/3
+7.3: DJ Bravo faced AU Rashid, scored 1 runs. Team score: 40/3
+7.4: MN Samuels faced AU Rashid, scored 1 runs. Team score: 41/3
+7.5: DJ Bravo faced AU Rashid, scored 1 runs. Team score: 42/3
+7.6: MN Samuels faced AU Rashid, scored 1 runs. Team score: 43/3
+8.1: MN Samuels faced LE Plunkett, scored 4 runs. Team score: 47/3
+8.2: MN Samuels faced LE Plunkett, scored 0 runs. Team score: 47/3
+8.3: MN Samuels faced LE Plunkett, scored 1 runs. Team score: 48/3
+8.4: DJ Bravo faced LE Plunkett, scored 1 runs. Team score: 49/3
+8.5: DJ Bravo faced LE Plunkett, scored 0 runs. Team score: 49/3
+8.6: DJ Bravo faced LE Plunkett, scored 1 runs. Team score: 50/3
+8.0: MN Samuels faced LE Plunkett, scored 0 runs. Team score: 50/3
+9.1: DJ Bravo faced AU Rashid, scored 1 runs. Team score: 51/3
+9.2: MN Samuels faced AU Rashid, scored 0 runs. Team score: 51/3
+9.3: MN Samuels faced AU Rashid, scored 1 runs. Team score: 52/3
+9.4: DJ Bravo faced AU Rashid, scored 1 runs. Team score: 53/3
+9.5: MN Samuels faced AU Rashid, scored 0 runs. Team score: 53/3
+9.6: MN Samuels faced AU Rashid, scored 1 runs. Team score: 54/3
+10.1: MN Samuels faced BA Stokes, scored 4 runs. Team score: 58/3
+10.2: MN Samuels faced BA Stokes, scored 0 runs. Team score: 58/3
+10.3: MN Samuels faced BA Stokes, scored 1 runs. Team score: 59/3
+10.4: MN Samuels faced BA Stokes, scored 1 runs. Team score: 60/3
+10.5: DJ Bravo faced BA Stokes, scored 1 runs. Team score: 61/3
+10.6: MN Samuels faced BA Stokes, scored 0 runs. Team score: 61/3
+10.0: MN Samuels faced BA Stokes, scored 1 runs. Team score: 62/3
+11.1: MN Samuels faced AU Rashid, scored 1 runs. Team score: 63/3
+11.2: DJ Bravo faced AU Rashid, scored 1 runs. Team score: 64/3
+11.3: MN Samuels faced AU Rashid, scored 0 runs. Team score: 64/3
+11.4: MN Samuels faced AU Rashid, scored 1 runs. Team score: 65/3
+11.5: DJ Bravo faced AU Rashid, scored 1 runs. Team score: 66/3
+11.6: MN Samuels faced AU Rashid, scored 1 runs. Team score: 67/3
+12.1: MN Samuels faced BA Stokes, scored 1 runs. Team score: 68/3
+12.2: DJ Bravo faced BA Stokes, scored 1 runs. Team score: 69/3
+12.3: DJ Bravo faced BA Stokes, scored 0 runs. Team score: 69/3
+12.4: DJ Bravo faced BA Stokes, scored 4 runs. Team score: 73/3
+12.5: DJ Bravo faced BA Stokes, scored 1 runs. Team score: 74/3
+12.6: MN Samuels faced BA Stokes, scored 1 runs. Team score: 75/3
+12.0: DJ Bravo faced BA Stokes, scored 1 runs. Team score: 76/3
+13.1: DJ Bravo faced AU Rashid, scored 1 runs. Team score: 77/3
+13.2: MN Samuels faced AU Rashid, scored 1 runs. Team score: 78/3
+13.3: DJ Bravo faced AU Rashid, scored 6 runs. Team score: 84/3
+13.4: DJ Bravo faced AU Rashid, scored 1 runs. Team score: 85/3
+13.5: MN Samuels faced AU Rashid, scored 1 runs. Team score: 86/3
+13.6: DJ Bravo faced AU Rashid, scored 0 runs. Team score: 86/3
+caught!, Batsman: DJ Bravo (29 runs from 29 balls), Bowler: AU Rashid (figures: 1/23). Fielders involved: JE Root. Team score: 86/4
+14.1: MN Samuels faced LE Plunkett, scored 4 runs. Team score: 90/4
+14.2: MN Samuels faced LE Plunkett, scored 1 runs. Team score: 91/4
+14.3: AD Russell faced LE Plunkett, scored 0 runs. Team score: 91/4
+14.4: AD Russell faced LE Plunkett, scored 1 runs. Team score: 92/4
+14.5: MN Samuels faced LE Plunkett, scored 6 runs. Team score: 98/4
+14.6: MN Samuels faced LE Plunkett, scored 6 runs. Team score: 104/4
+15.1: AD Russell faced DJ Willey, scored 0 runs. Team score: 104/4
+caught!, Batsman: AD Russell (1 runs from 3 balls), Bowler: DJ Willey (figures: 2/4). Fielders involved: BA Stokes. Team score: 104/5
+15.2: DJG Sammy faced DJ Willey, scored 1 runs. Team score: 105/5
+15.3: DJG Sammy faced DJ Willey, scored 2 runs. Team score: 107/5
+15.4: DJG Sammy faced DJ Willey, scored 0 runs. Team score: 107/5
+caught!, Batsman: DJG Sammy (3 runs from 3 balls), Bowler: DJ Willey (figures: 3/7). Fielders involved: AD Hales. Team score: 107/6
+15.5: MN Samuels faced DJ Willey, scored 0 runs. Team score: 107/6
+15.6: MN Samuels faced DJ Willey, scored 2 runs. Team score: 109/6
+15.0: MN Samuels faced DJ Willey, scored 1 runs. Team score: 110/6
+15.1: MN Samuels faced DJ Willey, scored 1 runs. Team score: 111/6
+16.1: MN Samuels faced CJ Jordan, scored 0 runs. Team score: 111/6
+16.2: MN Samuels faced CJ Jordan, scored 4 runs. Team score: 115/6
+16.3: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 116/6
+16.4: CR Brathwaite faced CJ Jordan, scored 1 runs. Team score: 117/6
+16.5: MN Samuels faced CJ Jordan, scored 0 runs. Team score: 117/6
+16.6: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 118/6
+17.1: MN Samuels faced DJ Willey, scored 2 runs. Team score: 120/6
+17.2: MN Samuels faced DJ Willey, scored 1 runs. Team score: 121/6
+17.3: CR Brathwaite faced DJ Willey, scored 2 runs. Team score: 123/6
+17.4: CR Brathwaite faced DJ Willey, scored 1 runs. Team score: 124/6
+17.5: MN Samuels faced DJ Willey, scored 1 runs. Team score: 125/6
+17.6: CR Brathwaite faced DJ Willey, scored 4 runs. Team score: 129/6
+18.1: MN Samuels faced CJ Jordan, scored 4 runs. Team score: 133/6
+18.2: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 134/6
+18.3: CR Brathwaite faced CJ Jordan, scored 1 runs. Team score: 135/6
+18.4: MN Samuels faced CJ Jordan, scored 1 runs. Team score: 136/6
+18.5: CR Brathwaite faced CJ Jordan, scored 1 runs. Team score: 137/6
+18.6: MN Samuels faced CJ Jordan, scored 0 runs. Team score: 137/6
+19.1: CR Brathwaite faced BA Stokes, scored 6 runs. Team score: 143/6
+19.2: CR Brathwaite faced BA Stokes, scored 6 runs. Team score: 149/6
+19.3: CR Brathwaite faced BA Stokes, scored 6 runs. Team score: 155/6
+19.4: CR Brathwaite faced BA Stokes, scored 6 runs. Team score: 161/6
+End of innings for West Indies: 161/6 in 20.0 overs
+Batsman scores:
+J Charles: 1 runs from 7 balls
+CH Gayle: 4 runs from 2 balls
+MN Samuels: 89 runs from 69 balls
+LMP Simmons: 0 runs from 1 balls
+DJ Bravo: 29 runs from 29 balls
+AD Russell: 1 runs from 3 balls
+DJG Sammy: 3 runs from 3 balls
+CR Brathwaite: 34 runs from 10 balls
+Bowler figures:
+DJ Willey: 3 wickets for 22 runs
+JE Root: 2 wickets for 9 runs
+CJ Jordan: 0 wickets for 36 runs
+LE Plunkett: 0 wickets for 30 runs
+AU Rashid: 1 wickets for 23 runs
+BA Stokes: 0 wickets for 41 runs
+

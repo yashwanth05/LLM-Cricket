@@ -1,0 +1,264 @@
+Match: World T20 - T20
+Date: 2016-03-19
+Venue: Eden Gardens, Kolkata
+Teams: India vs Pakistan
+Toss: India won the toss and decided to field
+Result: India won by 6 wickets
+Man of the Match: V Kohli
+
+Innings 1:
+0.1: Sharjeel Khan faced A Nehra, scored 1 runs. Team score: 1/0
+0.2: Ahmed Shehzad faced A Nehra, scored 1 runs. Team score: 2/0
+0.3: Sharjeel Khan faced A Nehra, scored 0 runs. Team score: 2/0
+0.4: Sharjeel Khan faced A Nehra, scored 1 runs. Team score: 3/0
+0.5: Ahmed Shehzad faced A Nehra, scored 0 runs. Team score: 3/0
+0.6: Ahmed Shehzad faced A Nehra, scored 0 runs. Team score: 3/0
+1.1: Sharjeel Khan faced R Ashwin, scored 0 runs. Team score: 3/0
+1.2: Sharjeel Khan faced R Ashwin, scored 0 runs. Team score: 3/0
+1.3: Sharjeel Khan faced R Ashwin, scored 0 runs. Team score: 3/0
+1.4: Sharjeel Khan faced R Ashwin, scored 0 runs. Team score: 3/0
+1.5: Sharjeel Khan faced R Ashwin, scored 1 runs. Team score: 4/0
+1.6: Ahmed Shehzad faced R Ashwin, scored 1 runs. Team score: 5/0
+2.1: Ahmed Shehzad faced A Nehra, scored 1 runs. Team score: 6/0
+2.2: Sharjeel Khan faced A Nehra, scored 1 runs. Team score: 7/0
+2.3: Ahmed Shehzad faced A Nehra, scored 0 runs. Team score: 7/0
+2.4: Ahmed Shehzad faced A Nehra, scored 0 runs. Team score: 7/0
+2.5: Ahmed Shehzad faced A Nehra, scored 1 runs. Team score: 8/0
+2.6: Sharjeel Khan faced A Nehra, scored 4 runs. Team score: 12/0
+3.1: Ahmed Shehzad faced R Ashwin, scored 1 runs. Team score: 13/0
+3.2: Sharjeel Khan faced R Ashwin, scored 0 runs. Team score: 13/0
+3.3: Sharjeel Khan faced R Ashwin, scored 1 runs. Team score: 14/0
+3.4: Ahmed Shehzad faced R Ashwin, scored 4 runs. Team score: 18/0
+3.5: Ahmed Shehzad faced R Ashwin, scored 0 runs. Team score: 18/0
+3.6: Ahmed Shehzad faced R Ashwin, scored 1 runs. Team score: 19/0
+4.1: Ahmed Shehzad faced JJ Bumrah, scored 1 runs. Team score: 20/0
+4.2: Sharjeel Khan faced JJ Bumrah, scored 0 runs. Team score: 20/0
+4.3: Sharjeel Khan faced JJ Bumrah, scored 0 runs. Team score: 20/0
+4.4: Sharjeel Khan faced JJ Bumrah, scored 0 runs. Team score: 20/0
+4.5: Sharjeel Khan faced JJ Bumrah, scored 0 runs. Team score: 20/0
+4.6: Sharjeel Khan faced JJ Bumrah, scored 4 runs. Team score: 24/0
+5.1: Ahmed Shehzad faced R Ashwin, scored 0 runs. Team score: 24/0
+5.2: Ahmed Shehzad faced R Ashwin, scored 1 runs. Team score: 25/0
+5.3: Sharjeel Khan faced R Ashwin, scored 1 runs. Team score: 26/0
+5.4: Ahmed Shehzad faced R Ashwin, scored 1 runs. Team score: 27/0
+5.5: Sharjeel Khan faced R Ashwin, scored 0 runs. Team score: 27/0
+5.6: Sharjeel Khan faced R Ashwin, scored 1 runs. Team score: 28/0
+6.1: Sharjeel Khan faced RA Jadeja, scored 1 runs. Team score: 29/0
+6.2: Sharjeel Khan faced RA Jadeja, scored 0 runs. Team score: 29/0
+6.3: Sharjeel Khan faced RA Jadeja, scored 1 runs. Team score: 30/0
+6.4: Ahmed Shehzad faced RA Jadeja, scored 0 runs. Team score: 30/0
+6.5: Ahmed Shehzad faced RA Jadeja, scored 4 runs. Team score: 34/0
+6.6: Ahmed Shehzad faced RA Jadeja, scored 0 runs. Team score: 34/0
+6.0: Ahmed Shehzad faced RA Jadeja, scored 0 runs. Team score: 34/0
+7.1: Sharjeel Khan faced SK Raina, scored 1 runs. Team score: 35/0
+7.2: Ahmed Shehzad faced SK Raina, scored 2 runs. Team score: 37/0
+7.3: Ahmed Shehzad faced SK Raina, scored 1 runs. Team score: 38/0
+7.4: Sharjeel Khan faced SK Raina, scored 0 runs. Team score: 38/0
+caught!, Batsman: Sharjeel Khan (18 runs from 25 balls), Bowler: SK Raina (figures: 1/4). Fielders involved: HH Pandya. Team score: 38/1
+7.5: Ahmed Shehzad faced SK Raina, scored 0 runs. Team score: 38/1
+7.6: Ahmed Shehzad faced SK Raina, scored 1 runs. Team score: 39/1
+8.1: Ahmed Shehzad faced RA Jadeja, scored 1 runs. Team score: 40/1
+8.2: Shahid Afridi faced RA Jadeja, scored 0 runs. Team score: 40/1
+8.3: Shahid Afridi faced RA Jadeja, scored 0 runs. Team score: 40/1
+8.4: Shahid Afridi faced RA Jadeja, scored 1 runs. Team score: 41/1
+8.5: Ahmed Shehzad faced RA Jadeja, scored 1 runs. Team score: 42/1
+8.6: Shahid Afridi faced RA Jadeja, scored 0 runs. Team score: 42/1
+9.1: Ahmed Shehzad faced JJ Bumrah, scored 4 runs. Team score: 46/1
+9.2: Ahmed Shehzad faced JJ Bumrah, scored 0 runs. Team score: 46/1
+caught!, Batsman: Ahmed Shehzad (27 runs from 28 balls), Bowler: JJ Bumrah (figures: 1/9). Fielders involved: RA Jadeja. Team score: 46/2
+9.3: Shahid Afridi faced JJ Bumrah, scored 4 runs. Team score: 50/2
+9.4: Shahid Afridi faced JJ Bumrah, scored 0 runs. Team score: 50/2
+9.5: Shahid Afridi faced JJ Bumrah, scored 0 runs. Team score: 50/2
+9.6: Shahid Afridi faced JJ Bumrah, scored 1 runs. Team score: 51/2
+10.1: Shahid Afridi faced RA Jadeja, scored 0 runs. Team score: 51/2
+10.2: Shahid Afridi faced RA Jadeja, scored 1 runs. Team score: 52/2
+10.3: Umar Akmal faced RA Jadeja, scored 0 runs. Team score: 52/2
+10.4: Umar Akmal faced RA Jadeja, scored 0 runs. Team score: 52/2
+10.5: Umar Akmal faced RA Jadeja, scored 1 runs. Team score: 53/2
+10.6: Shahid Afridi faced RA Jadeja, scored 1 runs. Team score: 54/2
+11.1: Shahid Afridi faced HH Pandya, scored 1 runs. Team score: 55/2
+11.2: Umar Akmal faced HH Pandya, scored 4 runs. Team score: 59/2
+11.3: Umar Akmal faced HH Pandya, scored 1 runs. Team score: 60/2
+11.4: Shahid Afridi faced HH Pandya, scored 0 runs. Team score: 60/2
+11.5: Shahid Afridi faced HH Pandya, scored 0 runs. Team score: 60/2
+caught!, Batsman: Shahid Afridi (9 runs from 14 balls), Bowler: HH Pandya (figures: 1/6). Fielders involved: V Kohli. Team score: 60/3
+11.6: Umar Akmal faced HH Pandya, scored 5 runs. Team score: 65/3
+12.1: Umar Akmal faced A Nehra, scored 0 runs. Team score: 65/3
+12.2: Umar Akmal faced A Nehra, scored 0 runs. Team score: 65/3
+12.3: Umar Akmal faced A Nehra, scored 1 runs. Team score: 66/3
+12.4: Shoaib Malik faced A Nehra, scored 0 runs. Team score: 66/3
+12.5: Shoaib Malik faced A Nehra, scored 0 runs. Team score: 66/3
+12.6: Shoaib Malik faced A Nehra, scored 1 runs. Team score: 67/3
+13.1: Shoaib Malik faced HH Pandya, scored 1 runs. Team score: 68/3
+13.2: Umar Akmal faced HH Pandya, scored 1 runs. Team score: 69/3
+13.3: Shoaib Malik faced HH Pandya, scored 0 runs. Team score: 69/3
+13.4: Shoaib Malik faced HH Pandya, scored 6 runs. Team score: 75/3
+13.5: Shoaib Malik faced HH Pandya, scored 1 runs. Team score: 76/3
+13.6: Umar Akmal faced HH Pandya, scored 6 runs. Team score: 82/3
+14.1: Shoaib Malik faced JJ Bumrah, scored 1 runs. Team score: 83/3
+14.2: Umar Akmal faced JJ Bumrah, scored 2 runs. Team score: 85/3
+14.3: Shoaib Malik faced JJ Bumrah, scored 1 runs. Team score: 86/3
+14.4: Umar Akmal faced JJ Bumrah, scored 1 runs. Team score: 87/3
+14.5: Shoaib Malik faced JJ Bumrah, scored 4 runs. Team score: 91/3
+14.6: Shoaib Malik faced JJ Bumrah, scored 4 runs. Team score: 95/3
+14.0: Shoaib Malik faced JJ Bumrah, scored 0 runs. Team score: 95/3
+15.1: Umar Akmal faced RA Jadeja, scored 0 runs. Team score: 95/3
+15.2: Umar Akmal faced RA Jadeja, scored 1 runs. Team score: 96/3
+15.3: Shoaib Malik faced RA Jadeja, scored 4 runs. Team score: 100/3
+15.4: Shoaib Malik faced RA Jadeja, scored 1 runs. Team score: 101/3
+15.5: Umar Akmal faced RA Jadeja, scored 0 runs. Team score: 101/3
+caught!, Batsman: Umar Akmal (23 runs from 16 balls), Bowler: RA Jadeja (figures: 1/18). Fielders involved: MS Dhoni. Team score: 101/4
+15.6: Sarfraz Ahmed faced RA Jadeja, scored 2 runs. Team score: 103/4
+16.1: Shoaib Malik faced A Nehra, scored 2 runs. Team score: 105/4
+16.2: Shoaib Malik faced A Nehra, scored 0 runs. Team score: 105/4
+caught!, Batsman: Shoaib Malik (26 runs from 16 balls), Bowler: A Nehra (figures: 1/14). Fielders involved: R Ashwin. Team score: 105/5
+16.3: Sarfraz Ahmed faced A Nehra, scored 1 runs. Team score: 106/5
+16.4: Mohammad Hafeez faced A Nehra, scored 1 runs. Team score: 107/5
+16.5: Sarfraz Ahmed faced A Nehra, scored 4 runs. Team score: 111/5
+16.6: Sarfraz Ahmed faced A Nehra, scored 0 runs. Team score: 111/5
+17.1: Mohammad Hafeez faced JJ Bumrah, scored 1 runs. Team score: 112/5
+17.2: Sarfraz Ahmed faced JJ Bumrah, scored 1 runs. Team score: 113/5
+17.3: Mohammad Hafeez faced JJ Bumrah, scored 2 runs. Team score: 115/5
+17.4: Mohammad Hafeez faced JJ Bumrah, scored 1 runs. Team score: 116/5
+17.5: Sarfraz Ahmed faced JJ Bumrah, scored 1 runs. Team score: 117/5
+17.6: Mohammad Hafeez faced JJ Bumrah, scored 1 runs. Team score: 118/5
+End of innings for Pakistan: 118/5 in 17.6 overs
+Batsman scores:
+Sharjeel Khan: 18 runs from 25 balls
+Ahmed Shehzad: 27 runs from 28 balls
+Shahid Afridi: 9 runs from 14 balls
+Umar Akmal: 23 runs from 16 balls
+Shoaib Malik: 26 runs from 16 balls
+Sarfraz Ahmed: 9 runs from 6 balls
+Mohammad Hafeez: 6 runs from 5 balls
+Bowler figures:
+A Nehra: 1 wickets for 20 runs
+R Ashwin: 0 wickets for 13 runs
+JJ Bumrah: 1 wickets for 34 runs
+RA Jadeja: 1 wickets for 20 runs
+SK Raina: 1 wickets for 5 runs
+HH Pandya: 1 wickets for 26 runs
+
+Innings 2:
+0.1: RG Sharma faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.2: RG Sharma faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.3: RG Sharma faced Mohammad Amir, scored 1 runs. Team score: 1/0
+0.4: RG Sharma faced Mohammad Amir, scored 1 runs. Team score: 2/0
+0.5: S Dhawan faced Mohammad Amir, scored 1 runs. Team score: 3/0
+0.6: RG Sharma faced Mohammad Amir, scored 1 runs. Team score: 4/0
+0.0: S Dhawan faced Mohammad Amir, scored 0 runs. Team score: 4/0
+1.1: RG Sharma faced Mohammad Irfan, scored 4 runs. Team score: 8/0
+1.2: RG Sharma faced Mohammad Irfan, scored 1 runs. Team score: 9/0
+1.3: RG Sharma faced Mohammad Irfan, scored 0 runs. Team score: 9/0
+1.4: RG Sharma faced Mohammad Irfan, scored 0 runs. Team score: 9/0
+1.5: RG Sharma faced Mohammad Irfan, scored 0 runs. Team score: 9/0
+1.6: RG Sharma faced Mohammad Irfan, scored 4 runs. Team score: 13/0
+1.0: RG Sharma faced Mohammad Irfan, scored 1 runs. Team score: 14/0
+2.1: RG Sharma faced Mohammad Amir, scored 0 runs. Team score: 14/0
+caught!, Batsman: RG Sharma (13 runs from 13 balls), Bowler: Mohammad Amir (figures: 1/4). Fielders involved: Shoaib Malik. Team score: 14/1
+2.2: S Dhawan faced Mohammad Amir, scored 2 runs. Team score: 16/1
+2.3: S Dhawan faced Mohammad Amir, scored 0 runs. Team score: 16/1
+2.4: S Dhawan faced Mohammad Amir, scored 0 runs. Team score: 16/1
+2.5: S Dhawan faced Mohammad Amir, scored 0 runs. Team score: 16/1
+2.6: S Dhawan faced Mohammad Amir, scored 0 runs. Team score: 16/1
+3.1: V Kohli faced Mohammad Irfan, scored 1 runs. Team score: 17/1
+3.2: S Dhawan faced Mohammad Irfan, scored 0 runs. Team score: 17/1
+3.3: S Dhawan faced Mohammad Irfan, scored 0 runs. Team score: 17/1
+3.4: S Dhawan faced Mohammad Irfan, scored 0 runs. Team score: 17/1
+3.5: S Dhawan faced Mohammad Irfan, scored 1 runs. Team score: 18/1
+3.6: V Kohli faced Mohammad Irfan, scored 0 runs. Team score: 18/1
+4.1: S Dhawan faced Mohammad Sami, scored 4 runs. Team score: 22/1
+4.2: S Dhawan faced Mohammad Sami, scored 1 runs. Team score: 23/1
+4.3: S Dhawan faced Mohammad Sami, scored 0 runs. Team score: 23/1
+4.4: S Dhawan faced Mohammad Sami, scored 0 runs. Team score: 23/1
+bowled!, Batsman: S Dhawan (9 runs from 15 balls), Bowler: Mohammad Sami (figures: 1/5). Fielders involved: None. Team score: 23/2
+4.5: SK Raina faced Mohammad Sami, scored 0 runs. Team score: 23/2
+bowled!, Batsman: SK Raina (0 runs from 1 balls), Bowler: Mohammad Sami (figures: 2/5). Fielders involved: None. Team score: 23/3
+4.6: Yuvraj Singh faced Mohammad Sami, scored 0 runs. Team score: 23/3
+4.0: Yuvraj Singh faced Mohammad Sami, scored 0 runs. Team score: 23/3
+5.1: V Kohli faced Shahid Afridi, scored 1 runs. Team score: 24/3
+5.2: Yuvraj Singh faced Shahid Afridi, scored 1 runs. Team score: 25/3
+5.3: V Kohli faced Shahid Afridi, scored 1 runs. Team score: 26/3
+5.4: Yuvraj Singh faced Shahid Afridi, scored 1 runs. Team score: 27/3
+5.5: Yuvraj Singh faced Shahid Afridi, scored 0 runs. Team score: 27/3
+5.6: Yuvraj Singh faced Shahid Afridi, scored 0 runs. Team score: 27/3
+5.0: Yuvraj Singh faced Shahid Afridi, scored 1 runs. Team score: 28/3
+5.1: Yuvraj Singh faced Shahid Afridi, scored 0 runs. Team score: 28/3
+6.1: V Kohli faced Mohammad Sami, scored 4 runs. Team score: 32/3
+6.2: V Kohli faced Mohammad Sami, scored 1 runs. Team score: 33/3
+6.3: Yuvraj Singh faced Mohammad Sami, scored 4 runs. Team score: 37/3
+6.4: Yuvraj Singh faced Mohammad Sami, scored 1 runs. Team score: 38/3
+6.5: V Kohli faced Mohammad Sami, scored 2 runs. Team score: 40/3
+6.6: V Kohli faced Mohammad Sami, scored 0 runs. Team score: 40/3
+7.1: Yuvraj Singh faced Shahid Afridi, scored 1 runs. Team score: 41/3
+7.2: V Kohli faced Shahid Afridi, scored 1 runs. Team score: 42/3
+7.3: Yuvraj Singh faced Shahid Afridi, scored 1 runs. Team score: 43/3
+7.4: V Kohli faced Shahid Afridi, scored 1 runs. Team score: 44/3
+7.5: Yuvraj Singh faced Shahid Afridi, scored 1 runs. Team score: 45/3
+7.6: V Kohli faced Shahid Afridi, scored 1 runs. Team score: 46/3
+8.1: V Kohli faced Shoaib Malik, scored 1 runs. Team score: 47/3
+8.2: Yuvraj Singh faced Shoaib Malik, scored 1 runs. Team score: 48/3
+8.3: V Kohli faced Shoaib Malik, scored 1 runs. Team score: 49/3
+8.4: V Kohli faced Shoaib Malik, scored 1 runs. Team score: 50/3
+8.5: Yuvraj Singh faced Shoaib Malik, scored 2 runs. Team score: 52/3
+8.6: Yuvraj Singh faced Shoaib Malik, scored 0 runs. Team score: 52/3
+8.0: Yuvraj Singh faced Shoaib Malik, scored 2 runs. Team score: 54/3
+9.1: V Kohli faced Wahab Riaz, scored 4 runs. Team score: 58/3
+9.2: V Kohli faced Wahab Riaz, scored 1 runs. Team score: 59/3
+9.3: Yuvraj Singh faced Wahab Riaz, scored 0 runs. Team score: 59/3
+9.4: Yuvraj Singh faced Wahab Riaz, scored 0 runs. Team score: 59/3
+9.5: Yuvraj Singh faced Wahab Riaz, scored 1 runs. Team score: 60/3
+9.6: V Kohli faced Wahab Riaz, scored 0 runs. Team score: 60/3
+10.1: Yuvraj Singh faced Shoaib Malik, scored 2 runs. Team score: 62/3
+10.2: V Kohli faced Shoaib Malik, scored 1 runs. Team score: 63/3
+10.3: Yuvraj Singh faced Shoaib Malik, scored 1 runs. Team score: 64/3
+10.4: V Kohli faced Shoaib Malik, scored 6 runs. Team score: 70/3
+10.5: V Kohli faced Shoaib Malik, scored 0 runs. Team score: 70/3
+10.6: V Kohli faced Shoaib Malik, scored 4 runs. Team score: 74/3
+10.0: V Kohli faced Shoaib Malik, scored 0 runs. Team score: 74/3
+11.1: Yuvraj Singh faced Wahab Riaz, scored 6 runs. Team score: 80/3
+11.2: Yuvraj Singh faced Wahab Riaz, scored 1 runs. Team score: 81/3
+11.3: V Kohli faced Wahab Riaz, scored 1 runs. Team score: 82/3
+11.4: Yuvraj Singh faced Wahab Riaz, scored 1 runs. Team score: 83/3
+11.5: V Kohli faced Wahab Riaz, scored 1 runs. Team score: 84/3
+11.6: Yuvraj Singh faced Wahab Riaz, scored 0 runs. Team score: 84/3
+caught!, Batsman: Yuvraj Singh (28 runs from 26 balls), Bowler: Wahab Riaz (figures: 1/16). Fielders involved: Mohammad Sami. Team score: 84/4
+12.1: V Kohli faced Shahid Afridi, scored 4 runs. Team score: 88/4
+12.2: V Kohli faced Shahid Afridi, scored 0 runs. Team score: 88/4
+12.3: V Kohli faced Shahid Afridi, scored 0 runs. Team score: 88/4
+12.4: V Kohli faced Shahid Afridi, scored 1 runs. Team score: 89/4
+12.5: MS Dhoni faced Shahid Afridi, scored 1 runs. Team score: 90/4
+12.6: V Kohli faced Shahid Afridi, scored 1 runs. Team score: 91/4
+13.1: V Kohli faced Mohammad Amir, scored 1 runs. Team score: 92/4
+13.2: MS Dhoni faced Mohammad Amir, scored 1 runs. Team score: 93/4
+13.3: V Kohli faced Mohammad Amir, scored 1 runs. Team score: 94/4
+13.4: MS Dhoni faced Mohammad Amir, scored 1 runs. Team score: 95/4
+13.5: V Kohli faced Mohammad Amir, scored 0 runs. Team score: 95/4
+13.6: V Kohli faced Mohammad Amir, scored 4 runs. Team score: 99/4
+14.1: MS Dhoni faced Shahid Afridi, scored 1 runs. Team score: 100/4
+14.2: V Kohli faced Shahid Afridi, scored 4 runs. Team score: 104/4
+14.3: V Kohli faced Shahid Afridi, scored 1 runs. Team score: 105/4
+14.4: MS Dhoni faced Shahid Afridi, scored 0 runs. Team score: 105/4
+14.5: MS Dhoni faced Shahid Afridi, scored 1 runs. Team score: 106/4
+14.6: V Kohli faced Shahid Afridi, scored 0 runs. Team score: 106/4
+15.1: MS Dhoni faced Mohammad Irfan, scored 1 runs. Team score: 107/4
+15.2: V Kohli faced Mohammad Irfan, scored 4 runs. Team score: 111/4
+15.3: V Kohli faced Mohammad Irfan, scored 1 runs. Team score: 112/4
+15.4: MS Dhoni faced Mohammad Irfan, scored 6 runs. Team score: 118/4
+15.5: MS Dhoni faced Mohammad Irfan, scored 1 runs. Team score: 119/4
+End of innings for India: 119/4 in 16.5 overs
+Batsman scores:
+RG Sharma: 13 runs from 13 balls
+S Dhawan: 9 runs from 15 balls
+V Kohli: 56 runs from 38 balls
+SK Raina: 0 runs from 1 balls
+Yuvraj Singh: 28 runs from 26 balls
+MS Dhoni: 13 runs from 9 balls
+Bowler figures:
+Mohammad Amir: 1 wickets for 14 runs
+Mohammad Irfan: 0 wickets for 25 runs
+Mohammad Sami: 2 wickets for 17 runs
+Shahid Afridi: 0 wickets for 25 runs
+Shoaib Malik: 0 wickets for 22 runs
+Wahab Riaz: 1 wickets for 16 runs
+

@@ -1,0 +1,299 @@
+Match: World T20 - T20
+Date: 2014-03-17
+Venue: Sylhet Stadium
+Teams: Netherlands vs United Arab Emirates
+Toss: United Arab Emirates won the toss and decided to bat
+Result: Netherlands won by 6 wickets
+Man of the Match: TLW Cooper
+
+Innings 1:
+0.1: Amjad Ali faced MR Swart, scored 4 runs. Team score: 4/0
+0.2: Amjad Ali faced MR Swart, scored 1 runs. Team score: 5/0
+0.3: Faizan Asif faced MR Swart, scored 0 runs. Team score: 5/0
+0.4: Faizan Asif faced MR Swart, scored 6 runs. Team score: 11/0
+0.5: Faizan Asif faced MR Swart, scored 0 runs. Team score: 11/0
+0.6: Faizan Asif faced MR Swart, scored 0 runs. Team score: 11/0
+caught!, Batsman: Faizan Asif (6 runs from 4 balls), Bowler: MR Swart (figures: 1/11). Fielders involved: Ahsan Malik. Team score: 11/1
+1.1: Amjad Ali faced T van der Gugten, scored 1 runs. Team score: 12/1
+1.2: Amjad Ali faced T van der Gugten, scored 0 runs. Team score: 12/1
+1.3: Amjad Ali faced T van der Gugten, scored 0 runs. Team score: 12/1
+1.4: Amjad Ali faced T van der Gugten, scored 0 runs. Team score: 12/1
+1.5: Amjad Ali faced T van der Gugten, scored 0 runs. Team score: 12/1
+bowled!, Batsman: Amjad Ali (6 runs from 7 balls), Bowler: T van der Gugten (figures: 1/1). Fielders involved: None. Team score: 12/2
+1.6: SP Patil faced T van der Gugten, scored 1 runs. Team score: 13/2
+1.0: Khurram Khan faced T van der Gugten, scored 0 runs. Team score: 13/2
+2.1: SP Patil faced Mudassar Bukhari, scored 0 runs. Team score: 13/2
+2.2: SP Patil faced Mudassar Bukhari, scored 1 runs. Team score: 14/2
+2.3: SP Patil faced Mudassar Bukhari, scored 0 runs. Team score: 14/2
+2.4: SP Patil faced Mudassar Bukhari, scored 0 runs. Team score: 14/2
+2.5: SP Patil faced Mudassar Bukhari, scored 0 runs. Team score: 14/2
+2.6: SP Patil faced Mudassar Bukhari, scored 1 runs. Team score: 15/2
+2.0: Khurram Khan faced Mudassar Bukhari, scored 1 runs. Team score: 16/2
+3.1: Khurram Khan faced T van der Gugten, scored 1 runs. Team score: 17/2
+3.2: SP Patil faced T van der Gugten, scored 1 runs. Team score: 18/2
+3.3: Khurram Khan faced T van der Gugten, scored 4 runs. Team score: 22/2
+3.4: Khurram Khan faced T van der Gugten, scored 1 runs. Team score: 23/2
+3.5: SP Patil faced T van der Gugten, scored 2 runs. Team score: 25/2
+3.6: SP Patil faced T van der Gugten, scored 0 runs. Team score: 25/2
+4.1: Khurram Khan faced LV van Beek, scored 1 runs. Team score: 26/2
+4.2: SP Patil faced LV van Beek, scored 2 runs. Team score: 28/2
+4.3: SP Patil faced LV van Beek, scored 1 runs. Team score: 29/2
+4.4: SP Patil faced LV van Beek, scored 0 runs. Team score: 29/2
+4.5: SP Patil faced LV van Beek, scored 1 runs. Team score: 30/2
+4.6: Khurram Khan faced LV van Beek, scored 0 runs. Team score: 30/2
+4.0: Khurram Khan faced LV van Beek, scored 1 runs. Team score: 31/2
+5.1: Khurram Khan faced Mudassar Bukhari, scored 2 runs. Team score: 33/2
+5.2: Khurram Khan faced Mudassar Bukhari, scored 4 runs. Team score: 37/2
+5.3: Khurram Khan faced Mudassar Bukhari, scored 1 runs. Team score: 38/2
+5.4: SP Patil faced Mudassar Bukhari, scored 1 runs. Team score: 39/2
+5.5: Khurram Khan faced Mudassar Bukhari, scored 0 runs. Team score: 39/2
+5.6: Khurram Khan faced Mudassar Bukhari, scored 2 runs. Team score: 41/2
+6.1: SP Patil faced MR Swart, scored 1 runs. Team score: 42/2
+6.2: Khurram Khan faced MR Swart, scored 1 runs. Team score: 43/2
+6.3: SP Patil faced MR Swart, scored 1 runs. Team score: 44/2
+6.4: Khurram Khan faced MR Swart, scored 2 runs. Team score: 46/2
+6.5: SP Patil faced MR Swart, scored 1 runs. Team score: 47/2
+6.6: Khurram Khan faced MR Swart, scored 1 runs. Team score: 48/2
+6.0: SP Patil faced MR Swart, scored 1 runs. Team score: 49/2
+7.1: SP Patil faced LV van Beek, scored 0 runs. Team score: 49/2
+7.2: SP Patil faced LV van Beek, scored 4 runs. Team score: 53/2
+7.3: SP Patil faced LV van Beek, scored 1 runs. Team score: 54/2
+7.4: Khurram Khan faced LV van Beek, scored 4 runs. Team score: 58/2
+7.5: Khurram Khan faced LV van Beek, scored 5 runs. Team score: 63/2
+7.6: Khurram Khan faced LV van Beek, scored 1 runs. Team score: 64/2
+7.0: SP Patil faced LV van Beek, scored 0 runs. Team score: 64/2
+8.1: Khurram Khan faced PM Seelaar, scored 0 runs. Team score: 64/2
+8.2: Khurram Khan faced PM Seelaar, scored 1 runs. Team score: 65/2
+8.3: SP Patil faced PM Seelaar, scored 1 runs. Team score: 66/2
+8.4: Khurram Khan faced PM Seelaar, scored 1 runs. Team score: 67/2
+8.5: SP Patil faced PM Seelaar, scored 1 runs. Team score: 68/2
+8.6: Khurram Khan faced PM Seelaar, scored 0 runs. Team score: 68/2
+9.1: SP Patil faced Ahsan Malik, scored 0 runs. Team score: 68/2
+9.2: SP Patil faced Ahsan Malik, scored 1 runs. Team score: 69/2
+9.3: Khurram Khan faced Ahsan Malik, scored 0 runs. Team score: 69/2
+9.4: Khurram Khan faced Ahsan Malik, scored 1 runs. Team score: 70/2
+9.5: SP Patil faced Ahsan Malik, scored 1 runs. Team score: 71/2
+9.6: Khurram Khan faced Ahsan Malik, scored 4 runs. Team score: 75/2
+10.1: SP Patil faced TLW Cooper, scored 4 runs. Team score: 79/2
+10.2: SP Patil faced TLW Cooper, scored 0 runs. Team score: 79/2
+bowled!, Batsman: SP Patil (28 runs from 30 balls), Bowler: TLW Cooper (figures: 1/4). Fielders involved: None. Team score: 79/3
+10.3: Shaiman Anwar faced TLW Cooper, scored 0 runs. Team score: 79/3
+10.4: Shaiman Anwar faced TLW Cooper, scored 1 runs. Team score: 80/3
+10.5: Khurram Khan faced TLW Cooper, scored 0 runs. Team score: 80/3
+bowled!, Batsman: Khurram Khan (39 runs from 27 balls), Bowler: TLW Cooper (figures: 2/5). Fielders involved: None. Team score: 80/4
+10.6: Rohan Mustafa faced TLW Cooper, scored 1 runs. Team score: 81/4
+11.1: Rohan Mustafa faced Mudassar Bukhari, scored 4 runs. Team score: 85/4
+11.2: Rohan Mustafa faced Mudassar Bukhari, scored 1 runs. Team score: 86/4
+11.3: Shaiman Anwar faced Mudassar Bukhari, scored 0 runs. Team score: 86/4
+11.4: Shaiman Anwar faced Mudassar Bukhari, scored 2 runs. Team score: 88/4
+11.5: Shaiman Anwar faced Mudassar Bukhari, scored 4 runs. Team score: 92/4
+11.6: Shaiman Anwar faced Mudassar Bukhari, scored 1 runs. Team score: 93/4
+12.1: Shaiman Anwar faced TLW Cooper, scored 1 runs. Team score: 94/4
+12.2: Rohan Mustafa faced TLW Cooper, scored 2 runs. Team score: 96/4
+12.3: Rohan Mustafa faced TLW Cooper, scored 2 runs. Team score: 98/4
+12.4: Rohan Mustafa faced TLW Cooper, scored 0 runs. Team score: 98/4
+12.5: Rohan Mustafa faced TLW Cooper, scored 1 runs. Team score: 99/4
+12.6: Shaiman Anwar faced TLW Cooper, scored 6 runs. Team score: 105/4
+13.1: Rohan Mustafa faced Ahsan Malik, scored 1 runs. Team score: 106/4
+13.2: Shaiman Anwar faced Ahsan Malik, scored 0 runs. Team score: 106/4
+13.3: Shaiman Anwar faced Ahsan Malik, scored 1 runs. Team score: 107/4
+13.4: Rohan Mustafa faced Ahsan Malik, scored 1 runs. Team score: 108/4
+13.5: Shaiman Anwar faced Ahsan Malik, scored 1 runs. Team score: 109/4
+13.6: Rohan Mustafa faced Ahsan Malik, scored 0 runs. Team score: 109/4
+14.1: Shaiman Anwar faced PM Seelaar, scored 1 runs. Team score: 110/4
+14.2: Rohan Mustafa faced PM Seelaar, scored 2 runs. Team score: 112/4
+14.3: Rohan Mustafa faced PM Seelaar, scored 1 runs. Team score: 113/4
+14.4: Shaiman Anwar faced PM Seelaar, scored 4 runs. Team score: 117/4
+14.5: Shaiman Anwar faced PM Seelaar, scored 0 runs. Team score: 117/4
+14.6: Shaiman Anwar faced PM Seelaar, scored 1 runs. Team score: 118/4
+15.1: Shaiman Anwar faced T van der Gugten, scored 4 runs. Team score: 122/4
+15.2: Shaiman Anwar faced T van der Gugten, scored 1 runs. Team score: 123/4
+15.3: Rohan Mustafa faced T van der Gugten, scored 4 runs. Team score: 127/4
+15.4: Rohan Mustafa faced T van der Gugten, scored 0 runs. Team score: 127/4
+run out!, Batsman: Rohan Mustafa (20 runs from 14 balls), Bowler: T van der Gugten (figures: 2/20). Fielders involved: PW Borren. Team score: 127/5
+15.5: Shaiman Anwar faced T van der Gugten, scored 4 runs. Team score: 131/5
+15.6: Shaiman Anwar faced T van der Gugten, scored 0 runs. Team score: 131/5
+bowled!, Batsman: Shaiman Anwar (32 runs from 19 balls), Bowler: T van der Gugten (figures: 3/24). Fielders involved: None. Team score: 131/6
+16.1: Amjad Javed faced Ahsan Malik, scored 2 runs. Team score: 133/6
+16.2: Amjad Javed faced Ahsan Malik, scored 0 runs. Team score: 133/6
+caught!, Batsman: Amjad Javed (2 runs from 2 balls), Bowler: Ahsan Malik (figures: 1/13). Fielders involved: PM Seelaar. Team score: 133/7
+16.3: V Shetty faced Ahsan Malik, scored 1 runs. Team score: 134/7
+16.4: EHSN Silva faced Ahsan Malik, scored 0 runs. Team score: 134/7
+16.5: EHSN Silva faced Ahsan Malik, scored 1 runs. Team score: 135/7
+16.6: V Shetty faced Ahsan Malik, scored 1 runs. Team score: 136/7
+17.1: V Shetty faced T van der Gugten, scored 0 runs. Team score: 136/7
+17.2: V Shetty faced T van der Gugten, scored 1 runs. Team score: 137/7
+17.3: EHSN Silva faced T van der Gugten, scored 1 runs. Team score: 138/7
+17.4: V Shetty faced T van der Gugten, scored 0 runs. Team score: 138/7
+17.5: V Shetty faced T van der Gugten, scored 1 runs. Team score: 139/7
+17.6: EHSN Silva faced T van der Gugten, scored 0 runs. Team score: 139/7
+18.1: V Shetty faced LV van Beek, scored 1 runs. Team score: 140/7
+18.2: EHSN Silva faced LV van Beek, scored 1 runs. Team score: 141/7
+18.3: V Shetty faced LV van Beek, scored 4 runs. Team score: 145/7
+18.4: V Shetty faced LV van Beek, scored 1 runs. Team score: 146/7
+18.5: V Shetty faced LV van Beek, scored 1 runs. Team score: 147/7
+18.6: EHSN Silva faced LV van Beek, scored 1 runs. Team score: 148/7
+18.0: V Shetty faced LV van Beek, scored 1 runs. Team score: 149/7
+run out!, Batsman: EHSN Silva (4 runs from 6 balls), Bowler: LV van Beek (figures: 1/31). Fielders involved: TLW Cooper. Team score: 149/8
+19.1: Kamran Shazad faced Ahsan Malik, scored 1 runs. Team score: 150/8
+19.2: V Shetty faced Ahsan Malik, scored 0 runs. Team score: 150/8
+19.3: V Shetty faced Ahsan Malik, scored 0 runs. Team score: 150/8
+caught and bowled!, Batsman: V Shetty (12 runs from 13 balls), Bowler: Ahsan Malik (figures: 2/17). Fielders involved: None. Team score: 150/9
+19.4: AM Guruge faced Ahsan Malik, scored 1 runs. Team score: 151/9
+19.5: Kamran Shazad faced Ahsan Malik, scored 0 runs. Team score: 151/9
+caught!, Batsman: Kamran Shazad (1 runs from 2 balls), Bowler: Ahsan Malik (figures: 3/18). Fielders involved: LV van Beek. Team score: 151/10
+End of innings for United Arab Emirates: 151/10 in 20.0 overs
+Batsman scores:
+Amjad Ali: 6 runs from 7 balls
+Faizan Asif: 6 runs from 4 balls
+SP Patil: 28 runs from 30 balls
+Khurram Khan: 39 runs from 27 balls
+Shaiman Anwar: 32 runs from 19 balls
+Rohan Mustafa: 20 runs from 14 balls
+Amjad Javed: 2 runs from 2 balls
+V Shetty: 12 runs from 13 balls
+EHSN Silva: 4 runs from 6 balls
+Kamran Shazad: 1 runs from 2 balls
+AM Guruge: 1 runs from 1 balls
+Bowler figures:
+MR Swart: 1 wickets for 19 runs
+T van der Gugten: 3 wickets for 27 runs
+Mudassar Bukhari: 0 wickets for 25 runs
+LV van Beek: 1 wickets for 31 runs
+PM Seelaar: 0 wickets for 13 runs
+Ahsan Malik: 3 wickets for 18 runs
+TLW Cooper: 2 wickets for 18 runs
+
+Innings 2:
+0.1: SJ Myburgh faced AM Guruge, scored 1 runs. Team score: 1/0
+0.2: MR Swart faced AM Guruge, scored 1 runs. Team score: 2/0
+0.3: SJ Myburgh faced AM Guruge, scored 0 runs. Team score: 2/0
+0.4: SJ Myburgh faced AM Guruge, scored 4 runs. Team score: 6/0
+0.5: SJ Myburgh faced AM Guruge, scored 0 runs. Team score: 6/0
+0.6: SJ Myburgh faced AM Guruge, scored 4 runs. Team score: 10/0
+1.1: MR Swart faced EHSN Silva, scored 0 runs. Team score: 10/0
+1.2: MR Swart faced EHSN Silva, scored 1 runs. Team score: 11/0
+1.3: SJ Myburgh faced EHSN Silva, scored 1 runs. Team score: 12/0
+1.4: MR Swart faced EHSN Silva, scored 1 runs. Team score: 13/0
+1.5: SJ Myburgh faced EHSN Silva, scored 1 runs. Team score: 14/0
+1.6: MR Swart faced EHSN Silva, scored 1 runs. Team score: 15/0
+2.1: MR Swart faced AM Guruge, scored 1 runs. Team score: 16/0
+2.2: SJ Myburgh faced AM Guruge, scored 4 runs. Team score: 20/0
+2.3: SJ Myburgh faced AM Guruge, scored 4 runs. Team score: 24/0
+2.4: SJ Myburgh faced AM Guruge, scored 0 runs. Team score: 24/0
+2.5: SJ Myburgh faced AM Guruge, scored 0 runs. Team score: 24/0
+2.6: SJ Myburgh faced AM Guruge, scored 0 runs. Team score: 24/0
+3.1: MR Swart faced EHSN Silva, scored 4 runs. Team score: 28/0
+3.2: MR Swart faced EHSN Silva, scored 6 runs. Team score: 34/0
+3.3: MR Swart faced EHSN Silva, scored 1 runs. Team score: 35/0
+3.4: SJ Myburgh faced EHSN Silva, scored 4 runs. Team score: 39/0
+3.5: SJ Myburgh faced EHSN Silva, scored 0 runs. Team score: 39/0
+3.6: SJ Myburgh faced EHSN Silva, scored 1 runs. Team score: 40/0
+4.1: SJ Myburgh faced AM Guruge, scored 6 runs. Team score: 46/0
+4.2: SJ Myburgh faced AM Guruge, scored 0 runs. Team score: 46/0
+4.3: SJ Myburgh faced AM Guruge, scored 1 runs. Team score: 47/0
+4.4: MR Swart faced AM Guruge, scored 4 runs. Team score: 51/0
+4.5: MR Swart faced AM Guruge, scored 4 runs. Team score: 55/0
+4.6: MR Swart faced AM Guruge, scored 1 runs. Team score: 56/0
+5.1: MR Swart faced Amjad Javed, scored 1 runs. Team score: 57/0
+5.2: SJ Myburgh faced Amjad Javed, scored 6 runs. Team score: 63/0
+5.3: SJ Myburgh faced Amjad Javed, scored 0 runs. Team score: 63/0
+5.4: SJ Myburgh faced Amjad Javed, scored 4 runs. Team score: 67/0
+5.5: SJ Myburgh faced Amjad Javed, scored 0 runs. Team score: 67/0
+5.6: SJ Myburgh faced Amjad Javed, scored 0 runs. Team score: 67/0
+6.1: MR Swart faced Kamran Shazad, scored 1 runs. Team score: 68/0
+6.2: SJ Myburgh faced Kamran Shazad, scored 1 runs. Team score: 69/0
+6.3: MR Swart faced Kamran Shazad, scored 0 runs. Team score: 69/0
+6.4: MR Swart faced Kamran Shazad, scored 0 runs. Team score: 69/0
+caught!, Batsman: MR Swart (27 runs from 16 balls), Bowler: Kamran Shazad (figures: 1/2). Fielders involved: Amjad Javed. Team score: 69/1
+6.5: SJ Myburgh faced Kamran Shazad, scored 0 runs. Team score: 69/1
+6.6: SJ Myburgh faced Kamran Shazad, scored 0 runs. Team score: 69/1
+7.1: W Barresi faced Rohan Mustafa, scored 1 runs. Team score: 70/1
+7.2: SJ Myburgh faced Rohan Mustafa, scored 2 runs. Team score: 72/1
+7.3: SJ Myburgh faced Rohan Mustafa, scored 1 runs. Team score: 73/1
+7.4: W Barresi faced Rohan Mustafa, scored 1 runs. Team score: 74/1
+7.5: SJ Myburgh faced Rohan Mustafa, scored 1 runs. Team score: 75/1
+7.6: W Barresi faced Rohan Mustafa, scored 4 runs. Team score: 79/1
+8.1: SJ Myburgh faced Kamran Shazad, scored 1 runs. Team score: 80/1
+8.2: W Barresi faced Kamran Shazad, scored 0 runs. Team score: 80/1
+8.3: W Barresi faced Kamran Shazad, scored 1 runs. Team score: 81/1
+8.4: SJ Myburgh faced Kamran Shazad, scored 2 runs. Team score: 83/1
+8.5: SJ Myburgh faced Kamran Shazad, scored 4 runs. Team score: 87/1
+8.6: SJ Myburgh faced Kamran Shazad, scored 1 runs. Team score: 88/1
+9.1: SJ Myburgh faced Amjad Javed, scored 1 runs. Team score: 89/1
+9.2: W Barresi faced Amjad Javed, scored 1 runs. Team score: 90/1
+9.3: SJ Myburgh faced Amjad Javed, scored 1 runs. Team score: 91/1
+9.4: W Barresi faced Amjad Javed, scored 1 runs. Team score: 92/1
+9.5: SJ Myburgh faced Amjad Javed, scored 1 runs. Team score: 93/1
+9.6: W Barresi faced Amjad Javed, scored 0 runs. Team score: 93/1
+run out!, Batsman: SJ Myburgh (57 runs from 36 balls), Bowler: Amjad Javed (figures: 1/16). Fielders involved: SP Patil. Team score: 93/2
+10.1: W Barresi faced Rohan Mustafa, scored 1 runs. Team score: 94/2
+10.2: TLW Cooper faced Rohan Mustafa, scored 0 runs. Team score: 94/2
+10.3: TLW Cooper faced Rohan Mustafa, scored 4 runs. Team score: 98/2
+10.4: TLW Cooper faced Rohan Mustafa, scored 4 runs. Team score: 102/2
+10.5: TLW Cooper faced Rohan Mustafa, scored 1 runs. Team score: 103/2
+10.6: W Barresi faced Rohan Mustafa, scored 0 runs. Team score: 103/2
+11.1: TLW Cooper faced Amjad Javed, scored 1 runs. Team score: 104/2
+11.2: W Barresi faced Amjad Javed, scored 1 runs. Team score: 105/2
+11.3: TLW Cooper faced Amjad Javed, scored 6 runs. Team score: 111/2
+11.4: TLW Cooper faced Amjad Javed, scored 0 runs. Team score: 111/2
+11.5: TLW Cooper faced Amjad Javed, scored 1 runs. Team score: 112/2
+11.6: W Barresi faced Amjad Javed, scored 0 runs. Team score: 112/2
+12.1: TLW Cooper faced EHSN Silva, scored 0 runs. Team score: 112/2
+12.2: TLW Cooper faced EHSN Silva, scored 1 runs. Team score: 113/2
+12.3: W Barresi faced EHSN Silva, scored 1 runs. Team score: 114/2
+12.4: TLW Cooper faced EHSN Silva, scored 0 runs. Team score: 114/2
+12.5: TLW Cooper faced EHSN Silva, scored 1 runs. Team score: 115/2
+12.6: W Barresi faced EHSN Silva, scored 1 runs. Team score: 116/2
+13.1: W Barresi faced AM Guruge, scored 1 runs. Team score: 117/2
+13.2: TLW Cooper faced AM Guruge, scored 1 runs. Team score: 118/2
+13.3: W Barresi faced AM Guruge, scored 1 runs. Team score: 119/2
+13.4: TLW Cooper faced AM Guruge, scored 1 runs. Team score: 120/2
+13.5: W Barresi faced AM Guruge, scored 0 runs. Team score: 120/2
+13.6: W Barresi faced AM Guruge, scored 1 runs. Team score: 121/2
+14.1: W Barresi faced EHSN Silva, scored 2 runs. Team score: 123/2
+14.2: W Barresi faced EHSN Silva, scored 6 runs. Team score: 129/2
+14.3: W Barresi faced EHSN Silva, scored 0 runs. Team score: 129/2
+bowled!, Batsman: W Barresi (24 runs from 21 balls), Bowler: EHSN Silva (figures: 1/33). Fielders involved: None. Team score: 129/3
+14.4: PW Borren faced EHSN Silva, scored 1 runs. Team score: 130/3
+14.5: TLW Cooper faced EHSN Silva, scored 4 runs. Team score: 134/3
+14.6: TLW Cooper faced EHSN Silva, scored 1 runs. Team score: 135/3
+15.1: TLW Cooper faced Kamran Shazad, scored 0 runs. Team score: 135/3
+15.2: TLW Cooper faced Kamran Shazad, scored 1 runs. Team score: 136/3
+15.3: PW Borren faced Kamran Shazad, scored 0 runs. Team score: 136/3
+15.4: PW Borren faced Kamran Shazad, scored 0 runs. Team score: 136/3
+15.5: PW Borren faced Kamran Shazad, scored 1 runs. Team score: 137/3
+15.6: TLW Cooper faced Kamran Shazad, scored 4 runs. Team score: 141/3
+16.1: PW Borren faced Amjad Javed, scored 0 runs. Team score: 141/3
+16.2: PW Borren faced Amjad Javed, scored 0 runs. Team score: 141/3
+16.3: PW Borren faced Amjad Javed, scored 1 runs. Team score: 142/3
+16.4: TLW Cooper faced Amjad Javed, scored 0 runs. Team score: 142/3
+16.5: TLW Cooper faced Amjad Javed, scored 0 runs. Team score: 142/3
+16.6: TLW Cooper faced Amjad Javed, scored 1 runs. Team score: 143/3
+17.1: TLW Cooper faced Kamran Shazad, scored 1 runs. Team score: 144/3
+17.2: PW Borren faced Kamran Shazad, scored 0 runs. Team score: 144/3
+caught!, Batsman: PW Borren (3 runs from 8 balls), Bowler: Kamran Shazad (figures: 2/18). Fielders involved: EHSN Silva. Team score: 144/4
+17.3: TLW Cooper faced Kamran Shazad, scored 0 runs. Team score: 144/4
+17.4: TLW Cooper faced Kamran Shazad, scored 1 runs. Team score: 145/4
+17.5: BN Cooper faced Kamran Shazad, scored 0 runs. Team score: 145/4
+17.6: BN Cooper faced Kamran Shazad, scored 1 runs. Team score: 146/4
+18.1: BN Cooper faced Rohan Mustafa, scored 1 runs. Team score: 147/4
+18.2: TLW Cooper faced Rohan Mustafa, scored 1 runs. Team score: 148/4
+18.3: BN Cooper faced Rohan Mustafa, scored 0 runs. Team score: 148/4
+18.4: BN Cooper faced Rohan Mustafa, scored 0 runs. Team score: 148/4
+18.5: BN Cooper faced Rohan Mustafa, scored 4 runs. Team score: 152/4
+End of innings for Netherlands: 152/4 in 19.5 overs
+Batsman scores:
+SJ Myburgh: 57 runs from 36 balls
+MR Swart: 27 runs from 16 balls
+W Barresi: 24 runs from 21 balls
+TLW Cooper: 35 runs from 26 balls
+PW Borren: 3 runs from 8 balls
+BN Cooper: 6 runs from 6 balls
+Bowler figures:
+AM Guruge: 0 wickets for 40 runs
+EHSN Silva: 1 wickets for 39 runs
+Amjad Javed: 1 wickets for 27 runs
+Kamran Shazad: 2 wickets for 20 runs
+Rohan Mustafa: 0 wickets for 26 runs
+

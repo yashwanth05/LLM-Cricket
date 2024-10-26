@@ -1,0 +1,285 @@
+Match: World T20 - T20
+Date: 2014-03-31
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: New Zealand vs Sri Lanka
+Toss: New Zealand won the toss and decided to field
+Result: Sri Lanka won by 59 runs
+Man of the Match: HMRKB Herath
+
+Innings 1:
+0.1: MDKJ Perera faced KD Mills, scored 1 runs. Team score: 1/0
+0.2: TM Dilshan faced KD Mills, scored 1 runs. Team score: 2/0
+0.3: MDKJ Perera faced KD Mills, scored 4 runs. Team score: 6/0
+0.4: MDKJ Perera faced KD Mills, scored 0 runs. Team score: 6/0
+0.5: MDKJ Perera faced KD Mills, scored 6 runs. Team score: 12/0
+0.6: MDKJ Perera faced KD Mills, scored 0 runs. Team score: 12/0
+1.1: TM Dilshan faced TA Boult, scored 1 runs. Team score: 13/0
+1.2: MDKJ Perera faced TA Boult, scored 4 runs. Team score: 17/0
+1.3: MDKJ Perera faced TA Boult, scored 1 runs. Team score: 18/0
+1.4: TM Dilshan faced TA Boult, scored 1 runs. Team score: 19/0
+1.5: TM Dilshan faced TA Boult, scored 1 runs. Team score: 20/0
+1.6: MDKJ Perera faced TA Boult, scored 0 runs. Team score: 20/0
+caught!, Batsman: MDKJ Perera (16 runs from 8 balls), Bowler: TA Boult (figures: 1/8). Fielders involved: L Ronchi. Team score: 20/1
+1.0: DPMD Jayawardene faced TA Boult, scored 0 runs. Team score: 20/1
+2.1: TM Dilshan faced KD Mills, scored 4 runs. Team score: 24/1
+2.2: TM Dilshan faced KD Mills, scored 0 runs. Team score: 24/1
+2.3: TM Dilshan faced KD Mills, scored 0 runs. Team score: 24/1
+2.4: TM Dilshan faced KD Mills, scored 1 runs. Team score: 25/1
+2.5: DPMD Jayawardene faced KD Mills, scored 1 runs. Team score: 26/1
+2.6: TM Dilshan faced KD Mills, scored 1 runs. Team score: 27/1
+3.1: TM Dilshan faced TA Boult, scored 1 runs. Team score: 28/1
+3.2: DPMD Jayawardene faced TA Boult, scored 1 runs. Team score: 29/1
+3.3: TM Dilshan faced TA Boult, scored 0 runs. Team score: 29/1
+caught!, Batsman: TM Dilshan (11 runs from 11 balls), Bowler: TA Boult (figures: 2/10). Fielders involved: L Ronchi. Team score: 29/2
+3.4: KC Sangakkara faced TA Boult, scored 0 runs. Team score: 29/2
+3.5: KC Sangakkara faced TA Boult, scored 0 runs. Team score: 29/2
+3.6: KC Sangakkara faced TA Boult, scored 0 runs. Team score: 29/2
+4.1: DPMD Jayawardene faced CJ Anderson, scored 0 runs. Team score: 29/2
+4.2: DPMD Jayawardene faced CJ Anderson, scored 0 runs. Team score: 29/2
+4.3: DPMD Jayawardene faced CJ Anderson, scored 1 runs. Team score: 30/2
+4.4: KC Sangakkara faced CJ Anderson, scored 0 runs. Team score: 30/2
+4.5: KC Sangakkara faced CJ Anderson, scored 0 runs. Team score: 30/2
+4.6: KC Sangakkara faced CJ Anderson, scored 0 runs. Team score: 30/2
+5.1: DPMD Jayawardene faced TA Boult, scored 1 runs. Team score: 31/2
+5.2: KC Sangakkara faced TA Boult, scored 4 runs. Team score: 35/2
+5.3: KC Sangakkara faced TA Boult, scored 0 runs. Team score: 35/2
+5.4: KC Sangakkara faced TA Boult, scored 0 runs. Team score: 35/2
+5.5: KC Sangakkara faced TA Boult, scored 0 runs. Team score: 35/2
+5.6: KC Sangakkara faced TA Boult, scored 0 runs. Team score: 35/2
+caught!, Batsman: KC Sangakkara (4 runs from 11 balls), Bowler: TA Boult (figures: 3/15). Fielders involved: CJ Anderson. Team score: 35/3
+6.1: DPMD Jayawardene faced MJ McClenaghan, scored 1 runs. Team score: 36/3
+6.2: HDRL Thirimanne faced MJ McClenaghan, scored 0 runs. Team score: 36/3
+6.3: HDRL Thirimanne faced MJ McClenaghan, scored 4 runs. Team score: 40/3
+6.4: HDRL Thirimanne faced MJ McClenaghan, scored 1 runs. Team score: 41/3
+6.5: DPMD Jayawardene faced MJ McClenaghan, scored 1 runs. Team score: 42/3
+6.6: HDRL Thirimanne faced MJ McClenaghan, scored 0 runs. Team score: 42/3
+7.1: DPMD Jayawardene faced TA Boult, scored 0 runs. Team score: 42/3
+7.2: DPMD Jayawardene faced TA Boult, scored 1 runs. Team score: 43/3
+7.3: HDRL Thirimanne faced TA Boult, scored 0 runs. Team score: 43/3
+7.4: HDRL Thirimanne faced TA Boult, scored 4 runs. Team score: 47/3
+7.5: HDRL Thirimanne faced TA Boult, scored 0 runs. Team score: 47/3
+7.6: HDRL Thirimanne faced TA Boult, scored 1 runs. Team score: 48/3
+7.0: HDRL Thirimanne faced TA Boult, scored 0 runs. Team score: 48/3
+8.1: DPMD Jayawardene faced CJ Anderson, scored 0 runs. Team score: 48/3
+8.2: DPMD Jayawardene faced CJ Anderson, scored 1 runs. Team score: 49/3
+8.3: HDRL Thirimanne faced CJ Anderson, scored 1 runs. Team score: 50/3
+8.4: DPMD Jayawardene faced CJ Anderson, scored 0 runs. Team score: 50/3
+8.5: DPMD Jayawardene faced CJ Anderson, scored 0 runs. Team score: 50/3
+8.6: DPMD Jayawardene faced CJ Anderson, scored 0 runs. Team score: 50/3
+9.1: HDRL Thirimanne faced MJ McClenaghan, scored 0 runs. Team score: 50/3
+9.2: HDRL Thirimanne faced MJ McClenaghan, scored 1 runs. Team score: 51/3
+9.3: DPMD Jayawardene faced MJ McClenaghan, scored 1 runs. Team score: 52/3
+9.4: HDRL Thirimanne faced MJ McClenaghan, scored 0 runs. Team score: 52/3
+9.5: HDRL Thirimanne faced MJ McClenaghan, scored 1 runs. Team score: 53/3
+9.6: DPMD Jayawardene faced MJ McClenaghan, scored 2 runs. Team score: 55/3
+10.1: HDRL Thirimanne faced CJ Anderson, scored 4 runs. Team score: 59/3
+10.2: HDRL Thirimanne faced CJ Anderson, scored 1 runs. Team score: 60/3
+10.3: DPMD Jayawardene faced CJ Anderson, scored 1 runs. Team score: 61/3
+10.4: DPMD Jayawardene faced CJ Anderson, scored 0 runs. Team score: 61/3
+10.5: DPMD Jayawardene faced CJ Anderson, scored 1 runs. Team score: 62/3
+10.6: HDRL Thirimanne faced CJ Anderson, scored 2 runs. Team score: 64/3
+10.0: HDRL Thirimanne faced CJ Anderson, scored 1 runs. Team score: 65/3
+11.1: HDRL Thirimanne faced JDS Neesham, scored 0 runs. Team score: 65/3
+caught!, Batsman: HDRL Thirimanne (21 runs from 19 balls), Bowler: JDS Neesham (figures: 1/0). Fielders involved: MJ Guptill. Team score: 65/4
+11.2: DPMD Jayawardene faced JDS Neesham, scored 4 runs. Team score: 69/4
+11.3: DPMD Jayawardene faced JDS Neesham, scored 1 runs. Team score: 70/4
+11.4: AD Mathews faced JDS Neesham, scored 2 runs. Team score: 72/4
+11.5: AD Mathews faced JDS Neesham, scored 0 runs. Team score: 72/4
+11.6: AD Mathews faced JDS Neesham, scored 1 runs. Team score: 73/4
+12.1: AD Mathews faced NL McCullum, scored 0 runs. Team score: 73/4
+12.2: AD Mathews faced NL McCullum, scored 1 runs. Team score: 74/4
+12.3: DPMD Jayawardene faced NL McCullum, scored 1 runs. Team score: 75/4
+12.4: AD Mathews faced NL McCullum, scored 0 runs. Team score: 75/4
+12.5: AD Mathews faced NL McCullum, scored 1 runs. Team score: 76/4
+12.6: DPMD Jayawardene faced NL McCullum, scored 1 runs. Team score: 77/4
+13.1: DPMD Jayawardene faced MJ McClenaghan, scored 1 runs. Team score: 78/4
+13.2: AD Mathews faced MJ McClenaghan, scored 0 runs. Team score: 78/4
+13.3: AD Mathews faced MJ McClenaghan, scored 1 runs. Team score: 79/4
+13.4: DPMD Jayawardene faced MJ McClenaghan, scored 1 runs. Team score: 80/4
+13.5: DPMD Jayawardene faced MJ McClenaghan, scored 1 runs. Team score: 81/4
+13.6: AD Mathews faced MJ McClenaghan, scored 0 runs. Team score: 81/4
+caught!, Batsman: AD Mathews (6 runs from 10 balls), Bowler: MJ McClenaghan (figures: 1/16). Fielders involved: L Ronchi. Team score: 81/5
+13.0: NLTC Perera faced MJ McClenaghan, scored 0 runs. Team score: 81/5
+14.1: DPMD Jayawardene faced NL McCullum, scored 0 runs. Team score: 81/5
+14.2: DPMD Jayawardene faced NL McCullum, scored 0 runs. Team score: 81/5
+14.3: DPMD Jayawardene faced NL McCullum, scored 0 runs. Team score: 81/5
+14.4: DPMD Jayawardene faced NL McCullum, scored 0 runs. Team score: 81/5
+14.5: DPMD Jayawardene faced NL McCullum, scored 4 runs. Team score: 85/5
+14.6: DPMD Jayawardene faced NL McCullum, scored 0 runs. Team score: 85/5
+bowled!, Batsman: DPMD Jayawardene (27 runs from 34 balls), Bowler: NL McCullum (figures: 1/8). Fielders involved: None. Team score: 85/6
+15.1: NLTC Perera faced MJ McClenaghan, scored 4 runs. Team score: 89/6
+15.2: NLTC Perera faced MJ McClenaghan, scored 2 runs. Team score: 91/6
+15.3: NLTC Perera faced MJ McClenaghan, scored 1 runs. Team score: 92/6
+15.4: KMDN Kulasekara faced MJ McClenaghan, scored 0 runs. Team score: 92/6
+caught!, Batsman: KMDN Kulasekara (0 runs from 1 balls), Bowler: MJ McClenaghan (figures: 2/23). Fielders involved: NL McCullum. Team score: 92/7
+15.5: SMSM Senanayake faced MJ McClenaghan, scored 0 runs. Team score: 92/7
+15.6: SMSM Senanayake faced MJ McClenaghan, scored 1 runs. Team score: 93/7
+16.1: SMSM Senanayake faced KD Mills, scored 1 runs. Team score: 94/7
+16.2: NLTC Perera faced KD Mills, scored 0 runs. Team score: 94/7
+16.3: NLTC Perera faced KD Mills, scored 0 runs. Team score: 94/7
+16.4: NLTC Perera faced KD Mills, scored 0 runs. Team score: 94/7
+16.5: NLTC Perera faced KD Mills, scored 4 runs. Team score: 98/7
+16.6: NLTC Perera faced KD Mills, scored 0 runs. Team score: 98/7
+17.1: SMSM Senanayake faced JDS Neesham, scored 1 runs. Team score: 99/7
+17.2: NLTC Perera faced JDS Neesham, scored 0 runs. Team score: 99/7
+17.3: NLTC Perera faced JDS Neesham, scored 1 runs. Team score: 100/7
+17.4: SMSM Senanayake faced JDS Neesham, scored 4 runs. Team score: 104/7
+17.5: SMSM Senanayake faced JDS Neesham, scored 2 runs. Team score: 106/7
+17.6: SMSM Senanayake faced JDS Neesham, scored 6 runs. Team score: 112/7
+18.1: NLTC Perera faced KD Mills, scored 4 runs. Team score: 116/7
+18.2: NLTC Perera faced KD Mills, scored 0 runs. Team score: 116/7
+caught!, Batsman: NLTC Perera (16 runs from 13 balls), Bowler: KD Mills (figures: 1/28). Fielders involved: KS Williamson. Team score: 116/8
+18.3: SMSM Senanayake faced KD Mills, scored 1 runs. Team score: 117/8
+18.4: HMRKB Herath faced KD Mills, scored 1 runs. Team score: 118/8
+18.5: SMSM Senanayake faced KD Mills, scored 0 runs. Team score: 118/8
+18.6: SMSM Senanayake faced KD Mills, scored 1 runs. Team score: 119/8
+19.1: SMSM Senanayake faced JDS Neesham, scored 0 runs. Team score: 119/8
+caught!, Batsman: SMSM Senanayake (17 runs from 11 balls), Bowler: JDS Neesham (figures: 2/22). Fielders involved: KS Williamson. Team score: 119/9
+19.2: SL Malinga faced JDS Neesham, scored 0 runs. Team score: 119/9
+bowled!, Batsman: SL Malinga (0 runs from 1 balls), Bowler: JDS Neesham (figures: 3/22). Fielders involved: None. Team score: 119/10
+End of innings for Sri Lanka: 119/10 in 20.0 overs
+Batsman scores:
+MDKJ Perera: 16 runs from 8 balls
+TM Dilshan: 11 runs from 11 balls
+DPMD Jayawardene: 27 runs from 34 balls
+KC Sangakkara: 4 runs from 11 balls
+HDRL Thirimanne: 21 runs from 19 balls
+AD Mathews: 6 runs from 10 balls
+NLTC Perera: 16 runs from 13 balls
+KMDN Kulasekara: 0 runs from 1 balls
+SMSM Senanayake: 17 runs from 11 balls
+HMRKB Herath: 1 runs from 1 balls
+SL Malinga: 0 runs from 1 balls
+Bowler figures:
+KD Mills: 1 wickets for 31 runs
+TA Boult: 3 wickets for 21 runs
+CJ Anderson: 0 wickets for 13 runs
+MJ McClenaghan: 2 wickets for 24 runs
+JDS Neesham: 3 wickets for 22 runs
+NL McCullum: 1 wickets for 8 runs
+
+Innings 2:
+0.1: MJ Guptill faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+0.2: MJ Guptill faced KMDN Kulasekara, scored 1 runs. Team score: 1/0
+0.3: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 1/0
+0.4: KS Williamson faced KMDN Kulasekara, scored 1 runs. Team score: 2/0
+0.5: MJ Guptill faced KMDN Kulasekara, scored 2 runs. Team score: 4/0
+0.6: MJ Guptill faced KMDN Kulasekara, scored 0 runs. Team score: 4/0
+1.1: KS Williamson faced AD Mathews, scored 0 runs. Team score: 4/0
+1.2: KS Williamson faced AD Mathews, scored 1 runs. Team score: 5/0
+1.3: MJ Guptill faced AD Mathews, scored 0 runs. Team score: 5/0
+1.4: MJ Guptill faced AD Mathews, scored 1 runs. Team score: 6/0
+1.5: KS Williamson faced AD Mathews, scored 2 runs. Team score: 8/0
+1.6: KS Williamson faced AD Mathews, scored 4 runs. Team score: 12/0
+2.1: MJ Guptill faced KMDN Kulasekara, scored 0 runs. Team score: 12/0
+2.2: MJ Guptill faced KMDN Kulasekara, scored 1 runs. Team score: 13/0
+2.3: KS Williamson faced KMDN Kulasekara, scored 1 runs. Team score: 14/0
+2.4: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 14/0
+2.5: KS Williamson faced KMDN Kulasekara, scored 4 runs. Team score: 18/0
+2.6: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 18/0
+2.0: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 18/0
+3.1: MJ Guptill faced HMRKB Herath, scored 0 runs. Team score: 18/0
+run out!, Batsman: MJ Guptill (5 runs from 9 balls), Bowler: HMRKB Herath (figures: 1/0). Fielders involved: HMRKB Herath, KC Sangakkara. Team score: 18/1
+3.2: BB McCullum faced HMRKB Herath, scored 0 runs. Team score: 18/1
+3.3: BB McCullum faced HMRKB Herath, scored 0 runs. Team score: 18/1
+3.4: BB McCullum faced HMRKB Herath, scored 0 runs. Team score: 18/1
+3.5: BB McCullum faced HMRKB Herath, scored 0 runs. Team score: 18/1
+3.6: BB McCullum faced HMRKB Herath, scored 0 runs. Team score: 18/1
+stumped!, Batsman: BB McCullum (0 runs from 5 balls), Bowler: HMRKB Herath (figures: 2/0). Fielders involved: KC Sangakkara. Team score: 18/2
+Maiden over by HMRKB Herath
+4.1: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 18/2
+4.2: KS Williamson faced KMDN Kulasekara, scored 1 runs. Team score: 19/2
+4.3: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 19/2
+4.4: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 19/2
+4.5: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 19/2
+4.6: KS Williamson faced KMDN Kulasekara, scored 0 runs. Team score: 19/2
+4.0: KS Williamson faced KMDN Kulasekara, scored 4 runs. Team score: 23/2
+5.1: LRPL Taylor faced HMRKB Herath, scored 0 runs. Team score: 23/2
+5.2: LRPL Taylor faced HMRKB Herath, scored 0 runs. Team score: 23/2
+5.3: LRPL Taylor faced HMRKB Herath, scored 0 runs. Team score: 23/2
+5.4: LRPL Taylor faced HMRKB Herath, scored 0 runs. Team score: 23/2
+5.5: LRPL Taylor faced HMRKB Herath, scored 0 runs. Team score: 23/2
+lbw!, Batsman: LRPL Taylor (0 runs from 5 balls), Bowler: HMRKB Herath (figures: 3/0). Fielders involved: None. Team score: 23/3
+5.6: JDS Neesham faced HMRKB Herath, scored 0 runs. Team score: 23/3
+bowled!, Batsman: JDS Neesham (0 runs from 1 balls), Bowler: HMRKB Herath (figures: 4/0). Fielders involved: None. Team score: 23/4
+Maiden over by HMRKB Herath
+6.1: KS Williamson faced SL Malinga, scored 1 runs. Team score: 24/4
+6.2: L Ronchi faced SL Malinga, scored 0 runs. Team score: 24/4
+6.3: L Ronchi faced SL Malinga, scored 1 runs. Team score: 25/4
+6.4: KS Williamson faced SL Malinga, scored 1 runs. Team score: 26/4
+6.5: L Ronchi faced SL Malinga, scored 1 runs. Team score: 27/4
+6.6: KS Williamson faced SL Malinga, scored 1 runs. Team score: 28/4
+7.1: KS Williamson faced HMRKB Herath, scored 0 runs. Team score: 28/4
+7.2: KS Williamson faced HMRKB Herath, scored 1 runs. Team score: 29/4
+7.3: L Ronchi faced HMRKB Herath, scored 0 runs. Team score: 29/4
+lbw!, Batsman: L Ronchi (2 runs from 4 balls), Bowler: HMRKB Herath (figures: 5/1). Fielders involved: None. Team score: 29/5
+7.4: NL McCullum faced HMRKB Herath, scored 0 runs. Team score: 29/5
+7.5: NL McCullum faced HMRKB Herath, scored 0 runs. Team score: 29/5
+7.6: NL McCullum faced HMRKB Herath, scored 1 runs. Team score: 30/5
+8.1: NL McCullum faced AD Mathews, scored 0 runs. Team score: 30/5
+8.2: NL McCullum faced AD Mathews, scored 0 runs. Team score: 30/5
+8.3: NL McCullum faced AD Mathews, scored 0 runs. Team score: 30/5
+8.4: NL McCullum faced AD Mathews, scored 1 runs. Team score: 31/5
+8.5: KS Williamson faced AD Mathews, scored 1 runs. Team score: 32/5
+8.6: NL McCullum faced AD Mathews, scored 0 runs. Team score: 32/5
+9.1: KS Williamson faced SMSM Senanayake, scored 0 runs. Team score: 32/5
+9.2: KS Williamson faced SMSM Senanayake, scored 1 runs. Team score: 33/5
+9.3: NL McCullum faced SMSM Senanayake, scored 0 runs. Team score: 33/5
+caught!, Batsman: NL McCullum (2 runs from 9 balls), Bowler: SMSM Senanayake (figures: 1/1). Fielders involved: AD Mathews. Team score: 33/6
+9.4: KD Mills faced SMSM Senanayake, scored 0 runs. Team score: 33/6
+9.5: KD Mills faced SMSM Senanayake, scored 0 runs. Team score: 33/6
+9.6: KD Mills faced SMSM Senanayake, scored 0 runs. Team score: 33/6
+10.1: KS Williamson faced AD Mathews, scored 0 runs. Team score: 33/6
+10.2: KS Williamson faced AD Mathews, scored 0 runs. Team score: 33/6
+10.3: KS Williamson faced AD Mathews, scored 4 runs. Team score: 37/6
+10.4: KS Williamson faced AD Mathews, scored 1 runs. Team score: 38/6
+10.5: KD Mills faced AD Mathews, scored 0 runs. Team score: 38/6
+10.6: KD Mills faced AD Mathews, scored 0 runs. Team score: 38/6
+11.1: KS Williamson faced SMSM Senanayake, scored 0 runs. Team score: 38/6
+11.2: KS Williamson faced SMSM Senanayake, scored 0 runs. Team score: 38/6
+11.3: KS Williamson faced SMSM Senanayake, scored 0 runs. Team score: 38/6
+11.4: KS Williamson faced SMSM Senanayake, scored 0 runs. Team score: 38/6
+11.5: KS Williamson faced SMSM Senanayake, scored 1 runs. Team score: 39/6
+11.6: KD Mills faced SMSM Senanayake, scored 0 runs. Team score: 39/6
+12.1: KS Williamson faced AD Mathews, scored 2 runs. Team score: 41/6
+12.2: KS Williamson faced AD Mathews, scored 4 runs. Team score: 45/6
+12.3: KS Williamson faced AD Mathews, scored 0 runs. Team score: 45/6
+12.4: KS Williamson faced AD Mathews, scored 1 runs. Team score: 46/6
+12.5: KD Mills faced AD Mathews, scored 4 runs. Team score: 50/6
+12.6: KD Mills faced AD Mathews, scored 0 runs. Team score: 50/6
+13.1: KS Williamson faced SMSM Senanayake, scored 0 runs. Team score: 50/6
+13.2: KS Williamson faced SMSM Senanayake, scored 1 runs. Team score: 51/6
+13.3: KD Mills faced SMSM Senanayake, scored 0 runs. Team score: 51/6
+lbw!, Batsman: KD Mills (4 runs from 9 balls), Bowler: SMSM Senanayake (figures: 2/3). Fielders involved: None. Team score: 51/7
+13.4: TA Boult faced SMSM Senanayake, scored 0 runs. Team score: 51/7
+13.5: TA Boult faced SMSM Senanayake, scored 0 runs. Team score: 51/7
+13.6: TA Boult faced SMSM Senanayake, scored 0 runs. Team score: 51/7
+14.1: KS Williamson faced SL Malinga, scored 0 runs. Team score: 51/7
+14.2: KS Williamson faced SL Malinga, scored 1 runs. Team score: 52/7
+14.3: TA Boult faced SL Malinga, scored 1 runs. Team score: 53/7
+14.4: KS Williamson faced SL Malinga, scored 4 runs. Team score: 57/7
+14.5: KS Williamson faced SL Malinga, scored 1 runs. Team score: 58/7
+14.6: TA Boult faced SL Malinga, scored 1 runs. Team score: 59/7
+15.1: TA Boult faced HMRKB Herath, scored 1 runs. Team score: 60/7
+run out!, Batsman: KS Williamson (44 runs from 45 balls), Bowler: HMRKB Herath (figures: 6/3). Fielders involved: AD Mathews, HMRKB Herath. Team score: 60/8
+15.2: TA Boult faced HMRKB Herath, scored 0 runs. Team score: 60/8
+15.3: TA Boult faced HMRKB Herath, scored 0 runs. Team score: 60/8
+caught!, Batsman: TA Boult (3 runs from 8 balls), Bowler: HMRKB Herath (figures: 7/3). Fielders involved: DPMD Jayawardene. Team score: 60/9
+End of innings for New Zealand: 60/9 in 16.3 overs
+Batsman scores:
+MJ Guptill: 5 runs from 9 balls
+KS Williamson: 44 runs from 45 balls
+BB McCullum: 0 runs from 5 balls
+LRPL Taylor: 0 runs from 5 balls
+JDS Neesham: 0 runs from 1 balls
+L Ronchi: 2 runs from 4 balls
+NL McCullum: 2 runs from 9 balls
+KD Mills: 4 runs from 9 balls
+TA Boult: 3 runs from 8 balls
+Bowler figures:
+KMDN Kulasekara: 0 wickets for 15 runs
+AD Mathews: 0 wickets for 26 runs
+HMRKB Herath: 7 wickets for 3 runs
+SL Malinga: 0 wickets for 13 runs
+SMSM Senanayake: 2 wickets for 3 runs
+

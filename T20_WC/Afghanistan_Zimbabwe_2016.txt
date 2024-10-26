@@ -1,0 +1,317 @@
+Match: World T20 - T20
+Date: 2016-03-12
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Teams: Afghanistan vs Zimbabwe
+Toss: Afghanistan won the toss and decided to bat
+Result: Afghanistan won by 59 runs
+Man of the Match: Mohammad Nabi
+
+Innings 1:
+0.1: Mohammad Shahzad faced WP Masakadza, scored 2 runs. Team score: 2/0
+0.2: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 2/0
+0.3: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 2/0
+0.4: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 2/0
+0.5: Mohammad Shahzad faced WP Masakadza, scored 2 runs. Team score: 4/0
+0.6: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 4/0
+1.1: Noor Ali Zadran faced TL Chatara, scored 1 runs. Team score: 5/0
+1.2: Mohammad Shahzad faced TL Chatara, scored 0 runs. Team score: 5/0
+1.3: Mohammad Shahzad faced TL Chatara, scored 4 runs. Team score: 9/0
+1.4: Mohammad Shahzad faced TL Chatara, scored 4 runs. Team score: 13/0
+1.5: Mohammad Shahzad faced TL Chatara, scored 4 runs. Team score: 17/0
+1.6: Mohammad Shahzad faced TL Chatara, scored 4 runs. Team score: 21/0
+2.1: Noor Ali Zadran faced WP Masakadza, scored 1 runs. Team score: 22/0
+2.2: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 22/0
+2.3: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 22/0
+2.4: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 22/0
+2.5: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 22/0
+2.6: Mohammad Shahzad faced WP Masakadza, scored 0 runs. Team score: 22/0
+3.1: Noor Ali Zadran faced DT Tiripano, scored 0 runs. Team score: 22/0
+3.2: Noor Ali Zadran faced DT Tiripano, scored 1 runs. Team score: 23/0
+3.3: Noor Ali Zadran faced DT Tiripano, scored 1 runs. Team score: 24/0
+3.4: Mohammad Shahzad faced DT Tiripano, scored 4 runs. Team score: 28/0
+3.5: Mohammad Shahzad faced DT Tiripano, scored 4 runs. Team score: 32/0
+3.6: Mohammad Shahzad faced DT Tiripano, scored 4 runs. Team score: 36/0
+3.0: Mohammad Shahzad faced DT Tiripano, scored 1 runs. Team score: 37/0
+4.1: Mohammad Shahzad faced SC Williams, scored 6 runs. Team score: 43/0
+4.2: Mohammad Shahzad faced SC Williams, scored 1 runs. Team score: 44/0
+4.3: Noor Ali Zadran faced SC Williams, scored 4 runs. Team score: 48/0
+4.4: Noor Ali Zadran faced SC Williams, scored 1 runs. Team score: 49/0
+4.5: Mohammad Shahzad faced SC Williams, scored 0 runs. Team score: 49/0
+caught!, Batsman: Mohammad Shahzad (40 runs from 23 balls), Bowler: SC Williams (figures: 1/12). Fielders involved: H Masakadza. Team score: 49/1
+4.6: Asghar Stanikzai faced SC Williams, scored 0 runs. Team score: 49/1
+5.1: Noor Ali Zadran faced T Panyangara, scored 0 runs. Team score: 49/1
+5.2: Noor Ali Zadran faced T Panyangara, scored 1 runs. Team score: 50/1
+5.3: Asghar Stanikzai faced T Panyangara, scored 0 runs. Team score: 50/1
+caught!, Batsman: Asghar Stanikzai (0 runs from 2 balls), Bowler: T Panyangara (figures: 1/1). Fielders involved: Sikandar Raza. Team score: 50/2
+5.4: Gulbadin Naib faced T Panyangara, scored 0 runs. Team score: 50/2
+5.5: Gulbadin Naib faced T Panyangara, scored 4 runs. Team score: 54/2
+5.6: Gulbadin Naib faced T Panyangara, scored 1 runs. Team score: 55/2
+6.1: Gulbadin Naib faced SC Williams, scored 1 runs. Team score: 56/2
+6.2: Noor Ali Zadran faced SC Williams, scored 0 runs. Team score: 56/2
+6.3: Noor Ali Zadran faced SC Williams, scored 0 runs. Team score: 56/2
+6.4: Noor Ali Zadran faced SC Williams, scored 2 runs. Team score: 58/2
+6.5: Noor Ali Zadran faced SC Williams, scored 0 runs. Team score: 58/2
+6.6: Noor Ali Zadran faced SC Williams, scored 0 runs. Team score: 58/2
+7.1: Gulbadin Naib faced T Panyangara, scored 0 runs. Team score: 58/2
+7.2: Gulbadin Naib faced T Panyangara, scored 2 runs. Team score: 60/2
+7.3: Gulbadin Naib faced T Panyangara, scored 0 runs. Team score: 60/2
+bowled!, Batsman: Gulbadin Naib (8 runs from 7 balls), Bowler: T Panyangara (figures: 2/8). Fielders involved: None. Team score: 60/3
+7.4: Samiullah Shenwari faced T Panyangara, scored 2 runs. Team score: 62/3
+7.5: Samiullah Shenwari faced T Panyangara, scored 1 runs. Team score: 63/3
+7.6: Noor Ali Zadran faced T Panyangara, scored 0 runs. Team score: 63/3
+caught!, Batsman: Noor Ali Zadran (12 runs from 15 balls), Bowler: T Panyangara (figures: 3/11). Fielders involved: Sikandar Raza. Team score: 63/4
+8.1: Mohammad Nabi faced SC Williams, scored 1 runs. Team score: 64/4
+8.2: Samiullah Shenwari faced SC Williams, scored 1 runs. Team score: 65/4
+8.3: Mohammad Nabi faced SC Williams, scored 1 runs. Team score: 66/4
+8.4: Samiullah Shenwari faced SC Williams, scored 0 runs. Team score: 66/4
+8.5: Samiullah Shenwari faced SC Williams, scored 0 runs. Team score: 66/4
+8.6: Samiullah Shenwari faced SC Williams, scored 0 runs. Team score: 66/4
+9.1: Mohammad Nabi faced T Panyangara, scored 1 runs. Team score: 67/4
+9.2: Samiullah Shenwari faced T Panyangara, scored 1 runs. Team score: 68/4
+9.3: Mohammad Nabi faced T Panyangara, scored 1 runs. Team score: 69/4
+9.4: Samiullah Shenwari faced T Panyangara, scored 2 runs. Team score: 71/4
+9.5: Samiullah Shenwari faced T Panyangara, scored 1 runs. Team score: 72/4
+9.6: Mohammad Nabi faced T Panyangara, scored 1 runs. Team score: 73/4
+10.1: Mohammad Nabi faced SC Williams, scored 4 runs. Team score: 77/4
+10.2: Mohammad Nabi faced SC Williams, scored 0 runs. Team score: 77/4
+10.3: Mohammad Nabi faced SC Williams, scored 1 runs. Team score: 78/4
+10.4: Samiullah Shenwari faced SC Williams, scored 1 runs. Team score: 79/4
+10.5: Mohammad Nabi faced SC Williams, scored 1 runs. Team score: 80/4
+10.6: Samiullah Shenwari faced SC Williams, scored 0 runs. Team score: 80/4
+11.1: Mohammad Nabi faced TL Chatara, scored 1 runs. Team score: 81/4
+11.2: Samiullah Shenwari faced TL Chatara, scored 0 runs. Team score: 81/4
+11.3: Samiullah Shenwari faced TL Chatara, scored 1 runs. Team score: 82/4
+11.4: Mohammad Nabi faced TL Chatara, scored 2 runs. Team score: 84/4
+11.5: Mohammad Nabi faced TL Chatara, scored 1 runs. Team score: 85/4
+11.6: Samiullah Shenwari faced TL Chatara, scored 1 runs. Team score: 86/4
+12.1: Samiullah Shenwari faced Sikandar Raza, scored 1 runs. Team score: 87/4
+12.2: Samiullah Shenwari faced Sikandar Raza, scored 1 runs. Team score: 88/4
+12.3: Mohammad Nabi faced Sikandar Raza, scored 1 runs. Team score: 89/4
+12.4: Samiullah Shenwari faced Sikandar Raza, scored 0 runs. Team score: 89/4
+12.5: Samiullah Shenwari faced Sikandar Raza, scored 1 runs. Team score: 90/4
+12.6: Samiullah Shenwari faced Sikandar Raza, scored 0 runs. Team score: 90/4
+12.0: Samiullah Shenwari faced Sikandar Raza, scored 0 runs. Team score: 90/4
+12.1: Samiullah Shenwari faced Sikandar Raza, scored 1 runs. Team score: 91/4
+13.1: Samiullah Shenwari faced WP Masakadza, scored 0 runs. Team score: 91/4
+13.2: Samiullah Shenwari faced WP Masakadza, scored 1 runs. Team score: 92/4
+13.3: Mohammad Nabi faced WP Masakadza, scored 4 runs. Team score: 96/4
+13.4: Mohammad Nabi faced WP Masakadza, scored 0 runs. Team score: 96/4
+13.5: Mohammad Nabi faced WP Masakadza, scored 1 runs. Team score: 97/4
+13.6: Samiullah Shenwari faced WP Masakadza, scored 1 runs. Team score: 98/4
+14.1: Samiullah Shenwari faced Sikandar Raza, scored 0 runs. Team score: 98/4
+14.2: Samiullah Shenwari faced Sikandar Raza, scored 3 runs. Team score: 101/4
+14.3: Samiullah Shenwari faced Sikandar Raza, scored 1 runs. Team score: 102/4
+14.4: Mohammad Nabi faced Sikandar Raza, scored 4 runs. Team score: 106/4
+14.5: Mohammad Nabi faced Sikandar Raza, scored 1 runs. Team score: 107/4
+14.6: Samiullah Shenwari faced Sikandar Raza, scored 1 runs. Team score: 108/4
+14.0: Mohammad Nabi faced Sikandar Raza, scored 1 runs. Team score: 109/4
+15.1: Mohammad Nabi faced WP Masakadza, scored 6 runs. Team score: 115/4
+15.2: Mohammad Nabi faced WP Masakadza, scored 1 runs. Team score: 116/4
+15.3: Samiullah Shenwari faced WP Masakadza, scored 4 runs. Team score: 120/4
+15.4: Samiullah Shenwari faced WP Masakadza, scored 1 runs. Team score: 121/4
+15.5: Mohammad Nabi faced WP Masakadza, scored 6 runs. Team score: 127/4
+15.6: Mohammad Nabi faced WP Masakadza, scored 1 runs. Team score: 128/4
+15.0: Mohammad Nabi faced WP Masakadza, scored 2 runs. Team score: 130/4
+16.1: Samiullah Shenwari faced DT Tiripano, scored 2 runs. Team score: 132/4
+16.2: Samiullah Shenwari faced DT Tiripano, scored 2 runs. Team score: 134/4
+16.3: Mohammad Nabi faced DT Tiripano, scored 1 runs. Team score: 135/4
+16.4: Samiullah Shenwari faced DT Tiripano, scored 4 runs. Team score: 139/4
+16.5: Samiullah Shenwari faced DT Tiripano, scored 1 runs. Team score: 140/4
+16.6: Mohammad Nabi faced DT Tiripano, scored 2 runs. Team score: 142/4
+16.0: Mohammad Nabi faced DT Tiripano, scored 1 runs. Team score: 143/4
+17.1: Mohammad Nabi faced T Panyangara, scored 1 runs. Team score: 144/4
+17.2: Samiullah Shenwari faced T Panyangara, scored 0 runs. Team score: 144/4
+17.3: Samiullah Shenwari faced T Panyangara, scored 0 runs. Team score: 144/4
+17.4: Samiullah Shenwari faced T Panyangara, scored 4 runs. Team score: 148/4
+17.5: Samiullah Shenwari faced T Panyangara, scored 4 runs. Team score: 152/4
+17.6: Samiullah Shenwari faced T Panyangara, scored 6 runs. Team score: 158/4
+18.1: Mohammad Nabi faced DT Tiripano, scored 1 runs. Team score: 159/4
+18.2: Samiullah Shenwari faced DT Tiripano, scored 1 runs. Team score: 160/4
+18.3: Mohammad Nabi faced DT Tiripano, scored 1 runs. Team score: 161/4
+18.4: Samiullah Shenwari faced DT Tiripano, scored 0 runs. Team score: 161/4
+caught!, Batsman: Samiullah Shenwari (51 runs from 41 balls), Bowler: DT Tiripano (figures: 1/31). Fielders involved: V Sibanda. Team score: 161/5
+18.5: Mohammad Nabi faced DT Tiripano, scored 5 runs. Team score: 166/5
+18.6: Mohammad Nabi faced DT Tiripano, scored 1 runs. Team score: 167/5
+18.0: Mohammad Nabi faced DT Tiripano, scored 4 runs. Team score: 171/5
+18.1: Mohammad Nabi faced DT Tiripano, scored 2 runs. Team score: 173/5
+19.1: Shafiqullah faced TL Chatara, scored 6 runs. Team score: 179/5
+19.2: Shafiqullah faced TL Chatara, scored 1 runs. Team score: 180/5
+19.3: Mohammad Nabi faced TL Chatara, scored 1 runs. Team score: 181/5
+19.4: Shafiqullah faced TL Chatara, scored 1 runs. Team score: 182/5
+19.5: Shafiqullah faced TL Chatara, scored 2 runs. Team score: 184/5
+19.6: Shafiqullah faced TL Chatara, scored 0 runs. Team score: 184/5
+run out!, Batsman: Mohammad Nabi (63 runs from 35 balls), Bowler: TL Chatara (figures: 1/34). Fielders involved: R Mutumbami. Team score: 184/6
+19.0: Dawlat Zadran faced TL Chatara, scored 1 runs. Team score: 185/6
+19.1: Dawlat Zadran faced TL Chatara, scored 1 runs. Team score: 186/6
+End of innings for Afghanistan: 186/6 in 20.0 overs
+Batsman scores:
+Mohammad Shahzad: 40 runs from 23 balls
+Noor Ali Zadran: 12 runs from 15 balls
+Asghar Stanikzai: 0 runs from 2 balls
+Gulbadin Naib: 8 runs from 7 balls
+Samiullah Shenwari: 51 runs from 41 balls
+Mohammad Nabi: 63 runs from 35 balls
+Shafiqullah: 10 runs from 5 balls
+Dawlat Zadran: 2 runs from 2 balls
+Bowler figures:
+WP Masakadza: 0 wickets for 33 runs
+TL Chatara: 1 wickets for 36 runs
+DT Tiripano: 1 wickets for 43 runs
+SC Williams: 1 wickets for 25 runs
+T Panyangara: 3 wickets for 33 runs
+Sikandar Raza: 0 wickets for 16 runs
+
+Innings 2:
+0.1: V Sibanda faced Dawlat Zadran, scored 0 runs. Team score: 0/0
+0.2: V Sibanda faced Dawlat Zadran, scored 2 runs. Team score: 2/0
+0.3: V Sibanda faced Dawlat Zadran, scored 2 runs. Team score: 4/0
+0.4: V Sibanda faced Dawlat Zadran, scored 1 runs. Team score: 5/0
+0.5: H Masakadza faced Dawlat Zadran, scored 0 runs. Team score: 5/0
+0.6: H Masakadza faced Dawlat Zadran, scored 2 runs. Team score: 7/0
+1.1: V Sibanda faced Hamid Hassan, scored 1 runs. Team score: 8/0
+1.2: H Masakadza faced Hamid Hassan, scored 1 runs. Team score: 9/0
+1.3: V Sibanda faced Hamid Hassan, scored 0 runs. Team score: 9/0
+1.4: V Sibanda faced Hamid Hassan, scored 1 runs. Team score: 10/0
+1.5: H Masakadza faced Hamid Hassan, scored 1 runs. Team score: 11/0
+1.6: H Masakadza faced Hamid Hassan, scored 1 runs. Team score: 12/0
+1.0: V Sibanda faced Hamid Hassan, scored 1 runs. Team score: 13/0
+2.1: V Sibanda faced Dawlat Zadran, scored 1 runs. Team score: 14/0
+2.2: H Masakadza faced Dawlat Zadran, scored 6 runs. Team score: 20/0
+2.3: H Masakadza faced Dawlat Zadran, scored 2 runs. Team score: 22/0
+2.4: V Sibanda faced Dawlat Zadran, scored 0 runs. Team score: 22/0
+2.5: V Sibanda faced Dawlat Zadran, scored 1 runs. Team score: 23/0
+2.6: H Masakadza faced Dawlat Zadran, scored 1 runs. Team score: 24/0
+2.0: V Sibanda faced Dawlat Zadran, scored 1 runs. Team score: 25/0
+3.1: V Sibanda faced Hamid Hassan, scored 0 runs. Team score: 25/0
+3.2: V Sibanda faced Hamid Hassan, scored 1 runs. Team score: 26/0
+3.3: H Masakadza faced Hamid Hassan, scored 0 runs. Team score: 26/0
+bowled!, Batsman: H Masakadza (14 runs from 9 balls), Bowler: Hamid Hassan (figures: 1/7). Fielders involved: None. Team score: 26/1
+3.4: R Mutumbami faced Hamid Hassan, scored 0 runs. Team score: 26/1
+3.5: R Mutumbami faced Hamid Hassan, scored 0 runs. Team score: 26/1
+3.6: R Mutumbami faced Hamid Hassan, scored 0 runs. Team score: 26/1
+4.1: V Sibanda faced Samiullah Shenwari, scored 0 runs. Team score: 26/1
+4.2: V Sibanda faced Samiullah Shenwari, scored 1 runs. Team score: 27/1
+4.3: R Mutumbami faced Samiullah Shenwari, scored 4 runs. Team score: 31/1
+4.4: R Mutumbami faced Samiullah Shenwari, scored 4 runs. Team score: 35/1
+4.5: R Mutumbami faced Samiullah Shenwari, scored 0 runs. Team score: 35/1
+4.6: R Mutumbami faced Samiullah Shenwari, scored 0 runs. Team score: 35/1
+5.1: V Sibanda faced Mohammad Nabi, scored 1 runs. Team score: 36/1
+5.2: R Mutumbami faced Mohammad Nabi, scored 1 runs. Team score: 37/1
+5.3: V Sibanda faced Mohammad Nabi, scored 0 runs. Team score: 37/1
+5.4: V Sibanda faced Mohammad Nabi, scored 1 runs. Team score: 38/1
+5.5: R Mutumbami faced Mohammad Nabi, scored 0 runs. Team score: 38/1
+5.6: R Mutumbami faced Mohammad Nabi, scored 1 runs. Team score: 39/1
+5.0: R Mutumbami faced Mohammad Nabi, scored 0 runs. Team score: 39/1
+6.1: V Sibanda faced Rashid Khan, scored 4 runs. Team score: 43/1
+6.2: V Sibanda faced Rashid Khan, scored 0 runs. Team score: 43/1
+caught!, Batsman: V Sibanda (19 runs from 21 balls), Bowler: Rashid Khan (figures: 1/4). Fielders involved: Hamid Hassan. Team score: 43/2
+6.3: SC Williams faced Rashid Khan, scored 0 runs. Team score: 43/2
+6.4: SC Williams faced Rashid Khan, scored 1 runs. Team score: 44/2
+6.5: R Mutumbami faced Rashid Khan, scored 1 runs. Team score: 45/2
+6.6: SC Williams faced Rashid Khan, scored 1 runs. Team score: 46/2
+7.1: SC Williams faced Mohammad Nabi, scored 0 runs. Team score: 46/2
+7.2: SC Williams faced Mohammad Nabi, scored 1 runs. Team score: 47/2
+7.3: R Mutumbami faced Mohammad Nabi, scored 0 runs. Team score: 47/2
+caught!, Batsman: R Mutumbami (11 runs from 13 balls), Bowler: Mohammad Nabi (figures: 1/5). Fielders involved: Najibullah Zadran. Team score: 47/3
+7.4: SC Williams faced Mohammad Nabi, scored 1 runs. Team score: 48/3
+7.5: MN Waller faced Mohammad Nabi, scored 0 runs. Team score: 48/3
+7.6: MN Waller faced Mohammad Nabi, scored 2 runs. Team score: 50/3
+8.1: SC Williams faced Samiullah Shenwari, scored 1 runs. Team score: 51/3
+8.2: MN Waller faced Samiullah Shenwari, scored 0 runs. Team score: 51/3
+8.3: MN Waller faced Samiullah Shenwari, scored 0 runs. Team score: 51/3
+8.4: MN Waller faced Samiullah Shenwari, scored 1 runs. Team score: 52/3
+8.5: SC Williams faced Samiullah Shenwari, scored 1 runs. Team score: 53/3
+8.6: MN Waller faced Samiullah Shenwari, scored 1 runs. Team score: 54/3
+9.1: MN Waller faced Rashid Khan, scored 2 runs. Team score: 56/3
+9.2: MN Waller faced Rashid Khan, scored 0 runs. Team score: 56/3
+9.3: MN Waller faced Rashid Khan, scored 1 runs. Team score: 57/3
+9.4: SC Williams faced Rashid Khan, scored 0 runs. Team score: 57/3
+9.5: SC Williams faced Rashid Khan, scored 0 runs. Team score: 57/3
+9.6: SC Williams faced Rashid Khan, scored 1 runs. Team score: 58/3
+10.1: SC Williams faced Samiullah Shenwari, scored 1 runs. Team score: 59/3
+10.2: MN Waller faced Samiullah Shenwari, scored 0 runs. Team score: 59/3
+bowled!, Batsman: MN Waller (7 runs from 10 balls), Bowler: Samiullah Shenwari (figures: 1/14). Fielders involved: None. Team score: 59/4
+10.3: Sikandar Raza faced Samiullah Shenwari, scored 1 runs. Team score: 60/4
+10.4: SC Williams faced Samiullah Shenwari, scored 4 runs. Team score: 64/4
+10.5: SC Williams faced Samiullah Shenwari, scored 0 runs. Team score: 64/4
+10.6: SC Williams faced Samiullah Shenwari, scored 1 runs. Team score: 65/4
+11.1: SC Williams faced Rashid Khan, scored 0 runs. Team score: 65/4
+stumped!, Batsman: SC Williams (13 runs from 16 balls), Bowler: Rashid Khan (figures: 2/11). Fielders involved: Mohammad Shahzad. Team score: 65/5
+11.2: E Chigumbura faced Rashid Khan, scored 0 runs. Team score: 65/5
+11.3: E Chigumbura faced Rashid Khan, scored 0 runs. Team score: 65/5
+11.4: E Chigumbura faced Rashid Khan, scored 1 runs. Team score: 66/5
+11.5: Sikandar Raza faced Rashid Khan, scored 0 runs. Team score: 66/5
+11.6: Sikandar Raza faced Rashid Khan, scored 1 runs. Team score: 67/5
+12.1: Sikandar Raza faced Samiullah Shenwari, scored 1 runs. Team score: 68/5
+12.2: E Chigumbura faced Samiullah Shenwari, scored 1 runs. Team score: 69/5
+12.3: Sikandar Raza faced Samiullah Shenwari, scored 1 runs. Team score: 70/5
+12.4: E Chigumbura faced Samiullah Shenwari, scored 4 runs. Team score: 74/5
+12.5: E Chigumbura faced Samiullah Shenwari, scored 2 runs. Team score: 76/5
+12.6: E Chigumbura faced Samiullah Shenwari, scored 6 runs. Team score: 82/5
+13.1: Sikandar Raza faced Mohammad Nabi, scored 2 runs. Team score: 84/5
+13.2: Sikandar Raza faced Mohammad Nabi, scored 0 runs. Team score: 84/5
+13.3: Sikandar Raza faced Mohammad Nabi, scored 1 runs. Team score: 85/5
+13.4: E Chigumbura faced Mohammad Nabi, scored 1 runs. Team score: 86/5
+13.5: Sikandar Raza faced Mohammad Nabi, scored 2 runs. Team score: 88/5
+13.6: Sikandar Raza faced Mohammad Nabi, scored 1 runs. Team score: 89/5
+14.1: Sikandar Raza faced Rashid Khan, scored 1 runs. Team score: 90/5
+14.2: E Chigumbura faced Rashid Khan, scored 0 runs. Team score: 90/5
+14.3: E Chigumbura faced Rashid Khan, scored 0 runs. Team score: 90/5
+caught!, Batsman: E Chigumbura (15 runs from 10 balls), Bowler: Rashid Khan (figures: 3/14). Fielders involved: Shafiqullah. Team score: 90/6
+14.4: Sikandar Raza faced Rashid Khan, scored 0 runs. Team score: 90/6
+14.5: Sikandar Raza faced Rashid Khan, scored 1 runs. Team score: 91/6
+14.6: WP Masakadza faced Rashid Khan, scored 0 runs. Team score: 91/6
+15.1: Sikandar Raza faced Hamid Hassan, scored 0 runs. Team score: 91/6
+15.2: Sikandar Raza faced Hamid Hassan, scored 1 runs. Team score: 92/6
+15.3: WP Masakadza faced Hamid Hassan, scored 1 runs. Team score: 93/6
+15.4: Sikandar Raza faced Hamid Hassan, scored 2 runs. Team score: 95/6
+15.5: Sikandar Raza faced Hamid Hassan, scored 0 runs. Team score: 95/6
+bowled!, Batsman: Sikandar Raza (15 runs from 17 balls), Bowler: Hamid Hassan (figures: 2/11). Fielders involved: None. Team score: 95/7
+15.6: DT Tiripano faced Hamid Hassan, scored 0 runs. Team score: 95/7
+16.1: WP Masakadza faced Dawlat Zadran, scored 1 runs. Team score: 96/7
+16.2: DT Tiripano faced Dawlat Zadran, scored 2 runs. Team score: 98/7
+16.3: DT Tiripano faced Dawlat Zadran, scored 0 runs. Team score: 98/7
+16.4: DT Tiripano faced Dawlat Zadran, scored 0 runs. Team score: 98/7
+run out!, Batsman: DT Tiripano (2 runs from 4 balls), Bowler: Dawlat Zadran (figures: 1/22). Fielders involved: Samiullah Shenwari. Team score: 98/8
+16.5: WP Masakadza faced Dawlat Zadran, scored 0 runs. Team score: 98/8
+16.6: WP Masakadza faced Dawlat Zadran, scored 4 runs. Team score: 102/8
+17.1: T Panyangara faced Gulbadin Naib, scored 6 runs. Team score: 108/8
+17.2: T Panyangara faced Gulbadin Naib, scored 0 runs. Team score: 108/8
+17.3: T Panyangara faced Gulbadin Naib, scored 6 runs. Team score: 114/8
+17.4: T Panyangara faced Gulbadin Naib, scored 2 runs. Team score: 116/8
+17.5: T Panyangara faced Gulbadin Naib, scored 1 runs. Team score: 117/8
+17.6: WP Masakadza faced Gulbadin Naib, scored 0 runs. Team score: 117/8
+18.1: T Panyangara faced Dawlat Zadran, scored 1 runs. Team score: 118/8
+18.2: WP Masakadza faced Dawlat Zadran, scored 0 runs. Team score: 118/8
+bowled!, Batsman: WP Masakadza (6 runs from 7 balls), Bowler: Dawlat Zadran (figures: 2/27). Fielders involved: None. Team score: 118/9
+18.3: TL Chatara faced Dawlat Zadran, scored 0 runs. Team score: 118/9
+18.4: TL Chatara faced Dawlat Zadran, scored 0 runs. Team score: 118/9
+18.5: TL Chatara faced Dawlat Zadran, scored 4 runs. Team score: 122/9
+18.6: TL Chatara faced Dawlat Zadran, scored 1 runs. Team score: 123/9
+19.1: TL Chatara faced Asghar Stanikzai, scored 1 runs. Team score: 124/9
+19.2: T Panyangara faced Asghar Stanikzai, scored 1 runs. Team score: 125/9
+19.3: TL Chatara faced Asghar Stanikzai, scored 2 runs. Team score: 127/9
+19.4: TL Chatara faced Asghar Stanikzai, scored 0 runs. Team score: 127/9
+caught!, Batsman: TL Chatara (8 runs from 7 balls), Bowler: Asghar Stanikzai (figures: 1/4). Fielders involved: Shafiqullah. Team score: 127/10
+End of innings for Zimbabwe: 127/10 in 20.0 overs
+Batsman scores:
+V Sibanda: 19 runs from 21 balls
+H Masakadza: 14 runs from 9 balls
+R Mutumbami: 11 runs from 13 balls
+SC Williams: 13 runs from 16 balls
+MN Waller: 7 runs from 10 balls
+Sikandar Raza: 15 runs from 17 balls
+E Chigumbura: 15 runs from 10 balls
+WP Masakadza: 6 runs from 7 balls
+DT Tiripano: 2 runs from 4 balls
+T Panyangara: 17 runs from 7 balls
+TL Chatara: 8 runs from 7 balls
+Bowler figures:
+Dawlat Zadran: 2 wickets for 32 runs
+Hamid Hassan: 2 wickets for 11 runs
+Samiullah Shenwari: 1 wickets for 35 runs
+Mohammad Nabi: 1 wickets for 15 runs
+Rashid Khan: 3 wickets for 15 runs
+Gulbadin Naib: 0 wickets for 15 runs
+Asghar Stanikzai: 1 wickets for 4 runs
+

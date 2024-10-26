@@ -1,0 +1,304 @@
+Match: World T20 - T20
+Date: 2016-03-15
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Teams: India vs New Zealand
+Toss: New Zealand won the toss and decided to bat
+Result: New Zealand won by 47 runs
+Man of the Match: MJ Santner
+
+Innings 1:
+0.1: MJ Guptill faced R Ashwin, scored 6 runs. Team score: 6/0
+0.2: MJ Guptill faced R Ashwin, scored 0 runs. Team score: 6/0
+lbw!, Batsman: MJ Guptill (6 runs from 2 balls), Bowler: R Ashwin (figures: 1/6). Fielders involved: None. Team score: 6/1
+0.3: C Munro faced R Ashwin, scored 0 runs. Team score: 6/1
+0.4: C Munro faced R Ashwin, scored 6 runs. Team score: 12/1
+0.5: C Munro faced R Ashwin, scored 1 runs. Team score: 13/1
+0.6: KS Williamson faced R Ashwin, scored 0 runs. Team score: 13/1
+1.1: C Munro faced A Nehra, scored 0 runs. Team score: 13/1
+1.2: C Munro faced A Nehra, scored 0 runs. Team score: 13/1
+1.3: C Munro faced A Nehra, scored 0 runs. Team score: 13/1
+caught!, Batsman: C Munro (7 runs from 6 balls), Bowler: A Nehra (figures: 1/0). Fielders involved: HH Pandya. Team score: 13/2
+1.4: CJ Anderson faced A Nehra, scored 0 runs. Team score: 13/2
+1.5: CJ Anderson faced A Nehra, scored 1 runs. Team score: 14/2
+1.6: KS Williamson faced A Nehra, scored 0 runs. Team score: 14/2
+2.1: CJ Anderson faced R Ashwin, scored 0 runs. Team score: 14/2
+2.2: CJ Anderson faced R Ashwin, scored 0 runs. Team score: 14/2
+2.3: CJ Anderson faced R Ashwin, scored 1 runs. Team score: 15/2
+2.4: KS Williamson faced R Ashwin, scored 0 runs. Team score: 15/2
+2.5: KS Williamson faced R Ashwin, scored 1 runs. Team score: 16/2
+2.6: CJ Anderson faced R Ashwin, scored 1 runs. Team score: 17/2
+3.1: CJ Anderson faced A Nehra, scored 0 runs. Team score: 17/2
+3.2: CJ Anderson faced A Nehra, scored 0 runs. Team score: 17/2
+3.3: CJ Anderson faced A Nehra, scored 0 runs. Team score: 17/2
+3.4: CJ Anderson faced A Nehra, scored 1 runs. Team score: 18/2
+3.5: KS Williamson faced A Nehra, scored 0 runs. Team score: 18/2
+3.6: KS Williamson faced A Nehra, scored 4 runs. Team score: 22/2
+4.1: CJ Anderson faced R Ashwin, scored 0 runs. Team score: 22/2
+4.2: CJ Anderson faced R Ashwin, scored 4 runs. Team score: 26/2
+4.3: CJ Anderson faced R Ashwin, scored 1 runs. Team score: 27/2
+4.4: KS Williamson faced R Ashwin, scored 0 runs. Team score: 27/2
+4.5: KS Williamson faced R Ashwin, scored 1 runs. Team score: 28/2
+4.6: CJ Anderson faced R Ashwin, scored 4 runs. Team score: 32/2
+5.1: KS Williamson faced JJ Bumrah, scored 0 runs. Team score: 32/2
+5.2: KS Williamson faced JJ Bumrah, scored 0 runs. Team score: 32/2
+5.3: KS Williamson faced JJ Bumrah, scored 0 runs. Team score: 32/2
+5.4: KS Williamson faced JJ Bumrah, scored 0 runs. Team score: 32/2
+5.5: KS Williamson faced JJ Bumrah, scored 1 runs. Team score: 33/2
+5.6: CJ Anderson faced JJ Bumrah, scored 0 runs. Team score: 33/2
+6.1: KS Williamson faced SK Raina, scored 0 runs. Team score: 33/2
+6.2: KS Williamson faced SK Raina, scored 1 runs. Team score: 34/2
+6.3: CJ Anderson faced SK Raina, scored 0 runs. Team score: 34/2
+6.4: CJ Anderson faced SK Raina, scored 1 runs. Team score: 35/2
+6.5: KS Williamson faced SK Raina, scored 0 runs. Team score: 35/2
+stumped!, Batsman: KS Williamson (8 runs from 16 balls), Bowler: SK Raina (figures: 1/2). Fielders involved: MS Dhoni. Team score: 35/3
+6.6: LRPL Taylor faced SK Raina, scored 0 runs. Team score: 35/3
+7.1: CJ Anderson faced JJ Bumrah, scored 4 runs. Team score: 39/3
+7.2: CJ Anderson faced JJ Bumrah, scored 1 runs. Team score: 40/3
+7.3: LRPL Taylor faced JJ Bumrah, scored 0 runs. Team score: 40/3
+7.4: LRPL Taylor faced JJ Bumrah, scored 0 runs. Team score: 40/3
+7.5: LRPL Taylor faced JJ Bumrah, scored 1 runs. Team score: 41/3
+7.6: CJ Anderson faced JJ Bumrah, scored 1 runs. Team score: 42/3
+8.1: CJ Anderson faced SK Raina, scored 2 runs. Team score: 44/3
+8.2: CJ Anderson faced SK Raina, scored 1 runs. Team score: 45/3
+8.3: LRPL Taylor faced SK Raina, scored 1 runs. Team score: 46/3
+8.4: CJ Anderson faced SK Raina, scored 2 runs. Team score: 48/3
+8.5: CJ Anderson faced SK Raina, scored 0 runs. Team score: 48/3
+8.6: CJ Anderson faced SK Raina, scored 1 runs. Team score: 49/3
+9.1: CJ Anderson faced R Ashwin, scored 1 runs. Team score: 50/3
+9.2: LRPL Taylor faced R Ashwin, scored 0 runs. Team score: 50/3
+9.3: LRPL Taylor faced R Ashwin, scored 0 runs. Team score: 50/3
+9.4: LRPL Taylor faced R Ashwin, scored 4 runs. Team score: 54/3
+9.5: LRPL Taylor faced R Ashwin, scored 1 runs. Team score: 55/3
+9.6: CJ Anderson faced R Ashwin, scored 0 runs. Team score: 55/3
+10.1: LRPL Taylor faced RA Jadeja, scored 0 runs. Team score: 55/3
+10.2: LRPL Taylor faced RA Jadeja, scored 1 runs. Team score: 56/3
+10.3: CJ Anderson faced RA Jadeja, scored 1 runs. Team score: 57/3
+10.4: LRPL Taylor faced RA Jadeja, scored 1 runs. Team score: 58/3
+10.5: CJ Anderson faced RA Jadeja, scored 1 runs. Team score: 59/3
+10.6: LRPL Taylor faced RA Jadeja, scored 0 runs. Team score: 59/3
+11.1: CJ Anderson faced SK Raina, scored 1 runs. Team score: 60/3
+11.2: LRPL Taylor faced SK Raina, scored 1 runs. Team score: 61/3
+11.3: CJ Anderson faced SK Raina, scored 0 runs. Team score: 61/3
+run out!, Batsman: LRPL Taylor (10 runs from 14 balls), Bowler: SK Raina (figures: 2/11). Fielders involved: SK Raina. Team score: 61/4
+11.4: CJ Anderson faced SK Raina, scored 1 runs. Team score: 62/4
+11.5: MJ Santner faced SK Raina, scored 1 runs. Team score: 63/4
+11.6: CJ Anderson faced SK Raina, scored 0 runs. Team score: 63/4
+12.1: MJ Santner faced RA Jadeja, scored 4 runs. Team score: 67/4
+12.2: MJ Santner faced RA Jadeja, scored 1 runs. Team score: 68/4
+12.3: CJ Anderson faced RA Jadeja, scored 1 runs. Team score: 69/4
+12.4: CJ Anderson faced RA Jadeja, scored 2 runs. Team score: 71/4
+12.5: MJ Santner faced RA Jadeja, scored 0 runs. Team score: 71/4
+12.6: MJ Santner faced RA Jadeja, scored 1 runs. Team score: 72/4
+12.0: CJ Anderson faced RA Jadeja, scored 0 runs. Team score: 72/4
+12.1: CJ Anderson faced RA Jadeja, scored 1 runs. Team score: 73/4
+12.2: CJ Anderson faced RA Jadeja, scored 2 runs. Team score: 75/4
+13.1: MJ Santner faced SK Raina, scored 0 runs. Team score: 75/4
+13.2: MJ Santner faced SK Raina, scored 1 runs. Team score: 76/4
+13.3: CJ Anderson faced SK Raina, scored 1 runs. Team score: 77/4
+13.4: MJ Santner faced SK Raina, scored 1 runs. Team score: 78/4
+13.5: CJ Anderson faced SK Raina, scored 0 runs. Team score: 78/4
+13.6: CJ Anderson faced SK Raina, scored 0 runs. Team score: 78/4
+14.1: MJ Santner faced HH Pandya, scored 0 runs. Team score: 78/4
+14.2: MJ Santner faced HH Pandya, scored 1 runs. Team score: 79/4
+14.3: MJ Santner faced HH Pandya, scored 4 runs. Team score: 83/4
+14.4: MJ Santner faced HH Pandya, scored 1 runs. Team score: 84/4
+14.5: CJ Anderson faced HH Pandya, scored 1 runs. Team score: 85/4
+14.6: MJ Santner faced HH Pandya, scored 2 runs. Team score: 87/4
+14.0: MJ Santner faced HH Pandya, scored 1 runs. Team score: 88/4
+15.1: MJ Santner faced JJ Bumrah, scored 1 runs. Team score: 89/4
+15.2: CJ Anderson faced JJ Bumrah, scored 0 runs. Team score: 89/4
+15.3: CJ Anderson faced JJ Bumrah, scored 0 runs. Team score: 89/4
+15.4: CJ Anderson faced JJ Bumrah, scored 0 runs. Team score: 89/4
+bowled!, Batsman: CJ Anderson (39 runs from 45 balls), Bowler: JJ Bumrah (figures: 1/9). Fielders involved: None. Team score: 89/5
+15.5: GD Elliott faced JJ Bumrah, scored 0 runs. Team score: 89/5
+15.6: GD Elliott faced JJ Bumrah, scored 1 runs. Team score: 90/5
+16.1: GD Elliott faced RA Jadeja, scored 1 runs. Team score: 91/5
+16.2: MJ Santner faced RA Jadeja, scored 2 runs. Team score: 93/5
+16.3: MJ Santner faced RA Jadeja, scored 1 runs. Team score: 94/5
+16.4: MJ Santner faced RA Jadeja, scored 4 runs. Team score: 98/5
+16.5: MJ Santner faced RA Jadeja, scored 0 runs. Team score: 98/5
+caught!, Batsman: MJ Santner (26 runs from 19 balls), Bowler: RA Jadeja (figures: 1/24). Fielders involved: MS Dhoni. Team score: 98/6
+16.6: L Ronchi faced RA Jadeja, scored 0 runs. Team score: 98/6
+16.0: L Ronchi faced RA Jadeja, scored 0 runs. Team score: 98/6
+17.1: GD Elliott faced JJ Bumrah, scored 0 runs. Team score: 98/6
+17.2: GD Elliott faced JJ Bumrah, scored 2 runs. Team score: 100/6
+17.3: GD Elliott faced JJ Bumrah, scored 1 runs. Team score: 101/6
+17.4: L Ronchi faced JJ Bumrah, scored 1 runs. Team score: 102/6
+17.5: GD Elliott faced JJ Bumrah, scored 0 runs. Team score: 102/6
+17.6: GD Elliott faced JJ Bumrah, scored 1 runs. Team score: 103/6
+18.1: GD Elliott faced RA Jadeja, scored 0 runs. Team score: 103/6
+18.2: GD Elliott faced RA Jadeja, scored 1 runs. Team score: 104/6
+18.3: L Ronchi faced RA Jadeja, scored 4 runs. Team score: 108/6
+18.4: L Ronchi faced RA Jadeja, scored 1 runs. Team score: 109/6
+18.5: GD Elliott faced RA Jadeja, scored 1 runs. Team score: 110/6
+18.6: L Ronchi faced RA Jadeja, scored 1 runs. Team score: 111/6
+19.1: L Ronchi faced A Nehra, scored 1 runs. Team score: 112/6
+19.2: GD Elliott faced A Nehra, scored 1 runs. Team score: 113/6
+19.3: L Ronchi faced A Nehra, scored 1 runs. Team score: 114/6
+run out!, Batsman: GD Elliott (9 runs from 12 balls), Bowler: A Nehra (figures: 2/9). Fielders involved: S Dhawan, A Nehra. Team score: 114/7
+19.4: L Ronchi faced A Nehra, scored 4 runs. Team score: 118/7
+19.5: L Ronchi faced A Nehra, scored 6 runs. Team score: 124/7
+19.6: L Ronchi faced A Nehra, scored 2 runs. Team score: 126/7
+End of innings for New Zealand: 126/7 in 20.0 overs
+Batsman scores:
+MJ Guptill: 6 runs from 2 balls
+C Munro: 7 runs from 6 balls
+KS Williamson: 8 runs from 16 balls
+CJ Anderson: 39 runs from 45 balls
+LRPL Taylor: 10 runs from 14 balls
+MJ Santner: 26 runs from 19 balls
+GD Elliott: 9 runs from 12 balls
+L Ronchi: 21 runs from 11 balls
+Bowler figures:
+R Ashwin: 1 wickets for 32 runs
+A Nehra: 2 wickets for 21 runs
+JJ Bumrah: 1 wickets for 15 runs
+SK Raina: 2 wickets for 16 runs
+RA Jadeja: 1 wickets for 32 runs
+HH Pandya: 0 wickets for 10 runs
+
+Innings 2:
+0.1: RG Sharma faced NL McCullum, scored 1 runs. Team score: 1/0
+0.2: S Dhawan faced NL McCullum, scored 0 runs. Team score: 1/0
+0.3: S Dhawan faced NL McCullum, scored 1 runs. Team score: 2/0
+0.4: RG Sharma faced NL McCullum, scored 3 runs. Team score: 5/0
+0.5: S Dhawan faced NL McCullum, scored 0 runs. Team score: 5/0
+lbw!, Batsman: S Dhawan (1 runs from 3 balls), Bowler: NL McCullum (figures: 1/5). Fielders involved: None. Team score: 5/1
+0.6: V Kohli faced NL McCullum, scored 1 runs. Team score: 6/1
+1.1: V Kohli faced CJ Anderson, scored 2 runs. Team score: 8/1
+1.2: V Kohli faced CJ Anderson, scored 1 runs. Team score: 9/1
+1.3: RG Sharma faced CJ Anderson, scored 0 runs. Team score: 9/1
+1.4: RG Sharma faced CJ Anderson, scored 0 runs. Team score: 9/1
+1.5: RG Sharma faced CJ Anderson, scored 1 runs. Team score: 10/1
+1.6: V Kohli faced CJ Anderson, scored 0 runs. Team score: 10/1
+2.1: RG Sharma faced MJ Santner, scored 0 runs. Team score: 10/1
+2.2: RG Sharma faced MJ Santner, scored 0 runs. Team score: 10/1
+stumped!, Batsman: RG Sharma (5 runs from 7 balls), Bowler: MJ Santner (figures: 1/0). Fielders involved: L Ronchi. Team score: 10/2
+2.3: SK Raina faced MJ Santner, scored 1 runs. Team score: 11/2
+2.4: V Kohli faced MJ Santner, scored 1 runs. Team score: 12/2
+2.5: SK Raina faced MJ Santner, scored 0 runs. Team score: 12/2
+caught!, Batsman: SK Raina (1 runs from 2 balls), Bowler: MJ Santner (figures: 2/2). Fielders involved: MJ Guptill. Team score: 12/3
+2.6: Yuvraj Singh faced MJ Santner, scored 0 runs. Team score: 12/3
+3.1: V Kohli faced CJ Anderson, scored 0 runs. Team score: 12/3
+3.2: V Kohli faced CJ Anderson, scored 4 runs. Team score: 16/3
+3.3: V Kohli faced CJ Anderson, scored 0 runs. Team score: 16/3
+3.4: V Kohli faced CJ Anderson, scored 4 runs. Team score: 20/3
+3.5: V Kohli faced CJ Anderson, scored 1 runs. Team score: 21/3
+3.6: Yuvraj Singh faced CJ Anderson, scored 0 runs. Team score: 21/3
+4.1: V Kohli faced NL McCullum, scored 0 runs. Team score: 21/3
+4.2: V Kohli faced NL McCullum, scored 1 runs. Team score: 22/3
+4.3: Yuvraj Singh faced NL McCullum, scored 0 runs. Team score: 22/3
+4.4: Yuvraj Singh faced NL McCullum, scored 4 runs. Team score: 26/3
+4.5: Yuvraj Singh faced NL McCullum, scored 0 runs. Team score: 26/3
+caught and bowled!, Batsman: Yuvraj Singh (4 runs from 5 balls), Bowler: NL McCullum (figures: 2/11). Fielders involved: None. Team score: 26/4
+4.6: MS Dhoni faced NL McCullum, scored 0 runs. Team score: 26/4
+5.1: V Kohli faced GD Elliott, scored 0 runs. Team score: 26/4
+5.2: V Kohli faced GD Elliott, scored 0 runs. Team score: 26/4
+5.3: V Kohli faced GD Elliott, scored 1 runs. Team score: 27/4
+5.4: MS Dhoni faced GD Elliott, scored 0 runs. Team score: 27/4
+5.5: MS Dhoni faced GD Elliott, scored 1 runs. Team score: 28/4
+5.6: V Kohli faced GD Elliott, scored 1 runs. Team score: 29/4
+6.1: V Kohli faced AF Milne, scored 1 runs. Team score: 30/4
+6.2: V Kohli faced AF Milne, scored 0 runs. Team score: 30/4
+6.3: V Kohli faced AF Milne, scored 0 runs. Team score: 30/4
+6.4: V Kohli faced AF Milne, scored 0 runs. Team score: 30/4
+6.5: V Kohli faced AF Milne, scored 1 runs. Team score: 31/4
+6.6: MS Dhoni faced AF Milne, scored 1 runs. Team score: 32/4
+6.0: V Kohli faced AF Milne, scored 1 runs. Team score: 33/4
+7.1: V Kohli faced GD Elliott, scored 1 runs. Team score: 34/4
+7.2: V Kohli faced GD Elliott, scored 1 runs. Team score: 35/4
+7.3: MS Dhoni faced GD Elliott, scored 1 runs. Team score: 36/4
+7.4: V Kohli faced GD Elliott, scored 0 runs. Team score: 36/4
+7.5: V Kohli faced GD Elliott, scored 2 runs. Team score: 38/4
+7.6: V Kohli faced GD Elliott, scored 1 runs. Team score: 39/4
+7.0: MS Dhoni faced GD Elliott, scored 0 runs. Team score: 39/4
+8.1: V Kohli faced IS Sodhi, scored 0 runs. Team score: 39/4
+caught!, Batsman: V Kohli (25 runs from 28 balls), Bowler: IS Sodhi (figures: 1/0). Fielders involved: L Ronchi. Team score: 39/5
+8.2: HH Pandya faced IS Sodhi, scored 0 runs. Team score: 39/5
+8.3: HH Pandya faced IS Sodhi, scored 0 runs. Team score: 39/5
+8.4: HH Pandya faced IS Sodhi, scored 0 runs. Team score: 39/5
+8.5: HH Pandya faced IS Sodhi, scored 1 runs. Team score: 40/5
+8.6: MS Dhoni faced IS Sodhi, scored 1 runs. Team score: 41/5
+9.1: MS Dhoni faced MJ Santner, scored 1 runs. Team score: 42/5
+9.2: HH Pandya faced MJ Santner, scored 0 runs. Team score: 42/5
+9.3: HH Pandya faced MJ Santner, scored 0 runs. Team score: 42/5
+9.4: HH Pandya faced MJ Santner, scored 0 runs. Team score: 42/5
+lbw!, Batsman: HH Pandya (1 runs from 7 balls), Bowler: MJ Santner (figures: 3/3). Fielders involved: None. Team score: 42/6
+9.5: RA Jadeja faced MJ Santner, scored 0 runs. Team score: 42/6
+9.6: RA Jadeja faced MJ Santner, scored 0 runs. Team score: 42/6
+10.1: MS Dhoni faced IS Sodhi, scored 1 runs. Team score: 43/6
+10.2: RA Jadeja faced IS Sodhi, scored 0 runs. Team score: 43/6
+caught and bowled!, Batsman: RA Jadeja (0 runs from 3 balls), Bowler: IS Sodhi (figures: 2/3). Fielders involved: None. Team score: 43/7
+10.3: R Ashwin faced IS Sodhi, scored 0 runs. Team score: 43/7
+10.4: R Ashwin faced IS Sodhi, scored 0 runs. Team score: 43/7
+10.5: R Ashwin faced IS Sodhi, scored 1 runs. Team score: 44/7
+10.6: MS Dhoni faced IS Sodhi, scored 1 runs. Team score: 45/7
+11.1: MS Dhoni faced NL McCullum, scored 0 runs. Team score: 45/7
+11.2: MS Dhoni faced NL McCullum, scored 1 runs. Team score: 46/7
+11.3: R Ashwin faced NL McCullum, scored 0 runs. Team score: 46/7
+11.4: R Ashwin faced NL McCullum, scored 1 runs. Team score: 47/7
+11.5: MS Dhoni faced NL McCullum, scored 1 runs. Team score: 48/7
+11.6: R Ashwin faced NL McCullum, scored 1 runs. Team score: 49/7
+12.1: R Ashwin faced AF Milne, scored 1 runs. Team score: 50/7
+12.2: MS Dhoni faced AF Milne, scored 1 runs. Team score: 51/7
+12.3: R Ashwin faced AF Milne, scored 1 runs. Team score: 52/7
+12.4: MS Dhoni faced AF Milne, scored 1 runs. Team score: 53/7
+12.5: R Ashwin faced AF Milne, scored 0 runs. Team score: 53/7
+12.6: R Ashwin faced AF Milne, scored 0 runs. Team score: 53/7
+13.1: MS Dhoni faced MJ Santner, scored 1 runs. Team score: 54/7
+13.2: R Ashwin faced MJ Santner, scored 0 runs. Team score: 54/7
+13.3: R Ashwin faced MJ Santner, scored 1 runs. Team score: 55/7
+13.4: MS Dhoni faced MJ Santner, scored 0 runs. Team score: 55/7
+13.5: MS Dhoni faced MJ Santner, scored 1 runs. Team score: 56/7
+13.6: R Ashwin faced MJ Santner, scored 1 runs. Team score: 57/7
+14.1: R Ashwin faced IS Sodhi, scored 0 runs. Team score: 57/7
+14.2: R Ashwin faced IS Sodhi, scored 0 runs. Team score: 57/7
+14.3: R Ashwin faced IS Sodhi, scored 1 runs. Team score: 58/7
+14.4: MS Dhoni faced IS Sodhi, scored 2 runs. Team score: 60/7
+14.5: MS Dhoni faced IS Sodhi, scored 1 runs. Team score: 61/7
+14.6: R Ashwin faced IS Sodhi, scored 0 runs. Team score: 61/7
+15.1: MS Dhoni faced CJ Anderson, scored 0 runs. Team score: 61/7
+15.2: MS Dhoni faced CJ Anderson, scored 1 runs. Team score: 62/7
+15.3: R Ashwin faced CJ Anderson, scored 1 runs. Team score: 63/7
+15.4: MS Dhoni faced CJ Anderson, scored 1 runs. Team score: 64/7
+15.5: R Ashwin faced CJ Anderson, scored 1 runs. Team score: 65/7
+15.6: MS Dhoni faced CJ Anderson, scored 1 runs. Team score: 66/7
+16.1: MS Dhoni faced IS Sodhi, scored 6 runs. Team score: 72/7
+16.2: MS Dhoni faced IS Sodhi, scored 1 runs. Team score: 73/7
+16.3: R Ashwin faced IS Sodhi, scored 0 runs. Team score: 73/7
+stumped!, Batsman: R Ashwin (10 runs from 20 balls), Bowler: IS Sodhi (figures: 3/16). Fielders involved: L Ronchi. Team score: 73/8
+16.4: A Nehra faced IS Sodhi, scored 0 runs. Team score: 73/8
+16.5: A Nehra faced IS Sodhi, scored 1 runs. Team score: 74/8
+16.6: A Nehra faced IS Sodhi, scored 0 runs. Team score: 74/8
+16.0: A Nehra faced IS Sodhi, scored 1 runs. Team score: 75/8
+16.1: A Nehra faced IS Sodhi, scored 0 runs. Team score: 75/8
+17.1: MS Dhoni faced MJ Santner, scored 4 runs. Team score: 79/8
+17.2: MS Dhoni faced MJ Santner, scored 0 runs. Team score: 79/8
+17.3: MS Dhoni faced MJ Santner, scored 0 runs. Team score: 79/8
+17.4: MS Dhoni faced MJ Santner, scored 0 runs. Team score: 79/8
+caught!, Batsman: MS Dhoni (30 runs from 30 balls), Bowler: MJ Santner (figures: 4/11). Fielders involved: NL McCullum. Team score: 79/9
+17.5: JJ Bumrah faced MJ Santner, scored 0 runs. Team score: 79/9
+17.6: JJ Bumrah faced MJ Santner, scored 0 runs. Team score: 79/9
+18.1: A Nehra faced AF Milne, scored 0 runs. Team score: 79/9
+bowled!, Batsman: A Nehra (2 runs from 6 balls), Bowler: AF Milne (figures: 1/8). Fielders involved: None. Team score: 79/10
+End of innings for India: 79/10 in 19.1 overs
+Batsman scores:
+RG Sharma: 5 runs from 7 balls
+S Dhawan: 1 runs from 3 balls
+V Kohli: 25 runs from 28 balls
+SK Raina: 1 runs from 2 balls
+Yuvraj Singh: 4 runs from 5 balls
+MS Dhoni: 30 runs from 30 balls
+HH Pandya: 1 runs from 7 balls
+RA Jadeja: 0 runs from 3 balls
+R Ashwin: 10 runs from 20 balls
+A Nehra: 2 runs from 6 balls
+JJ Bumrah: 0 runs from 2 balls
+Bowler figures:
+NL McCullum: 2 wickets for 15 runs
+CJ Anderson: 0 wickets for 18 runs
+MJ Santner: 4 wickets for 11 runs
+GD Elliott: 0 wickets for 9 runs
+AF Milne: 1 wickets for 8 runs
+IS Sodhi: 3 wickets for 18 runs
+

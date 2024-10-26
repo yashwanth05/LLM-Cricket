@@ -1,0 +1,309 @@
+Match: World T20 - T20
+Date: 2014-03-25
+Venue: Shere Bangla National Stadium, Mirpur
+Teams: Bangladesh vs West Indies
+Toss: Bangladesh won the toss and decided to field
+Result: West Indies won by 73 runs
+Man of the Match: DR Smith
+
+Innings 1:
+0.1: DR Smith faced Mashrafe Mortaza, scored 5 runs. Team score: 5/0
+0.2: DR Smith faced Mashrafe Mortaza, scored 0 runs. Team score: 5/0
+0.3: DR Smith faced Mashrafe Mortaza, scored 4 runs. Team score: 9/0
+0.4: DR Smith faced Mashrafe Mortaza, scored 1 runs. Team score: 10/0
+0.5: CH Gayle faced Mashrafe Mortaza, scored 0 runs. Team score: 10/0
+0.6: CH Gayle faced Mashrafe Mortaza, scored 0 runs. Team score: 10/0
+0.0: CH Gayle faced Mashrafe Mortaza, scored 1 runs. Team score: 11/0
+0.1: CH Gayle faced Mashrafe Mortaza, scored 0 runs. Team score: 11/0
+1.1: DR Smith faced Al-Amin Hossain, scored 0 runs. Team score: 11/0
+1.2: DR Smith faced Al-Amin Hossain, scored 1 runs. Team score: 12/0
+1.3: CH Gayle faced Al-Amin Hossain, scored 1 runs. Team score: 13/0
+1.4: DR Smith faced Al-Amin Hossain, scored 0 runs. Team score: 13/0
+1.5: DR Smith faced Al-Amin Hossain, scored 1 runs. Team score: 14/0
+1.6: CH Gayle faced Al-Amin Hossain, scored 0 runs. Team score: 14/0
+2.1: DR Smith faced Mashrafe Mortaza, scored 0 runs. Team score: 14/0
+2.2: DR Smith faced Mashrafe Mortaza, scored 4 runs. Team score: 18/0
+2.3: DR Smith faced Mashrafe Mortaza, scored 2 runs. Team score: 20/0
+2.4: DR Smith faced Mashrafe Mortaza, scored 0 runs. Team score: 20/0
+2.5: DR Smith faced Mashrafe Mortaza, scored 1 runs. Team score: 21/0
+2.6: CH Gayle faced Mashrafe Mortaza, scored 0 runs. Team score: 21/0
+3.1: DR Smith faced Sohag Gazi, scored 4 runs. Team score: 25/0
+3.2: DR Smith faced Sohag Gazi, scored 4 runs. Team score: 29/0
+3.3: DR Smith faced Sohag Gazi, scored 0 runs. Team score: 29/0
+3.4: DR Smith faced Sohag Gazi, scored 0 runs. Team score: 29/0
+3.5: DR Smith faced Sohag Gazi, scored 1 runs. Team score: 30/0
+3.6: CH Gayle faced Sohag Gazi, scored 1 runs. Team score: 31/0
+4.1: CH Gayle faced Mashrafe Mortaza, scored 1 runs. Team score: 32/0
+4.2: DR Smith faced Mashrafe Mortaza, scored 1 runs. Team score: 33/0
+4.3: CH Gayle faced Mashrafe Mortaza, scored 0 runs. Team score: 33/0
+4.4: CH Gayle faced Mashrafe Mortaza, scored 1 runs. Team score: 34/0
+4.5: DR Smith faced Mashrafe Mortaza, scored 0 runs. Team score: 34/0
+4.6: DR Smith faced Mashrafe Mortaza, scored 0 runs. Team score: 34/0
+5.1: CH Gayle faced Sohag Gazi, scored 0 runs. Team score: 34/0
+5.2: CH Gayle faced Sohag Gazi, scored 0 runs. Team score: 34/0
+5.3: CH Gayle faced Sohag Gazi, scored 0 runs. Team score: 34/0
+5.4: CH Gayle faced Sohag Gazi, scored 1 runs. Team score: 35/0
+5.5: DR Smith faced Sohag Gazi, scored 1 runs. Team score: 36/0
+5.6: CH Gayle faced Sohag Gazi, scored 0 runs. Team score: 36/0
+6.1: DR Smith faced Al-Amin Hossain, scored 1 runs. Team score: 37/0
+6.2: CH Gayle faced Al-Amin Hossain, scored 1 runs. Team score: 38/0
+6.3: DR Smith faced Al-Amin Hossain, scored 6 runs. Team score: 44/0
+6.4: DR Smith faced Al-Amin Hossain, scored 0 runs. Team score: 44/0
+6.5: DR Smith faced Al-Amin Hossain, scored 0 runs. Team score: 44/0
+6.6: DR Smith faced Al-Amin Hossain, scored 0 runs. Team score: 44/0
+7.1: CH Gayle faced Sohag Gazi, scored 0 runs. Team score: 44/0
+7.2: CH Gayle faced Sohag Gazi, scored 0 runs. Team score: 44/0
+7.3: CH Gayle faced Sohag Gazi, scored 0 runs. Team score: 44/0
+7.4: CH Gayle faced Sohag Gazi, scored 2 runs. Team score: 46/0
+7.5: CH Gayle faced Sohag Gazi, scored 6 runs. Team score: 52/0
+7.6: CH Gayle faced Sohag Gazi, scored 1 runs. Team score: 53/0
+8.1: CH Gayle faced Mashrafe Mortaza, scored 1 runs. Team score: 54/0
+8.2: DR Smith faced Mashrafe Mortaza, scored 1 runs. Team score: 55/0
+8.3: CH Gayle faced Mashrafe Mortaza, scored 0 runs. Team score: 55/0
+8.4: CH Gayle faced Mashrafe Mortaza, scored 1 runs. Team score: 56/0
+8.5: DR Smith faced Mashrafe Mortaza, scored 0 runs. Team score: 56/0
+8.6: DR Smith faced Mashrafe Mortaza, scored 1 runs. Team score: 57/0
+9.1: DR Smith faced Sohag Gazi, scored 4 runs. Team score: 61/0
+9.2: DR Smith faced Sohag Gazi, scored 4 runs. Team score: 65/0
+9.3: DR Smith faced Sohag Gazi, scored 4 runs. Team score: 69/0
+9.4: DR Smith faced Sohag Gazi, scored 4 runs. Team score: 73/0
+9.5: DR Smith faced Sohag Gazi, scored 0 runs. Team score: 73/0
+9.6: DR Smith faced Sohag Gazi, scored 1 runs. Team score: 74/0
+10.1: DR Smith faced Sabbir Rahman, scored 0 runs. Team score: 74/0
+10.2: DR Smith faced Sabbir Rahman, scored 6 runs. Team score: 80/0
+10.3: DR Smith faced Sabbir Rahman, scored 0 runs. Team score: 80/0
+10.4: DR Smith faced Sabbir Rahman, scored 4 runs. Team score: 84/0
+10.5: DR Smith faced Sabbir Rahman, scored 1 runs. Team score: 85/0
+10.6: CH Gayle faced Sabbir Rahman, scored 1 runs. Team score: 86/0
+11.1: CH Gayle faced Mahmudullah, scored 0 runs. Team score: 86/0
+11.2: CH Gayle faced Mahmudullah, scored 1 runs. Team score: 87/0
+11.3: DR Smith faced Mahmudullah, scored 4 runs. Team score: 91/0
+11.4: DR Smith faced Mahmudullah, scored 6 runs. Team score: 97/0
+11.5: DR Smith faced Mahmudullah, scored 0 runs. Team score: 97/0
+caught!, Batsman: DR Smith (77 runs from 44 balls), Bowler: Mahmudullah (figures: 1/11). Fielders involved: Al-Amin Hossain. Team score: 97/1
+11.6: CH Gayle faced Mahmudullah, scored 0 runs. Team score: 97/1
+12.1: LMP Simmons faced Shakib Al Hasan, scored 1 runs. Team score: 98/1
+stumped!, Batsman: LMP Simmons (1 runs from 1 balls), Bowler: Shakib Al Hasan (figures: 1/1). Fielders involved: Mushfiqur Rahim. Team score: 98/2
+12.2: MN Samuels faced Shakib Al Hasan, scored 1 runs. Team score: 99/2
+12.3: CH Gayle faced Shakib Al Hasan, scored 2 runs. Team score: 101/2
+12.4: CH Gayle faced Shakib Al Hasan, scored 1 runs. Team score: 102/2
+12.5: MN Samuels faced Shakib Al Hasan, scored 0 runs. Team score: 102/2
+12.6: MN Samuels faced Shakib Al Hasan, scored 0 runs. Team score: 102/2
+12.0: MN Samuels faced Shakib Al Hasan, scored 0 runs. Team score: 102/2
+13.1: CH Gayle faced Mahmudullah, scored 1 runs. Team score: 103/2
+13.2: MN Samuels faced Mahmudullah, scored 2 runs. Team score: 105/2
+13.3: MN Samuels faced Mahmudullah, scored 4 runs. Team score: 109/2
+13.4: MN Samuels faced Mahmudullah, scored 1 runs. Team score: 110/2
+13.5: CH Gayle faced Mahmudullah, scored 1 runs. Team score: 111/2
+13.6: MN Samuels faced Mahmudullah, scored 1 runs. Team score: 112/2
+14.1: MN Samuels faced Shakib Al Hasan, scored 1 runs. Team score: 113/2
+14.2: CH Gayle faced Shakib Al Hasan, scored 1 runs. Team score: 114/2
+14.3: MN Samuels faced Shakib Al Hasan, scored 1 runs. Team score: 115/2
+14.4: CH Gayle faced Shakib Al Hasan, scored 1 runs. Team score: 116/2
+14.5: MN Samuels faced Shakib Al Hasan, scored 0 runs. Team score: 116/2
+14.6: MN Samuels faced Shakib Al Hasan, scored 0 runs. Team score: 116/2
+15.1: CH Gayle faced Mahmudullah, scored 1 runs. Team score: 117/2
+15.2: MN Samuels faced Mahmudullah, scored 1 runs. Team score: 118/2
+15.3: CH Gayle faced Mahmudullah, scored 0 runs. Team score: 118/2
+15.4: CH Gayle faced Mahmudullah, scored 0 runs. Team score: 118/2
+15.5: CH Gayle faced Mahmudullah, scored 4 runs. Team score: 122/2
+15.6: CH Gayle faced Mahmudullah, scored 1 runs. Team score: 123/2
+16.1: CH Gayle faced Shakib Al Hasan, scored 1 runs. Team score: 124/2
+16.2: MN Samuels faced Shakib Al Hasan, scored 4 runs. Team score: 128/2
+16.3: MN Samuels faced Shakib Al Hasan, scored 4 runs. Team score: 132/2
+16.4: MN Samuels faced Shakib Al Hasan, scored 1 runs. Team score: 133/2
+16.5: CH Gayle faced Shakib Al Hasan, scored 4 runs. Team score: 137/2
+16.6: CH Gayle faced Shakib Al Hasan, scored 6 runs. Team score: 143/2
+17.1: MN Samuels faced Al-Amin Hossain, scored 1 runs. Team score: 144/2
+17.2: CH Gayle faced Al-Amin Hossain, scored 0 runs. Team score: 144/2
+17.3: CH Gayle faced Al-Amin Hossain, scored 1 runs. Team score: 145/2
+17.4: MN Samuels faced Al-Amin Hossain, scored 1 runs. Team score: 146/2
+17.5: CH Gayle faced Al-Amin Hossain, scored 4 runs. Team score: 150/2
+17.6: CH Gayle faced Al-Amin Hossain, scored 1 runs. Team score: 151/2
+18.1: CH Gayle faced Ziaur Rahman, scored 0 runs. Team score: 151/2
+caught!, Batsman: CH Gayle (50 runs from 49 balls), Bowler: Ziaur Rahman (figures: 1/0). Fielders involved: Tamim Iqbal. Team score: 151/3
+18.2: MN Samuels faced Ziaur Rahman, scored 3 runs. Team score: 154/3
+18.3: MN Samuels faced Ziaur Rahman, scored 0 runs. Team score: 154/3
+18.4: MN Samuels faced Ziaur Rahman, scored 1 runs. Team score: 155/3
+18.5: DJG Sammy faced Ziaur Rahman, scored 4 runs. Team score: 159/3
+18.6: DJG Sammy faced Ziaur Rahman, scored 4 runs. Team score: 163/3
+18.0: DJG Sammy faced Ziaur Rahman, scored 4 runs. Team score: 167/3
+19.1: MN Samuels faced Al-Amin Hossain, scored 0 runs. Team score: 167/3
+caught!, Batsman: MN Samuels (27 runs from 22 balls), Bowler: Al-Amin Hossain (figures: 1/19). Fielders involved: Sohag Gazi. Team score: 167/4
+19.2: AD Russell faced Al-Amin Hossain, scored 0 runs. Team score: 167/4
+caught!, Batsman: AD Russell (0 runs from 1 balls), Bowler: Al-Amin Hossain (figures: 2/19). Fielders involved: Shakib Al Hasan. Team score: 167/5
+19.3: DJG Sammy faced Al-Amin Hossain, scored 1 runs. Team score: 168/5
+19.4: DJ Bravo faced Al-Amin Hossain, scored 0 runs. Team score: 168/5
+caught!, Batsman: DJ Bravo (0 runs from 1 balls), Bowler: Al-Amin Hossain (figures: 3/20). Fielders involved: Tamim Iqbal. Team score: 168/6
+19.5: D Ramdin faced Al-Amin Hossain, scored 1 runs. Team score: 169/6
+19.6: DJG Sammy faced Al-Amin Hossain, scored 2 runs. Team score: 171/6
+run out!, Batsman: D Ramdin (1 runs from 1 balls), Bowler: Al-Amin Hossain (figures: 4/23). Fielders involved: Mushfiqur Rahim, Ziaur Rahman. Team score: 171/7
+End of innings for West Indies: 171/7 in 20.0 overs
+Batsman scores:
+DR Smith: 77 runs from 44 balls
+CH Gayle: 50 runs from 49 balls
+LMP Simmons: 1 runs from 1 balls
+MN Samuels: 27 runs from 22 balls
+DJG Sammy: 15 runs from 5 balls
+AD Russell: 0 runs from 1 balls
+DJ Bravo: 0 runs from 1 balls
+D Ramdin: 1 runs from 1 balls
+Bowler figures:
+Mashrafe Mortaza: 0 wickets for 25 runs
+Al-Amin Hossain: 4 wickets for 23 runs
+Sohag Gazi: 0 wickets for 38 runs
+Sabbir Rahman: 0 wickets for 12 runs
+Mahmudullah: 1 wickets for 28 runs
+Shakib Al Hasan: 1 wickets for 29 runs
+Ziaur Rahman: 1 wickets for 16 runs
+
+Innings 2:
+0.1: Tamim Iqbal faced S Badree, scored 0 runs. Team score: 0/0
+0.2: Tamim Iqbal faced S Badree, scored 1 runs. Team score: 1/0
+0.3: Anamul Haque faced S Badree, scored 0 runs. Team score: 1/0
+0.4: Anamul Haque faced S Badree, scored 4 runs. Team score: 5/0
+0.5: Anamul Haque faced S Badree, scored 4 runs. Team score: 9/0
+0.6: Anamul Haque faced S Badree, scored 0 runs. Team score: 9/0
+1.1: Tamim Iqbal faced K Santokie, scored 0 runs. Team score: 9/0
+1.2: Tamim Iqbal faced K Santokie, scored 0 runs. Team score: 9/0
+1.3: Tamim Iqbal faced K Santokie, scored 4 runs. Team score: 13/0
+1.4: Tamim Iqbal faced K Santokie, scored 0 runs. Team score: 13/0
+1.5: Tamim Iqbal faced K Santokie, scored 0 runs. Team score: 13/0
+1.6: Tamim Iqbal faced K Santokie, scored 0 runs. Team score: 13/0
+2.1: Anamul Haque faced S Badree, scored 1 runs. Team score: 14/0
+2.2: Tamim Iqbal faced S Badree, scored 0 runs. Team score: 14/0
+2.3: Tamim Iqbal faced S Badree, scored 0 runs. Team score: 14/0
+caught!, Batsman: Tamim Iqbal (5 runs from 10 balls), Bowler: S Badree (figures: 1/10). Fielders involved: DJ Bravo. Team score: 14/1
+2.4: Mominul Haque faced S Badree, scored 1 runs. Team score: 15/1
+2.5: Anamul Haque faced S Badree, scored 1 runs. Team score: 16/1
+2.6: Mominul Haque faced S Badree, scored 0 runs. Team score: 16/1
+3.1: Anamul Haque faced K Santokie, scored 0 runs. Team score: 16/1
+stumped!, Batsman: Anamul Haque (10 runs from 7 balls), Bowler: K Santokie (figures: 1/4). Fielders involved: D Ramdin. Team score: 16/2
+3.2: Shakib Al Hasan faced K Santokie, scored 0 runs. Team score: 16/2
+bowled!, Batsman: Shakib Al Hasan (0 runs from 1 balls), Bowler: K Santokie (figures: 2/4). Fielders involved: None. Team score: 16/3
+3.3: Mushfiqur Rahim faced K Santokie, scored 0 runs. Team score: 16/3
+3.4: Mushfiqur Rahim faced K Santokie, scored 1 runs. Team score: 17/3
+3.5: Mushfiqur Rahim faced K Santokie, scored 0 runs. Team score: 17/3
+3.6: Mushfiqur Rahim faced K Santokie, scored 1 runs. Team score: 18/3
+3.0: Mominul Haque faced K Santokie, scored 1 runs. Team score: 19/3
+4.1: Mominul Haque faced S Badree, scored 0 runs. Team score: 19/3
+4.2: Mominul Haque faced S Badree, scored 0 runs. Team score: 19/3
+4.3: Mominul Haque faced S Badree, scored 1 runs. Team score: 20/3
+4.4: Mushfiqur Rahim faced S Badree, scored 0 runs. Team score: 20/3
+4.5: Mushfiqur Rahim faced S Badree, scored 0 runs. Team score: 20/3
+4.6: Mushfiqur Rahim faced S Badree, scored 0 runs. Team score: 20/3
+5.1: Mominul Haque faced MN Samuels, scored 1 runs. Team score: 21/3
+5.2: Mushfiqur Rahim faced MN Samuels, scored 1 runs. Team score: 22/3
+5.3: Mominul Haque faced MN Samuels, scored 1 runs. Team score: 23/3
+5.4: Mushfiqur Rahim faced MN Samuels, scored 0 runs. Team score: 23/3
+5.5: Mushfiqur Rahim faced MN Samuels, scored 6 runs. Team score: 29/3
+5.6: Mushfiqur Rahim faced MN Samuels, scored 0 runs. Team score: 29/3
+6.1: Mominul Haque faced DJG Sammy, scored 0 runs. Team score: 29/3
+6.2: Mominul Haque faced DJG Sammy, scored 0 runs. Team score: 29/3
+6.3: Mominul Haque faced DJG Sammy, scored 1 runs. Team score: 30/3
+6.4: Mushfiqur Rahim faced DJG Sammy, scored 0 runs. Team score: 30/3
+6.5: Mushfiqur Rahim faced DJG Sammy, scored 4 runs. Team score: 34/3
+6.6: Mushfiqur Rahim faced DJG Sammy, scored 1 runs. Team score: 35/3
+7.1: Mushfiqur Rahim faced SP Narine, scored 1 runs. Team score: 36/3
+7.2: Mominul Haque faced SP Narine, scored 0 runs. Team score: 36/3
+7.3: Mominul Haque faced SP Narine, scored 1 runs. Team score: 37/3
+7.4: Mushfiqur Rahim faced SP Narine, scored 1 runs. Team score: 38/3
+7.5: Mominul Haque faced SP Narine, scored 1 runs. Team score: 39/3
+7.6: Mushfiqur Rahim faced SP Narine, scored 1 runs. Team score: 40/3
+8.1: Mushfiqur Rahim faced DJ Bravo, scored 1 runs. Team score: 41/3
+8.2: Mominul Haque faced DJ Bravo, scored 4 runs. Team score: 45/3
+8.3: Mominul Haque faced DJ Bravo, scored 1 runs. Team score: 46/3
+8.4: Mominul Haque faced DJ Bravo, scored 0 runs. Team score: 46/3
+8.5: Mominul Haque faced DJ Bravo, scored 4 runs. Team score: 50/3
+8.6: Mominul Haque faced DJ Bravo, scored 1 runs. Team score: 51/3
+8.0: Mushfiqur Rahim faced DJ Bravo, scored 0 runs. Team score: 51/3
+9.1: Mominul Haque faced SP Narine, scored 0 runs. Team score: 51/3
+caught!, Batsman: Mominul Haque (18 runs from 20 balls), Bowler: SP Narine (figures: 1/5). Fielders involved: K Santokie. Team score: 51/4
+9.2: Mushfiqur Rahim faced SP Narine, scored 0 runs. Team score: 51/4
+9.3: Mushfiqur Rahim faced SP Narine, scored 4 runs. Team score: 55/4
+9.4: Mushfiqur Rahim faced SP Narine, scored 1 runs. Team score: 56/4
+9.5: Sabbir Rahman faced SP Narine, scored 0 runs. Team score: 56/4
+9.6: Sabbir Rahman faced SP Narine, scored 1 runs. Team score: 57/4
+10.1: Sabbir Rahman faced S Badree, scored 0 runs. Team score: 57/4
+caught!, Batsman: Sabbir Rahman (1 runs from 3 balls), Bowler: S Badree (figures: 2/13). Fielders involved: DJG Sammy. Team score: 57/5
+10.2: Mahmudullah faced S Badree, scored 1 runs. Team score: 58/5
+10.3: Mushfiqur Rahim faced S Badree, scored 0 runs. Team score: 58/5
+caught!, Batsman: Mushfiqur Rahim (23 runs from 23 balls), Bowler: S Badree (figures: 3/14). Fielders involved: DJ Bravo. Team score: 58/6
+10.4: Ziaur Rahman faced S Badree, scored 1 runs. Team score: 59/6
+10.5: Mahmudullah faced S Badree, scored 0 runs. Team score: 59/6
+10.6: Mahmudullah faced S Badree, scored 0 runs. Team score: 59/6
+caught!, Batsman: Mahmudullah (1 runs from 3 balls), Bowler: S Badree (figures: 4/15). Fielders involved: LMP Simmons. Team score: 59/7
+11.1: Ziaur Rahman faced SP Narine, scored 2 runs. Team score: 61/7
+11.2: Ziaur Rahman faced SP Narine, scored 0 runs. Team score: 61/7
+11.3: Ziaur Rahman faced SP Narine, scored 0 runs. Team score: 61/7
+11.4: Ziaur Rahman faced SP Narine, scored 1 runs. Team score: 62/7
+11.5: Sohag Gazi faced SP Narine, scored 0 runs. Team score: 62/7
+11.6: Sohag Gazi faced SP Narine, scored 1 runs. Team score: 63/7
+12.1: Sohag Gazi faced K Santokie, scored 1 runs. Team score: 64/7
+12.2: Sohag Gazi faced K Santokie, scored 0 runs. Team score: 64/7
+12.3: Sohag Gazi faced K Santokie, scored 0 runs. Team score: 64/7
+12.4: Sohag Gazi faced K Santokie, scored 1 runs. Team score: 65/7
+12.5: Ziaur Rahman faced K Santokie, scored 0 runs. Team score: 65/7
+12.6: Ziaur Rahman faced K Santokie, scored 0 runs. Team score: 65/7
+12.0: Ziaur Rahman faced K Santokie, scored 1 runs. Team score: 66/7
+13.1: Ziaur Rahman faced DJ Bravo, scored 1 runs. Team score: 67/7
+13.2: Sohag Gazi faced DJ Bravo, scored 0 runs. Team score: 67/7
+13.3: Sohag Gazi faced DJ Bravo, scored 1 runs. Team score: 68/7
+13.4: Ziaur Rahman faced DJ Bravo, scored 1 runs. Team score: 69/7
+13.5: Sohag Gazi faced DJ Bravo, scored 1 runs. Team score: 70/7
+13.6: Ziaur Rahman faced DJ Bravo, scored 0 runs. Team score: 70/7
+14.1: Sohag Gazi faced AD Russell, scored 1 runs. Team score: 71/7
+14.2: Ziaur Rahman faced AD Russell, scored 2 runs. Team score: 73/7
+14.3: Ziaur Rahman faced AD Russell, scored 0 runs. Team score: 73/7
+bowled!, Batsman: Ziaur Rahman (9 runs from 13 balls), Bowler: AD Russell (figures: 1/3). Fielders involved: None. Team score: 73/8
+14.4: Mashrafe Mortaza faced AD Russell, scored 1 runs. Team score: 74/8
+14.5: Sohag Gazi faced AD Russell, scored 0 runs. Team score: 74/8
+14.6: Sohag Gazi faced AD Russell, scored 0 runs. Team score: 74/8
+15.1: Mashrafe Mortaza faced SP Narine, scored 0 runs. Team score: 74/8
+15.2: Mashrafe Mortaza faced SP Narine, scored 0 runs. Team score: 74/8
+15.3: Mashrafe Mortaza faced SP Narine, scored 1 runs. Team score: 75/8
+15.4: Sohag Gazi faced SP Narine, scored 1 runs. Team score: 76/8
+15.5: Mashrafe Mortaza faced SP Narine, scored 1 runs. Team score: 77/8
+15.6: Sohag Gazi faced SP Narine, scored 0 runs. Team score: 77/8
+16.1: Mashrafe Mortaza faced AD Russell, scored 0 runs. Team score: 77/8
+16.2: Mashrafe Mortaza faced AD Russell, scored 1 runs. Team score: 78/8
+16.3: Sohag Gazi faced AD Russell, scored 0 runs. Team score: 78/8
+16.4: Sohag Gazi faced AD Russell, scored 1 runs. Team score: 79/8
+16.5: Mashrafe Mortaza faced AD Russell, scored 4 runs. Team score: 83/8
+16.6: Mashrafe Mortaza faced AD Russell, scored 0 runs. Team score: 83/8
+17.1: Sohag Gazi faced DJ Bravo, scored 1 runs. Team score: 84/8
+17.2: Mashrafe Mortaza faced DJ Bravo, scored 4 runs. Team score: 88/8
+17.3: Mashrafe Mortaza faced DJ Bravo, scored 0 runs. Team score: 88/8
+17.4: Mashrafe Mortaza faced DJ Bravo, scored 1 runs. Team score: 89/8
+17.5: Sohag Gazi faced DJ Bravo, scored 1 runs. Team score: 90/8
+17.6: Mashrafe Mortaza faced DJ Bravo, scored 1 runs. Team score: 91/8
+18.1: Mashrafe Mortaza faced K Santokie, scored 0 runs. Team score: 91/8
+18.2: Mashrafe Mortaza faced K Santokie, scored 4 runs. Team score: 95/8
+18.3: Mashrafe Mortaza faced K Santokie, scored 1 runs. Team score: 96/8
+18.4: Sohag Gazi faced K Santokie, scored 1 runs. Team score: 97/8
+18.5: Mashrafe Mortaza faced K Santokie, scored 0 runs. Team score: 97/8
+caught!, Batsman: Mashrafe Mortaza (19 runs from 17 balls), Bowler: K Santokie (figures: 3/16). Fielders involved: DJ Bravo. Team score: 97/9
+18.6: Sohag Gazi faced K Santokie, scored 1 runs. Team score: 98/9
+19.1: Sohag Gazi faced AD Russell, scored 0 runs. Team score: 98/9
+bowled!, Batsman: Sohag Gazi (12 runs from 21 balls), Bowler: AD Russell (figures: 2/10). Fielders involved: None. Team score: 98/10
+End of innings for Bangladesh: 98/10 in 20.0 overs
+Batsman scores:
+Tamim Iqbal: 5 runs from 10 balls
+Anamul Haque: 10 runs from 7 balls
+Mominul Haque: 18 runs from 20 balls
+Shakib Al Hasan: 0 runs from 1 balls
+Mushfiqur Rahim: 23 runs from 23 balls
+Sabbir Rahman: 1 runs from 3 balls
+Mahmudullah: 1 runs from 3 balls
+Ziaur Rahman: 9 runs from 13 balls
+Sohag Gazi: 12 runs from 21 balls
+Mashrafe Mortaza: 19 runs from 17 balls
+Bowler figures:
+S Badree: 4 wickets for 15 runs
+K Santokie: 3 wickets for 17 runs
+MN Samuels: 0 wickets for 9 runs
+DJG Sammy: 0 wickets for 6 runs
+SP Narine: 1 wickets for 18 runs
+DJ Bravo: 0 wickets for 23 runs
+AD Russell: 2 wickets for 10 runs
+

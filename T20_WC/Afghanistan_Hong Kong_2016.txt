@@ -1,0 +1,287 @@
+Match: World T20 - T20
+Date: 2016-03-10
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Teams: Afghanistan vs Hong Kong
+Toss: Hong Kong won the toss and decided to bat
+Result: Afghanistan won by 6 wickets
+Man of the Match: Mohammad Nabi
+
+Innings 1:
+0.1: JJ Atkinson faced Hamid Hassan, scored 1 runs. Team score: 1/0
+0.2: RJ Campbell faced Hamid Hassan, scored 2 runs. Team score: 3/0
+0.3: RJ Campbell faced Hamid Hassan, scored 0 runs. Team score: 3/0
+0.4: RJ Campbell faced Hamid Hassan, scored 1 runs. Team score: 4/0
+0.5: JJ Atkinson faced Hamid Hassan, scored 0 runs. Team score: 4/0
+0.6: JJ Atkinson faced Hamid Hassan, scored 0 runs. Team score: 4/0
+1.1: RJ Campbell faced Dawlat Zadran, scored 2 runs. Team score: 6/0
+1.2: RJ Campbell faced Dawlat Zadran, scored 0 runs. Team score: 6/0
+1.3: RJ Campbell faced Dawlat Zadran, scored 1 runs. Team score: 7/0
+1.4: JJ Atkinson faced Dawlat Zadran, scored 0 runs. Team score: 7/0
+1.5: JJ Atkinson faced Dawlat Zadran, scored 4 runs. Team score: 11/0
+1.6: JJ Atkinson faced Dawlat Zadran, scored 0 runs. Team score: 11/0
+2.1: RJ Campbell faced Hamid Hassan, scored 4 runs. Team score: 15/0
+2.2: RJ Campbell faced Hamid Hassan, scored 1 runs. Team score: 16/0
+2.3: JJ Atkinson faced Hamid Hassan, scored 0 runs. Team score: 16/0
+2.4: JJ Atkinson faced Hamid Hassan, scored 1 runs. Team score: 17/0
+2.5: RJ Campbell faced Hamid Hassan, scored 0 runs. Team score: 17/0
+2.6: RJ Campbell faced Hamid Hassan, scored 1 runs. Team score: 18/0
+3.1: RJ Campbell faced Dawlat Zadran, scored 0 runs. Team score: 18/0
+3.2: RJ Campbell faced Dawlat Zadran, scored 4 runs. Team score: 22/0
+3.3: RJ Campbell faced Dawlat Zadran, scored 4 runs. Team score: 26/0
+3.4: RJ Campbell faced Dawlat Zadran, scored 0 runs. Team score: 26/0
+3.5: RJ Campbell faced Dawlat Zadran, scored 0 runs. Team score: 26/0
+3.6: RJ Campbell faced Dawlat Zadran, scored 1 runs. Team score: 27/0
+4.1: RJ Campbell faced Samiullah Shenwari, scored 4 runs. Team score: 31/0
+4.2: RJ Campbell faced Samiullah Shenwari, scored 1 runs. Team score: 32/0
+4.3: RJ Campbell faced Samiullah Shenwari, scored 0 runs. Team score: 32/0
+4.4: RJ Campbell faced Samiullah Shenwari, scored 1 runs. Team score: 33/0
+4.5: JJ Atkinson faced Samiullah Shenwari, scored 1 runs. Team score: 34/0
+4.6: RJ Campbell faced Samiullah Shenwari, scored 0 runs. Team score: 34/0
+4.0: RJ Campbell faced Samiullah Shenwari, scored 0 runs. Team score: 34/0
+5.1: JJ Atkinson faced Mohammad Nabi, scored 1 runs. Team score: 35/0
+5.2: RJ Campbell faced Mohammad Nabi, scored 0 runs. Team score: 35/0
+5.3: RJ Campbell faced Mohammad Nabi, scored 1 runs. Team score: 36/0
+5.4: RJ Campbell faced Mohammad Nabi, scored 4 runs. Team score: 40/0
+5.5: RJ Campbell faced Mohammad Nabi, scored 0 runs. Team score: 40/0
+bowled!, Batsman: RJ Campbell (32 runs from 26 balls), Bowler: Mohammad Nabi (figures: 1/6). Fielders involved: None. Team score: 40/1
+5.6: Babar Hayat faced Mohammad Nabi, scored 2 runs. Team score: 42/1
+5.0: Babar Hayat faced Mohammad Nabi, scored 0 runs. Team score: 42/1
+caught!, Batsman: Babar Hayat (2 runs from 2 balls), Bowler: Mohammad Nabi (figures: 2/8). Fielders involved: Samiullah Shenwari. Team score: 42/2
+6.1: JJ Atkinson faced Samiullah Shenwari, scored 1 runs. Team score: 43/2
+6.2: MS Chapman faced Samiullah Shenwari, scored 1 runs. Team score: 44/2
+6.3: JJ Atkinson faced Samiullah Shenwari, scored 0 runs. Team score: 44/2
+6.4: JJ Atkinson faced Samiullah Shenwari, scored 1 runs. Team score: 45/2
+6.5: MS Chapman faced Samiullah Shenwari, scored 0 runs. Team score: 45/2
+6.6: MS Chapman faced Samiullah Shenwari, scored 1 runs. Team score: 46/2
+7.1: MS Chapman faced Mohammad Nabi, scored 1 runs. Team score: 47/2
+7.2: JJ Atkinson faced Mohammad Nabi, scored 1 runs. Team score: 48/2
+7.3: MS Chapman faced Mohammad Nabi, scored 0 runs. Team score: 48/2
+7.4: MS Chapman faced Mohammad Nabi, scored 1 runs. Team score: 49/2
+7.5: JJ Atkinson faced Mohammad Nabi, scored 1 runs. Team score: 50/2
+7.6: MS Chapman faced Mohammad Nabi, scored 0 runs. Team score: 50/2
+8.1: JJ Atkinson faced Rashid Khan, scored 1 runs. Team score: 51/2
+8.2: MS Chapman faced Rashid Khan, scored 1 runs. Team score: 52/2
+8.3: JJ Atkinson faced Rashid Khan, scored 0 runs. Team score: 52/2
+8.4: JJ Atkinson faced Rashid Khan, scored 4 runs. Team score: 56/2
+8.5: JJ Atkinson faced Rashid Khan, scored 0 runs. Team score: 56/2
+8.6: JJ Atkinson faced Rashid Khan, scored 0 runs. Team score: 56/2
+bowled!, Batsman: JJ Atkinson (17 runs from 20 balls), Bowler: Rashid Khan (figures: 1/6). Fielders involved: None. Team score: 56/3
+9.1: MS Chapman faced Gulbadin Naib, scored 1 runs. Team score: 57/3
+9.2: Anshuman Rath faced Gulbadin Naib, scored 1 runs. Team score: 58/3
+9.3: Anshuman Rath faced Gulbadin Naib, scored 0 runs. Team score: 58/3
+9.4: Anshuman Rath faced Gulbadin Naib, scored 1 runs. Team score: 59/3
+9.5: MS Chapman faced Gulbadin Naib, scored 2 runs. Team score: 61/3
+9.6: MS Chapman faced Gulbadin Naib, scored 0 runs. Team score: 61/3
+bowled!, Batsman: MS Chapman (8 runs from 11 balls), Bowler: Gulbadin Naib (figures: 1/5). Fielders involved: None. Team score: 61/4
+9.0: Nizakat Khan faced Gulbadin Naib, scored 1 runs. Team score: 62/4
+10.1: Nizakat Khan faced Rashid Khan, scored 0 runs. Team score: 62/4
+10.2: Nizakat Khan faced Rashid Khan, scored 0 runs. Team score: 62/4
+10.3: Nizakat Khan faced Rashid Khan, scored 1 runs. Team score: 63/4
+10.4: Anshuman Rath faced Rashid Khan, scored 1 runs. Team score: 64/4
+10.5: Nizakat Khan faced Rashid Khan, scored 1 runs. Team score: 65/4
+10.6: Anshuman Rath faced Rashid Khan, scored 1 runs. Team score: 66/4
+11.1: Anshuman Rath faced Gulbadin Naib, scored 2 runs. Team score: 68/4
+11.2: Anshuman Rath faced Gulbadin Naib, scored 1 runs. Team score: 69/4
+11.3: Nizakat Khan faced Gulbadin Naib, scored 1 runs. Team score: 70/4
+11.4: Anshuman Rath faced Gulbadin Naib, scored 2 runs. Team score: 72/4
+11.5: Anshuman Rath faced Gulbadin Naib, scored 0 runs. Team score: 72/4
+11.6: Anshuman Rath faced Gulbadin Naib, scored 1 runs. Team score: 73/4
+12.1: Anshuman Rath faced Rashid Khan, scored 1 runs. Team score: 74/4
+12.2: Nizakat Khan faced Rashid Khan, scored 1 runs. Team score: 75/4
+12.3: Anshuman Rath faced Rashid Khan, scored 1 runs. Team score: 76/4
+12.4: Nizakat Khan faced Rashid Khan, scored 0 runs. Team score: 76/4
+12.5: Nizakat Khan faced Rashid Khan, scored 3 runs. Team score: 79/4
+12.6: Anshuman Rath faced Rashid Khan, scored 1 runs. Team score: 80/4
+13.1: Anshuman Rath faced Mohammad Nabi, scored 0 runs. Team score: 80/4
+13.2: Anshuman Rath faced Mohammad Nabi, scored 0 runs. Team score: 80/4
+13.3: Anshuman Rath faced Mohammad Nabi, scored 1 runs. Team score: 81/4
+13.4: Nizakat Khan faced Mohammad Nabi, scored 0 runs. Team score: 81/4
+stumped!, Batsman: Nizakat Khan (8 runs from 10 balls), Bowler: Mohammad Nabi (figures: 3/13). Fielders involved: Mohammad Shahzad. Team score: 81/5
+13.5: KD Shah faced Mohammad Nabi, scored 0 runs. Team score: 81/5
+13.6: KD Shah faced Mohammad Nabi, scored 1 runs. Team score: 82/5
+14.1: KD Shah faced Hamid Hassan, scored 1 runs. Team score: 83/5
+14.2: Anshuman Rath faced Hamid Hassan, scored 1 runs. Team score: 84/5
+14.3: KD Shah faced Hamid Hassan, scored 0 runs. Team score: 84/5
+14.4: KD Shah faced Hamid Hassan, scored 1 runs. Team score: 85/5
+14.5: Anshuman Rath faced Hamid Hassan, scored 0 runs. Team score: 85/5
+14.6: Anshuman Rath faced Hamid Hassan, scored 1 runs. Team score: 86/5
+15.1: Anshuman Rath faced Rashid Khan, scored 1 runs. Team score: 87/5
+15.2: KD Shah faced Rashid Khan, scored 1 runs. Team score: 88/5
+15.3: Anshuman Rath faced Rashid Khan, scored 0 runs. Team score: 88/5
+15.4: Anshuman Rath faced Rashid Khan, scored 4 runs. Team score: 92/5
+15.5: Anshuman Rath faced Rashid Khan, scored 1 runs. Team score: 93/5
+15.6: KD Shah faced Rashid Khan, scored 0 runs. Team score: 93/5
+16.1: Anshuman Rath faced Dawlat Zadran, scored 1 runs. Team score: 94/5
+16.2: KD Shah faced Dawlat Zadran, scored 1 runs. Team score: 95/5
+16.3: Anshuman Rath faced Dawlat Zadran, scored 1 runs. Team score: 96/5
+16.4: KD Shah faced Dawlat Zadran, scored 0 runs. Team score: 96/5
+16.5: KD Shah faced Dawlat Zadran, scored 0 runs. Team score: 96/5
+16.6: KD Shah faced Dawlat Zadran, scored 1 runs. Team score: 97/5
+17.1: KD Shah faced Mohammad Nabi, scored 1 runs. Team score: 98/5
+17.2: Anshuman Rath faced Mohammad Nabi, scored 1 runs. Team score: 99/5
+17.3: KD Shah faced Mohammad Nabi, scored 4 runs. Team score: 103/5
+17.4: KD Shah faced Mohammad Nabi, scored 0 runs. Team score: 103/5
+caught and bowled!, Batsman: KD Shah (11 runs from 14 balls), Bowler: Mohammad Nabi (figures: 4/20). Fielders involved: None. Team score: 103/6
+17.5: Anshuman Rath faced Mohammad Nabi, scored 2 runs. Team score: 105/6
+17.6: Anshuman Rath faced Mohammad Nabi, scored 1 runs. Team score: 106/6
+18.1: Anshuman Rath faced Dawlat Zadran, scored 1 runs. Team score: 107/6
+18.2: Tanwir Afzal faced Dawlat Zadran, scored 0 runs. Team score: 107/6
+18.3: Tanwir Afzal faced Dawlat Zadran, scored 0 runs. Team score: 107/6
+18.4: Tanwir Afzal faced Dawlat Zadran, scored 1 runs. Team score: 108/6
+18.5: Anshuman Rath faced Dawlat Zadran, scored 1 runs. Team score: 109/6
+18.6: Tanwir Afzal faced Dawlat Zadran, scored 1 runs. Team score: 110/6
+19.1: Tanwir Afzal faced Hamid Hassan, scored 2 runs. Team score: 112/6
+19.2: Tanwir Afzal faced Hamid Hassan, scored 1 runs. Team score: 113/6
+19.3: Anshuman Rath faced Hamid Hassan, scored 1 runs. Team score: 114/6
+19.4: Tanwir Afzal faced Hamid Hassan, scored 0 runs. Team score: 114/6
+19.5: Tanwir Afzal faced Hamid Hassan, scored 1 runs. Team score: 115/6
+19.6: Anshuman Rath faced Hamid Hassan, scored 1 runs. Team score: 116/6
+End of innings for Hong Kong: 116/6 in 20.0 overs
+Batsman scores:
+JJ Atkinson: 17 runs from 20 balls
+RJ Campbell: 32 runs from 26 balls
+Babar Hayat: 2 runs from 2 balls
+MS Chapman: 8 runs from 11 balls
+Anshuman Rath: 32 runs from 32 balls
+Nizakat Khan: 8 runs from 10 balls
+KD Shah: 11 runs from 14 balls
+Tanwir Afzal: 6 runs from 8 balls
+Bowler figures:
+Hamid Hassan: 0 wickets for 21 runs
+Dawlat Zadran: 0 wickets for 24 runs
+Samiullah Shenwari: 0 wickets for 11 runs
+Mohammad Nabi: 4 wickets for 23 runs
+Rashid Khan: 1 wickets for 24 runs
+Gulbadin Naib: 1 wickets for 13 runs
+
+Innings 2:
+0.1: Mohammad Shahzad faced Tanwir Afzal, scored 1 runs. Team score: 1/0
+0.2: Noor Ali Zadran faced Tanwir Afzal, scored 4 runs. Team score: 5/0
+0.3: Noor Ali Zadran faced Tanwir Afzal, scored 3 runs. Team score: 8/0
+0.4: Mohammad Shahzad faced Tanwir Afzal, scored 0 runs. Team score: 8/0
+0.5: Mohammad Shahzad faced Tanwir Afzal, scored 0 runs. Team score: 8/0
+0.6: Mohammad Shahzad faced Tanwir Afzal, scored 1 runs. Team score: 9/0
+1.1: Mohammad Shahzad faced Haseeb Amjad, scored 2 runs. Team score: 11/0
+1.2: Mohammad Shahzad faced Haseeb Amjad, scored 0 runs. Team score: 11/0
+1.3: Mohammad Shahzad faced Haseeb Amjad, scored 0 runs. Team score: 11/0
+1.4: Mohammad Shahzad faced Haseeb Amjad, scored 1 runs. Team score: 12/0
+1.5: Noor Ali Zadran faced Haseeb Amjad, scored 2 runs. Team score: 14/0
+1.6: Noor Ali Zadran faced Haseeb Amjad, scored 0 runs. Team score: 14/0
+2.1: Mohammad Shahzad faced Tanwir Afzal, scored 0 runs. Team score: 14/0
+2.2: Mohammad Shahzad faced Tanwir Afzal, scored 0 runs. Team score: 14/0
+2.3: Mohammad Shahzad faced Tanwir Afzal, scored 0 runs. Team score: 14/0
+2.4: Mohammad Shahzad faced Tanwir Afzal, scored 1 runs. Team score: 15/0
+2.5: Noor Ali Zadran faced Tanwir Afzal, scored 2 runs. Team score: 17/0
+2.6: Noor Ali Zadran faced Tanwir Afzal, scored 1 runs. Team score: 18/0
+3.1: Noor Ali Zadran faced Nadeem Ahmed, scored 4 runs. Team score: 22/0
+3.2: Noor Ali Zadran faced Nadeem Ahmed, scored 0 runs. Team score: 22/0
+3.3: Noor Ali Zadran faced Nadeem Ahmed, scored 1 runs. Team score: 23/0
+3.4: Mohammad Shahzad faced Nadeem Ahmed, scored 0 runs. Team score: 23/0
+3.5: Mohammad Shahzad faced Nadeem Ahmed, scored 0 runs. Team score: 23/0
+3.6: Mohammad Shahzad faced Nadeem Ahmed, scored 0 runs. Team score: 23/0
+4.1: Noor Ali Zadran faced Tanwir Afzal, scored 0 runs. Team score: 23/0
+4.2: Noor Ali Zadran faced Tanwir Afzal, scored 1 runs. Team score: 24/0
+4.3: Mohammad Shahzad faced Tanwir Afzal, scored 1 runs. Team score: 25/0
+4.4: Noor Ali Zadran faced Tanwir Afzal, scored 1 runs. Team score: 26/0
+4.5: Mohammad Shahzad faced Tanwir Afzal, scored 4 runs. Team score: 30/0
+4.6: Mohammad Shahzad faced Tanwir Afzal, scored 0 runs. Team score: 30/0
+5.1: Noor Ali Zadran faced Nadeem Ahmed, scored 1 runs. Team score: 31/0
+5.2: Mohammad Shahzad faced Nadeem Ahmed, scored 4 runs. Team score: 35/0
+5.3: Mohammad Shahzad faced Nadeem Ahmed, scored 0 runs. Team score: 35/0
+5.4: Mohammad Shahzad faced Nadeem Ahmed, scored 0 runs. Team score: 35/0
+5.5: Mohammad Shahzad faced Nadeem Ahmed, scored 1 runs. Team score: 36/0
+5.6: Mohammad Shahzad faced Nadeem Ahmed, scored 6 runs. Team score: 42/0
+5.0: Mohammad Shahzad faced Nadeem Ahmed, scored 1 runs. Team score: 43/0
+6.1: Mohammad Shahzad faced Anshuman Rath, scored 0 runs. Team score: 43/0
+6.2: Mohammad Shahzad faced Anshuman Rath, scored 0 runs. Team score: 43/0
+6.3: Mohammad Shahzad faced Anshuman Rath, scored 6 runs. Team score: 49/0
+6.4: Mohammad Shahzad faced Anshuman Rath, scored 1 runs. Team score: 50/0
+6.5: Noor Ali Zadran faced Anshuman Rath, scored 0 runs. Team score: 50/0
+6.6: Noor Ali Zadran faced Anshuman Rath, scored 1 runs. Team score: 51/0
+6.0: Noor Ali Zadran faced Anshuman Rath, scored 1 runs. Team score: 52/0
+7.1: Noor Ali Zadran faced Aizaz Khan, scored 1 runs. Team score: 53/0
+7.2: Mohammad Shahzad faced Aizaz Khan, scored 1 runs. Team score: 54/0
+7.3: Noor Ali Zadran faced Aizaz Khan, scored 1 runs. Team score: 55/0
+7.4: Mohammad Shahzad faced Aizaz Khan, scored 0 runs. Team score: 55/0
+7.5: Mohammad Shahzad faced Aizaz Khan, scored 4 runs. Team score: 59/0
+7.6: Mohammad Shahzad faced Aizaz Khan, scored 0 runs. Team score: 59/0
+8.1: Noor Ali Zadran faced RJ Campbell, scored 1 runs. Team score: 60/0
+8.2: Mohammad Shahzad faced RJ Campbell, scored 1 runs. Team score: 61/0
+8.3: Noor Ali Zadran faced RJ Campbell, scored 1 runs. Team score: 62/0
+8.4: Mohammad Shahzad faced RJ Campbell, scored 0 runs. Team score: 62/0
+8.5: Mohammad Shahzad faced RJ Campbell, scored 4 runs. Team score: 66/0
+8.6: Mohammad Shahzad faced RJ Campbell, scored 0 runs. Team score: 66/0
+9.1: Noor Ali Zadran faced Aizaz Khan, scored 1 runs. Team score: 67/0
+9.2: Mohammad Shahzad faced Aizaz Khan, scored 1 runs. Team score: 68/0
+9.3: Noor Ali Zadran faced Aizaz Khan, scored 0 runs. Team score: 68/0
+9.4: Noor Ali Zadran faced Aizaz Khan, scored 0 runs. Team score: 68/0
+9.5: Noor Ali Zadran faced Aizaz Khan, scored 0 runs. Team score: 68/0
+9.6: Noor Ali Zadran faced Aizaz Khan, scored 0 runs. Team score: 68/0
+10.1: Mohammad Shahzad faced RJ Campbell, scored 1 runs. Team score: 69/0
+10.2: Noor Ali Zadran faced RJ Campbell, scored 1 runs. Team score: 70/0
+10.3: Mohammad Shahzad faced RJ Campbell, scored 0 runs. Team score: 70/0
+10.4: Mohammad Shahzad faced RJ Campbell, scored 0 runs. Team score: 70/0
+caught!, Batsman: Mohammad Shahzad (42 runs from 40 balls), Bowler: RJ Campbell (figures: 1/9). Fielders involved: Anshuman Rath. Team score: 70/1
+10.5: Noor Ali Zadran faced RJ Campbell, scored 1 runs. Team score: 71/1
+10.6: Mohammad Nabi faced RJ Campbell, scored 1 runs. Team score: 72/1
+11.1: Mohammad Nabi faced Aizaz Khan, scored 0 runs. Team score: 72/1
+11.2: Mohammad Nabi faced Aizaz Khan, scored 1 runs. Team score: 73/1
+11.3: Noor Ali Zadran faced Aizaz Khan, scored 0 runs. Team score: 73/1
+11.4: Noor Ali Zadran faced Aizaz Khan, scored 1 runs. Team score: 74/1
+11.5: Mohammad Nabi faced Aizaz Khan, scored 1 runs. Team score: 75/1
+11.6: Noor Ali Zadran faced Aizaz Khan, scored 1 runs. Team score: 76/1
+12.1: Noor Ali Zadran faced RJ Campbell, scored 0 runs. Team score: 76/1
+12.2: Noor Ali Zadran faced RJ Campbell, scored 1 runs. Team score: 77/1
+12.3: Mohammad Nabi faced RJ Campbell, scored 2 runs. Team score: 79/1
+12.4: Mohammad Nabi faced RJ Campbell, scored 1 runs. Team score: 80/1
+12.5: Noor Ali Zadran faced RJ Campbell, scored 1 runs. Team score: 81/1
+12.6: Mohammad Nabi faced RJ Campbell, scored 2 runs. Team score: 83/1
+13.1: Noor Ali Zadran faced Nadeem Ahmed, scored 0 runs. Team score: 83/1
+13.2: Noor Ali Zadran faced Nadeem Ahmed, scored 0 runs. Team score: 83/1
+13.3: Noor Ali Zadran faced Nadeem Ahmed, scored 2 runs. Team score: 85/1
+13.4: Noor Ali Zadran faced Nadeem Ahmed, scored 0 runs. Team score: 85/1
+13.5: Noor Ali Zadran faced Nadeem Ahmed, scored 1 runs. Team score: 86/1
+13.6: Mohammad Nabi faced Nadeem Ahmed, scored 1 runs. Team score: 87/1
+14.1: Mohammad Nabi faced RJ Campbell, scored 4 runs. Team score: 91/1
+14.2: Mohammad Nabi faced RJ Campbell, scored 4 runs. Team score: 95/1
+14.3: Mohammad Nabi faced RJ Campbell, scored 0 runs. Team score: 95/1
+bowled!, Batsman: Mohammad Nabi (17 runs from 11 balls), Bowler: RJ Campbell (figures: 2/26). Fielders involved: None. Team score: 95/2
+14.4: Najibullah Zadran faced RJ Campbell, scored 0 runs. Team score: 95/2
+14.5: Najibullah Zadran faced RJ Campbell, scored 2 runs. Team score: 97/2
+run out!, Batsman: Noor Ali Zadran (36 runs from 38 balls), Bowler: RJ Campbell (figures: 3/28). Fielders involved: Babar Hayat, JJ Atkinson. Team score: 97/3
+14.6: Shafiqullah faced RJ Campbell, scored 0 runs. Team score: 97/3
+15.1: Najibullah Zadran faced Aizaz Khan, scored 1 runs. Team score: 98/3
+15.2: Shafiqullah faced Aizaz Khan, scored 0 runs. Team score: 98/3
+15.3: Shafiqullah faced Aizaz Khan, scored 1 runs. Team score: 99/3
+15.4: Najibullah Zadran faced Aizaz Khan, scored 1 runs. Team score: 100/3
+15.5: Shafiqullah faced Aizaz Khan, scored 0 runs. Team score: 100/3
+15.6: Shafiqullah faced Aizaz Khan, scored 2 runs. Team score: 102/3
+16.1: Najibullah Zadran faced Nadeem Ahmed, scored 1 runs. Team score: 103/3
+16.2: Shafiqullah faced Nadeem Ahmed, scored 0 runs. Team score: 103/3
+16.3: Shafiqullah faced Nadeem Ahmed, scored 0 runs. Team score: 103/3
+caught and bowled!, Batsman: Shafiqullah (3 runs from 7 balls), Bowler: Nadeem Ahmed (figures: 1/23). Fielders involved: None. Team score: 103/4
+16.4: Gulbadin Naib faced Nadeem Ahmed, scored 0 runs. Team score: 103/4
+16.5: Gulbadin Naib faced Nadeem Ahmed, scored 0 runs. Team score: 103/4
+16.6: Gulbadin Naib faced Nadeem Ahmed, scored 1 runs. Team score: 104/4
+17.1: Gulbadin Naib faced Haseeb Amjad, scored 0 runs. Team score: 104/4
+17.2: Gulbadin Naib faced Haseeb Amjad, scored 3 runs. Team score: 107/4
+17.3: Najibullah Zadran faced Haseeb Amjad, scored 4 runs. Team score: 111/4
+17.4: Najibullah Zadran faced Haseeb Amjad, scored 4 runs. Team score: 115/4
+17.5: Najibullah Zadran faced Haseeb Amjad, scored 0 runs. Team score: 115/4
+17.6: Najibullah Zadran faced Haseeb Amjad, scored 4 runs. Team score: 119/4
+End of innings for Afghanistan: 119/4 in 17.6 overs
+Batsman scores:
+Mohammad Shahzad: 42 runs from 40 balls
+Noor Ali Zadran: 36 runs from 38 balls
+Mohammad Nabi: 17 runs from 11 balls
+Najibullah Zadran: 17 runs from 9 balls
+Shafiqullah: 3 runs from 7 balls
+Gulbadin Naib: 4 runs from 5 balls
+Bowler figures:
+Tanwir Afzal: 0 wickets for 20 runs
+Haseeb Amjad: 0 wickets for 20 runs
+Nadeem Ahmed: 1 wickets for 24 runs
+Anshuman Rath: 0 wickets for 9 runs
+Aizaz Khan: 0 wickets for 18 runs
+RJ Campbell: 3 wickets for 28 runs
+

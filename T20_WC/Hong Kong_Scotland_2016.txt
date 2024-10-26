@@ -1,0 +1,222 @@
+Match: World T20 - T20
+Date: 2016-03-12
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Teams: Hong Kong vs Scotland
+Toss: Hong Kong won the toss and decided to bat
+Result: Scotland won by 8 wickets
+Man of the Match: MW Machan
+
+Innings 1:
+0.1: JJ Atkinson faced MRJ Watt, scored 0 runs. Team score: 0/0
+0.2: JJ Atkinson faced MRJ Watt, scored 0 runs. Team score: 0/0
+0.3: JJ Atkinson faced MRJ Watt, scored 1 runs. Team score: 1/0
+0.4: RJ Campbell faced MRJ Watt, scored 0 runs. Team score: 1/0
+0.5: RJ Campbell faced MRJ Watt, scored 0 runs. Team score: 1/0
+0.6: RJ Campbell faced MRJ Watt, scored 0 runs. Team score: 1/0
+1.1: JJ Atkinson faced JH Davey, scored 0 runs. Team score: 1/0
+1.2: JJ Atkinson faced JH Davey, scored 0 runs. Team score: 1/0
+1.3: JJ Atkinson faced JH Davey, scored 0 runs. Team score: 1/0
+1.4: JJ Atkinson faced JH Davey, scored 4 runs. Team score: 5/0
+1.5: JJ Atkinson faced JH Davey, scored 4 runs. Team score: 9/0
+1.6: JJ Atkinson faced JH Davey, scored 0 runs. Team score: 9/0
+2.1: RJ Campbell faced GT Main, scored 0 runs. Team score: 9/0
+caught!, Batsman: RJ Campbell (0 runs from 4 balls), Bowler: GT Main (figures: 1/0). Fielders involved: JH Davey. Team score: 9/1
+2.2: Babar Hayat faced GT Main, scored 4 runs. Team score: 13/1
+2.3: Babar Hayat faced GT Main, scored 1 runs. Team score: 14/1
+2.4: Babar Hayat faced GT Main, scored 0 runs. Team score: 14/1
+2.5: Babar Hayat faced GT Main, scored 4 runs. Team score: 18/1
+2.6: Babar Hayat faced GT Main, scored 4 runs. Team score: 22/1
+2.0: Babar Hayat faced GT Main, scored 0 runs. Team score: 22/1
+3.1: JJ Atkinson faced RML Taylor, scored 1 runs. Team score: 23/1
+3.2: Babar Hayat faced RML Taylor, scored 0 runs. Team score: 23/1
+3.3: Babar Hayat faced RML Taylor, scored 1 runs. Team score: 24/1
+3.4: JJ Atkinson faced RML Taylor, scored 0 runs. Team score: 24/1
+3.5: JJ Atkinson faced RML Taylor, scored 0 runs. Team score: 24/1
+3.6: JJ Atkinson faced RML Taylor, scored 1 runs. Team score: 25/1
+4.1: JJ Atkinson faced MRJ Watt, scored 0 runs. Team score: 25/1
+4.2: JJ Atkinson faced MRJ Watt, scored 1 runs. Team score: 26/1
+4.3: Babar Hayat faced MRJ Watt, scored 1 runs. Team score: 27/1
+4.4: JJ Atkinson faced MRJ Watt, scored 1 runs. Team score: 28/1
+4.5: Babar Hayat faced MRJ Watt, scored 1 runs. Team score: 29/1
+4.6: JJ Atkinson faced MRJ Watt, scored 1 runs. Team score: 30/1
+5.1: JJ Atkinson faced JH Davey, scored 0 runs. Team score: 30/1
+5.2: JJ Atkinson faced JH Davey, scored 1 runs. Team score: 31/1
+5.3: JJ Atkinson faced JH Davey, scored 0 runs. Team score: 31/1
+caught and bowled!, Batsman: JJ Atkinson (15 runs from 20 balls), Bowler: JH Davey (figures: 1/9). Fielders involved: None. Team score: 31/2
+5.4: MS Chapman faced JH Davey, scored 0 runs. Team score: 31/2
+5.5: MS Chapman faced JH Davey, scored 0 runs. Team score: 31/2
+5.6: MS Chapman faced JH Davey, scored 0 runs. Team score: 31/2
+5.0: MS Chapman faced JH Davey, scored 1 runs. Team score: 32/2
+6.1: MS Chapman faced CD de Lange, scored 1 runs. Team score: 33/2
+6.2: Babar Hayat faced CD de Lange, scored 0 runs. Team score: 33/2
+caught!, Batsman: Babar Hayat (16 runs from 11 balls), Bowler: CD de Lange (figures: 1/1). Fielders involved: CS MacLeod. Team score: 33/3
+6.3: MS Chapman faced CD de Lange, scored 0 runs. Team score: 33/3
+6.4: MS Chapman faced CD de Lange, scored 0 runs. Team score: 33/3
+6.5: MS Chapman faced CD de Lange, scored 0 runs. Team score: 33/3
+6.6: MS Chapman faced CD de Lange, scored 0 runs. Team score: 33/3
+7.1: Anshuman Rath faced RD Berrington, scored 1 runs. Team score: 34/3
+7.2: MS Chapman faced RD Berrington, scored 0 runs. Team score: 34/3
+7.3: MS Chapman faced RD Berrington, scored 0 runs. Team score: 34/3
+7.4: MS Chapman faced RD Berrington, scored 2 runs. Team score: 36/3
+7.5: MS Chapman faced RD Berrington, scored 1 runs. Team score: 37/3
+7.6: Anshuman Rath faced RD Berrington, scored 1 runs. Team score: 38/3
+8.1: Anshuman Rath faced CD de Lange, scored 1 runs. Team score: 39/3
+8.2: MS Chapman faced CD de Lange, scored 1 runs. Team score: 40/3
+8.3: Anshuman Rath faced CD de Lange, scored 0 runs. Team score: 40/3
+8.4: Anshuman Rath faced CD de Lange, scored 3 runs. Team score: 43/3
+8.5: MS Chapman faced CD de Lange, scored 1 runs. Team score: 44/3
+8.6: Anshuman Rath faced CD de Lange, scored 1 runs. Team score: 45/3
+9.1: Anshuman Rath faced MW Machan, scored 1 runs. Team score: 46/3
+9.2: MS Chapman faced MW Machan, scored 2 runs. Team score: 48/3
+9.3: MS Chapman faced MW Machan, scored 1 runs. Team score: 49/3
+9.4: Anshuman Rath faced MW Machan, scored 1 runs. Team score: 50/3
+9.5: MS Chapman faced MW Machan, scored 1 runs. Team score: 51/3
+9.6: Anshuman Rath faced MW Machan, scored 0 runs. Team score: 51/3
+10.1: MS Chapman faced MRJ Watt, scored 1 runs. Team score: 52/3
+10.2: Anshuman Rath faced MRJ Watt, scored 1 runs. Team score: 53/3
+10.3: MS Chapman faced MRJ Watt, scored 0 runs. Team score: 53/3
+10.4: MS Chapman faced MRJ Watt, scored 6 runs. Team score: 59/3
+10.5: MS Chapman faced MRJ Watt, scored 1 runs. Team score: 60/3
+10.6: Anshuman Rath faced MRJ Watt, scored 1 runs. Team score: 61/3
+11.1: Anshuman Rath faced RD Berrington, scored 1 runs. Team score: 62/3
+11.2: MS Chapman faced RD Berrington, scored 0 runs. Team score: 62/3
+11.3: MS Chapman faced RD Berrington, scored 1 runs. Team score: 63/3
+11.4: Anshuman Rath faced RD Berrington, scored 1 runs. Team score: 64/3
+11.5: MS Chapman faced RD Berrington, scored 1 runs. Team score: 65/3
+11.6: Anshuman Rath faced RD Berrington, scored 1 runs. Team score: 66/3
+12.1: Anshuman Rath faced RML Taylor, scored 2 runs. Team score: 68/3
+12.2: Anshuman Rath faced RML Taylor, scored 1 runs. Team score: 69/3
+12.3: MS Chapman faced RML Taylor, scored 4 runs. Team score: 73/3
+12.4: MS Chapman faced RML Taylor, scored 0 runs. Team score: 73/3
+12.5: MS Chapman faced RML Taylor, scored 1 runs. Team score: 74/3
+12.6: Anshuman Rath faced RML Taylor, scored 1 runs. Team score: 75/3
+13.1: Anshuman Rath faced CD de Lange, scored 1 runs. Team score: 76/3
+13.2: MS Chapman faced CD de Lange, scored 1 runs. Team score: 77/3
+13.3: Anshuman Rath faced CD de Lange, scored 1 runs. Team score: 78/3
+13.4: MS Chapman faced CD de Lange, scored 1 runs. Team score: 79/3
+13.5: Anshuman Rath faced CD de Lange, scored 0 runs. Team score: 79/3
+13.6: Anshuman Rath faced CD de Lange, scored 1 runs. Team score: 80/3
+14.1: Anshuman Rath faced MW Machan, scored 1 runs. Team score: 81/3
+14.2: MS Chapman faced MW Machan, scored 1 runs. Team score: 82/3
+14.3: Anshuman Rath faced MW Machan, scored 0 runs. Team score: 82/3
+stumped!, Batsman: Anshuman Rath (22 runs from 23 balls), Bowler: MW Machan (figures: 1/8). Fielders involved: MH Cross. Team score: 82/4
+14.4: Tanwir Afzal faced MW Machan, scored 0 runs. Team score: 82/4
+14.5: Tanwir Afzal faced MW Machan, scored 0 runs. Team score: 82/4
+14.6: Tanwir Afzal faced MW Machan, scored 0 runs. Team score: 82/4
+15.1: MS Chapman faced CD de Lange, scored 1 runs. Team score: 83/4
+15.2: Tanwir Afzal faced CD de Lange, scored 0 runs. Team score: 83/4
+run out!, Batsman: Tanwir Afzal (0 runs from 4 balls), Bowler: CD de Lange (figures: 2/14). Fielders involved: GT Main, MH Cross. Team score: 83/5
+15.3: Nizakat Khan faced CD de Lange, scored 1 runs. Team score: 84/5
+15.4: MS Chapman faced CD de Lange, scored 2 runs. Team score: 86/5
+15.5: MS Chapman faced CD de Lange, scored 2 runs. Team score: 88/5
+15.6: MS Chapman faced CD de Lange, scored 0 runs. Team score: 88/5
+16.1: Nizakat Khan faced MW Machan, scored 0 runs. Team score: 88/5
+16.2: Nizakat Khan faced MW Machan, scored 0 runs. Team score: 88/5
+16.3: Nizakat Khan faced MW Machan, scored 1 runs. Team score: 89/5
+16.4: MS Chapman faced MW Machan, scored 1 runs. Team score: 90/5
+16.5: Nizakat Khan faced MW Machan, scored 1 runs. Team score: 91/5
+16.6: MS Chapman faced MW Machan, scored 1 runs. Team score: 92/5
+17.1: MS Chapman faced MRJ Watt, scored 2 runs. Team score: 94/5
+17.2: MS Chapman faced MRJ Watt, scored 2 runs. Team score: 96/5
+17.3: MS Chapman faced MRJ Watt, scored 1 runs. Team score: 97/5
+17.4: Nizakat Khan faced MRJ Watt, scored 1 runs. Team score: 98/5
+17.5: MS Chapman faced MRJ Watt, scored 0 runs. Team score: 98/5
+caught!, Batsman: MS Chapman (41 runs from 41 balls), Bowler: MRJ Watt (figures: 1/22). Fielders involved: KJ Coetzer. Team score: 98/6
+17.6: Nizakat Khan faced MRJ Watt, scored 1 runs. Team score: 99/6
+18.1: Nizakat Khan faced MW Machan, scored 6 runs. Team score: 105/6
+18.2: Nizakat Khan faced MW Machan, scored 6 runs. Team score: 111/6
+18.3: Nizakat Khan faced MW Machan, scored 0 runs. Team score: 111/6
+caught!, Batsman: Nizakat Khan (17 runs from 10 balls), Bowler: MW Machan (figures: 2/24). Fielders involved: GT Main. Team score: 111/7
+18.4: Aizaz Khan faced MW Machan, scored 1 runs. Team score: 112/7
+18.5: KD Shah faced MW Machan, scored 0 runs. Team score: 112/7
+18.6: KD Shah faced MW Machan, scored 1 runs. Team score: 113/7
+19.1: KD Shah faced JH Davey, scored 1 runs. Team score: 114/7
+19.2: Aizaz Khan faced JH Davey, scored 2 runs. Team score: 116/7
+19.3: Aizaz Khan faced JH Davey, scored 4 runs. Team score: 120/7
+19.4: Aizaz Khan faced JH Davey, scored 1 runs. Team score: 121/7
+19.5: KD Shah faced JH Davey, scored 4 runs. Team score: 125/7
+19.6: KD Shah faced JH Davey, scored 2 runs. Team score: 127/7
+End of innings for Hong Kong: 127/7 in 20.0 overs
+Batsman scores:
+JJ Atkinson: 15 runs from 20 balls
+RJ Campbell: 0 runs from 4 balls
+Babar Hayat: 16 runs from 11 balls
+MS Chapman: 41 runs from 41 balls
+Anshuman Rath: 22 runs from 23 balls
+Tanwir Afzal: 0 runs from 4 balls
+Nizakat Khan: 17 runs from 10 balls
+Aizaz Khan: 8 runs from 4 balls
+KD Shah: 8 runs from 5 balls
+Bowler figures:
+MRJ Watt: 1 wickets for 23 runs
+JH Davey: 1 wickets for 24 runs
+GT Main: 1 wickets for 13 runs
+RML Taylor: 0 wickets for 12 runs
+CD de Lange: 2 wickets for 19 runs
+RD Berrington: 0 wickets for 10 runs
+MW Machan: 2 wickets for 26 runs
+
+Innings 2:
+0.1: HG Munsey faced RJ Campbell, scored 0 runs. Team score: 0/0
+0.2: HG Munsey faced RJ Campbell, scored 0 runs. Team score: 0/0
+0.3: HG Munsey faced RJ Campbell, scored 0 runs. Team score: 0/0
+0.4: HG Munsey faced RJ Campbell, scored 4 runs. Team score: 4/0
+0.5: HG Munsey faced RJ Campbell, scored 0 runs. Team score: 4/0
+0.6: HG Munsey faced RJ Campbell, scored 4 runs. Team score: 8/0
+1.1: KJ Coetzer faced Tanwir Afzal, scored 0 runs. Team score: 8/0
+1.2: KJ Coetzer faced Tanwir Afzal, scored 1 runs. Team score: 9/0
+1.3: HG Munsey faced Tanwir Afzal, scored 4 runs. Team score: 13/0
+1.4: HG Munsey faced Tanwir Afzal, scored 0 runs. Team score: 13/0
+1.5: HG Munsey faced Tanwir Afzal, scored 4 runs. Team score: 17/0
+1.6: HG Munsey faced Tanwir Afzal, scored 3 runs. Team score: 20/0
+2.1: HG Munsey faced Nadeem Ahmed, scored 0 runs. Team score: 20/0
+caught!, Batsman: HG Munsey (19 runs from 11 balls), Bowler: Nadeem Ahmed (figures: 1/0). Fielders involved: RJ Campbell. Team score: 20/1
+2.2: MH Cross faced Nadeem Ahmed, scored 0 runs. Team score: 20/1
+2.3: MH Cross faced Nadeem Ahmed, scored 1 runs. Team score: 21/1
+2.4: KJ Coetzer faced Nadeem Ahmed, scored 4 runs. Team score: 25/1
+2.5: KJ Coetzer faced Nadeem Ahmed, scored 4 runs. Team score: 29/1
+2.6: KJ Coetzer faced Nadeem Ahmed, scored 0 runs. Team score: 29/1
+3.1: MH Cross faced MS Chapman, scored 0 runs. Team score: 29/1
+3.2: MH Cross faced MS Chapman, scored 2 runs. Team score: 31/1
+3.3: MH Cross faced MS Chapman, scored 1 runs. Team score: 32/1
+3.4: KJ Coetzer faced MS Chapman, scored 1 runs. Team score: 33/1
+3.5: MH Cross faced MS Chapman, scored 1 runs. Team score: 34/1
+3.6: KJ Coetzer faced MS Chapman, scored 0 runs. Team score: 34/1
+4.1: MH Cross faced RJ Campbell, scored 1 runs. Team score: 35/1
+4.2: KJ Coetzer faced RJ Campbell, scored 0 runs. Team score: 35/1
+4.3: KJ Coetzer faced RJ Campbell, scored 1 runs. Team score: 36/1
+4.4: MH Cross faced RJ Campbell, scored 0 runs. Team score: 36/1
+4.5: MH Cross faced RJ Campbell, scored 0 runs. Team score: 36/1
+4.6: MH Cross faced RJ Campbell, scored 6 runs. Team score: 42/1
+5.1: KJ Coetzer faced MS Chapman, scored 2 runs. Team score: 44/1
+5.2: KJ Coetzer faced MS Chapman, scored 0 runs. Team score: 44/1
+5.3: KJ Coetzer faced MS Chapman, scored 1 runs. Team score: 45/1
+5.4: MH Cross faced MS Chapman, scored 4 runs. Team score: 49/1
+5.5: MH Cross faced MS Chapman, scored 6 runs. Team score: 55/1
+5.6: MH Cross faced MS Chapman, scored 1 runs. Team score: 56/1
+6.1: MH Cross faced Aizaz Khan, scored 0 runs. Team score: 56/1
+caught!, Batsman: MH Cross (23 runs from 14 balls), Bowler: Aizaz Khan (figures: 1/0). Fielders involved: Nizakat Khan. Team score: 56/2
+6.2: KJ Coetzer faced Aizaz Khan, scored 1 runs. Team score: 57/2
+6.3: MW Machan faced Aizaz Khan, scored 4 runs. Team score: 61/2
+6.4: MW Machan faced Aizaz Khan, scored 4 runs. Team score: 65/2
+6.5: MW Machan faced Aizaz Khan, scored 1 runs. Team score: 66/2
+6.6: KJ Coetzer faced Aizaz Khan, scored 1 runs. Team score: 67/2
+7.1: KJ Coetzer faced Nadeem Ahmed, scored 2 runs. Team score: 69/2
+7.2: KJ Coetzer faced Nadeem Ahmed, scored 0 runs. Team score: 69/2
+7.3: KJ Coetzer faced Nadeem Ahmed, scored 0 runs. Team score: 69/2
+7.4: KJ Coetzer faced Nadeem Ahmed, scored 2 runs. Team score: 71/2
+7.5: KJ Coetzer faced Nadeem Ahmed, scored 1 runs. Team score: 72/2
+7.6: MW Machan faced Nadeem Ahmed, scored 6 runs. Team score: 78/2
+End of innings for Scotland: 78/2 in 7.6 overs
+Batsman scores:
+HG Munsey: 19 runs from 11 balls
+KJ Coetzer: 21 runs from 19 balls
+MH Cross: 23 runs from 14 balls
+MW Machan: 15 runs from 4 balls
+Bowler figures:
+RJ Campbell: 0 wickets for 16 runs
+Tanwir Afzal: 0 wickets for 12 runs
+Nadeem Ahmed: 1 wickets for 20 runs
+MS Chapman: 0 wickets for 19 runs
+Aizaz Khan: 1 wickets for 11 runs
+

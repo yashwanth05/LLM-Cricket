@@ -1,0 +1,292 @@
+Match: World T20 - T20
+Date: 2014-03-20
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: Bangladesh vs Hong Kong
+Toss: Hong Kong won the toss and decided to field
+Result: Hong Kong won by 2 wickets
+Man of the Match: Nadeem Ahmed
+
+Innings 1:
+0.1: Tamim Iqbal faced Tanwir Afzal, scored 0 runs. Team score: 0/0
+0.2: Tamim Iqbal faced Tanwir Afzal, scored 0 runs. Team score: 0/0
+bowled!, Batsman: Tamim Iqbal (0 runs from 2 balls), Bowler: Tanwir Afzal (figures: 1/0). Fielders involved: None. Team score: 0/1
+0.3: Sabbir Rahman faced Tanwir Afzal, scored 1 runs. Team score: 1/1
+0.4: Sabbir Rahman faced Tanwir Afzal, scored 0 runs. Team score: 1/1
+0.5: Sabbir Rahman faced Tanwir Afzal, scored 2 runs. Team score: 3/1
+0.6: Sabbir Rahman faced Tanwir Afzal, scored 0 runs. Team score: 3/1
+0.0: Sabbir Rahman faced Tanwir Afzal, scored 0 runs. Team score: 3/1
+lbw!, Batsman: Sabbir Rahman (3 runs from 5 balls), Bowler: Tanwir Afzal (figures: 2/3). Fielders involved: None. Team score: 3/2
+1.1: Anamul Haque faced Haseeb Amjad, scored 0 runs. Team score: 3/2
+1.2: Anamul Haque faced Haseeb Amjad, scored 1 runs. Team score: 4/2
+1.3: Shakib Al Hasan faced Haseeb Amjad, scored 0 runs. Team score: 4/2
+1.4: Shakib Al Hasan faced Haseeb Amjad, scored 1 runs. Team score: 5/2
+1.5: Anamul Haque faced Haseeb Amjad, scored 1 runs. Team score: 6/2
+1.6: Shakib Al Hasan faced Haseeb Amjad, scored 4 runs. Team score: 10/2
+2.1: Anamul Haque faced Tanwir Afzal, scored 6 runs. Team score: 16/2
+2.2: Anamul Haque faced Tanwir Afzal, scored 0 runs. Team score: 16/2
+2.3: Anamul Haque faced Tanwir Afzal, scored 0 runs. Team score: 16/2
+2.4: Anamul Haque faced Tanwir Afzal, scored 2 runs. Team score: 18/2
+2.5: Anamul Haque faced Tanwir Afzal, scored 1 runs. Team score: 19/2
+2.6: Shakib Al Hasan faced Tanwir Afzal, scored 1 runs. Team score: 20/2
+3.1: Shakib Al Hasan faced Haseeb Amjad, scored 4 runs. Team score: 24/2
+3.2: Shakib Al Hasan faced Haseeb Amjad, scored 4 runs. Team score: 28/2
+3.3: Shakib Al Hasan faced Haseeb Amjad, scored 0 runs. Team score: 28/2
+3.4: Shakib Al Hasan faced Haseeb Amjad, scored 1 runs. Team score: 29/2
+3.5: Anamul Haque faced Haseeb Amjad, scored 0 runs. Team score: 29/2
+3.6: Anamul Haque faced Haseeb Amjad, scored 0 runs. Team score: 29/2
+4.1: Shakib Al Hasan faced Tanwir Afzal, scored 0 runs. Team score: 29/2
+4.2: Shakib Al Hasan faced Tanwir Afzal, scored 4 runs. Team score: 33/2
+4.3: Shakib Al Hasan faced Tanwir Afzal, scored 1 runs. Team score: 34/2
+4.4: Anamul Haque faced Tanwir Afzal, scored 1 runs. Team score: 35/2
+4.5: Shakib Al Hasan faced Tanwir Afzal, scored 1 runs. Team score: 36/2
+4.6: Anamul Haque faced Tanwir Afzal, scored 1 runs. Team score: 37/2
+5.1: Anamul Haque faced Nadeem Ahmed, scored 1 runs. Team score: 38/2
+5.2: Shakib Al Hasan faced Nadeem Ahmed, scored 1 runs. Team score: 39/2
+5.3: Anamul Haque faced Nadeem Ahmed, scored 4 runs. Team score: 43/2
+5.4: Anamul Haque faced Nadeem Ahmed, scored 4 runs. Team score: 47/2
+5.5: Anamul Haque faced Nadeem Ahmed, scored 4 runs. Team score: 51/2
+5.6: Anamul Haque faced Nadeem Ahmed, scored 0 runs. Team score: 51/2
+bowled!, Batsman: Anamul Haque (26 runs from 17 balls), Bowler: Nadeem Ahmed (figures: 1/14). Fielders involved: None. Team score: 51/3
+6.1: Shakib Al Hasan faced Tanwir Afzal, scored 0 runs. Team score: 51/3
+6.2: Shakib Al Hasan faced Tanwir Afzal, scored 1 runs. Team score: 52/3
+6.3: Mushfiqur Rahim faced Tanwir Afzal, scored 0 runs. Team score: 52/3
+6.4: Mushfiqur Rahim faced Tanwir Afzal, scored 1 runs. Team score: 53/3
+6.5: Shakib Al Hasan faced Tanwir Afzal, scored 1 runs. Team score: 54/3
+6.6: Mushfiqur Rahim faced Tanwir Afzal, scored 1 runs. Team score: 55/3
+7.1: Mushfiqur Rahim faced Irfan Ahmed, scored 0 runs. Team score: 55/3
+7.2: Mushfiqur Rahim faced Irfan Ahmed, scored 1 runs. Team score: 56/3
+7.3: Shakib Al Hasan faced Irfan Ahmed, scored 4 runs. Team score: 60/3
+7.4: Shakib Al Hasan faced Irfan Ahmed, scored 0 runs. Team score: 60/3
+7.5: Shakib Al Hasan faced Irfan Ahmed, scored 1 runs. Team score: 61/3
+7.6: Mushfiqur Rahim faced Irfan Ahmed, scored 4 runs. Team score: 65/3
+8.1: Shakib Al Hasan faced Ehsan Nawaz, scored 1 runs. Team score: 66/3
+8.2: Mushfiqur Rahim faced Ehsan Nawaz, scored 0 runs. Team score: 66/3
+8.3: Mushfiqur Rahim faced Ehsan Nawaz, scored 4 runs. Team score: 70/3
+8.4: Mushfiqur Rahim faced Ehsan Nawaz, scored 4 runs. Team score: 74/3
+8.5: Mushfiqur Rahim faced Ehsan Nawaz, scored 1 runs. Team score: 75/3
+8.6: Shakib Al Hasan faced Ehsan Nawaz, scored 0 runs. Team score: 75/3
+9.1: Mushfiqur Rahim faced Nizakat Khan, scored 1 runs. Team score: 76/3
+9.2: Shakib Al Hasan faced Nizakat Khan, scored 0 runs. Team score: 76/3
+9.3: Shakib Al Hasan faced Nizakat Khan, scored 0 runs. Team score: 76/3
+9.4: Shakib Al Hasan faced Nizakat Khan, scored 1 runs. Team score: 77/3
+9.5: Mushfiqur Rahim faced Nizakat Khan, scored 2 runs. Team score: 79/3
+9.6: Mushfiqur Rahim faced Nizakat Khan, scored 1 runs. Team score: 80/3
+10.1: Mushfiqur Rahim faced Irfan Ahmed, scored 1 runs. Team score: 81/3
+10.2: Shakib Al Hasan faced Irfan Ahmed, scored 4 runs. Team score: 85/3
+10.3: Shakib Al Hasan faced Irfan Ahmed, scored 0 runs. Team score: 85/3
+10.4: Shakib Al Hasan faced Irfan Ahmed, scored 0 runs. Team score: 85/3
+caught!, Batsman: Shakib Al Hasan (35 runs from 27 balls), Bowler: Irfan Ahmed (figures: 1/15). Fielders involved: Nizakat Khan. Team score: 85/4
+10.5: Nasir Hossain faced Irfan Ahmed, scored 1 runs. Team score: 86/4
+10.6: Mushfiqur Rahim faced Irfan Ahmed, scored 1 runs. Team score: 87/4
+11.1: Mushfiqur Rahim faced Nizakat Khan, scored 1 runs. Team score: 88/4
+11.2: Nasir Hossain faced Nizakat Khan, scored 1 runs. Team score: 89/4
+11.3: Mushfiqur Rahim faced Nizakat Khan, scored 0 runs. Team score: 89/4
+11.4: Mushfiqur Rahim faced Nizakat Khan, scored 0 runs. Team score: 89/4
+caught!, Batsman: Mushfiqur Rahim (23 runs from 18 balls), Bowler: Nizakat Khan (figures: 1/7). Fielders involved: Munir Dar. Team score: 89/5
+11.5: Mahmudullah faced Nizakat Khan, scored 1 runs. Team score: 90/5
+11.6: Nasir Hossain faced Nizakat Khan, scored 1 runs. Team score: 91/5
+12.1: Nasir Hossain faced Nadeem Ahmed, scored 0 runs. Team score: 91/5
+12.2: Nasir Hossain faced Nadeem Ahmed, scored 1 runs. Team score: 92/5
+12.3: Mahmudullah faced Nadeem Ahmed, scored 1 runs. Team score: 93/5
+12.4: Nasir Hossain faced Nadeem Ahmed, scored 2 runs. Team score: 95/5
+12.5: Nasir Hossain faced Nadeem Ahmed, scored 1 runs. Team score: 96/5
+12.6: Mahmudullah faced Nadeem Ahmed, scored 0 runs. Team score: 96/5
+bowled!, Batsman: Mahmudullah (2 runs from 3 balls), Bowler: Nadeem Ahmed (figures: 2/19). Fielders involved: None. Team score: 96/6
+13.1: Nasir Hossain faced Nizakat Khan, scored 0 runs. Team score: 96/6
+13.2: Nasir Hossain faced Nizakat Khan, scored 1 runs. Team score: 97/6
+13.3: Farhad Reza faced Nizakat Khan, scored 0 runs. Team score: 97/6
+13.4: Farhad Reza faced Nizakat Khan, scored 3 runs. Team score: 100/6
+13.5: Farhad Reza faced Nizakat Khan, scored 1 runs. Team score: 101/6
+13.6: Farhad Reza faced Nizakat Khan, scored 0 runs. Team score: 101/6
+caught!, Batsman: Farhad Reza (4 runs from 4 balls), Bowler: Nizakat Khan (figures: 2/14). Fielders involved: JJ Atkinson. Team score: 101/7
+13.0: Abdur Razzak faced Nizakat Khan, scored 0 runs. Team score: 101/7
+caught!, Batsman: Abdur Razzak (0 runs from 1 balls), Bowler: Nizakat Khan (figures: 3/14). Fielders involved: JJ Atkinson. Team score: 101/8
+13.1: Rubel Hossain faced Nizakat Khan, scored 0 runs. Team score: 101/8
+14.1: Nasir Hossain faced Nadeem Ahmed, scored 0 runs. Team score: 101/8
+14.2: Nasir Hossain faced Nadeem Ahmed, scored 1 runs. Team score: 102/8
+14.3: Rubel Hossain faced Nadeem Ahmed, scored 0 runs. Team score: 102/8
+14.4: Rubel Hossain faced Nadeem Ahmed, scored 0 runs. Team score: 102/8
+bowled!, Batsman: Rubel Hossain (0 runs from 3 balls), Bowler: Nadeem Ahmed (figures: 3/20). Fielders involved: None. Team score: 102/9
+14.5: Al-Amin Hossain faced Nadeem Ahmed, scored 0 runs. Team score: 102/9
+14.6: Al-Amin Hossain faced Nadeem Ahmed, scored 0 runs. Team score: 102/9
+15.1: Nasir Hossain faced Nizakat Khan, scored 2 runs. Team score: 104/9
+15.2: Nasir Hossain faced Nizakat Khan, scored 0 runs. Team score: 104/9
+15.3: Nasir Hossain faced Nizakat Khan, scored 1 runs. Team score: 105/9
+15.4: Al-Amin Hossain faced Nizakat Khan, scored 1 runs. Team score: 106/9
+15.5: Nasir Hossain faced Nizakat Khan, scored 1 runs. Team score: 107/9
+15.6: Al-Amin Hossain faced Nizakat Khan, scored 0 runs. Team score: 107/9
+16.1: Nasir Hossain faced Nadeem Ahmed, scored 0 runs. Team score: 107/9
+16.2: Nasir Hossain faced Nadeem Ahmed, scored 1 runs. Team score: 108/9
+16.3: Al-Amin Hossain faced Nadeem Ahmed, scored 0 runs. Team score: 108/9
+caught!, Batsman: Al-Amin Hossain (1 runs from 5 balls), Bowler: Nadeem Ahmed (figures: 4/21). Fielders involved: Babar Hayat. Team score: 108/10
+End of innings for Bangladesh: 108/10 in 17.3 overs
+Batsman scores:
+Tamim Iqbal: 0 runs from 2 balls
+Sabbir Rahman: 3 runs from 5 balls
+Anamul Haque: 26 runs from 17 balls
+Shakib Al Hasan: 35 runs from 27 balls
+Mushfiqur Rahim: 23 runs from 18 balls
+Nasir Hossain: 14 runs from 17 balls
+Mahmudullah: 2 runs from 3 balls
+Farhad Reza: 4 runs from 4 balls
+Abdur Razzak: 0 runs from 1 balls
+Rubel Hossain: 0 runs from 3 balls
+Al-Amin Hossain: 1 runs from 5 balls
+Bowler figures:
+Tanwir Afzal: 2 wickets for 25 runs
+Haseeb Amjad: 0 wickets for 16 runs
+Nadeem Ahmed: 4 wickets for 21 runs
+Irfan Ahmed: 1 wickets for 17 runs
+Ehsan Nawaz: 0 wickets for 10 runs
+Nizakat Khan: 3 wickets for 19 runs
+
+Innings 2:
+0.1: Waqas Barkat faced Al-Amin Hossain, scored 2 runs. Team score: 2/0
+0.2: Irfan Ahmed faced Al-Amin Hossain, scored 0 runs. Team score: 2/0
+0.3: Irfan Ahmed faced Al-Amin Hossain, scored 0 runs. Team score: 2/0
+0.4: Irfan Ahmed faced Al-Amin Hossain, scored 0 runs. Team score: 2/0
+0.5: Irfan Ahmed faced Al-Amin Hossain, scored 0 runs. Team score: 2/0
+0.6: Irfan Ahmed faced Al-Amin Hossain, scored 2 runs. Team score: 4/0
+0.0: Irfan Ahmed faced Al-Amin Hossain, scored 6 runs. Team score: 10/0
+1.1: Waqas Barkat faced Shakib Al Hasan, scored 0 runs. Team score: 10/0
+1.2: Waqas Barkat faced Shakib Al Hasan, scored 0 runs. Team score: 10/0
+stumped!, Batsman: Waqas Barkat (2 runs from 3 balls), Bowler: Shakib Al Hasan (figures: 1/0). Fielders involved: Mushfiqur Rahim. Team score: 10/1
+1.3: JJ Atkinson faced Shakib Al Hasan, scored 0 runs. Team score: 10/1
+1.4: JJ Atkinson faced Shakib Al Hasan, scored 1 runs. Team score: 11/1
+1.5: Irfan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 11/1
+1.6: Irfan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 11/1
+2.1: JJ Atkinson faced Abdur Razzak, scored 0 runs. Team score: 11/1
+2.2: JJ Atkinson faced Abdur Razzak, scored 1 runs. Team score: 12/1
+2.3: Irfan Ahmed faced Abdur Razzak, scored 4 runs. Team score: 16/1
+2.4: Irfan Ahmed faced Abdur Razzak, scored 0 runs. Team score: 16/1
+2.5: Irfan Ahmed faced Abdur Razzak, scored 0 runs. Team score: 16/1
+2.6: Irfan Ahmed faced Abdur Razzak, scored 0 runs. Team score: 16/1
+3.1: JJ Atkinson faced Shakib Al Hasan, scored 0 runs. Team score: 16/1
+3.2: JJ Atkinson faced Shakib Al Hasan, scored 1 runs. Team score: 17/1
+3.3: JJ Atkinson faced Shakib Al Hasan, scored 0 runs. Team score: 17/1
+3.4: JJ Atkinson faced Shakib Al Hasan, scored 1 runs. Team score: 18/1
+3.5: Irfan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 18/1
+3.6: Irfan Ahmed faced Shakib Al Hasan, scored 1 runs. Team score: 19/1
+3.0: JJ Atkinson faced Shakib Al Hasan, scored 1 runs. Team score: 20/1
+4.1: JJ Atkinson faced Abdur Razzak, scored 1 runs. Team score: 21/1
+4.2: Irfan Ahmed faced Abdur Razzak, scored 6 runs. Team score: 27/1
+4.3: Irfan Ahmed faced Abdur Razzak, scored 4 runs. Team score: 31/1
+4.4: Irfan Ahmed faced Abdur Razzak, scored 0 runs. Team score: 31/1
+4.5: Irfan Ahmed faced Abdur Razzak, scored 4 runs. Team score: 35/1
+4.6: Irfan Ahmed faced Abdur Razzak, scored 0 runs. Team score: 35/1
+5.1: JJ Atkinson faced Shakib Al Hasan, scored 0 runs. Team score: 35/1
+5.2: JJ Atkinson faced Shakib Al Hasan, scored 1 runs. Team score: 36/1
+5.3: Irfan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 36/1
+5.4: Irfan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 36/1
+5.5: Irfan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 36/1
+5.6: Irfan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 36/1
+6.1: JJ Atkinson faced Al-Amin Hossain, scored 1 runs. Team score: 37/1
+6.2: Irfan Ahmed faced Al-Amin Hossain, scored 0 runs. Team score: 37/1
+6.3: Irfan Ahmed faced Al-Amin Hossain, scored 0 runs. Team score: 37/1
+6.4: Irfan Ahmed faced Al-Amin Hossain, scored 6 runs. Team score: 43/1
+6.5: Irfan Ahmed faced Al-Amin Hossain, scored 1 runs. Team score: 44/1
+6.6: JJ Atkinson faced Al-Amin Hossain, scored 0 runs. Team score: 44/1
+7.1: Irfan Ahmed faced Shakib Al Hasan, scored 0 runs. Team score: 44/1
+lbw!, Batsman: Irfan Ahmed (34 runs from 28 balls), Bowler: Shakib Al Hasan (figures: 2/6). Fielders involved: None. Team score: 44/2
+7.2: MS Chapman faced Shakib Al Hasan, scored 0 runs. Team score: 44/2
+7.3: MS Chapman faced Shakib Al Hasan, scored 0 runs. Team score: 44/2
+7.4: MS Chapman faced Shakib Al Hasan, scored 2 runs. Team score: 46/2
+7.5: MS Chapman faced Shakib Al Hasan, scored 1 runs. Team score: 47/2
+7.6: JJ Atkinson faced Shakib Al Hasan, scored 0 runs. Team score: 47/2
+lbw!, Batsman: JJ Atkinson (8 runs from 15 balls), Bowler: Shakib Al Hasan (figures: 3/9). Fielders involved: None. Team score: 47/3
+8.1: MS Chapman faced Al-Amin Hossain, scored 1 runs. Team score: 48/3
+8.2: Babar Hayat faced Al-Amin Hossain, scored 0 runs. Team score: 48/3
+8.3: Babar Hayat faced Al-Amin Hossain, scored 1 runs. Team score: 49/3
+8.4: MS Chapman faced Al-Amin Hossain, scored 1 runs. Team score: 50/3
+8.5: Babar Hayat faced Al-Amin Hossain, scored 0 runs. Team score: 50/3
+8.6: Babar Hayat faced Al-Amin Hossain, scored 0 runs. Team score: 50/3
+caught!, Batsman: Babar Hayat (1 runs from 4 balls), Bowler: Al-Amin Hossain (figures: 1/21). Fielders involved: Mushfiqur Rahim. Team score: 50/4
+9.1: MS Chapman faced Mahmudullah, scored 0 runs. Team score: 50/4
+bowled!, Batsman: MS Chapman (5 runs from 7 balls), Bowler: Mahmudullah (figures: 1/0). Fielders involved: None. Team score: 50/5
+9.2: Munir Dar faced Mahmudullah, scored 0 runs. Team score: 50/5
+9.3: Munir Dar faced Mahmudullah, scored 1 runs. Team score: 51/5
+9.4: Nizakat Khan faced Mahmudullah, scored 0 runs. Team score: 51/5
+9.5: Nizakat Khan faced Mahmudullah, scored 0 runs. Team score: 51/5
+9.6: Nizakat Khan faced Mahmudullah, scored 0 runs. Team score: 51/5
+10.1: Munir Dar faced Al-Amin Hossain, scored 1 runs. Team score: 52/5
+10.2: Nizakat Khan faced Al-Amin Hossain, scored 2 runs. Team score: 54/5
+10.3: Nizakat Khan faced Al-Amin Hossain, scored 1 runs. Team score: 55/5
+10.4: Munir Dar faced Al-Amin Hossain, scored 1 runs. Team score: 56/5
+10.5: Nizakat Khan faced Al-Amin Hossain, scored 0 runs. Team score: 56/5
+10.6: Nizakat Khan faced Al-Amin Hossain, scored 0 runs. Team score: 56/5
+11.1: Munir Dar faced Mahmudullah, scored 1 runs. Team score: 57/5
+11.2: Nizakat Khan faced Mahmudullah, scored 0 runs. Team score: 57/5
+11.3: Nizakat Khan faced Mahmudullah, scored 1 runs. Team score: 58/5
+11.4: Munir Dar faced Mahmudullah, scored 1 runs. Team score: 59/5
+11.5: Nizakat Khan faced Mahmudullah, scored 0 runs. Team score: 59/5
+11.6: Nizakat Khan faced Mahmudullah, scored 1 runs. Team score: 60/5
+12.1: Nizakat Khan faced Farhad Reza, scored 0 runs. Team score: 60/5
+12.2: Nizakat Khan faced Farhad Reza, scored 1 runs. Team score: 61/5
+12.3: Munir Dar faced Farhad Reza, scored 4 runs. Team score: 65/5
+12.4: Munir Dar faced Farhad Reza, scored 1 runs. Team score: 66/5
+12.5: Nizakat Khan faced Farhad Reza, scored 1 runs. Team score: 67/5
+12.6: Munir Dar faced Farhad Reza, scored 1 runs. Team score: 68/5
+13.1: Munir Dar faced Mahmudullah, scored 0 runs. Team score: 68/5
+13.2: Munir Dar faced Mahmudullah, scored 1 runs. Team score: 69/5
+13.3: Nizakat Khan faced Mahmudullah, scored 1 runs. Team score: 70/5
+13.4: Munir Dar faced Mahmudullah, scored 2 runs. Team score: 72/5
+13.5: Munir Dar faced Mahmudullah, scored 1 runs. Team score: 73/5
+13.6: Nizakat Khan faced Mahmudullah, scored 0 runs. Team score: 73/5
+14.1: Munir Dar faced Rubel Hossain, scored 2 runs. Team score: 75/5
+14.2: Munir Dar faced Rubel Hossain, scored 1 runs. Team score: 76/5
+14.3: Nizakat Khan faced Rubel Hossain, scored 2 runs. Team score: 78/5
+14.4: Nizakat Khan faced Rubel Hossain, scored 1 runs. Team score: 79/5
+14.5: Munir Dar faced Rubel Hossain, scored 0 runs. Team score: 79/5
+14.6: Munir Dar faced Rubel Hossain, scored 1 runs. Team score: 80/5
+15.1: Munir Dar faced Mahmudullah, scored 0 runs. Team score: 80/5
+15.2: Munir Dar faced Mahmudullah, scored 1 runs. Team score: 81/5
+15.3: Nizakat Khan faced Mahmudullah, scored 1 runs. Team score: 82/5
+15.4: Munir Dar faced Mahmudullah, scored 1 runs. Team score: 83/5
+15.5: Nizakat Khan faced Mahmudullah, scored 0 runs. Team score: 83/5
+15.6: Nizakat Khan faced Mahmudullah, scored 0 runs. Team score: 83/5
+caught!, Batsman: Nizakat Khan (12 runs from 21 balls), Bowler: Mahmudullah (figures: 2/13). Fielders involved: Mominul Haque. Team score: 83/6
+16.1: Munir Dar faced Farhad Reza, scored 4 runs. Team score: 87/6
+16.2: Munir Dar faced Farhad Reza, scored 6 runs. Team score: 93/6
+16.3: Munir Dar faced Farhad Reza, scored 0 runs. Team score: 93/6
+16.4: Munir Dar faced Farhad Reza, scored 4 runs. Team score: 97/6
+16.5: Munir Dar faced Farhad Reza, scored 1 runs. Team score: 98/6
+16.6: Tanwir Afzal faced Farhad Reza, scored 0 runs. Team score: 98/6
+17.1: Munir Dar faced Abdur Razzak, scored 1 runs. Team score: 99/6
+17.2: Tanwir Afzal faced Abdur Razzak, scored 0 runs. Team score: 99/6
+17.3: Tanwir Afzal faced Abdur Razzak, scored 0 runs. Team score: 99/6
+17.4: Tanwir Afzal faced Abdur Razzak, scored 1 runs. Team score: 100/6
+17.5: Munir Dar faced Abdur Razzak, scored 0 runs. Team score: 100/6
+lbw!, Batsman: Munir Dar (37 runs from 27 balls), Bowler: Abdur Razzak (figures: 1/22). Fielders involved: None. Team score: 100/7
+17.6: Haseeb Amjad faced Abdur Razzak, scored 0 runs. Team score: 100/7
+18.1: Tanwir Afzal faced Sabbir Rahman, scored 0 runs. Team score: 100/7
+18.2: Tanwir Afzal faced Sabbir Rahman, scored 0 runs. Team score: 100/7
+18.3: Tanwir Afzal faced Sabbir Rahman, scored 0 runs. Team score: 100/7
+bowled!, Batsman: Tanwir Afzal (1 runs from 7 balls), Bowler: Sabbir Rahman (figures: 1/0). Fielders involved: None. Team score: 100/8
+18.4: Nadeem Ahmed faced Sabbir Rahman, scored 1 runs. Team score: 101/8
+18.5: Haseeb Amjad faced Sabbir Rahman, scored 2 runs. Team score: 103/8
+18.6: Haseeb Amjad faced Sabbir Rahman, scored 0 runs. Team score: 103/8
+19.1: Nadeem Ahmed faced Abdur Razzak, scored 1 runs. Team score: 104/8
+19.2: Haseeb Amjad faced Abdur Razzak, scored 2 runs. Team score: 106/8
+19.3: Haseeb Amjad faced Abdur Razzak, scored 2 runs. Team score: 108/8
+19.4: Haseeb Amjad faced Abdur Razzak, scored 6 runs. Team score: 114/8
+End of innings for Hong Kong: 114/8 in 20.0 overs
+Batsman scores:
+Waqas Barkat: 2 runs from 3 balls
+Irfan Ahmed: 34 runs from 28 balls
+JJ Atkinson: 8 runs from 15 balls
+MS Chapman: 5 runs from 7 balls
+Babar Hayat: 1 runs from 4 balls
+Munir Dar: 37 runs from 27 balls
+Nizakat Khan: 12 runs from 21 balls
+Tanwir Afzal: 1 runs from 7 balls
+Haseeb Amjad: 12 runs from 6 balls
+Nadeem Ahmed: 2 runs from 2 balls
+Bowler figures:
+Al-Amin Hossain: 1 wickets for 26 runs
+Shakib Al Hasan: 3 wickets for 9 runs
+Abdur Razzak: 1 wickets for 33 runs
+Mahmudullah: 2 wickets for 13 runs
+Farhad Reza: 0 wickets for 23 runs
+Rubel Hossain: 0 wickets for 7 runs
+Sabbir Rahman: 1 wickets for 3 runs
+

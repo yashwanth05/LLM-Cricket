@@ -1,0 +1,297 @@
+Match: World T20 - T20
+Date: 2014-03-16
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: Hong Kong vs Nepal
+Toss: Hong Kong won the toss and decided to field
+Result: Nepal won by 80 runs
+Man of the Match: SP Gauchan
+
+Innings 1:
+0.1: SP Khakurel faced Tanwir Afzal, scored 3 runs. Team score: 3/0
+0.2: Sagar Pun faced Tanwir Afzal, scored 0 runs. Team score: 3/0
+0.3: Sagar Pun faced Tanwir Afzal, scored 1 runs. Team score: 4/0
+0.4: SP Khakurel faced Tanwir Afzal, scored 0 runs. Team score: 4/0
+0.5: SP Khakurel faced Tanwir Afzal, scored 4 runs. Team score: 8/0
+0.6: SP Khakurel faced Tanwir Afzal, scored 0 runs. Team score: 8/0
+1.1: Sagar Pun faced Haseeb Amjad, scored 0 runs. Team score: 8/0
+1.2: Sagar Pun faced Haseeb Amjad, scored 1 runs. Team score: 9/0
+1.3: SP Khakurel faced Haseeb Amjad, scored 0 runs. Team score: 9/0
+1.4: SP Khakurel faced Haseeb Amjad, scored 0 runs. Team score: 9/0
+1.5: SP Khakurel faced Haseeb Amjad, scored 0 runs. Team score: 9/0
+1.6: SP Khakurel faced Haseeb Amjad, scored 4 runs. Team score: 13/0
+2.1: Sagar Pun faced Tanwir Afzal, scored 0 runs. Team score: 13/0
+2.2: Sagar Pun faced Tanwir Afzal, scored 1 runs. Team score: 14/0
+2.3: SP Khakurel faced Tanwir Afzal, scored 1 runs. Team score: 15/0
+2.4: Sagar Pun faced Tanwir Afzal, scored 1 runs. Team score: 16/0
+2.5: SP Khakurel faced Tanwir Afzal, scored 4 runs. Team score: 20/0
+2.6: SP Khakurel faced Tanwir Afzal, scored 0 runs. Team score: 20/0
+3.1: Sagar Pun faced Najeeb Amar, scored 4 runs. Team score: 24/0
+3.2: Sagar Pun faced Najeeb Amar, scored 1 runs. Team score: 25/0
+3.3: SP Khakurel faced Najeeb Amar, scored 1 runs. Team score: 26/0
+3.4: Sagar Pun faced Najeeb Amar, scored 4 runs. Team score: 30/0
+3.5: Sagar Pun faced Najeeb Amar, scored 0 runs. Team score: 30/0
+3.6: Sagar Pun faced Najeeb Amar, scored 0 runs. Team score: 30/0
+4.1: SP Khakurel faced Haseeb Amjad, scored 4 runs. Team score: 34/0
+4.2: SP Khakurel faced Haseeb Amjad, scored 0 runs. Team score: 34/0
+4.3: SP Khakurel faced Haseeb Amjad, scored 1 runs. Team score: 35/0
+4.4: SP Khakurel faced Haseeb Amjad, scored 1 runs. Team score: 36/0
+4.5: Sagar Pun faced Haseeb Amjad, scored 0 runs. Team score: 36/0
+caught!, Batsman: Sagar Pun (13 runs from 13 balls), Bowler: Haseeb Amjad (figures: 1/11). Fielders involved: Waqas Barkat. Team score: 36/1
+4.6: G Malla faced Haseeb Amjad, scored 0 runs. Team score: 36/1
+4.0: G Malla faced Haseeb Amjad, scored 0 runs. Team score: 36/1
+5.1: SP Khakurel faced Nadeem Ahmed, scored 0 runs. Team score: 36/1
+caught!, Batsman: SP Khakurel (23 runs from 17 balls), Bowler: Nadeem Ahmed (figures: 1/0). Fielders involved: Aizaz Khan. Team score: 36/2
+5.2: P Khadka faced Nadeem Ahmed, scored 0 runs. Team score: 36/2
+5.3: P Khadka faced Nadeem Ahmed, scored 1 runs. Team score: 37/2
+5.4: P Khadka faced Nadeem Ahmed, scored 4 runs. Team score: 41/2
+5.5: P Khadka faced Nadeem Ahmed, scored 0 runs. Team score: 41/2
+5.6: P Khadka faced Nadeem Ahmed, scored 3 runs. Team score: 44/2
+5.0: G Malla faced Nadeem Ahmed, scored 0 runs. Team score: 44/2
+6.1: P Khadka faced Irfan Ahmed, scored 1 runs. Team score: 45/2
+6.2: G Malla faced Irfan Ahmed, scored 0 runs. Team score: 45/2
+6.3: G Malla faced Irfan Ahmed, scored 0 runs. Team score: 45/2
+6.4: G Malla faced Irfan Ahmed, scored 1 runs. Team score: 46/2
+6.5: P Khadka faced Irfan Ahmed, scored 0 runs. Team score: 46/2
+6.6: P Khadka faced Irfan Ahmed, scored 1 runs. Team score: 47/2
+6.0: P Khadka faced Irfan Ahmed, scored 1 runs. Team score: 48/2
+7.1: P Khadka faced Aizaz Khan, scored 1 runs. Team score: 49/2
+7.2: P Khadka faced Aizaz Khan, scored 1 runs. Team score: 50/2
+7.3: G Malla faced Aizaz Khan, scored 1 runs. Team score: 51/2
+7.4: P Khadka faced Aizaz Khan, scored 0 runs. Team score: 51/2
+7.5: P Khadka faced Aizaz Khan, scored 0 runs. Team score: 51/2
+7.6: P Khadka faced Aizaz Khan, scored 0 runs. Team score: 51/2
+7.0: P Khadka faced Aizaz Khan, scored 0 runs. Team score: 51/2
+8.1: G Malla faced Irfan Ahmed, scored 0 runs. Team score: 51/2
+8.2: G Malla faced Irfan Ahmed, scored 1 runs. Team score: 52/2
+8.3: P Khadka faced Irfan Ahmed, scored 0 runs. Team score: 52/2
+8.4: P Khadka faced Irfan Ahmed, scored 0 runs. Team score: 52/2
+8.5: P Khadka faced Irfan Ahmed, scored 1 runs. Team score: 53/2
+8.6: P Khadka faced Irfan Ahmed, scored 1 runs. Team score: 54/2
+8.0: P Khadka faced Irfan Ahmed, scored 2 runs. Team score: 56/2
+8.1: P Khadka faced Irfan Ahmed, scored 0 runs. Team score: 56/2
+9.1: G Malla faced Aizaz Khan, scored 0 runs. Team score: 56/2
+9.2: G Malla faced Aizaz Khan, scored 1 runs. Team score: 57/2
+9.3: P Khadka faced Aizaz Khan, scored 1 runs. Team score: 58/2
+9.4: G Malla faced Aizaz Khan, scored 1 runs. Team score: 59/2
+9.5: P Khadka faced Aizaz Khan, scored 1 runs. Team score: 60/2
+9.6: G Malla faced Aizaz Khan, scored 0 runs. Team score: 60/2
+10.1: P Khadka faced Najeeb Amar, scored 2 runs. Team score: 62/2
+10.2: P Khadka faced Najeeb Amar, scored 1 runs. Team score: 63/2
+10.3: G Malla faced Najeeb Amar, scored 1 runs. Team score: 64/2
+10.4: P Khadka faced Najeeb Amar, scored 4 runs. Team score: 68/2
+10.5: P Khadka faced Najeeb Amar, scored 2 runs. Team score: 70/2
+10.6: P Khadka faced Najeeb Amar, scored 0 runs. Team score: 70/2
+11.1: G Malla faced Nadeem Ahmed, scored 0 runs. Team score: 70/2
+11.2: G Malla faced Nadeem Ahmed, scored 1 runs. Team score: 71/2
+11.3: P Khadka faced Nadeem Ahmed, scored 2 runs. Team score: 73/2
+11.4: P Khadka faced Nadeem Ahmed, scored 1 runs. Team score: 74/2
+11.5: G Malla faced Nadeem Ahmed, scored 1 runs. Team score: 75/2
+11.6: P Khadka faced Nadeem Ahmed, scored 1 runs. Team score: 76/2
+12.1: P Khadka faced Aizaz Khan, scored 1 runs. Team score: 77/2
+12.2: G Malla faced Aizaz Khan, scored 4 runs. Team score: 81/2
+12.3: G Malla faced Aizaz Khan, scored 1 runs. Team score: 82/2
+12.4: G Malla faced Aizaz Khan, scored 0 runs. Team score: 82/2
+12.5: G Malla faced Aizaz Khan, scored 0 runs. Team score: 82/2
+12.6: G Malla faced Aizaz Khan, scored 1 runs. Team score: 83/2
+12.0: P Khadka faced Aizaz Khan, scored 4 runs. Team score: 87/2
+13.1: G Malla faced Nadeem Ahmed, scored 0 runs. Team score: 87/2
+13.2: G Malla faced Nadeem Ahmed, scored 1 runs. Team score: 88/2
+13.3: P Khadka faced Nadeem Ahmed, scored 1 runs. Team score: 89/2
+13.4: G Malla faced Nadeem Ahmed, scored 1 runs. Team score: 90/2
+13.5: P Khadka faced Nadeem Ahmed, scored 4 runs. Team score: 94/2
+13.6: P Khadka faced Nadeem Ahmed, scored 0 runs. Team score: 94/2
+14.1: G Malla faced Irfan Ahmed, scored 1 runs. Team score: 95/2
+14.2: G Malla faced Irfan Ahmed, scored 0 runs. Team score: 95/2
+14.3: G Malla faced Irfan Ahmed, scored 2 runs. Team score: 97/2
+14.4: G Malla faced Irfan Ahmed, scored 4 runs. Team score: 101/2
+14.5: G Malla faced Irfan Ahmed, scored 2 runs. Team score: 103/2
+14.6: G Malla faced Irfan Ahmed, scored 4 runs. Team score: 107/2
+14.0: G Malla faced Irfan Ahmed, scored 1 runs. Team score: 108/2
+15.1: G Malla faced Haseeb Amjad, scored 1 runs. Team score: 109/2
+15.2: P Khadka faced Haseeb Amjad, scored 0 runs. Team score: 109/2
+15.3: P Khadka faced Haseeb Amjad, scored 2 runs. Team score: 111/2
+15.4: P Khadka faced Haseeb Amjad, scored 1 runs. Team score: 112/2
+15.5: G Malla faced Haseeb Amjad, scored 1 runs. Team score: 113/2
+15.6: P Khadka faced Haseeb Amjad, scored 1 runs. Team score: 114/2
+16.1: P Khadka faced Najeeb Amar, scored 2 runs. Team score: 116/2
+16.2: P Khadka faced Najeeb Amar, scored 0 runs. Team score: 116/2
+caught!, Batsman: P Khadka (48 runs from 42 balls), Bowler: Najeeb Amar (figures: 1/22). Fielders involved: Nizakat Khan. Team score: 116/3
+16.3: G Malla faced Najeeb Amar, scored 2 runs. Team score: 118/3
+16.4: G Malla faced Najeeb Amar, scored 4 runs. Team score: 122/3
+16.5: G Malla faced Najeeb Amar, scored 1 runs. Team score: 123/3
+16.6: B Bhandari faced Najeeb Amar, scored 1 runs. Team score: 124/3
+17.1: B Bhandari faced Nadeem Ahmed, scored 0 runs. Team score: 124/3
+caught!, Batsman: B Bhandari (1 runs from 2 balls), Bowler: Nadeem Ahmed (figures: 2/21). Fielders involved: Waqas Barkat. Team score: 124/4
+17.2: G Malla faced Nadeem Ahmed, scored 1 runs. Team score: 125/4
+17.3: S Vesawkar faced Nadeem Ahmed, scored 0 runs. Team score: 125/4
+17.4: S Vesawkar faced Nadeem Ahmed, scored 2 runs. Team score: 127/4
+17.5: S Vesawkar faced Nadeem Ahmed, scored 2 runs. Team score: 129/4
+17.6: S Vesawkar faced Nadeem Ahmed, scored 0 runs. Team score: 129/4
+18.1: G Malla faced Irfan Ahmed, scored 1 runs. Team score: 130/4
+18.2: S Vesawkar faced Irfan Ahmed, scored 1 runs. Team score: 131/4
+18.3: G Malla faced Irfan Ahmed, scored 1 runs. Team score: 132/4
+18.4: S Vesawkar faced Irfan Ahmed, scored 0 runs. Team score: 132/4
+18.5: S Vesawkar faced Irfan Ahmed, scored 4 runs. Team score: 136/4
+18.6: S Vesawkar faced Irfan Ahmed, scored 4 runs. Team score: 140/4
+19.1: G Malla faced Haseeb Amjad, scored 6 runs. Team score: 146/4
+19.2: G Malla faced Haseeb Amjad, scored 2 runs. Team score: 148/4
+19.3: G Malla faced Haseeb Amjad, scored 0 runs. Team score: 148/4
+caught and bowled!, Batsman: G Malla (50 runs from 43 balls), Bowler: Haseeb Amjad (figures: 2/25). Fielders involved: None. Team score: 148/5
+19.4: S Vesawkar faced Haseeb Amjad, scored 1 runs. Team score: 149/5
+run out!, Batsman: S Vesawkar (14 runs from 9 balls), Bowler: Haseeb Amjad (figures: 3/26). Fielders involved: Aizaz Khan, JJ Atkinson. Team score: 149/6
+19.5: NB Budayair faced Haseeb Amjad, scored 0 runs. Team score: 149/6
+bowled!, Batsman: NB Budayair (0 runs from 1 balls), Bowler: Haseeb Amjad (figures: 4/26). Fielders involved: None. Team score: 149/7
+19.6: SP Gauchan faced Haseeb Amjad, scored 0 runs. Team score: 149/7
+run out!, Batsman: SP Gauchan (0 runs from 1 balls), Bowler: Haseeb Amjad (figures: 5/26). Fielders involved: Haseeb Amjad. Team score: 149/8
+End of innings for Nepal: 149/8 in 20.0 overs
+Batsman scores:
+SP Khakurel: 23 runs from 17 balls
+Sagar Pun: 13 runs from 13 balls
+G Malla: 50 runs from 43 balls
+P Khadka: 48 runs from 42 balls
+B Bhandari: 1 runs from 2 balls
+S Vesawkar: 14 runs from 9 balls
+NB Budayair: 0 runs from 1 balls
+SP Gauchan: 0 runs from 1 balls
+Bowler figures:
+Tanwir Afzal: 0 wickets for 15 runs
+Haseeb Amjad: 5 wickets for 26 runs
+Najeeb Amar: 1 wickets for 30 runs
+Nadeem Ahmed: 2 wickets for 26 runs
+Irfan Ahmed: 0 wickets for 34 runs
+Aizaz Khan: 0 wickets for 18 runs
+
+Innings 2:
+0.1: Irfan Ahmed faced P Khadka, scored 0 runs. Team score: 0/0
+caught!, Batsman: Irfan Ahmed (0 runs from 1 balls), Bowler: P Khadka (figures: 1/0). Fielders involved: SP Khakurel. Team score: 0/1
+0.2: JJ Atkinson faced P Khadka, scored 0 runs. Team score: 0/1
+0.3: JJ Atkinson faced P Khadka, scored 0 runs. Team score: 0/1
+0.4: JJ Atkinson faced P Khadka, scored 1 runs. Team score: 1/1
+0.5: Waqas Barkat faced P Khadka, scored 1 runs. Team score: 2/1
+0.6: JJ Atkinson faced P Khadka, scored 1 runs. Team score: 3/1
+1.1: JJ Atkinson faced Sompal Kami, scored 1 runs. Team score: 4/1
+1.2: Waqas Barkat faced Sompal Kami, scored 0 runs. Team score: 4/1
+1.3: Waqas Barkat faced Sompal Kami, scored 0 runs. Team score: 4/1
+1.4: Waqas Barkat faced Sompal Kami, scored 1 runs. Team score: 5/1
+1.5: JJ Atkinson faced Sompal Kami, scored 4 runs. Team score: 9/1
+1.6: JJ Atkinson faced Sompal Kami, scored 0 runs. Team score: 9/1
+bowled!, Batsman: JJ Atkinson (7 runs from 7 balls), Bowler: Sompal Kami (figures: 1/6). Fielders involved: None. Team score: 9/2
+2.1: Waqas Barkat faced P Khadka, scored 0 runs. Team score: 9/2
+2.2: Waqas Barkat faced P Khadka, scored 4 runs. Team score: 13/2
+2.3: Waqas Barkat faced P Khadka, scored 1 runs. Team score: 14/2
+2.4: Babar Hayat faced P Khadka, scored 0 runs. Team score: 14/2
+2.5: Babar Hayat faced P Khadka, scored 0 runs. Team score: 14/2
+2.6: Babar Hayat faced P Khadka, scored 0 runs. Team score: 14/2
+3.1: Waqas Barkat faced Sompal Kami, scored 4 runs. Team score: 18/2
+3.2: Waqas Barkat faced Sompal Kami, scored 0 runs. Team score: 18/2
+3.3: Waqas Barkat faced Sompal Kami, scored 0 runs. Team score: 18/2
+3.4: Waqas Barkat faced Sompal Kami, scored 1 runs. Team score: 19/2
+3.5: Babar Hayat faced Sompal Kami, scored 0 runs. Team score: 19/2
+3.6: Babar Hayat faced Sompal Kami, scored 1 runs. Team score: 20/2
+4.1: Babar Hayat faced JK Mukhiya, scored 0 runs. Team score: 20/2
+4.2: Babar Hayat faced JK Mukhiya, scored 2 runs. Team score: 22/2
+4.3: Babar Hayat faced JK Mukhiya, scored 4 runs. Team score: 26/2
+4.4: Babar Hayat faced JK Mukhiya, scored 4 runs. Team score: 30/2
+4.5: Babar Hayat faced JK Mukhiya, scored 0 runs. Team score: 30/2
+4.6: Babar Hayat faced JK Mukhiya, scored 0 runs. Team score: 30/2
+5.1: Waqas Barkat faced B Regmi, scored 4 runs. Team score: 34/2
+5.2: Waqas Barkat faced B Regmi, scored 0 runs. Team score: 34/2
+5.3: Waqas Barkat faced B Regmi, scored 0 runs. Team score: 34/2
+5.4: Waqas Barkat faced B Regmi, scored 0 runs. Team score: 34/2
+5.5: Waqas Barkat faced B Regmi, scored 1 runs. Team score: 35/2
+5.6: Babar Hayat faced B Regmi, scored 0 runs. Team score: 35/2
+6.1: Waqas Barkat faced SP Gauchan, scored 0 runs. Team score: 35/2
+6.2: Waqas Barkat faced SP Gauchan, scored 1 runs. Team score: 36/2
+6.3: Babar Hayat faced SP Gauchan, scored 1 runs. Team score: 37/2
+6.4: Waqas Barkat faced SP Gauchan, scored 0 runs. Team score: 37/2
+caught!, Batsman: Waqas Barkat (18 runs from 19 balls), Bowler: SP Gauchan (figures: 1/2). Fielders involved: JK Mukhiya. Team score: 37/3
+6.5: Babar Hayat faced SP Gauchan, scored 0 runs. Team score: 37/3
+6.6: Babar Hayat faced SP Gauchan, scored 1 runs. Team score: 38/3
+7.1: Babar Hayat faced Sagar Pun, scored 1 runs. Team score: 39/3
+7.2: MS Chapman faced Sagar Pun, scored 1 runs. Team score: 40/3
+7.3: Babar Hayat faced Sagar Pun, scored 1 runs. Team score: 41/3
+7.4: MS Chapman faced Sagar Pun, scored 2 runs. Team score: 43/3
+7.5: MS Chapman faced Sagar Pun, scored 0 runs. Team score: 43/3
+7.6: MS Chapman faced Sagar Pun, scored 2 runs. Team score: 45/3
+8.1: Babar Hayat faced SP Gauchan, scored 0 runs. Team score: 45/3
+8.2: Babar Hayat faced SP Gauchan, scored 0 runs. Team score: 45/3
+8.3: Babar Hayat faced SP Gauchan, scored 1 runs. Team score: 46/3
+8.4: MS Chapman faced SP Gauchan, scored 0 runs. Team score: 46/3
+8.5: MS Chapman faced SP Gauchan, scored 0 runs. Team score: 46/3
+8.6: MS Chapman faced SP Gauchan, scored 0 runs. Team score: 46/3
+9.1: Babar Hayat faced Sagar Pun, scored 1 runs. Team score: 47/3
+9.2: MS Chapman faced Sagar Pun, scored 1 runs. Team score: 48/3
+9.3: Babar Hayat faced Sagar Pun, scored 1 runs. Team score: 49/3
+9.4: MS Chapman faced Sagar Pun, scored 1 runs. Team score: 50/3
+9.5: Babar Hayat faced Sagar Pun, scored 0 runs. Team score: 50/3
+9.6: Babar Hayat faced Sagar Pun, scored 2 runs. Team score: 52/3
+10.1: MS Chapman faced B Regmi, scored 4 runs. Team score: 56/3
+10.2: MS Chapman faced B Regmi, scored 2 runs. Team score: 58/3
+10.3: MS Chapman faced B Regmi, scored 0 runs. Team score: 58/3
+bowled!, Batsman: MS Chapman (13 runs from 12 balls), Bowler: B Regmi (figures: 1/11). Fielders involved: None. Team score: 58/4
+10.4: Nizakat Khan faced B Regmi, scored 0 runs. Team score: 58/4
+bowled!, Batsman: Nizakat Khan (0 runs from 1 balls), Bowler: B Regmi (figures: 2/11). Fielders involved: None. Team score: 58/5
+10.5: Tanwir Afzal faced B Regmi, scored 0 runs. Team score: 58/5
+10.6: Tanwir Afzal faced B Regmi, scored 0 runs. Team score: 58/5
+11.1: Babar Hayat faced SP Gauchan, scored 0 runs. Team score: 58/5
+bowled!, Batsman: Babar Hayat (20 runs from 25 balls), Bowler: SP Gauchan (figures: 2/4). Fielders involved: None. Team score: 58/6
+11.2: Aizaz Khan faced SP Gauchan, scored 0 runs. Team score: 58/6
+11.3: Aizaz Khan faced SP Gauchan, scored 0 runs. Team score: 58/6
+11.4: Aizaz Khan faced SP Gauchan, scored 0 runs. Team score: 58/6
+bowled!, Batsman: Aizaz Khan (0 runs from 3 balls), Bowler: SP Gauchan (figures: 3/4). Fielders involved: None. Team score: 58/7
+11.5: Najeeb Amar faced SP Gauchan, scored 0 runs. Team score: 58/7
+11.6: Najeeb Amar faced SP Gauchan, scored 2 runs. Team score: 60/7
+12.1: Tanwir Afzal faced B Regmi, scored 0 runs. Team score: 60/7
+12.2: Tanwir Afzal faced B Regmi, scored 0 runs. Team score: 60/7
+12.3: Tanwir Afzal faced B Regmi, scored 0 runs. Team score: 60/7
+caught!, Batsman: Tanwir Afzal (0 runs from 5 balls), Bowler: B Regmi (figures: 3/11). Fielders involved: P Khadka. Team score: 60/8
+12.4: Haseeb Amjad faced B Regmi, scored 1 runs. Team score: 61/8
+12.5: Najeeb Amar faced B Regmi, scored 0 runs. Team score: 61/8
+12.6: Najeeb Amar faced B Regmi, scored 0 runs. Team score: 61/8
+13.1: Haseeb Amjad faced Sompal Kami, scored 1 runs. Team score: 62/8
+13.2: Najeeb Amar faced Sompal Kami, scored 0 runs. Team score: 62/8
+13.3: Najeeb Amar faced Sompal Kami, scored 0 runs. Team score: 62/8
+13.4: Najeeb Amar faced Sompal Kami, scored 0 runs. Team score: 62/8
+13.5: Najeeb Amar faced Sompal Kami, scored 0 runs. Team score: 62/8
+13.6: Najeeb Amar faced Sompal Kami, scored 0 runs. Team score: 62/8
+caught!, Batsman: Najeeb Amar (2 runs from 9 balls), Bowler: Sompal Kami (figures: 2/13). Fielders involved: SP Khakurel. Team score: 62/9
+14.1: Haseeb Amjad faced B Regmi, scored 0 runs. Team score: 62/9
+14.2: Haseeb Amjad faced B Regmi, scored 0 runs. Team score: 62/9
+14.3: Haseeb Amjad faced B Regmi, scored 0 runs. Team score: 62/9
+14.4: Haseeb Amjad faced B Regmi, scored 1 runs. Team score: 63/9
+14.5: Nadeem Ahmed faced B Regmi, scored 0 runs. Team score: 63/9
+14.6: Nadeem Ahmed faced B Regmi, scored 1 runs. Team score: 64/9
+15.1: Nadeem Ahmed faced SP Gauchan, scored 2 runs. Team score: 66/9
+15.2: Nadeem Ahmed faced SP Gauchan, scored 0 runs. Team score: 66/9
+15.3: Nadeem Ahmed faced SP Gauchan, scored 0 runs. Team score: 66/9
+15.4: Nadeem Ahmed faced SP Gauchan, scored 1 runs. Team score: 67/9
+15.5: Haseeb Amjad faced SP Gauchan, scored 0 runs. Team score: 67/9
+15.6: Haseeb Amjad faced SP Gauchan, scored 0 runs. Team score: 67/9
+16.1: Nadeem Ahmed faced JK Mukhiya, scored 0 runs. Team score: 67/9
+16.2: Nadeem Ahmed faced JK Mukhiya, scored 1 runs. Team score: 68/9
+16.3: Haseeb Amjad faced JK Mukhiya, scored 1 runs. Team score: 69/9
+16.4: Nadeem Ahmed faced JK Mukhiya, scored 0 runs. Team score: 69/9
+16.5: Nadeem Ahmed faced JK Mukhiya, scored 0 runs. Team score: 69/9
+16.6: Nadeem Ahmed faced JK Mukhiya, scored 0 runs. Team score: 69/9
+bowled!, Batsman: Nadeem Ahmed (5 runs from 11 balls), Bowler: JK Mukhiya (figures: 1/12). Fielders involved: None. Team score: 69/10
+End of innings for Hong Kong: 69/10 in 16.6 overs
+Batsman scores:
+Irfan Ahmed: 0 runs from 1 balls
+JJ Atkinson: 7 runs from 7 balls
+Waqas Barkat: 18 runs from 19 balls
+Babar Hayat: 20 runs from 25 balls
+MS Chapman: 13 runs from 12 balls
+Nizakat Khan: 0 runs from 1 balls
+Tanwir Afzal: 0 runs from 5 balls
+Aizaz Khan: 0 runs from 3 balls
+Najeeb Amar: 2 runs from 9 balls
+Haseeb Amjad: 4 runs from 9 balls
+Nadeem Ahmed: 5 runs from 11 balls
+Bowler figures:
+P Khadka: 1 wickets for 8 runs
+Sompal Kami: 2 wickets for 13 runs
+JK Mukhiya: 1 wickets for 12 runs
+B Regmi: 3 wickets for 14 runs
+SP Gauchan: 3 wickets for 9 runs
+Sagar Pun: 0 wickets for 13 runs
+

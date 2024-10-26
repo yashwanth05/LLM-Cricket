@@ -1,0 +1,307 @@
+Match: World T20 - T20
+Date: 2016-03-23
+Venue: M Chinnaswamy Stadium, Bangalore
+Teams: India vs Bangladesh
+Toss: Bangladesh won the toss and decided to field
+Result: India won by 1 runs
+Man of the Match: R Ashwin
+
+Innings 1:
+0.1: RG Sharma faced Mashrafe Mortaza, scored 1 runs. Team score: 1/0
+0.2: S Dhawan faced Mashrafe Mortaza, scored 1 runs. Team score: 2/0
+0.3: RG Sharma faced Mashrafe Mortaza, scored 1 runs. Team score: 3/0
+0.4: RG Sharma faced Mashrafe Mortaza, scored 0 runs. Team score: 3/0
+0.5: RG Sharma faced Mashrafe Mortaza, scored 1 runs. Team score: 4/0
+0.6: S Dhawan faced Mashrafe Mortaza, scored 1 runs. Team score: 5/0
+0.0: RG Sharma faced Mashrafe Mortaza, scored 0 runs. Team score: 5/0
+1.1: S Dhawan faced Shuvagata Hom, scored 0 runs. Team score: 5/0
+1.2: S Dhawan faced Shuvagata Hom, scored 0 runs. Team score: 5/0
+1.3: S Dhawan faced Shuvagata Hom, scored 0 runs. Team score: 5/0
+1.4: S Dhawan faced Shuvagata Hom, scored 4 runs. Team score: 9/0
+1.5: S Dhawan faced Shuvagata Hom, scored 0 runs. Team score: 9/0
+1.6: S Dhawan faced Shuvagata Hom, scored 0 runs. Team score: 9/0
+2.1: RG Sharma faced Al-Amin Hossain, scored 4 runs. Team score: 13/0
+2.2: RG Sharma faced Al-Amin Hossain, scored 1 runs. Team score: 14/0
+2.3: S Dhawan faced Al-Amin Hossain, scored 1 runs. Team score: 15/0
+2.4: RG Sharma faced Al-Amin Hossain, scored 1 runs. Team score: 16/0
+2.5: S Dhawan faced Al-Amin Hossain, scored 1 runs. Team score: 17/0
+2.6: RG Sharma faced Al-Amin Hossain, scored 0 runs. Team score: 17/0
+3.1: S Dhawan faced Mustafizur Rahman, scored 0 runs. Team score: 17/0
+3.2: S Dhawan faced Mustafizur Rahman, scored 0 runs. Team score: 17/0
+3.3: S Dhawan faced Mustafizur Rahman, scored 1 runs. Team score: 18/0
+3.4: RG Sharma faced Mustafizur Rahman, scored 1 runs. Team score: 19/0
+3.5: S Dhawan faced Mustafizur Rahman, scored 0 runs. Team score: 19/0
+3.6: S Dhawan faced Mustafizur Rahman, scored 4 runs. Team score: 23/0
+4.1: RG Sharma faced Shakib Al Hasan, scored 0 runs. Team score: 23/0
+4.2: RG Sharma faced Shakib Al Hasan, scored 1 runs. Team score: 24/0
+4.3: S Dhawan faced Shakib Al Hasan, scored 1 runs. Team score: 25/0
+4.4: RG Sharma faced Shakib Al Hasan, scored 0 runs. Team score: 25/0
+4.5: RG Sharma faced Shakib Al Hasan, scored 1 runs. Team score: 26/0
+4.6: S Dhawan faced Shakib Al Hasan, scored 1 runs. Team score: 27/0
+5.1: S Dhawan faced Mustafizur Rahman, scored 1 runs. Team score: 28/0
+5.2: RG Sharma faced Mustafizur Rahman, scored 6 runs. Team score: 34/0
+5.3: RG Sharma faced Mustafizur Rahman, scored 1 runs. Team score: 35/0
+5.4: S Dhawan faced Mustafizur Rahman, scored 6 runs. Team score: 41/0
+5.5: S Dhawan faced Mustafizur Rahman, scored 1 runs. Team score: 42/0
+5.6: RG Sharma faced Mustafizur Rahman, scored 0 runs. Team score: 42/0
+caught!, Batsman: RG Sharma (19 runs from 17 balls), Bowler: Mustafizur Rahman (figures: 1/21). Fielders involved: Sabbir Rahman. Team score: 42/1
+6.1: V Kohli faced Shakib Al Hasan, scored 0 runs. Team score: 42/1
+6.2: V Kohli faced Shakib Al Hasan, scored 0 runs. Team score: 42/1
+6.3: V Kohli faced Shakib Al Hasan, scored 1 runs. Team score: 43/1
+6.4: S Dhawan faced Shakib Al Hasan, scored 1 runs. Team score: 44/1
+6.5: V Kohli faced Shakib Al Hasan, scored 1 runs. Team score: 45/1
+6.6: S Dhawan faced Shakib Al Hasan, scored 0 runs. Team score: 45/1
+lbw!, Batsman: S Dhawan (24 runs from 22 balls), Bowler: Shakib Al Hasan (figures: 1/7). Fielders involved: None. Team score: 45/2
+7.1: V Kohli faced Mashrafe Mortaza, scored 2 runs. Team score: 47/2
+7.2: V Kohli faced Mashrafe Mortaza, scored 1 runs. Team score: 48/2
+7.3: SK Raina faced Mashrafe Mortaza, scored 0 runs. Team score: 48/2
+7.4: SK Raina faced Mashrafe Mortaza, scored 0 runs. Team score: 48/2
+7.5: SK Raina faced Mashrafe Mortaza, scored 0 runs. Team score: 48/2
+7.6: SK Raina faced Mashrafe Mortaza, scored 1 runs. Team score: 49/2
+8.1: SK Raina faced Shuvagata Hom, scored 1 runs. Team score: 50/2
+8.2: V Kohli faced Shuvagata Hom, scored 0 runs. Team score: 50/2
+8.3: V Kohli faced Shuvagata Hom, scored 2 runs. Team score: 52/2
+8.4: V Kohli faced Shuvagata Hom, scored 0 runs. Team score: 52/2
+8.5: V Kohli faced Shuvagata Hom, scored 0 runs. Team score: 52/2
+8.6: V Kohli faced Shuvagata Hom, scored 0 runs. Team score: 52/2
+9.1: SK Raina faced Mashrafe Mortaza, scored 1 runs. Team score: 53/2
+9.2: V Kohli faced Mashrafe Mortaza, scored 1 runs. Team score: 54/2
+9.3: SK Raina faced Mashrafe Mortaza, scored 1 runs. Team score: 55/2
+9.4: V Kohli faced Mashrafe Mortaza, scored 2 runs. Team score: 57/2
+9.5: V Kohli faced Mashrafe Mortaza, scored 1 runs. Team score: 58/2
+9.6: SK Raina faced Mashrafe Mortaza, scored 1 runs. Team score: 59/2
+10.1: SK Raina faced Al-Amin Hossain, scored 1 runs. Team score: 60/2
+10.2: V Kohli faced Al-Amin Hossain, scored 1 runs. Team score: 61/2
+10.3: SK Raina faced Al-Amin Hossain, scored 0 runs. Team score: 61/2
+10.4: SK Raina faced Al-Amin Hossain, scored 6 runs. Team score: 67/2
+10.5: SK Raina faced Al-Amin Hossain, scored 6 runs. Team score: 73/2
+10.6: SK Raina faced Al-Amin Hossain, scored 0 runs. Team score: 73/2
+11.1: V Kohli faced Mashrafe Mortaza, scored 0 runs. Team score: 73/2
+11.2: V Kohli faced Mashrafe Mortaza, scored 2 runs. Team score: 75/2
+11.3: V Kohli faced Mashrafe Mortaza, scored 1 runs. Team score: 76/2
+11.4: SK Raina faced Mashrafe Mortaza, scored 1 runs. Team score: 77/2
+11.5: V Kohli faced Mashrafe Mortaza, scored 1 runs. Team score: 78/2
+11.6: SK Raina faced Mashrafe Mortaza, scored 1 runs. Team score: 79/2
+12.1: SK Raina faced Shakib Al Hasan, scored 1 runs. Team score: 80/2
+12.2: V Kohli faced Shakib Al Hasan, scored 1 runs. Team score: 81/2
+12.3: SK Raina faced Shakib Al Hasan, scored 1 runs. Team score: 82/2
+12.4: V Kohli faced Shakib Al Hasan, scored 0 runs. Team score: 82/2
+12.5: V Kohli faced Shakib Al Hasan, scored 1 runs. Team score: 83/2
+12.6: SK Raina faced Shakib Al Hasan, scored 1 runs. Team score: 84/2
+13.1: SK Raina faced Shuvagata Hom, scored 4 runs. Team score: 88/2
+13.2: SK Raina faced Shuvagata Hom, scored 1 runs. Team score: 89/2
+13.3: V Kohli faced Shuvagata Hom, scored 6 runs. Team score: 95/2
+13.4: V Kohli faced Shuvagata Hom, scored 0 runs. Team score: 95/2
+bowled!, Batsman: V Kohli (24 runs from 24 balls), Bowler: Shuvagata Hom (figures: 1/18). Fielders involved: None. Team score: 95/3
+13.5: HH Pandya faced Shuvagata Hom, scored 0 runs. Team score: 95/3
+13.6: HH Pandya faced Shuvagata Hom, scored 6 runs. Team score: 101/3
+14.1: SK Raina faced Shakib Al Hasan, scored 1 runs. Team score: 102/3
+14.2: HH Pandya faced Shakib Al Hasan, scored 1 runs. Team score: 103/3
+14.3: SK Raina faced Shakib Al Hasan, scored 1 runs. Team score: 104/3
+14.4: HH Pandya faced Shakib Al Hasan, scored 0 runs. Team score: 104/3
+14.5: HH Pandya faced Shakib Al Hasan, scored 4 runs. Team score: 108/3
+14.6: HH Pandya faced Shakib Al Hasan, scored 4 runs. Team score: 112/3
+15.1: SK Raina faced Al-Amin Hossain, scored 0 runs. Team score: 112/3
+caught!, Batsman: SK Raina (30 runs from 23 balls), Bowler: Al-Amin Hossain (figures: 1/22). Fielders involved: Sabbir Rahman. Team score: 112/4
+15.2: HH Pandya faced Al-Amin Hossain, scored 0 runs. Team score: 112/4
+caught!, Batsman: HH Pandya (15 runs from 7 balls), Bowler: Al-Amin Hossain (figures: 2/22). Fielders involved: Soumya Sarkar. Team score: 112/5
+15.3: Yuvraj Singh faced Al-Amin Hossain, scored 2 runs. Team score: 114/5
+15.4: Yuvraj Singh faced Al-Amin Hossain, scored 0 runs. Team score: 114/5
+15.5: Yuvraj Singh faced Al-Amin Hossain, scored 0 runs. Team score: 114/5
+15.6: Yuvraj Singh faced Al-Amin Hossain, scored 0 runs. Team score: 114/5
+16.1: MS Dhoni faced Mahmudullah, scored 1 runs. Team score: 115/5
+16.2: Yuvraj Singh faced Mahmudullah, scored 1 runs. Team score: 116/5
+16.3: MS Dhoni faced Mahmudullah, scored 0 runs. Team score: 116/5
+16.4: MS Dhoni faced Mahmudullah, scored 1 runs. Team score: 117/5
+16.5: Yuvraj Singh faced Mahmudullah, scored 0 runs. Team score: 117/5
+caught!, Batsman: Yuvraj Singh (3 runs from 6 balls), Bowler: Mahmudullah (figures: 1/3). Fielders involved: Al-Amin Hossain. Team score: 117/6
+16.6: MS Dhoni faced Mahmudullah, scored 1 runs. Team score: 118/6
+17.1: MS Dhoni faced Mustafizur Rahman, scored 1 runs. Team score: 119/6
+17.2: RA Jadeja faced Mustafizur Rahman, scored 2 runs. Team score: 121/6
+17.3: RA Jadeja faced Mustafizur Rahman, scored 0 runs. Team score: 121/6
+17.4: RA Jadeja faced Mustafizur Rahman, scored 1 runs. Team score: 122/6
+17.5: MS Dhoni faced Mustafizur Rahman, scored 1 runs. Team score: 123/6
+17.6: RA Jadeja faced Mustafizur Rahman, scored 0 runs. Team score: 123/6
+18.1: MS Dhoni faced Al-Amin Hossain, scored 0 runs. Team score: 123/6
+18.2: MS Dhoni faced Al-Amin Hossain, scored 4 runs. Team score: 127/6
+18.3: MS Dhoni faced Al-Amin Hossain, scored 1 runs. Team score: 128/6
+18.4: RA Jadeja faced Al-Amin Hossain, scored 4 runs. Team score: 132/6
+18.5: RA Jadeja faced Al-Amin Hossain, scored 4 runs. Team score: 136/6
+18.6: RA Jadeja faced Al-Amin Hossain, scored 1 runs. Team score: 137/6
+19.1: RA Jadeja faced Mustafizur Rahman, scored 0 runs. Team score: 137/6
+bowled!, Batsman: RA Jadeja (12 runs from 8 balls), Bowler: Mustafizur Rahman (figures: 2/26). Fielders involved: None. Team score: 137/7
+19.2: R Ashwin faced Mustafizur Rahman, scored 4 runs. Team score: 141/7
+19.3: R Ashwin faced Mustafizur Rahman, scored 1 runs. Team score: 142/7
+19.4: MS Dhoni faced Mustafizur Rahman, scored 2 runs. Team score: 144/7
+19.5: MS Dhoni faced Mustafizur Rahman, scored 0 runs. Team score: 144/7
+19.6: MS Dhoni faced Mustafizur Rahman, scored 2 runs. Team score: 146/7
+End of innings for India: 146/7 in 20.0 overs
+Batsman scores:
+RG Sharma: 19 runs from 17 balls
+S Dhawan: 24 runs from 22 balls
+V Kohli: 24 runs from 24 balls
+SK Raina: 30 runs from 23 balls
+HH Pandya: 15 runs from 7 balls
+Yuvraj Singh: 3 runs from 6 balls
+MS Dhoni: 14 runs from 12 balls
+RA Jadeja: 12 runs from 8 balls
+R Ashwin: 5 runs from 2 balls
+Bowler figures:
+Mashrafe Mortaza: 0 wickets for 22 runs
+Shuvagata Hom: 1 wickets for 24 runs
+Al-Amin Hossain: 2 wickets for 38 runs
+Mustafizur Rahman: 2 wickets for 35 runs
+Shakib Al Hasan: 1 wickets for 23 runs
+Mahmudullah: 1 wickets for 4 runs
+
+Innings 2:
+0.1: Tamim Iqbal faced A Nehra, scored 4 runs. Team score: 4/0
+0.2: Tamim Iqbal faced A Nehra, scored 0 runs. Team score: 4/0
+0.3: Tamim Iqbal faced A Nehra, scored 0 runs. Team score: 4/0
+0.4: Tamim Iqbal faced A Nehra, scored 2 runs. Team score: 6/0
+0.5: Tamim Iqbal faced A Nehra, scored 0 runs. Team score: 6/0
+0.6: Tamim Iqbal faced A Nehra, scored 1 runs. Team score: 7/0
+1.1: Tamim Iqbal faced JJ Bumrah, scored 0 runs. Team score: 7/0
+1.2: Tamim Iqbal faced JJ Bumrah, scored 0 runs. Team score: 7/0
+1.3: Tamim Iqbal faced JJ Bumrah, scored 1 runs. Team score: 8/0
+1.4: Mohammad Mithun faced JJ Bumrah, scored 0 runs. Team score: 8/0
+1.5: Mohammad Mithun faced JJ Bumrah, scored 1 runs. Team score: 9/0
+1.6: Tamim Iqbal faced JJ Bumrah, scored 1 runs. Team score: 10/0
+2.1: Tamim Iqbal faced R Ashwin, scored 1 runs. Team score: 11/0
+2.2: Mohammad Mithun faced R Ashwin, scored 0 runs. Team score: 11/0
+caught!, Batsman: Mohammad Mithun (1 runs from 3 balls), Bowler: R Ashwin (figures: 1/1). Fielders involved: HH Pandya. Team score: 11/1
+2.3: Sabbir Rahman faced R Ashwin, scored 1 runs. Team score: 12/1
+2.4: Tamim Iqbal faced R Ashwin, scored 0 runs. Team score: 12/1
+2.5: Tamim Iqbal faced R Ashwin, scored 0 runs. Team score: 12/1
+2.6: Tamim Iqbal faced R Ashwin, scored 0 runs. Team score: 12/1
+3.1: Sabbir Rahman faced A Nehra, scored 3 runs. Team score: 15/1
+3.2: Tamim Iqbal faced A Nehra, scored 0 runs. Team score: 15/1
+3.3: Tamim Iqbal faced A Nehra, scored 2 runs. Team score: 17/1
+3.4: Tamim Iqbal faced A Nehra, scored 1 runs. Team score: 18/1
+3.5: Sabbir Rahman faced A Nehra, scored 1 runs. Team score: 19/1
+3.6: Tamim Iqbal faced A Nehra, scored 1 runs. Team score: 20/1
+4.1: Tamim Iqbal faced R Ashwin, scored 0 runs. Team score: 20/1
+4.2: Tamim Iqbal faced R Ashwin, scored 1 runs. Team score: 21/1
+4.3: Sabbir Rahman faced R Ashwin, scored 1 runs. Team score: 22/1
+4.4: Tamim Iqbal faced R Ashwin, scored 1 runs. Team score: 23/1
+4.5: Sabbir Rahman faced R Ashwin, scored 0 runs. Team score: 23/1
+4.6: Sabbir Rahman faced R Ashwin, scored 6 runs. Team score: 29/1
+5.1: Tamim Iqbal faced JJ Bumrah, scored 4 runs. Team score: 33/1
+5.2: Tamim Iqbal faced JJ Bumrah, scored 0 runs. Team score: 33/1
+5.3: Tamim Iqbal faced JJ Bumrah, scored 4 runs. Team score: 37/1
+5.4: Tamim Iqbal faced JJ Bumrah, scored 0 runs. Team score: 37/1
+5.5: Tamim Iqbal faced JJ Bumrah, scored 4 runs. Team score: 41/1
+5.6: Tamim Iqbal faced JJ Bumrah, scored 4 runs. Team score: 45/1
+6.1: Sabbir Rahman faced R Ashwin, scored 1 runs. Team score: 46/1
+6.2: Tamim Iqbal faced R Ashwin, scored 1 runs. Team score: 47/1
+6.3: Sabbir Rahman faced R Ashwin, scored 0 runs. Team score: 47/1
+6.4: Sabbir Rahman faced R Ashwin, scored 4 runs. Team score: 51/1
+6.5: Sabbir Rahman faced R Ashwin, scored 1 runs. Team score: 52/1
+6.6: Tamim Iqbal faced R Ashwin, scored 1 runs. Team score: 53/1
+7.1: Tamim Iqbal faced RA Jadeja, scored 0 runs. Team score: 53/1
+7.2: Tamim Iqbal faced RA Jadeja, scored 1 runs. Team score: 54/1
+7.3: Sabbir Rahman faced RA Jadeja, scored 1 runs. Team score: 55/1
+7.4: Tamim Iqbal faced RA Jadeja, scored 0 runs. Team score: 55/1
+stumped!, Batsman: Tamim Iqbal (35 runs from 32 balls), Bowler: RA Jadeja (figures: 1/2). Fielders involved: MS Dhoni. Team score: 55/2
+7.5: Shakib Al Hasan faced RA Jadeja, scored 1 runs. Team score: 56/2
+7.6: Sabbir Rahman faced RA Jadeja, scored 0 runs. Team score: 56/2
+8.1: Shakib Al Hasan faced HH Pandya, scored 2 runs. Team score: 58/2
+8.2: Shakib Al Hasan faced HH Pandya, scored 0 runs. Team score: 58/2
+8.3: Shakib Al Hasan faced HH Pandya, scored 1 runs. Team score: 59/2
+8.4: Sabbir Rahman faced HH Pandya, scored 4 runs. Team score: 63/2
+8.5: Sabbir Rahman faced HH Pandya, scored 4 runs. Team score: 67/2
+8.6: Sabbir Rahman faced HH Pandya, scored 0 runs. Team score: 67/2
+9.1: Shakib Al Hasan faced SK Raina, scored 0 runs. Team score: 67/2
+9.2: Shakib Al Hasan faced SK Raina, scored 1 runs. Team score: 68/2
+9.3: Sabbir Rahman faced SK Raina, scored 1 runs. Team score: 69/2
+stumped!, Batsman: Sabbir Rahman (28 runs from 16 balls), Bowler: SK Raina (figures: 1/2). Fielders involved: MS Dhoni. Team score: 69/3
+9.4: Mashrafe Mortaza faced SK Raina, scored 1 runs. Team score: 70/3
+9.5: Shakib Al Hasan faced SK Raina, scored 1 runs. Team score: 71/3
+9.6: Mashrafe Mortaza faced SK Raina, scored 6 runs. Team score: 77/3
+9.0: Mashrafe Mortaza faced SK Raina, scored 0 runs. Team score: 77/3
+10.1: Shakib Al Hasan faced HH Pandya, scored 2 runs. Team score: 79/3
+10.2: Shakib Al Hasan faced HH Pandya, scored 0 runs. Team score: 79/3
+10.3: Shakib Al Hasan faced HH Pandya, scored 1 runs. Team score: 80/3
+10.4: Mashrafe Mortaza faced HH Pandya, scored 1 runs. Team score: 81/3
+10.5: Shakib Al Hasan faced HH Pandya, scored 6 runs. Team score: 87/3
+10.6: Shakib Al Hasan faced HH Pandya, scored 0 runs. Team score: 87/3
+11.1: Mashrafe Mortaza faced RA Jadeja, scored 0 runs. Team score: 87/3
+bowled!, Batsman: Mashrafe Mortaza (8 runs from 5 balls), Bowler: RA Jadeja (figures: 2/3). Fielders involved: None. Team score: 87/4
+11.2: Mahmudullah faced RA Jadeja, scored 0 runs. Team score: 87/4
+11.3: Mahmudullah faced RA Jadeja, scored 1 runs. Team score: 88/4
+11.4: Shakib Al Hasan faced RA Jadeja, scored 6 runs. Team score: 94/4
+11.5: Shakib Al Hasan faced RA Jadeja, scored 1 runs. Team score: 95/4
+11.6: Mahmudullah faced RA Jadeja, scored 0 runs. Team score: 95/4
+12.1: Shakib Al Hasan faced R Ashwin, scored 0 runs. Team score: 95/4
+caught!, Batsman: Shakib Al Hasan (22 runs from 15 balls), Bowler: R Ashwin (figures: 2/19). Fielders involved: SK Raina. Team score: 95/5
+12.2: Soumya Sarkar faced R Ashwin, scored 0 runs. Team score: 95/5
+12.3: Soumya Sarkar faced R Ashwin, scored 0 runs. Team score: 95/5
+12.4: Soumya Sarkar faced R Ashwin, scored 0 runs. Team score: 95/5
+12.5: Soumya Sarkar faced R Ashwin, scored 0 runs. Team score: 95/5
+12.6: Soumya Sarkar faced R Ashwin, scored 1 runs. Team score: 96/5
+13.1: Soumya Sarkar faced RA Jadeja, scored 0 runs. Team score: 96/5
+13.2: Soumya Sarkar faced RA Jadeja, scored 1 runs. Team score: 97/5
+13.3: Mahmudullah faced RA Jadeja, scored 0 runs. Team score: 97/5
+13.4: Mahmudullah faced RA Jadeja, scored 2 runs. Team score: 99/5
+13.5: Mahmudullah faced RA Jadeja, scored 0 runs. Team score: 99/5
+13.6: Mahmudullah faced RA Jadeja, scored 0 runs. Team score: 99/5
+14.1: Soumya Sarkar faced A Nehra, scored 1 runs. Team score: 100/5
+14.2: Mahmudullah faced A Nehra, scored 1 runs. Team score: 101/5
+14.3: Soumya Sarkar faced A Nehra, scored 1 runs. Team score: 102/5
+14.4: Mahmudullah faced A Nehra, scored 1 runs. Team score: 103/5
+14.5: Soumya Sarkar faced A Nehra, scored 1 runs. Team score: 104/5
+14.6: Mahmudullah faced A Nehra, scored 0 runs. Team score: 104/5
+15.1: Soumya Sarkar faced RA Jadeja, scored 6 runs. Team score: 110/5
+15.2: Soumya Sarkar faced RA Jadeja, scored 0 runs. Team score: 110/5
+15.3: Soumya Sarkar faced RA Jadeja, scored 1 runs. Team score: 111/5
+15.4: Mahmudullah faced RA Jadeja, scored 1 runs. Team score: 112/5
+15.5: Soumya Sarkar faced RA Jadeja, scored 1 runs. Team score: 113/5
+15.6: Mahmudullah faced RA Jadeja, scored 0 runs. Team score: 113/5
+16.1: Soumya Sarkar faced JJ Bumrah, scored 2 runs. Team score: 115/5
+16.2: Soumya Sarkar faced JJ Bumrah, scored 1 runs. Team score: 116/5
+16.3: Mahmudullah faced JJ Bumrah, scored 0 runs. Team score: 116/5
+16.4: Mahmudullah faced JJ Bumrah, scored 2 runs. Team score: 118/5
+16.5: Mahmudullah faced JJ Bumrah, scored 1 runs. Team score: 119/5
+16.6: Soumya Sarkar faced JJ Bumrah, scored 1 runs. Team score: 120/5
+17.1: Soumya Sarkar faced A Nehra, scored 0 runs. Team score: 120/5
+17.2: Soumya Sarkar faced A Nehra, scored 4 runs. Team score: 124/5
+17.3: Soumya Sarkar faced A Nehra, scored 1 runs. Team score: 125/5
+17.4: Mahmudullah faced A Nehra, scored 1 runs. Team score: 126/5
+17.5: Soumya Sarkar faced A Nehra, scored 0 runs. Team score: 126/5
+caught!, Batsman: Soumya Sarkar (22 runs from 21 balls), Bowler: A Nehra (figures: 1/26). Fielders involved: V Kohli. Team score: 126/6
+17.6: Mahmudullah faced A Nehra, scored 4 runs. Team score: 130/6
+18.1: Mushfiqur Rahim faced JJ Bumrah, scored 1 runs. Team score: 131/6
+18.2: Mahmudullah faced JJ Bumrah, scored 1 runs. Team score: 132/6
+18.3: Mushfiqur Rahim faced JJ Bumrah, scored 1 runs. Team score: 133/6
+18.4: Mahmudullah faced JJ Bumrah, scored 1 runs. Team score: 134/6
+18.5: Mushfiqur Rahim faced JJ Bumrah, scored 1 runs. Team score: 135/6
+18.6: Mahmudullah faced JJ Bumrah, scored 1 runs. Team score: 136/6
+19.1: Mahmudullah faced HH Pandya, scored 1 runs. Team score: 137/6
+19.2: Mushfiqur Rahim faced HH Pandya, scored 4 runs. Team score: 141/6
+19.3: Mushfiqur Rahim faced HH Pandya, scored 4 runs. Team score: 145/6
+19.4: Mushfiqur Rahim faced HH Pandya, scored 0 runs. Team score: 145/6
+caught!, Batsman: Mushfiqur Rahim (11 runs from 6 balls), Bowler: HH Pandya (figures: 1/30). Fielders involved: S Dhawan. Team score: 145/7
+19.5: Mahmudullah faced HH Pandya, scored 0 runs. Team score: 145/7
+caught!, Batsman: Mahmudullah (18 runs from 22 balls), Bowler: HH Pandya (figures: 2/30). Fielders involved: RA Jadeja. Team score: 145/8
+19.6: Shuvagata Hom faced HH Pandya, scored 0 runs. Team score: 145/8
+run out!, Batsman: Mustafizur Rahman (0 runs from 0 balls), Bowler: HH Pandya (figures: 3/30). Fielders involved: MS Dhoni. Team score: 145/9
+End of innings for Bangladesh: 145/9 in 20.0 overs
+Batsman scores:
+Tamim Iqbal: 35 runs from 32 balls
+Mohammad Mithun: 1 runs from 3 balls
+Sabbir Rahman: 28 runs from 16 balls
+Shakib Al Hasan: 22 runs from 15 balls
+Mashrafe Mortaza: 8 runs from 5 balls
+Mahmudullah: 18 runs from 22 balls
+Soumya Sarkar: 22 runs from 21 balls
+Mushfiqur Rahim: 11 runs from 6 balls
+Shuvagata Hom: 0 runs from 1 balls
+Mustafizur Rahman: 0 runs from 0 balls
+Bowler figures:
+A Nehra: 1 wickets for 30 runs
+JJ Bumrah: 0 wickets for 32 runs
+R Ashwin: 2 wickets for 20 runs
+RA Jadeja: 2 wickets for 23 runs
+HH Pandya: 3 wickets for 30 runs
+SK Raina: 1 wickets for 10 runs
+

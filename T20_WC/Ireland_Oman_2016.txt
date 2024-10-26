@@ -1,0 +1,311 @@
+Match: World T20 - T20
+Date: 2016-03-09
+Venue: Himachal Pradesh Cricket Association Stadium, Dharamsala
+Teams: Ireland vs Oman
+Toss: Ireland won the toss and decided to bat
+Result: Oman won by 2 wickets
+Man of the Match: Amir Ali
+
+Innings 1:
+0.1: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 0/0
+0.2: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 0/0
+0.3: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 0/0
+0.4: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 0/0
+0.5: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 0/0
+0.6: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 0/0
+Maiden over by AV Lalcheta
+1.1: PR Stirling faced Bilal Khan, scored 4 runs. Team score: 4/0
+1.2: PR Stirling faced Bilal Khan, scored 1 runs. Team score: 5/0
+1.3: WTS Porterfield faced Bilal Khan, scored 3 runs. Team score: 8/0
+1.4: PR Stirling faced Bilal Khan, scored 0 runs. Team score: 8/0
+1.5: PR Stirling faced Bilal Khan, scored 4 runs. Team score: 12/0
+1.6: PR Stirling faced Bilal Khan, scored 0 runs. Team score: 12/0
+2.1: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 12/0
+2.2: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 12/0
+2.3: WTS Porterfield faced AV Lalcheta, scored 1 runs. Team score: 13/0
+2.4: PR Stirling faced AV Lalcheta, scored 4 runs. Team score: 17/0
+2.5: PR Stirling faced AV Lalcheta, scored 1 runs. Team score: 18/0
+2.6: WTS Porterfield faced AV Lalcheta, scored 0 runs. Team score: 18/0
+3.1: PR Stirling faced Bilal Khan, scored 0 runs. Team score: 18/0
+3.2: PR Stirling faced Bilal Khan, scored 4 runs. Team score: 22/0
+3.3: PR Stirling faced Bilal Khan, scored 0 runs. Team score: 22/0
+3.4: PR Stirling faced Bilal Khan, scored 0 runs. Team score: 22/0
+3.5: PR Stirling faced Bilal Khan, scored 0 runs. Team score: 22/0
+3.6: PR Stirling faced Bilal Khan, scored 1 runs. Team score: 23/0
+4.1: PR Stirling faced AV Lalcheta, scored 0 runs. Team score: 23/0
+4.2: PR Stirling faced AV Lalcheta, scored 0 runs. Team score: 23/0
+4.3: PR Stirling faced AV Lalcheta, scored 4 runs. Team score: 27/0
+4.4: PR Stirling faced AV Lalcheta, scored 0 runs. Team score: 27/0
+4.5: PR Stirling faced AV Lalcheta, scored 4 runs. Team score: 31/0
+4.6: PR Stirling faced AV Lalcheta, scored 0 runs. Team score: 31/0
+5.1: WTS Porterfield faced M Ansari, scored 1 runs. Team score: 32/0
+5.2: WTS Porterfield faced M Ansari, scored 4 runs. Team score: 36/0
+5.3: WTS Porterfield faced M Ansari, scored 6 runs. Team score: 42/0
+5.4: WTS Porterfield faced M Ansari, scored 4 runs. Team score: 46/0
+5.5: WTS Porterfield faced M Ansari, scored 0 runs. Team score: 46/0
+5.6: WTS Porterfield faced M Ansari, scored 0 runs. Team score: 46/0
+5.0: WTS Porterfield faced M Ansari, scored 0 runs. Team score: 46/0
+6.1: PR Stirling faced Aamir Kaleem, scored 0 runs. Team score: 46/0
+6.2: PR Stirling faced Aamir Kaleem, scored 2 runs. Team score: 48/0
+6.3: PR Stirling faced Aamir Kaleem, scored 0 runs. Team score: 48/0
+caught!, Batsman: PR Stirling (29 runs from 22 balls), Bowler: Aamir Kaleem (figures: 1/2). Fielders involved: Zeeshan Maqsood. Team score: 48/1
+6.4: GC Wilson faced Aamir Kaleem, scored 4 runs. Team score: 52/1
+6.5: GC Wilson faced Aamir Kaleem, scored 1 runs. Team score: 53/1
+6.6: WTS Porterfield faced Aamir Kaleem, scored 1 runs. Team score: 54/1
+7.1: WTS Porterfield faced Khawar Ali, scored 1 runs. Team score: 55/1
+7.2: GC Wilson faced Khawar Ali, scored 1 runs. Team score: 56/1
+7.3: WTS Porterfield faced Khawar Ali, scored 1 runs. Team score: 57/1
+7.4: GC Wilson faced Khawar Ali, scored 0 runs. Team score: 57/1
+7.5: GC Wilson faced Khawar Ali, scored 0 runs. Team score: 57/1
+7.6: GC Wilson faced Khawar Ali, scored 1 runs. Team score: 58/1
+8.1: GC Wilson faced Aamir Kaleem, scored 0 runs. Team score: 58/1
+8.2: GC Wilson faced Aamir Kaleem, scored 0 runs. Team score: 58/1
+8.3: GC Wilson faced Aamir Kaleem, scored 1 runs. Team score: 59/1
+8.4: WTS Porterfield faced Aamir Kaleem, scored 4 runs. Team score: 63/1
+8.5: WTS Porterfield faced Aamir Kaleem, scored 0 runs. Team score: 63/1
+8.6: WTS Porterfield faced Aamir Kaleem, scored 1 runs. Team score: 64/1
+9.1: WTS Porterfield faced Amir Ali, scored 1 runs. Team score: 65/1
+9.2: GC Wilson faced Amir Ali, scored 4 runs. Team score: 69/1
+9.3: GC Wilson faced Amir Ali, scored 0 runs. Team score: 69/1
+9.4: GC Wilson faced Amir Ali, scored 4 runs. Team score: 73/1
+9.5: GC Wilson faced Amir Ali, scored 0 runs. Team score: 73/1
+9.6: GC Wilson faced Amir Ali, scored 0 runs. Team score: 73/1
+10.1: WTS Porterfield faced Aamir Kaleem, scored 1 runs. Team score: 74/1
+10.2: GC Wilson faced Aamir Kaleem, scored 1 runs. Team score: 75/1
+10.3: WTS Porterfield faced Aamir Kaleem, scored 4 runs. Team score: 79/1
+10.4: WTS Porterfield faced Aamir Kaleem, scored 1 runs. Team score: 80/1
+10.5: GC Wilson faced Aamir Kaleem, scored 0 runs. Team score: 80/1
+10.6: GC Wilson faced Aamir Kaleem, scored 1 runs. Team score: 81/1
+11.1: GC Wilson faced Khawar Ali, scored 2 runs. Team score: 83/1
+11.2: GC Wilson faced Khawar Ali, scored 0 runs. Team score: 83/1
+11.3: GC Wilson faced Khawar Ali, scored 1 runs. Team score: 84/1
+11.4: WTS Porterfield faced Khawar Ali, scored 0 runs. Team score: 84/1
+stumped!, Batsman: WTS Porterfield (34 runs from 29 balls), Bowler: Khawar Ali (figures: 1/7). Fielders involved: Sultan Ahmed. Team score: 84/2
+11.5: NJ O'Brien faced Khawar Ali, scored 1 runs. Team score: 85/2
+11.6: GC Wilson faced Khawar Ali, scored 1 runs. Team score: 86/2
+12.1: GC Wilson faced Aamir Kaleem, scored 1 runs. Team score: 87/2
+12.2: NJ O'Brien faced Aamir Kaleem, scored 1 runs. Team score: 88/2
+12.3: GC Wilson faced Aamir Kaleem, scored 1 runs. Team score: 89/2
+12.4: NJ O'Brien faced Aamir Kaleem, scored 1 runs. Team score: 90/2
+12.5: GC Wilson faced Aamir Kaleem, scored 0 runs. Team score: 90/2
+12.6: GC Wilson faced Aamir Kaleem, scored 1 runs. Team score: 91/2
+13.1: GC Wilson faced Khawar Ali, scored 1 runs. Team score: 92/2
+13.2: NJ O'Brien faced Khawar Ali, scored 2 runs. Team score: 94/2
+13.3: NJ O'Brien faced Khawar Ali, scored 4 runs. Team score: 98/2
+13.4: NJ O'Brien faced Khawar Ali, scored 2 runs. Team score: 100/2
+13.5: NJ O'Brien faced Khawar Ali, scored 0 runs. Team score: 100/2
+13.6: NJ O'Brien faced Khawar Ali, scored 2 runs. Team score: 102/2
+14.1: GC Wilson faced AV Lalcheta, scored 0 runs. Team score: 102/2
+14.2: GC Wilson faced AV Lalcheta, scored 4 runs. Team score: 106/2
+14.3: GC Wilson faced AV Lalcheta, scored 2 runs. Team score: 108/2
+14.4: GC Wilson faced AV Lalcheta, scored 1 runs. Team score: 109/2
+14.5: NJ O'Brien faced AV Lalcheta, scored 2 runs. Team score: 111/2
+14.6: NJ O'Brien faced AV Lalcheta, scored 1 runs. Team score: 112/2
+15.1: NJ O'Brien faced M Ansari, scored 0 runs. Team score: 112/2
+caught!, Batsman: NJ O'Brien (16 runs from 11 balls), Bowler: M Ansari (figures: 1/15). Fielders involved: Mehran Khan. Team score: 112/3
+15.2: GC Wilson faced M Ansari, scored 1 runs. Team score: 113/3
+15.3: KJ O'Brien faced M Ansari, scored 1 runs. Team score: 114/3
+15.4: GC Wilson faced M Ansari, scored 4 runs. Team score: 118/3
+15.5: GC Wilson faced M Ansari, scored 0 runs. Team score: 118/3
+15.6: GC Wilson faced M Ansari, scored 0 runs. Team score: 118/3
+bowled!, Batsman: GC Wilson (38 runs from 34 balls), Bowler: M Ansari (figures: 2/21). Fielders involved: None. Team score: 118/4
+16.1: KJ O'Brien faced Bilal Khan, scored 2 runs. Team score: 120/4
+16.2: KJ O'Brien faced Bilal Khan, scored 2 runs. Team score: 122/4
+16.3: KJ O'Brien faced Bilal Khan, scored 0 runs. Team score: 122/4
+16.4: KJ O'Brien faced Bilal Khan, scored 2 runs. Team score: 124/4
+16.5: KJ O'Brien faced Bilal Khan, scored 0 runs. Team score: 124/4
+16.6: KJ O'Brien faced Bilal Khan, scored 1 runs. Team score: 125/4
+17.1: KJ O'Brien faced M Ansari, scored 0 runs. Team score: 125/4
+17.2: KJ O'Brien faced M Ansari, scored 1 runs. Team score: 126/4
+17.3: AD Poynter faced M Ansari, scored 2 runs. Team score: 128/4
+17.4: AD Poynter faced M Ansari, scored 0 runs. Team score: 128/4
+17.5: AD Poynter faced M Ansari, scored 6 runs. Team score: 134/4
+17.6: AD Poynter faced M Ansari, scored 0 runs. Team score: 134/4
+18.1: KJ O'Brien faced Bilal Khan, scored 4 runs. Team score: 138/4
+18.2: KJ O'Brien faced Bilal Khan, scored 1 runs. Team score: 139/4
+18.3: AD Poynter faced Bilal Khan, scored 0 runs. Team score: 139/4
+18.4: AD Poynter faced Bilal Khan, scored 0 runs. Team score: 139/4
+18.5: AD Poynter faced Bilal Khan, scored 2 runs. Team score: 141/4
+18.6: AD Poynter faced Bilal Khan, scored 1 runs. Team score: 142/4
+19.1: AD Poynter faced M Ansari, scored 0 runs. Team score: 142/4
+19.2: AD Poynter faced M Ansari, scored 1 runs. Team score: 143/4
+19.3: KJ O'Brien faced M Ansari, scored 0 runs. Team score: 143/4
+bowled!, Batsman: KJ O'Brien (14 runs from 12 balls), Bowler: M Ansari (figures: 3/31). Fielders involved: None. Team score: 143/5
+19.4: AR McBrine faced M Ansari, scored 4 runs. Team score: 147/5
+19.5: AR McBrine faced M Ansari, scored 2 runs. Team score: 149/5
+19.6: AR McBrine faced M Ansari, scored 1 runs. Team score: 150/5
+19.0: AR McBrine faced M Ansari, scored 4 runs. Team score: 154/5
+End of innings for Ireland: 154/5 in 20.0 overs
+Batsman scores:
+WTS Porterfield: 34 runs from 29 balls
+PR Stirling: 29 runs from 22 balls
+GC Wilson: 38 runs from 34 balls
+NJ O'Brien: 16 runs from 11 balls
+KJ O'Brien: 14 runs from 12 balls
+AD Poynter: 12 runs from 10 balls
+AR McBrine: 11 runs from 4 balls
+Bowler figures:
+AV Lalcheta: 0 wickets for 24 runs
+Bilal Khan: 0 wickets for 32 runs
+M Ansari: 3 wickets for 42 runs
+Aamir Kaleem: 1 wickets for 27 runs
+Khawar Ali: 1 wickets for 20 runs
+Amir Ali: 0 wickets for 9 runs
+
+Innings 2:
+0.1: Zeeshan Maqsood faced TJ Murtagh, scored 0 runs. Team score: 0/0
+0.2: Zeeshan Maqsood faced TJ Murtagh, scored 4 runs. Team score: 4/0
+0.3: Zeeshan Maqsood faced TJ Murtagh, scored 0 runs. Team score: 4/0
+0.4: Zeeshan Maqsood faced TJ Murtagh, scored 0 runs. Team score: 4/0
+0.5: Zeeshan Maqsood faced TJ Murtagh, scored 0 runs. Team score: 4/0
+0.6: Zeeshan Maqsood faced TJ Murtagh, scored 4 runs. Team score: 8/0
+1.1: Khawar Ali faced CA Young, scored 1 runs. Team score: 9/0
+1.2: Khawar Ali faced CA Young, scored 0 runs. Team score: 9/0
+1.3: Khawar Ali faced CA Young, scored 2 runs. Team score: 11/0
+1.4: Khawar Ali faced CA Young, scored 0 runs. Team score: 11/0
+1.5: Khawar Ali faced CA Young, scored 0 runs. Team score: 11/0
+1.6: Khawar Ali faced CA Young, scored 0 runs. Team score: 11/0
+1.0: Khawar Ali faced CA Young, scored 0 runs. Team score: 11/0
+2.1: Zeeshan Maqsood faced WB Rankin, scored 0 runs. Team score: 11/0
+2.2: Zeeshan Maqsood faced WB Rankin, scored 4 runs. Team score: 15/0
+2.3: Zeeshan Maqsood faced WB Rankin, scored 4 runs. Team score: 19/0
+2.4: Zeeshan Maqsood faced WB Rankin, scored 0 runs. Team score: 19/0
+2.5: Zeeshan Maqsood faced WB Rankin, scored 0 runs. Team score: 19/0
+2.6: Zeeshan Maqsood faced WB Rankin, scored 4 runs. Team score: 23/0
+3.1: Khawar Ali faced CA Young, scored 1 runs. Team score: 24/0
+3.2: Khawar Ali faced CA Young, scored 0 runs. Team score: 24/0
+3.3: Khawar Ali faced CA Young, scored 1 runs. Team score: 25/0
+3.4: Zeeshan Maqsood faced CA Young, scored 2 runs. Team score: 27/0
+3.5: Zeeshan Maqsood faced CA Young, scored 0 runs. Team score: 27/0
+3.6: Zeeshan Maqsood faced CA Young, scored 4 runs. Team score: 31/0
+3.0: Zeeshan Maqsood faced CA Young, scored 0 runs. Team score: 31/0
+4.1: Khawar Ali faced TJ Murtagh, scored 0 runs. Team score: 31/0
+4.2: Khawar Ali faced TJ Murtagh, scored 4 runs. Team score: 35/0
+4.3: Khawar Ali faced TJ Murtagh, scored 0 runs. Team score: 35/0
+4.4: Khawar Ali faced TJ Murtagh, scored 4 runs. Team score: 39/0
+4.5: Khawar Ali faced TJ Murtagh, scored 0 runs. Team score: 39/0
+4.6: Khawar Ali faced TJ Murtagh, scored 0 runs. Team score: 39/0
+5.1: Zeeshan Maqsood faced KJ O'Brien, scored 0 runs. Team score: 39/0
+5.2: Zeeshan Maqsood faced KJ O'Brien, scored 1 runs. Team score: 40/0
+5.3: Khawar Ali faced KJ O'Brien, scored 0 runs. Team score: 40/0
+5.4: Khawar Ali faced KJ O'Brien, scored 1 runs. Team score: 41/0
+5.5: Zeeshan Maqsood faced KJ O'Brien, scored 2 runs. Team score: 43/0
+5.6: Zeeshan Maqsood faced KJ O'Brien, scored 1 runs. Team score: 44/0
+6.1: Zeeshan Maqsood faced WB Rankin, scored 0 runs. Team score: 44/0
+6.2: Zeeshan Maqsood faced WB Rankin, scored 0 runs. Team score: 44/0
+6.3: Zeeshan Maqsood faced WB Rankin, scored 1 runs. Team score: 45/0
+6.4: Khawar Ali faced WB Rankin, scored 4 runs. Team score: 49/0
+6.5: Khawar Ali faced WB Rankin, scored 1 runs. Team score: 50/0
+6.6: Zeeshan Maqsood faced WB Rankin, scored 1 runs. Team score: 51/0
+7.1: Zeeshan Maqsood faced AR McBrine, scored 1 runs. Team score: 52/0
+7.2: Khawar Ali faced AR McBrine, scored 6 runs. Team score: 58/0
+7.3: Khawar Ali faced AR McBrine, scored 0 runs. Team score: 58/0
+7.4: Khawar Ali faced AR McBrine, scored 0 runs. Team score: 58/0
+7.5: Khawar Ali faced AR McBrine, scored 0 runs. Team score: 58/0
+7.6: Khawar Ali faced AR McBrine, scored 1 runs. Team score: 59/0
+8.1: Khawar Ali faced KJ O'Brien, scored 4 runs. Team score: 63/0
+8.2: Khawar Ali faced KJ O'Brien, scored 6 runs. Team score: 69/0
+8.3: Khawar Ali faced KJ O'Brien, scored 0 runs. Team score: 69/0
+bowled!, Batsman: Khawar Ali (36 runs from 28 balls), Bowler: KJ O'Brien (figures: 1/15). Fielders involved: None. Team score: 69/1
+8.4: Jatinder Singh faced KJ O'Brien, scored 1 runs. Team score: 70/1
+8.5: Zeeshan Maqsood faced KJ O'Brien, scored 0 runs. Team score: 70/1
+8.6: Zeeshan Maqsood faced KJ O'Brien, scored 0 runs. Team score: 70/1
+9.1: Jatinder Singh faced AR McBrine, scored 1 runs. Team score: 71/1
+9.2: Zeeshan Maqsood faced AR McBrine, scored 0 runs. Team score: 71/1
+9.3: Zeeshan Maqsood faced AR McBrine, scored 1 runs. Team score: 72/1
+9.4: Jatinder Singh faced AR McBrine, scored 0 runs. Team score: 72/1
+9.5: Jatinder Singh faced AR McBrine, scored 1 runs. Team score: 73/1
+9.6: Zeeshan Maqsood faced AR McBrine, scored 1 runs. Team score: 74/1
+10.1: Zeeshan Maqsood faced KJ O'Brien, scored 2 runs. Team score: 76/1
+10.2: Zeeshan Maqsood faced KJ O'Brien, scored 1 runs. Team score: 77/1
+10.3: Jatinder Singh faced KJ O'Brien, scored 1 runs. Team score: 78/1
+10.4: Zeeshan Maqsood faced KJ O'Brien, scored 0 runs. Team score: 78/1
+bowled!, Batsman: Zeeshan Maqsood (38 runs from 33 balls), Bowler: KJ O'Brien (figures: 2/20). Fielders involved: None. Team score: 78/2
+10.5: Adnan Ilyas faced KJ O'Brien, scored 1 runs. Team score: 79/2
+10.6: Jatinder Singh faced KJ O'Brien, scored 0 runs. Team score: 79/2
+11.1: Adnan Ilyas faced PR Stirling, scored 0 runs. Team score: 79/2
+11.2: Adnan Ilyas faced PR Stirling, scored 1 runs. Team score: 80/2
+11.3: Jatinder Singh faced PR Stirling, scored 1 runs. Team score: 81/2
+11.4: Adnan Ilyas faced PR Stirling, scored 0 runs. Team score: 81/2
+11.5: Adnan Ilyas faced PR Stirling, scored 1 runs. Team score: 82/2
+11.6: Jatinder Singh faced PR Stirling, scored 1 runs. Team score: 83/2
+12.1: Jatinder Singh faced MC Sorensen, scored 1 runs. Team score: 84/2
+12.2: Adnan Ilyas faced MC Sorensen, scored 1 runs. Team score: 85/2
+12.3: Jatinder Singh faced MC Sorensen, scored 1 runs. Team score: 86/2
+12.4: Adnan Ilyas faced MC Sorensen, scored 0 runs. Team score: 86/2
+caught!, Batsman: Adnan Ilyas (4 runs from 7 balls), Bowler: MC Sorensen (figures: 1/3). Fielders involved: PR Stirling. Team score: 86/3
+12.5: Mehran Khan faced MC Sorensen, scored 0 runs. Team score: 86/3
+12.6: Mehran Khan faced MC Sorensen, scored 1 runs. Team score: 87/3
+13.1: Mehran Khan faced AR McBrine, scored 1 runs. Team score: 88/3
+13.2: Jatinder Singh faced AR McBrine, scored 1 runs. Team score: 89/3
+13.3: Mehran Khan faced AR McBrine, scored 0 runs. Team score: 89/3
+caught!, Batsman: Mehran Khan (2 runs from 4 balls), Bowler: AR McBrine (figures: 1/14). Fielders involved: WTS Porterfield. Team score: 89/4
+13.4: Jatinder Singh faced AR McBrine, scored 1 runs. Team score: 90/4
+13.5: Aamir Kaleem faced AR McBrine, scored 0 runs. Team score: 90/4
+13.6: Aamir Kaleem faced AR McBrine, scored 0 runs. Team score: 90/4
+lbw!, Batsman: Aamir Kaleem (0 runs from 2 balls), Bowler: AR McBrine (figures: 2/15). Fielders involved: None. Team score: 90/5
+14.1: Jatinder Singh faced MC Sorensen, scored 1 runs. Team score: 91/5
+14.2: Jatinder Singh faced MC Sorensen, scored 1 runs. Team score: 92/5
+14.3: Amir Ali faced MC Sorensen, scored 1 runs. Team score: 93/5
+14.4: Amir Ali faced MC Sorensen, scored 0 runs. Team score: 93/5
+14.5: Amir Ali faced MC Sorensen, scored 1 runs. Team score: 94/5
+14.6: Jatinder Singh faced MC Sorensen, scored 0 runs. Team score: 94/5
+14.0: Jatinder Singh faced MC Sorensen, scored 1 runs. Team score: 95/5
+14.1: Amir Ali faced MC Sorensen, scored 6 runs. Team score: 101/5
+15.1: Jatinder Singh faced PR Stirling, scored 4 runs. Team score: 105/5
+15.2: Jatinder Singh faced PR Stirling, scored 0 runs. Team score: 105/5
+15.3: Jatinder Singh faced PR Stirling, scored 1 runs. Team score: 106/5
+15.4: Amir Ali faced PR Stirling, scored 1 runs. Team score: 107/5
+15.5: Jatinder Singh faced PR Stirling, scored 1 runs. Team score: 108/5
+15.6: Amir Ali faced PR Stirling, scored 4 runs. Team score: 112/5
+16.1: Jatinder Singh faced TJ Murtagh, scored 2 runs. Team score: 114/5
+16.2: Amir Ali faced TJ Murtagh, scored 1 runs. Team score: 115/5
+16.3: Jatinder Singh faced TJ Murtagh, scored 1 runs. Team score: 116/5
+16.4: Jatinder Singh faced TJ Murtagh, scored 2 runs. Team score: 118/5
+16.5: Jatinder Singh faced TJ Murtagh, scored 1 runs. Team score: 119/5
+16.6: Jatinder Singh faced TJ Murtagh, scored 1 runs. Team score: 120/5
+16.0: Amir Ali faced TJ Murtagh, scored 4 runs. Team score: 124/5
+16.1: Amir Ali faced TJ Murtagh, scored 4 runs. Team score: 128/5
+16.2: Amir Ali faced TJ Murtagh, scored 4 runs. Team score: 132/5
+17.1: Jatinder Singh faced KJ O'Brien, scored 1 runs. Team score: 133/5
+17.2: Amir Ali faced KJ O'Brien, scored 0 runs. Team score: 133/5
+17.3: Amir Ali faced KJ O'Brien, scored 0 runs. Team score: 133/5
+17.4: Amir Ali faced KJ O'Brien, scored 1 runs. Team score: 134/5
+17.5: Jatinder Singh faced KJ O'Brien, scored 2 runs. Team score: 136/5
+17.6: Jatinder Singh faced KJ O'Brien, scored 1 runs. Team score: 137/5
+18.1: Jatinder Singh faced WB Rankin, scored 0 runs. Team score: 137/5
+bowled!, Batsman: Jatinder Singh (30 runs from 29 balls), Bowler: WB Rankin (figures: 1/19). Fielders involved: None. Team score: 137/6
+18.2: Sultan Ahmed faced WB Rankin, scored 1 runs. Team score: 138/6
+18.3: Amir Ali faced WB Rankin, scored 1 runs. Team score: 139/6
+18.4: Sultan Ahmed faced WB Rankin, scored 0 runs. Team score: 139/6
+run out!, Batsman: Sultan Ahmed (1 runs from 2 balls), Bowler: WB Rankin (figures: 2/21). Fielders involved: NJ O'Brien. Team score: 139/7
+18.5: AV Lalcheta faced WB Rankin, scored 1 runs. Team score: 140/7
+18.6: Amir Ali faced WB Rankin, scored 1 runs. Team score: 141/7
+19.1: Amir Ali faced MC Sorensen, scored 5 runs. Team score: 146/7
+19.2: Amir Ali faced MC Sorensen, scored 1 runs. Team score: 147/7
+19.3: AV Lalcheta faced MC Sorensen, scored 4 runs. Team score: 151/7
+19.4: AV Lalcheta faced MC Sorensen, scored 1 runs. Team score: 152/7
+19.5: Amir Ali faced MC Sorensen, scored 0 runs. Team score: 152/7
+caught!, Batsman: Amir Ali (35 runs from 18 balls), Bowler: MC Sorensen (figures: 2/26). Fielders involved: NJ O'Brien. Team score: 152/8
+19.6: M Ansari faced MC Sorensen, scored 5 runs. Team score: 157/8
+End of innings for Oman: 157/8 in 20.0 overs
+Batsman scores:
+Zeeshan Maqsood: 38 runs from 33 balls
+Khawar Ali: 36 runs from 28 balls
+Jatinder Singh: 30 runs from 29 balls
+Adnan Ilyas: 4 runs from 7 balls
+Mehran Khan: 2 runs from 4 balls
+Aamir Kaleem: 0 runs from 2 balls
+Amir Ali: 35 runs from 18 balls
+Sultan Ahmed: 1 runs from 2 balls
+AV Lalcheta: 6 runs from 3 balls
+M Ansari: 5 runs from 1 balls
+Bowler figures:
+TJ Murtagh: 0 wickets for 36 runs
+CA Young: 0 wickets for 11 runs
+WB Rankin: 2 wickets for 23 runs
+KJ O'Brien: 2 wickets for 26 runs
+AR McBrine: 2 wickets for 15 runs
+PR Stirling: 0 wickets for 15 runs
+MC Sorensen: 2 wickets for 31 runs
+

@@ -1,0 +1,297 @@
+Match: World T20 - T20
+Date: 2016-03-20
+Venue: M Chinnaswamy Stadium, Bangalore
+Teams: Sri Lanka vs West Indies
+Toss: West Indies won the toss and decided to field
+Result: West Indies won by 7 wickets
+Man of the Match: ADS Fletcher
+
+Innings 1:
+0.1: LD Chandimal faced AD Russell, scored 1 runs. Team score: 1/0
+0.2: TM Dilshan faced AD Russell, scored 6 runs. Team score: 7/0
+0.3: TM Dilshan faced AD Russell, scored 4 runs. Team score: 11/0
+0.4: TM Dilshan faced AD Russell, scored 1 runs. Team score: 12/0
+0.5: LD Chandimal faced AD Russell, scored 1 runs. Team score: 13/0
+0.6: TM Dilshan faced AD Russell, scored 0 runs. Team score: 13/0
+1.1: LD Chandimal faced S Badree, scored 0 runs. Team score: 13/0
+1.2: LD Chandimal faced S Badree, scored 0 runs. Team score: 13/0
+1.3: LD Chandimal faced S Badree, scored 0 runs. Team score: 13/0
+1.4: LD Chandimal faced S Badree, scored 1 runs. Team score: 14/0
+1.5: TM Dilshan faced S Badree, scored 1 runs. Team score: 15/0
+1.6: LD Chandimal faced S Badree, scored 4 runs. Team score: 19/0
+2.1: TM Dilshan faced SJ Benn, scored 0 runs. Team score: 19/0
+2.2: TM Dilshan faced SJ Benn, scored 0 runs. Team score: 19/0
+2.3: TM Dilshan faced SJ Benn, scored 0 runs. Team score: 19/0
+2.4: TM Dilshan faced SJ Benn, scored 1 runs. Team score: 20/0
+2.5: LD Chandimal faced SJ Benn, scored 0 runs. Team score: 20/0
+2.6: LD Chandimal faced SJ Benn, scored 0 runs. Team score: 20/0
+3.1: TM Dilshan faced CR Brathwaite, scored 0 runs. Team score: 20/0
+lbw!, Batsman: TM Dilshan (13 runs from 10 balls), Bowler: CR Brathwaite (figures: 1/0). Fielders involved: None. Team score: 20/1
+3.2: HDRL Thirimanne faced CR Brathwaite, scored 1 runs. Team score: 21/1
+3.3: LD Chandimal faced CR Brathwaite, scored 1 runs. Team score: 22/1
+3.4: HDRL Thirimanne faced CR Brathwaite, scored 1 runs. Team score: 23/1
+3.5: LD Chandimal faced CR Brathwaite, scored 6 runs. Team score: 29/1
+3.6: LD Chandimal faced CR Brathwaite, scored 1 runs. Team score: 30/1
+4.1: LD Chandimal faced S Badree, scored 0 runs. Team score: 30/1
+4.2: LD Chandimal faced S Badree, scored 2 runs. Team score: 32/1
+4.3: LD Chandimal faced S Badree, scored 0 runs. Team score: 32/1
+4.4: LD Chandimal faced S Badree, scored 0 runs. Team score: 32/1
+4.5: LD Chandimal faced S Badree, scored 0 runs. Team score: 32/1
+4.6: LD Chandimal faced S Badree, scored 0 runs. Team score: 32/1
+run out!, Batsman: LD Chandimal (17 runs from 18 balls), Bowler: S Badree (figures: 1/8). Fielders involved: J Charles, D Ramdin. Team score: 32/2
+5.1: HDRL Thirimanne faced AD Russell, scored 0 runs. Team score: 32/2
+5.2: HDRL Thirimanne faced AD Russell, scored 0 runs. Team score: 32/2
+5.3: HDRL Thirimanne faced AD Russell, scored 4 runs. Team score: 36/2
+5.4: HDRL Thirimanne faced AD Russell, scored 1 runs. Team score: 37/2
+5.5: CK Kapugedera faced AD Russell, scored 0 runs. Team score: 37/2
+5.6: CK Kapugedera faced AD Russell, scored 4 runs. Team score: 41/2
+6.1: HDRL Thirimanne faced S Badree, scored 0 runs. Team score: 41/2
+caught!, Batsman: HDRL Thirimanne (7 runs from 7 balls), Bowler: S Badree (figures: 2/8). Fielders involved: ADS Fletcher. Team score: 41/3
+6.2: AD Mathews faced S Badree, scored 0 runs. Team score: 41/3
+6.3: AD Mathews faced S Badree, scored 1 runs. Team score: 42/3
+6.4: CK Kapugedera faced S Badree, scored 0 runs. Team score: 42/3
+6.5: CK Kapugedera faced S Badree, scored 0 runs. Team score: 42/3
+6.6: CK Kapugedera faced S Badree, scored 1 runs. Team score: 43/3
+7.1: CK Kapugedera faced CR Brathwaite, scored 0 runs. Team score: 43/3
+7.2: CK Kapugedera faced CR Brathwaite, scored 0 runs. Team score: 43/3
+7.3: CK Kapugedera faced CR Brathwaite, scored 1 runs. Team score: 44/3
+7.4: AD Mathews faced CR Brathwaite, scored 1 runs. Team score: 45/3
+7.5: CK Kapugedera faced CR Brathwaite, scored 1 runs. Team score: 46/3
+7.6: CK Kapugedera faced CR Brathwaite, scored 1 runs. Team score: 47/3
+7.0: AD Mathews faced CR Brathwaite, scored 0 runs. Team score: 47/3
+8.1: CK Kapugedera faced S Badree, scored 0 runs. Team score: 47/3
+stumped!, Batsman: CK Kapugedera (8 runs from 11 balls), Bowler: S Badree (figures: 3/10). Fielders involved: D Ramdin. Team score: 47/4
+8.2: TAM Siriwardana faced S Badree, scored 0 runs. Team score: 47/4
+8.3: TAM Siriwardana faced S Badree, scored 0 runs. Team score: 47/4
+8.4: TAM Siriwardana faced S Badree, scored 0 runs. Team score: 47/4
+caught!, Batsman: TAM Siriwardana (0 runs from 3 balls), Bowler: S Badree (figures: 4/10). Fielders involved: CH Gayle. Team score: 47/5
+8.5: NLTC Perera faced S Badree, scored 1 runs. Team score: 48/5
+8.6: AD Mathews faced S Badree, scored 1 runs. Team score: 49/5
+9.1: AD Mathews faced DJ Bravo, scored 0 runs. Team score: 49/5
+9.2: AD Mathews faced DJ Bravo, scored 1 runs. Team score: 50/5
+9.3: NLTC Perera faced DJ Bravo, scored 1 runs. Team score: 51/5
+9.4: AD Mathews faced DJ Bravo, scored 0 runs. Team score: 51/5
+9.5: AD Mathews faced DJ Bravo, scored 2 runs. Team score: 53/5
+9.6: AD Mathews faced DJ Bravo, scored 1 runs. Team score: 54/5
+10.1: AD Mathews faced SJ Benn, scored 1 runs. Team score: 55/5
+10.2: NLTC Perera faced SJ Benn, scored 1 runs. Team score: 56/5
+10.3: AD Mathews faced SJ Benn, scored 0 runs. Team score: 56/5
+10.4: AD Mathews faced SJ Benn, scored 0 runs. Team score: 56/5
+10.5: AD Mathews faced SJ Benn, scored 0 runs. Team score: 56/5
+10.6: AD Mathews faced SJ Benn, scored 1 runs. Team score: 57/5
+11.1: AD Mathews faced DJ Bravo, scored 1 runs. Team score: 58/5
+11.2: NLTC Perera faced DJ Bravo, scored 2 runs. Team score: 60/5
+11.3: AD Mathews faced DJ Bravo, scored 0 runs. Team score: 60/5
+11.4: AD Mathews faced DJ Bravo, scored 1 runs. Team score: 61/5
+11.5: NLTC Perera faced DJ Bravo, scored 1 runs. Team score: 62/5
+11.6: AD Mathews faced DJ Bravo, scored 2 runs. Team score: 64/5
+11.0: AD Mathews faced DJ Bravo, scored 1 runs. Team score: 65/5
+12.1: AD Mathews faced SJ Benn, scored 0 runs. Team score: 65/5
+12.2: AD Mathews faced SJ Benn, scored 0 runs. Team score: 65/5
+12.3: AD Mathews faced SJ Benn, scored 0 runs. Team score: 65/5
+12.4: AD Mathews faced SJ Benn, scored 0 runs. Team score: 65/5
+12.5: AD Mathews faced SJ Benn, scored 1 runs. Team score: 66/5
+12.6: NLTC Perera faced SJ Benn, scored 1 runs. Team score: 67/5
+13.1: NLTC Perera faced AD Russell, scored 0 runs. Team score: 67/5
+13.2: NLTC Perera faced AD Russell, scored 4 runs. Team score: 71/5
+13.3: NLTC Perera faced AD Russell, scored 0 runs. Team score: 71/5
+13.4: NLTC Perera faced AD Russell, scored 1 runs. Team score: 72/5
+13.5: AD Mathews faced AD Russell, scored 1 runs. Team score: 73/5
+13.6: NLTC Perera faced AD Russell, scored 0 runs. Team score: 73/5
+14.1: AD Mathews faced SJ Benn, scored 0 runs. Team score: 73/5
+14.2: AD Mathews faced SJ Benn, scored 1 runs. Team score: 74/5
+14.3: NLTC Perera faced SJ Benn, scored 4 runs. Team score: 78/5
+14.4: NLTC Perera faced SJ Benn, scored 1 runs. Team score: 79/5
+14.5: AD Mathews faced SJ Benn, scored 1 runs. Team score: 80/5
+14.6: NLTC Perera faced SJ Benn, scored 1 runs. Team score: 81/5
+15.1: NLTC Perera faced CR Brathwaite, scored 0 runs. Team score: 81/5
+15.2: NLTC Perera faced CR Brathwaite, scored 5 runs. Team score: 86/5
+15.3: NLTC Perera faced CR Brathwaite, scored 1 runs. Team score: 87/5
+15.4: AD Mathews faced CR Brathwaite, scored 1 runs. Team score: 88/5
+15.5: NLTC Perera faced CR Brathwaite, scored 0 runs. Team score: 88/5
+15.6: NLTC Perera faced CR Brathwaite, scored 1 runs. Team score: 89/5
+15.0: AD Mathews faced CR Brathwaite, scored 1 runs. Team score: 90/5
+16.1: AD Mathews faced DJ Bravo, scored 1 runs. Team score: 91/5
+16.2: AD Mathews faced DJ Bravo, scored 0 runs. Team score: 91/5
+caught!, Batsman: AD Mathews (21 runs from 33 balls), Bowler: DJ Bravo (figures: 1/14). Fielders involved: D Ramdin. Team score: 91/6
+16.3: KMDN Kulasekara faced DJ Bravo, scored 0 runs. Team score: 91/6
+16.4: KMDN Kulasekara faced DJ Bravo, scored 1 runs. Team score: 92/6
+16.5: NLTC Perera faced DJ Bravo, scored 1 runs. Team score: 93/6
+16.6: KMDN Kulasekara faced DJ Bravo, scored 1 runs. Team score: 94/6
+16.0: NLTC Perera faced DJ Bravo, scored 0 runs. Team score: 94/6
+17.1: KMDN Kulasekara faced CR Brathwaite, scored 1 runs. Team score: 95/6
+17.2: KMDN Kulasekara faced CR Brathwaite, scored 1 runs. Team score: 96/6
+17.3: NLTC Perera faced CR Brathwaite, scored 4 runs. Team score: 100/6
+17.4: NLTC Perera faced CR Brathwaite, scored 6 runs. Team score: 106/6
+17.5: NLTC Perera faced CR Brathwaite, scored 1 runs. Team score: 107/6
+17.6: KMDN Kulasekara faced CR Brathwaite, scored 2 runs. Team score: 109/6
+17.0: KMDN Kulasekara faced CR Brathwaite, scored 1 runs. Team score: 110/6
+18.1: KMDN Kulasekara faced AD Russell, scored 1 runs. Team score: 111/6
+18.2: NLTC Perera faced AD Russell, scored 4 runs. Team score: 115/6
+18.3: NLTC Perera faced AD Russell, scored 0 runs. Team score: 115/6
+18.4: NLTC Perera faced AD Russell, scored 1 runs. Team score: 116/6
+18.5: KMDN Kulasekara faced AD Russell, scored 0 runs. Team score: 116/6
+bowled!, Batsman: KMDN Kulasekara (8 runs from 9 balls), Bowler: AD Russell (figures: 1/34). Fielders involved: None. Team score: 116/7
+18.6: HMRKB Herath faced AD Russell, scored 2 runs. Team score: 118/7
+19.1: NLTC Perera faced DJ Bravo, scored 1 runs. Team score: 119/7
+19.2: HMRKB Herath faced DJ Bravo, scored 1 runs. Team score: 120/7
+19.3: NLTC Perera faced DJ Bravo, scored 1 runs. Team score: 121/7
+19.4: HMRKB Herath faced DJ Bravo, scored 0 runs. Team score: 121/7
+run out!, Batsman: HMRKB Herath (3 runs from 3 balls), Bowler: DJ Bravo (figures: 2/20). Fielders involved: DJ Bravo. Team score: 121/8
+19.5: NLTC Perera faced DJ Bravo, scored 0 runs. Team score: 121/8
+caught!, Batsman: NLTC Perera (44 runs from 30 balls), Bowler: DJ Bravo (figures: 3/20). Fielders involved: AD Russell. Team score: 121/9
+19.6: JDF Vandersay faced DJ Bravo, scored 1 runs. Team score: 122/9
+End of innings for Sri Lanka: 122/9 in 20.0 overs
+Batsman scores:
+LD Chandimal: 17 runs from 18 balls
+TM Dilshan: 13 runs from 10 balls
+HDRL Thirimanne: 7 runs from 7 balls
+CK Kapugedera: 8 runs from 11 balls
+AD Mathews: 21 runs from 33 balls
+TAM Siriwardana: 0 runs from 3 balls
+NLTC Perera: 44 runs from 30 balls
+KMDN Kulasekara: 8 runs from 9 balls
+HMRKB Herath: 3 runs from 3 balls
+JDF Vandersay: 1 runs from 1 balls
+Bowler figures:
+AD Russell: 1 wickets for 36 runs
+S Badree: 4 wickets for 12 runs
+SJ Benn: 0 wickets for 14 runs
+CR Brathwaite: 1 wickets for 39 runs
+DJ Bravo: 3 wickets for 21 runs
+
+Innings 2:
+0.1: ADS Fletcher faced AD Mathews, scored 4 runs. Team score: 4/0
+0.2: ADS Fletcher faced AD Mathews, scored 1 runs. Team score: 5/0
+0.3: J Charles faced AD Mathews, scored 1 runs. Team score: 6/0
+0.4: ADS Fletcher faced AD Mathews, scored 6 runs. Team score: 12/0
+0.5: ADS Fletcher faced AD Mathews, scored 1 runs. Team score: 13/0
+0.6: J Charles faced AD Mathews, scored 0 runs. Team score: 13/0
+1.1: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 13/0
+1.2: ADS Fletcher faced HMRKB Herath, scored 6 runs. Team score: 19/0
+1.3: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 19/0
+1.4: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 19/0
+1.5: ADS Fletcher faced HMRKB Herath, scored 4 runs. Team score: 23/0
+1.6: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 23/0
+2.1: J Charles faced KMDN Kulasekara, scored 0 runs. Team score: 23/0
+2.2: J Charles faced KMDN Kulasekara, scored 4 runs. Team score: 27/0
+2.3: J Charles faced KMDN Kulasekara, scored 0 runs. Team score: 27/0
+2.4: J Charles faced KMDN Kulasekara, scored 1 runs. Team score: 28/0
+2.5: ADS Fletcher faced KMDN Kulasekara, scored 1 runs. Team score: 29/0
+2.6: ADS Fletcher faced KMDN Kulasekara, scored 0 runs. Team score: 29/0
+2.0: ADS Fletcher faced KMDN Kulasekara, scored 0 runs. Team score: 29/0
+3.1: J Charles faced JDF Vandersay, scored 0 runs. Team score: 29/0
+3.2: J Charles faced JDF Vandersay, scored 1 runs. Team score: 30/0
+3.3: ADS Fletcher faced JDF Vandersay, scored 0 runs. Team score: 30/0
+3.4: ADS Fletcher faced JDF Vandersay, scored 0 runs. Team score: 30/0
+3.5: ADS Fletcher faced JDF Vandersay, scored 0 runs. Team score: 30/0
+3.6: ADS Fletcher faced JDF Vandersay, scored 0 runs. Team score: 30/0
+4.1: J Charles faced HMRKB Herath, scored 1 runs. Team score: 31/0
+4.2: ADS Fletcher faced HMRKB Herath, scored 1 runs. Team score: 32/0
+4.3: J Charles faced HMRKB Herath, scored 1 runs. Team score: 33/0
+4.4: ADS Fletcher faced HMRKB Herath, scored 1 runs. Team score: 34/0
+4.5: J Charles faced HMRKB Herath, scored 1 runs. Team score: 35/0
+4.6: ADS Fletcher faced HMRKB Herath, scored 4 runs. Team score: 39/0
+5.1: J Charles faced JDF Vandersay, scored 0 runs. Team score: 39/0
+5.2: J Charles faced JDF Vandersay, scored 0 runs. Team score: 39/0
+bowled!, Batsman: J Charles (10 runs from 13 balls), Bowler: JDF Vandersay (figures: 1/1). Fielders involved: None. Team score: 39/1
+5.3: MN Samuels faced JDF Vandersay, scored 0 runs. Team score: 39/1
+5.4: MN Samuels faced JDF Vandersay, scored 0 runs. Team score: 39/1
+5.5: MN Samuels faced JDF Vandersay, scored 0 runs. Team score: 39/1
+5.6: MN Samuels faced JDF Vandersay, scored 0 runs. Team score: 39/1
+Maiden over by JDF Vandersay
+6.1: ADS Fletcher faced HMRKB Herath, scored 1 runs. Team score: 40/1
+6.2: MN Samuels faced HMRKB Herath, scored 0 runs. Team score: 40/1
+6.3: MN Samuels faced HMRKB Herath, scored 1 runs. Team score: 41/1
+6.4: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 41/1
+6.5: ADS Fletcher faced HMRKB Herath, scored 4 runs. Team score: 45/1
+6.6: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 45/1
+7.1: MN Samuels faced JDF Vandersay, scored 0 runs. Team score: 45/1
+7.2: MN Samuels faced JDF Vandersay, scored 0 runs. Team score: 45/1
+7.3: MN Samuels faced JDF Vandersay, scored 0 runs. Team score: 45/1
+7.4: MN Samuels faced JDF Vandersay, scored 1 runs. Team score: 46/1
+7.5: ADS Fletcher faced JDF Vandersay, scored 6 runs. Team score: 52/1
+7.6: ADS Fletcher faced JDF Vandersay, scored 0 runs. Team score: 52/1
+8.1: MN Samuels faced TAM Siriwardana, scored 1 runs. Team score: 53/1
+8.2: ADS Fletcher faced TAM Siriwardana, scored 1 runs. Team score: 54/1
+8.3: MN Samuels faced TAM Siriwardana, scored 0 runs. Team score: 54/1
+stumped!, Batsman: MN Samuels (3 runs from 12 balls), Bowler: TAM Siriwardana (figures: 1/2). Fielders involved: LD Chandimal. Team score: 54/2
+8.4: D Ramdin faced TAM Siriwardana, scored 0 runs. Team score: 54/2
+8.5: D Ramdin faced TAM Siriwardana, scored 0 runs. Team score: 54/2
+8.6: D Ramdin faced TAM Siriwardana, scored 0 runs. Team score: 54/2
+9.1: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 54/2
+9.2: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 54/2
+9.3: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 54/2
+9.4: ADS Fletcher faced HMRKB Herath, scored 1 runs. Team score: 55/2
+9.5: D Ramdin faced HMRKB Herath, scored 1 runs. Team score: 56/2
+9.6: ADS Fletcher faced HMRKB Herath, scored 0 runs. Team score: 56/2
+10.1: D Ramdin faced TAM Siriwardana, scored 0 runs. Team score: 56/2
+10.2: D Ramdin faced TAM Siriwardana, scored 1 runs. Team score: 57/2
+10.3: ADS Fletcher faced TAM Siriwardana, scored 4 runs. Team score: 61/2
+10.4: ADS Fletcher faced TAM Siriwardana, scored 1 runs. Team score: 62/2
+10.5: D Ramdin faced TAM Siriwardana, scored 0 runs. Team score: 62/2
+10.6: D Ramdin faced TAM Siriwardana, scored 1 runs. Team score: 63/2
+11.1: D Ramdin faced PVD Chameera, scored 0 runs. Team score: 63/2
+11.2: D Ramdin faced PVD Chameera, scored 0 runs. Team score: 63/2
+11.3: D Ramdin faced PVD Chameera, scored 1 runs. Team score: 64/2
+11.4: ADS Fletcher faced PVD Chameera, scored 1 runs. Team score: 65/2
+11.5: D Ramdin faced PVD Chameera, scored 1 runs. Team score: 66/2
+11.6: ADS Fletcher faced PVD Chameera, scored 1 runs. Team score: 67/2
+12.1: ADS Fletcher faced TAM Siriwardana, scored 0 runs. Team score: 67/2
+12.2: ADS Fletcher faced TAM Siriwardana, scored 2 runs. Team score: 69/2
+12.3: ADS Fletcher faced TAM Siriwardana, scored 2 runs. Team score: 71/2
+12.4: ADS Fletcher faced TAM Siriwardana, scored 1 runs. Team score: 72/2
+12.5: D Ramdin faced TAM Siriwardana, scored 0 runs. Team score: 72/2
+bowled!, Batsman: D Ramdin (5 runs from 13 balls), Bowler: TAM Siriwardana (figures: 2/14). Fielders involved: None. Team score: 72/3
+12.6: AD Russell faced TAM Siriwardana, scored 0 runs. Team score: 72/3
+13.1: ADS Fletcher faced JDF Vandersay, scored 0 runs. Team score: 72/3
+13.2: ADS Fletcher faced JDF Vandersay, scored 0 runs. Team score: 72/3
+13.3: ADS Fletcher faced JDF Vandersay, scored 0 runs. Team score: 72/3
+13.4: ADS Fletcher faced JDF Vandersay, scored 2 runs. Team score: 74/3
+13.5: ADS Fletcher faced JDF Vandersay, scored 1 runs. Team score: 75/3
+13.6: AD Russell faced JDF Vandersay, scored 0 runs. Team score: 75/3
+14.1: ADS Fletcher faced TAM Siriwardana, scored 6 runs. Team score: 81/3
+14.2: ADS Fletcher faced TAM Siriwardana, scored 6 runs. Team score: 87/3
+14.3: ADS Fletcher faced TAM Siriwardana, scored 0 runs. Team score: 87/3
+14.4: ADS Fletcher faced TAM Siriwardana, scored 2 runs. Team score: 89/3
+14.5: ADS Fletcher faced TAM Siriwardana, scored 1 runs. Team score: 90/3
+14.6: AD Russell faced TAM Siriwardana, scored 4 runs. Team score: 94/3
+15.1: ADS Fletcher faced PVD Chameera, scored 0 runs. Team score: 94/3
+15.2: ADS Fletcher faced PVD Chameera, scored 1 runs. Team score: 95/3
+15.3: AD Russell faced PVD Chameera, scored 2 runs. Team score: 97/3
+15.4: ADS Fletcher faced PVD Chameera, scored 0 runs. Team score: 97/3
+15.5: ADS Fletcher faced PVD Chameera, scored 0 runs. Team score: 97/3
+15.6: ADS Fletcher faced PVD Chameera, scored 0 runs. Team score: 97/3
+15.0: ADS Fletcher faced PVD Chameera, scored 1 runs. Team score: 98/3
+15.1: ADS Fletcher faced PVD Chameera, scored 1 runs. Team score: 99/3
+16.1: ADS Fletcher faced KMDN Kulasekara, scored 0 runs. Team score: 99/3
+16.2: ADS Fletcher faced KMDN Kulasekara, scored 1 runs. Team score: 100/3
+16.3: AD Russell faced KMDN Kulasekara, scored 4 runs. Team score: 104/3
+16.4: AD Russell faced KMDN Kulasekara, scored 1 runs. Team score: 105/3
+16.5: ADS Fletcher faced KMDN Kulasekara, scored 4 runs. Team score: 109/3
+16.6: ADS Fletcher faced KMDN Kulasekara, scored 1 runs. Team score: 110/3
+17.1: ADS Fletcher faced PVD Chameera, scored 0 runs. Team score: 110/3
+17.2: ADS Fletcher faced PVD Chameera, scored 0 runs. Team score: 110/3
+17.3: ADS Fletcher faced PVD Chameera, scored 1 runs. Team score: 111/3
+17.4: AD Russell faced PVD Chameera, scored 1 runs. Team score: 112/3
+17.5: ADS Fletcher faced PVD Chameera, scored 2 runs. Team score: 114/3
+17.6: ADS Fletcher faced PVD Chameera, scored 2 runs. Team score: 116/3
+18.1: AD Russell faced NLTC Perera, scored 4 runs. Team score: 120/3
+18.2: AD Russell faced NLTC Perera, scored 1 runs. Team score: 121/3
+18.3: AD Russell faced NLTC Perera, scored 6 runs. Team score: 127/3
+End of innings for West Indies: 127/3 in 19.3 overs
+Batsman scores:
+ADS Fletcher: 86 runs from 66 balls
+J Charles: 10 runs from 13 balls
+MN Samuels: 3 runs from 12 balls
+D Ramdin: 5 runs from 13 balls
+AD Russell: 23 runs from 10 balls
+Bowler figures:
+AD Mathews: 0 wickets for 13 runs
+HMRKB Herath: 0 wickets for 27 runs
+KMDN Kulasekara: 0 wickets for 17 runs
+JDF Vandersay: 1 wickets for 11 runs
+TAM Siriwardana: 2 wickets for 33 runs
+PVD Chameera: 0 wickets for 15 runs
+NLTC Perera: 0 wickets for 11 runs
+

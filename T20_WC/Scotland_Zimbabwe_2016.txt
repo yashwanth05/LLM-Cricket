@@ -1,0 +1,311 @@
+Match: World T20 - T20
+Date: 2016-03-10
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Teams: Scotland vs Zimbabwe
+Toss: Zimbabwe won the toss and decided to bat
+Result: Zimbabwe won by 11 runs
+Man of the Match: WP Masakadza
+
+Innings 1:
+0.1: V Sibanda faced MA Leask, scored 0 runs. Team score: 0/0
+0.2: V Sibanda faced MA Leask, scored 1 runs. Team score: 1/0
+0.3: H Masakadza faced MA Leask, scored 0 runs. Team score: 1/0
+0.4: H Masakadza faced MA Leask, scored 4 runs. Team score: 5/0
+0.5: H Masakadza faced MA Leask, scored 0 runs. Team score: 5/0
+0.6: H Masakadza faced MA Leask, scored 0 runs. Team score: 5/0
+1.1: V Sibanda faced JH Davey, scored 0 runs. Team score: 5/0
+1.2: V Sibanda faced JH Davey, scored 0 runs. Team score: 5/0
+1.3: V Sibanda faced JH Davey, scored 2 runs. Team score: 7/0
+1.4: V Sibanda faced JH Davey, scored 0 runs. Team score: 7/0
+1.5: V Sibanda faced JH Davey, scored 1 runs. Team score: 8/0
+1.6: H Masakadza faced JH Davey, scored 0 runs. Team score: 8/0
+2.1: V Sibanda faced AC Evans, scored 1 runs. Team score: 9/0
+2.2: H Masakadza faced AC Evans, scored 0 runs. Team score: 9/0
+2.3: H Masakadza faced AC Evans, scored 4 runs. Team score: 13/0
+2.4: H Masakadza faced AC Evans, scored 0 runs. Team score: 13/0
+2.5: H Masakadza faced AC Evans, scored 0 runs. Team score: 13/0
+2.6: H Masakadza faced AC Evans, scored 4 runs. Team score: 17/0
+3.1: V Sibanda faced MRJ Watt, scored 0 runs. Team score: 17/0
+3.2: V Sibanda faced MRJ Watt, scored 0 runs. Team score: 17/0
+run out!, Batsman: H Masakadza (12 runs from 10 balls), Bowler: MRJ Watt (figures: 1/0). Fielders involved: KJ Coetzer, MH Cross. Team score: 17/1
+3.3: R Mutumbami faced MRJ Watt, scored 0 runs. Team score: 17/1
+3.4: R Mutumbami faced MRJ Watt, scored 0 runs. Team score: 17/1
+3.5: R Mutumbami faced MRJ Watt, scored 0 runs. Team score: 17/1
+3.6: R Mutumbami faced MRJ Watt, scored 1 runs. Team score: 18/1
+4.1: R Mutumbami faced AC Evans, scored 1 runs. Team score: 19/1
+4.2: V Sibanda faced AC Evans, scored 0 runs. Team score: 19/1
+4.3: V Sibanda faced AC Evans, scored 0 runs. Team score: 19/1
+caught!, Batsman: V Sibanda (5 runs from 12 balls), Bowler: AC Evans (figures: 1/10). Fielders involved: MW Machan. Team score: 19/2
+4.4: R Mutumbami faced AC Evans, scored 0 runs. Team score: 19/2
+4.5: R Mutumbami faced AC Evans, scored 0 runs. Team score: 19/2
+4.6: R Mutumbami faced AC Evans, scored 0 runs. Team score: 19/2
+5.1: SC Williams faced SM Sharif, scored 0 runs. Team score: 19/2
+5.2: SC Williams faced SM Sharif, scored 1 runs. Team score: 20/2
+5.3: R Mutumbami faced SM Sharif, scored 4 runs. Team score: 24/2
+5.4: R Mutumbami faced SM Sharif, scored 1 runs. Team score: 25/2
+5.5: SC Williams faced SM Sharif, scored 1 runs. Team score: 26/2
+5.6: R Mutumbami faced SM Sharif, scored 4 runs. Team score: 30/2
+6.1: SC Williams faced JH Davey, scored 1 runs. Team score: 31/2
+6.2: R Mutumbami faced JH Davey, scored 1 runs. Team score: 32/2
+6.3: SC Williams faced JH Davey, scored 4 runs. Team score: 36/2
+6.4: SC Williams faced JH Davey, scored 2 runs. Team score: 38/2
+6.5: SC Williams faced JH Davey, scored 1 runs. Team score: 39/2
+6.6: R Mutumbami faced JH Davey, scored 0 runs. Team score: 39/2
+7.1: SC Williams faced MA Leask, scored 1 runs. Team score: 40/2
+7.2: R Mutumbami faced MA Leask, scored 6 runs. Team score: 46/2
+7.3: R Mutumbami faced MA Leask, scored 1 runs. Team score: 47/2
+7.4: SC Williams faced MA Leask, scored 1 runs. Team score: 48/2
+7.5: R Mutumbami faced MA Leask, scored 1 runs. Team score: 49/2
+7.6: SC Williams faced MA Leask, scored 1 runs. Team score: 50/2
+8.1: SC Williams faced MRJ Watt, scored 1 runs. Team score: 51/2
+8.2: R Mutumbami faced MRJ Watt, scored 0 runs. Team score: 51/2
+caught!, Batsman: R Mutumbami (20 runs from 17 balls), Bowler: MRJ Watt (figures: 2/2). Fielders involved: MA Leask. Team score: 51/3
+8.3: Sikandar Raza faced MRJ Watt, scored 1 runs. Team score: 52/3
+8.4: SC Williams faced MRJ Watt, scored 1 runs. Team score: 53/3
+8.5: Sikandar Raza faced MRJ Watt, scored 0 runs. Team score: 53/3
+8.6: Sikandar Raza faced MRJ Watt, scored 1 runs. Team score: 54/3
+9.1: Sikandar Raza faced MA Leask, scored 0 runs. Team score: 54/3
+9.2: Sikandar Raza faced MA Leask, scored 1 runs. Team score: 55/3
+9.3: SC Williams faced MA Leask, scored 1 runs. Team score: 56/3
+9.4: Sikandar Raza faced MA Leask, scored 4 runs. Team score: 60/3
+9.5: Sikandar Raza faced MA Leask, scored 2 runs. Team score: 62/3
+9.6: Sikandar Raza faced MA Leask, scored 0 runs. Team score: 62/3
+10.1: SC Williams faced AC Evans, scored 4 runs. Team score: 66/3
+10.2: SC Williams faced AC Evans, scored 1 runs. Team score: 67/3
+10.3: Sikandar Raza faced AC Evans, scored 0 runs. Team score: 67/3
+bowled!, Batsman: Sikandar Raza (9 runs from 9 balls), Bowler: AC Evans (figures: 2/15). Fielders involved: None. Team score: 67/4
+10.4: MN Waller faced AC Evans, scored 1 runs. Team score: 68/4
+10.5: SC Williams faced AC Evans, scored 1 runs. Team score: 69/4
+10.6: SC Williams faced AC Evans, scored 1 runs. Team score: 70/4
+10.0: SC Williams faced AC Evans, scored 1 runs. Team score: 71/4
+10.1: MN Waller faced AC Evans, scored 2 runs. Team score: 73/4
+11.1: SC Williams faced MRJ Watt, scored 4 runs. Team score: 77/4
+11.2: SC Williams faced MRJ Watt, scored 1 runs. Team score: 78/4
+11.3: MN Waller faced MRJ Watt, scored 0 runs. Team score: 78/4
+11.4: MN Waller faced MRJ Watt, scored 0 runs. Team score: 78/4
+11.5: MN Waller faced MRJ Watt, scored 1 runs. Team score: 79/4
+11.6: SC Williams faced MRJ Watt, scored 2 runs. Team score: 81/4
+12.1: MN Waller faced SM Sharif, scored 1 runs. Team score: 82/4
+12.2: SC Williams faced SM Sharif, scored 2 runs. Team score: 84/4
+12.3: SC Williams faced SM Sharif, scored 1 runs. Team score: 85/4
+12.4: MN Waller faced SM Sharif, scored 1 runs. Team score: 86/4
+12.5: SC Williams faced SM Sharif, scored 1 runs. Team score: 87/4
+12.6: MN Waller faced SM Sharif, scored 0 runs. Team score: 87/4
+13.1: SC Williams faced MA Leask, scored 4 runs. Team score: 91/4
+13.2: SC Williams faced MA Leask, scored 1 runs. Team score: 92/4
+13.3: MN Waller faced MA Leask, scored 0 runs. Team score: 92/4
+13.4: MN Waller faced MA Leask, scored 1 runs. Team score: 93/4
+13.5: SC Williams faced MA Leask, scored 2 runs. Team score: 95/4
+13.6: SC Williams faced MA Leask, scored 4 runs. Team score: 99/4
+14.1: MN Waller faced MRJ Watt, scored 2 runs. Team score: 101/4
+14.2: MN Waller faced MRJ Watt, scored 4 runs. Team score: 105/4
+14.3: MN Waller faced MRJ Watt, scored 0 runs. Team score: 105/4
+caught!, Batsman: MN Waller (13 runs from 13 balls), Bowler: MRJ Watt (figures: 3/19). Fielders involved: MA Leask. Team score: 105/5
+14.4: E Chigumbura faced MRJ Watt, scored 1 runs. Team score: 106/5
+14.5: SC Williams faced MRJ Watt, scored 0 runs. Team score: 106/5
+14.6: SC Williams faced MRJ Watt, scored 1 runs. Team score: 107/5
+15.1: SC Williams faced JH Davey, scored 0 runs. Team score: 107/5
+15.2: SC Williams faced JH Davey, scored 1 runs. Team score: 108/5
+15.3: E Chigumbura faced JH Davey, scored 1 runs. Team score: 109/5
+15.4: SC Williams faced JH Davey, scored 4 runs. Team score: 113/5
+15.5: SC Williams faced JH Davey, scored 1 runs. Team score: 114/5
+15.6: E Chigumbura faced JH Davey, scored 0 runs. Team score: 114/5
+16.1: SC Williams faced AC Evans, scored 4 runs. Team score: 118/5
+16.2: SC Williams faced AC Evans, scored 1 runs. Team score: 119/5
+16.3: SC Williams faced AC Evans, scored 1 runs. Team score: 120/5
+16.4: E Chigumbura faced AC Evans, scored 1 runs. Team score: 121/5
+16.5: SC Williams faced AC Evans, scored 1 runs. Team score: 122/5
+16.6: E Chigumbura faced AC Evans, scored 6 runs. Team score: 128/5
+16.0: E Chigumbura faced AC Evans, scored 0 runs. Team score: 128/5
+17.1: SC Williams faced SM Sharif, scored 0 runs. Team score: 128/5
+caught!, Batsman: SC Williams (60 runs from 39 balls), Bowler: SM Sharif (figures: 1/17). Fielders involved: AC Evans. Team score: 128/6
+17.2: WP Masakadza faced SM Sharif, scored 1 runs. Team score: 129/6
+17.3: E Chigumbura faced SM Sharif, scored 1 runs. Team score: 130/6
+17.4: WP Masakadza faced SM Sharif, scored 1 runs. Team score: 131/6
+17.5: E Chigumbura faced SM Sharif, scored 1 runs. Team score: 132/6
+17.6: E Chigumbura faced SM Sharif, scored 1 runs. Team score: 133/6
+17.0: WP Masakadza faced SM Sharif, scored 1 runs. Team score: 134/6
+17.1: WP Masakadza faced SM Sharif, scored 1 runs. Team score: 135/6
+18.1: WP Masakadza faced JH Davey, scored 0 runs. Team score: 135/6
+18.2: WP Masakadza faced JH Davey, scored 1 runs. Team score: 136/6
+18.3: E Chigumbura faced JH Davey, scored 0 runs. Team score: 136/6
+18.4: E Chigumbura faced JH Davey, scored 1 runs. Team score: 137/6
+18.5: WP Masakadza faced JH Davey, scored 1 runs. Team score: 138/6
+18.6: E Chigumbura faced JH Davey, scored 1 runs. Team score: 139/6
+19.1: E Chigumbura faced SM Sharif, scored 2 runs. Team score: 141/6
+19.2: E Chigumbura faced SM Sharif, scored 0 runs. Team score: 141/6
+19.3: E Chigumbura faced SM Sharif, scored 2 runs. Team score: 143/6
+19.4: E Chigumbura faced SM Sharif, scored 0 runs. Team score: 143/6
+19.5: E Chigumbura faced SM Sharif, scored 4 runs. Team score: 147/6
+19.6: E Chigumbura faced SM Sharif, scored 0 runs. Team score: 147/6
+caught!, Batsman: E Chigumbura (22 runs from 18 balls), Bowler: SM Sharif (figures: 2/32). Fielders involved: PL Mommsen. Team score: 147/7
+End of innings for Zimbabwe: 147/7 in 20.0 overs
+Batsman scores:
+V Sibanda: 5 runs from 12 balls
+H Masakadza: 12 runs from 10 balls
+R Mutumbami: 20 runs from 17 balls
+SC Williams: 60 runs from 39 balls
+Sikandar Raza: 9 runs from 9 balls
+MN Waller: 13 runs from 13 balls
+E Chigumbura: 22 runs from 18 balls
+WP Masakadza: 6 runs from 7 balls
+Bowler figures:
+MA Leask: 0 wickets for 36 runs
+JH Davey: 0 wickets for 23 runs
+AC Evans: 2 wickets for 35 runs
+MRJ Watt: 3 wickets for 21 runs
+SM Sharif: 2 wickets for 32 runs
+
+Innings 2:
+0.1: HG Munsey faced WP Masakadza, scored 0 runs. Team score: 0/0
+0.2: HG Munsey faced WP Masakadza, scored 0 runs. Team score: 0/0
+0.3: HG Munsey faced WP Masakadza, scored 0 runs. Team score: 0/0
+0.4: HG Munsey faced WP Masakadza, scored 4 runs. Team score: 4/0
+0.5: HG Munsey faced WP Masakadza, scored 4 runs. Team score: 8/0
+0.6: HG Munsey faced WP Masakadza, scored 0 runs. Team score: 8/0
+stumped!, Batsman: HG Munsey (8 runs from 6 balls), Bowler: WP Masakadza (figures: 1/8). Fielders involved: R Mutumbami. Team score: 8/1
+1.1: KJ Coetzer faced TL Chatara, scored 2 runs. Team score: 10/1
+1.2: KJ Coetzer faced TL Chatara, scored 1 runs. Team score: 11/1
+1.3: MH Cross faced TL Chatara, scored 0 runs. Team score: 11/1
+caught!, Batsman: MH Cross (0 runs from 1 balls), Bowler: TL Chatara (figures: 1/3). Fielders involved: R Mutumbami. Team score: 11/2
+1.4: MW Machan faced TL Chatara, scored 0 runs. Team score: 11/2
+1.5: MW Machan faced TL Chatara, scored 1 runs. Team score: 12/2
+1.6: KJ Coetzer faced TL Chatara, scored 0 runs. Team score: 12/2
+2.1: MW Machan faced WP Masakadza, scored 0 runs. Team score: 12/2
+2.2: MW Machan faced WP Masakadza, scored 4 runs. Team score: 16/2
+2.3: MW Machan faced WP Masakadza, scored 4 runs. Team score: 20/2
+2.4: MW Machan faced WP Masakadza, scored 0 runs. Team score: 20/2
+caught!, Batsman: MW Machan (9 runs from 6 balls), Bowler: WP Masakadza (figures: 2/16). Fielders involved: CJ Chibhabha. Team score: 20/3
+2.5: RD Berrington faced WP Masakadza, scored 0 runs. Team score: 20/3
+2.6: RD Berrington faced WP Masakadza, scored 0 runs. Team score: 20/3
+3.1: KJ Coetzer faced TL Chatara, scored 0 runs. Team score: 20/3
+caught!, Batsman: KJ Coetzer (3 runs from 4 balls), Bowler: TL Chatara (figures: 2/4). Fielders involved: Sikandar Raza. Team score: 20/4
+3.2: MA Leask faced TL Chatara, scored 0 runs. Team score: 20/4
+3.3: MA Leask faced TL Chatara, scored 1 runs. Team score: 21/4
+3.4: RD Berrington faced TL Chatara, scored 0 runs. Team score: 21/4
+3.5: RD Berrington faced TL Chatara, scored 0 runs. Team score: 21/4
+3.6: RD Berrington faced TL Chatara, scored 1 runs. Team score: 22/4
+4.1: RD Berrington faced DT Tiripano, scored 0 runs. Team score: 22/4
+4.2: RD Berrington faced DT Tiripano, scored 1 runs. Team score: 23/4
+4.3: MA Leask faced DT Tiripano, scored 0 runs. Team score: 23/4
+4.4: MA Leask faced DT Tiripano, scored 0 runs. Team score: 23/4
+4.5: MA Leask faced DT Tiripano, scored 0 runs. Team score: 23/4
+4.6: MA Leask faced DT Tiripano, scored 0 runs. Team score: 23/4
+5.1: RD Berrington faced T Panyangara, scored 0 runs. Team score: 23/4
+5.2: RD Berrington faced T Panyangara, scored 0 runs. Team score: 23/4
+5.3: RD Berrington faced T Panyangara, scored 1 runs. Team score: 24/4
+5.4: MA Leask faced T Panyangara, scored 1 runs. Team score: 25/4
+5.5: RD Berrington faced T Panyangara, scored 2 runs. Team score: 27/4
+5.6: RD Berrington faced T Panyangara, scored 1 runs. Team score: 28/4
+6.1: RD Berrington faced DT Tiripano, scored 1 runs. Team score: 29/4
+6.2: MA Leask faced DT Tiripano, scored 0 runs. Team score: 29/4
+6.3: MA Leask faced DT Tiripano, scored 1 runs. Team score: 30/4
+6.4: RD Berrington faced DT Tiripano, scored 1 runs. Team score: 31/4
+6.5: MA Leask faced DT Tiripano, scored 2 runs. Team score: 33/4
+6.6: MA Leask faced DT Tiripano, scored 4 runs. Team score: 37/4
+7.1: RD Berrington faced SC Williams, scored 2 runs. Team score: 39/4
+7.2: RD Berrington faced SC Williams, scored 1 runs. Team score: 40/4
+7.3: MA Leask faced SC Williams, scored 1 runs. Team score: 41/4
+7.4: RD Berrington faced SC Williams, scored 1 runs. Team score: 42/4
+7.5: MA Leask faced SC Williams, scored 0 runs. Team score: 42/4
+stumped!, Batsman: MA Leask (10 runs from 13 balls), Bowler: SC Williams (figures: 1/5). Fielders involved: R Mutumbami. Team score: 42/5
+7.6: PL Mommsen faced SC Williams, scored 1 runs. Team score: 43/5
+8.1: PL Mommsen faced Sikandar Raza, scored 2 runs. Team score: 45/5
+8.2: PL Mommsen faced Sikandar Raza, scored 0 runs. Team score: 45/5
+8.3: PL Mommsen faced Sikandar Raza, scored 1 runs. Team score: 46/5
+8.4: PL Mommsen faced Sikandar Raza, scored 1 runs. Team score: 47/5
+8.5: RD Berrington faced Sikandar Raza, scored 1 runs. Team score: 48/5
+8.6: PL Mommsen faced Sikandar Raza, scored 2 runs. Team score: 50/5
+8.0: PL Mommsen faced Sikandar Raza, scored 0 runs. Team score: 50/5
+9.1: RD Berrington faced SC Williams, scored 1 runs. Team score: 51/5
+9.2: PL Mommsen faced SC Williams, scored 2 runs. Team score: 53/5
+9.3: PL Mommsen faced SC Williams, scored 1 runs. Team score: 54/5
+9.4: RD Berrington faced SC Williams, scored 0 runs. Team score: 54/5
+9.5: RD Berrington faced SC Williams, scored 6 runs. Team score: 60/5
+9.6: RD Berrington faced SC Williams, scored 1 runs. Team score: 61/5
+10.1: RD Berrington faced Sikandar Raza, scored 1 runs. Team score: 62/5
+10.2: PL Mommsen faced Sikandar Raza, scored 4 runs. Team score: 66/5
+10.3: PL Mommsen faced Sikandar Raza, scored 1 runs. Team score: 67/5
+10.4: RD Berrington faced Sikandar Raza, scored 4 runs. Team score: 71/5
+10.5: RD Berrington faced Sikandar Raza, scored 1 runs. Team score: 72/5
+10.6: PL Mommsen faced Sikandar Raza, scored 1 runs. Team score: 73/5
+11.1: PL Mommsen faced T Panyangara, scored 2 runs. Team score: 75/5
+11.2: PL Mommsen faced T Panyangara, scored 0 runs. Team score: 75/5
+11.3: PL Mommsen faced T Panyangara, scored 0 runs. Team score: 75/5
+11.4: PL Mommsen faced T Panyangara, scored 1 runs. Team score: 76/5
+11.5: PL Mommsen faced T Panyangara, scored 0 runs. Team score: 76/5
+11.6: PL Mommsen faced T Panyangara, scored 0 runs. Team score: 76/5
+11.0: PL Mommsen faced T Panyangara, scored 1 runs. Team score: 77/5
+12.1: PL Mommsen faced WP Masakadza, scored 2 runs. Team score: 79/5
+12.2: PL Mommsen faced WP Masakadza, scored 0 runs. Team score: 79/5
+12.3: PL Mommsen faced WP Masakadza, scored 4 runs. Team score: 83/5
+12.4: PL Mommsen faced WP Masakadza, scored 0 runs. Team score: 83/5
+12.5: PL Mommsen faced WP Masakadza, scored 1 runs. Team score: 84/5
+12.6: RD Berrington faced WP Masakadza, scored 1 runs. Team score: 85/5
+13.1: RD Berrington faced T Panyangara, scored 0 runs. Team score: 85/5
+13.2: RD Berrington faced T Panyangara, scored 1 runs. Team score: 86/5
+13.3: PL Mommsen faced T Panyangara, scored 1 runs. Team score: 87/5
+13.4: RD Berrington faced T Panyangara, scored 1 runs. Team score: 88/5
+13.5: PL Mommsen faced T Panyangara, scored 2 runs. Team score: 90/5
+13.6: PL Mommsen faced T Panyangara, scored 1 runs. Team score: 91/5
+14.1: PL Mommsen faced WP Masakadza, scored 2 runs. Team score: 93/5
+14.2: PL Mommsen faced WP Masakadza, scored 0 runs. Team score: 93/5
+caught!, Batsman: PL Mommsen (33 runs from 29 balls), Bowler: WP Masakadza (figures: 3/26). Fielders involved: CJ Chibhabha. Team score: 93/6
+14.3: SM Sharif faced WP Masakadza, scored 0 runs. Team score: 93/6
+14.4: SM Sharif faced WP Masakadza, scored 1 runs. Team score: 94/6
+14.5: RD Berrington faced WP Masakadza, scored 1 runs. Team score: 95/6
+14.6: SM Sharif faced WP Masakadza, scored 0 runs. Team score: 95/6
+stumped!, Batsman: SM Sharif (1 runs from 3 balls), Bowler: WP Masakadza (figures: 4/28). Fielders involved: R Mutumbami. Team score: 95/7
+15.1: RD Berrington faced SC Williams, scored 1 runs. Team score: 96/7
+15.2: JH Davey faced SC Williams, scored 1 runs. Team score: 97/7
+15.3: RD Berrington faced SC Williams, scored 1 runs. Team score: 98/7
+15.4: JH Davey faced SC Williams, scored 1 runs. Team score: 99/7
+15.5: RD Berrington faced SC Williams, scored 0 runs. Team score: 99/7
+15.6: RD Berrington faced SC Williams, scored 1 runs. Team score: 100/7
+16.1: RD Berrington faced TL Chatara, scored 1 runs. Team score: 101/7
+16.2: JH Davey faced TL Chatara, scored 6 runs. Team score: 107/7
+16.3: JH Davey faced TL Chatara, scored 0 runs. Team score: 107/7
+16.4: JH Davey faced TL Chatara, scored 4 runs. Team score: 111/7
+16.5: JH Davey faced TL Chatara, scored 6 runs. Team score: 117/7
+16.6: JH Davey faced TL Chatara, scored 1 runs. Team score: 118/7
+17.1: JH Davey faced DT Tiripano, scored 1 runs. Team score: 119/7
+17.2: RD Berrington faced DT Tiripano, scored 1 runs. Team score: 120/7
+17.3: RD Berrington faced DT Tiripano, scored 0 runs. Team score: 120/7
+17.4: RD Berrington faced DT Tiripano, scored 1 runs. Team score: 121/7
+17.5: JH Davey faced DT Tiripano, scored 1 runs. Team score: 122/7
+17.6: RD Berrington faced DT Tiripano, scored 2 runs. Team score: 124/7
+17.0: RD Berrington faced DT Tiripano, scored 0 runs. Team score: 124/7
+caught!, Batsman: RD Berrington (39 runs from 40 balls), Bowler: DT Tiripano (figures: 1/16). Fielders involved: TL Chatara. Team score: 124/8
+18.1: JH Davey faced T Panyangara, scored 2 runs. Team score: 126/8
+18.2: JH Davey faced T Panyangara, scored 1 runs. Team score: 127/8
+18.3: MRJ Watt faced T Panyangara, scored 1 runs. Team score: 128/8
+18.4: JH Davey faced T Panyangara, scored 0 runs. Team score: 128/8
+18.5: JH Davey faced T Panyangara, scored 0 runs. Team score: 128/8
+caught!, Batsman: JH Davey (24 runs from 13 balls), Bowler: T Panyangara (figures: 1/19). Fielders involved: Sikandar Raza. Team score: 128/9
+18.6: MRJ Watt faced T Panyangara, scored 1 runs. Team score: 129/9
+19.1: MRJ Watt faced DT Tiripano, scored 4 runs. Team score: 133/9
+19.2: MRJ Watt faced DT Tiripano, scored 2 runs. Team score: 135/9
+19.3: MRJ Watt faced DT Tiripano, scored 1 runs. Team score: 136/9
+19.4: AC Evans faced DT Tiripano, scored 0 runs. Team score: 136/9
+bowled!, Batsman: AC Evans (0 runs from 1 balls), Bowler: DT Tiripano (figures: 2/23). Fielders involved: None. Team score: 136/10
+End of innings for Scotland: 136/10 in 20.0 overs
+Batsman scores:
+HG Munsey: 8 runs from 6 balls
+KJ Coetzer: 3 runs from 4 balls
+MH Cross: 0 runs from 1 balls
+MW Machan: 9 runs from 6 balls
+RD Berrington: 39 runs from 40 balls
+MA Leask: 10 runs from 13 balls
+PL Mommsen: 33 runs from 29 balls
+SM Sharif: 1 runs from 3 balls
+JH Davey: 24 runs from 13 balls
+MRJ Watt: 9 runs from 5 balls
+AC Evans: 0 runs from 1 balls
+Bowler figures:
+WP Masakadza: 4 wickets for 28 runs
+TL Chatara: 2 wickets for 24 runs
+DT Tiripano: 2 wickets for 23 runs
+T Panyangara: 1 wickets for 20 runs
+SC Williams: 1 wickets for 22 runs
+Sikandar Raza: 0 wickets for 19 runs
+

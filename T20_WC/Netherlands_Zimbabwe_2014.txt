@@ -1,0 +1,302 @@
+Match: World T20 - T20
+Date: 2014-03-19
+Venue: Sylhet Stadium
+Teams: Netherlands vs Zimbabwe
+Toss: Netherlands won the toss and decided to bat
+Result: Zimbabwe won by 5 wickets
+Man of the Match: BRM Taylor
+
+Innings 1:
+0.1: MR Swart faced P Utseya, scored 0 runs. Team score: 0/0
+0.2: MR Swart faced P Utseya, scored 1 runs. Team score: 1/0
+0.3: SJ Myburgh faced P Utseya, scored 0 runs. Team score: 1/0
+lbw!, Batsman: SJ Myburgh (0 runs from 1 balls), Bowler: P Utseya (figures: 1/1). Fielders involved: None. Team score: 1/1
+0.4: W Barresi faced P Utseya, scored 4 runs. Team score: 5/1
+0.5: W Barresi faced P Utseya, scored 0 runs. Team score: 5/1
+0.6: W Barresi faced P Utseya, scored 0 runs. Team score: 5/1
+1.1: MR Swart faced T Panyangara, scored 0 runs. Team score: 5/1
+1.2: MR Swart faced T Panyangara, scored 1 runs. Team score: 6/1
+1.3: W Barresi faced T Panyangara, scored 4 runs. Team score: 10/1
+1.4: W Barresi faced T Panyangara, scored 4 runs. Team score: 14/1
+1.5: W Barresi faced T Panyangara, scored 0 runs. Team score: 14/1
+bowled!, Batsman: W Barresi (12 runs from 6 balls), Bowler: T Panyangara (figures: 1/9). Fielders involved: None. Team score: 14/2
+1.6: PW Borren faced T Panyangara, scored 0 runs. Team score: 14/2
+2.1: MR Swart faced P Utseya, scored 0 runs. Team score: 14/2
+2.2: MR Swart faced P Utseya, scored 0 runs. Team score: 14/2
+2.3: MR Swart faced P Utseya, scored 1 runs. Team score: 15/2
+2.4: PW Borren faced P Utseya, scored 0 runs. Team score: 15/2
+2.5: PW Borren faced P Utseya, scored 0 runs. Team score: 15/2
+2.6: PW Borren faced P Utseya, scored 4 runs. Team score: 19/2
+3.1: MR Swart faced TL Chatara, scored 0 runs. Team score: 19/2
+run out!, Batsman: MR Swart (3 runs from 8 balls), Bowler: TL Chatara (figures: 1/0). Fielders involved: TL Chatara. Team score: 19/3
+3.2: TLW Cooper faced TL Chatara, scored 4 runs. Team score: 23/3
+3.3: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 23/3
+3.4: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 23/3
+3.5: TLW Cooper faced TL Chatara, scored 4 runs. Team score: 27/3
+3.6: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 27/3
+4.1: PW Borren faced P Utseya, scored 4 runs. Team score: 31/3
+4.2: PW Borren faced P Utseya, scored 4 runs. Team score: 35/3
+4.3: PW Borren faced P Utseya, scored 0 runs. Team score: 35/3
+caught!, Batsman: PW Borren (12 runs from 7 balls), Bowler: P Utseya (figures: 2/18). Fielders involved: E Chigumbura. Team score: 35/4
+4.4: BN Cooper faced P Utseya, scored 0 runs. Team score: 35/4
+4.5: BN Cooper faced P Utseya, scored 2 runs. Team score: 37/4
+4.6: BN Cooper faced P Utseya, scored 0 runs. Team score: 37/4
+5.1: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 37/4
+5.2: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 37/4
+5.3: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 37/4
+5.4: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 37/4
+5.5: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 37/4
+5.6: TLW Cooper faced TL Chatara, scored 1 runs. Team score: 38/4
+6.1: TLW Cooper faced N M'shangwe, scored 1 runs. Team score: 39/4
+6.2: BN Cooper faced N M'shangwe, scored 1 runs. Team score: 40/4
+6.3: TLW Cooper faced N M'shangwe, scored 1 runs. Team score: 41/4
+6.4: BN Cooper faced N M'shangwe, scored 1 runs. Team score: 42/4
+6.5: BN Cooper faced N M'shangwe, scored 1 runs. Team score: 43/4
+6.6: TLW Cooper faced N M'shangwe, scored 4 runs. Team score: 47/4
+6.0: TLW Cooper faced N M'shangwe, scored 1 runs. Team score: 48/4
+7.1: TLW Cooper faced SC Williams, scored 1 runs. Team score: 49/4
+7.2: BN Cooper faced SC Williams, scored 1 runs. Team score: 50/4
+7.3: TLW Cooper faced SC Williams, scored 0 runs. Team score: 50/4
+7.4: TLW Cooper faced SC Williams, scored 1 runs. Team score: 51/4
+7.5: BN Cooper faced SC Williams, scored 1 runs. Team score: 52/4
+7.6: TLW Cooper faced SC Williams, scored 1 runs. Team score: 53/4
+8.1: TLW Cooper faced N M'shangwe, scored 1 runs. Team score: 54/4
+8.2: BN Cooper faced N M'shangwe, scored 1 runs. Team score: 55/4
+8.3: TLW Cooper faced N M'shangwe, scored 0 runs. Team score: 55/4
+8.4: TLW Cooper faced N M'shangwe, scored 1 runs. Team score: 56/4
+8.5: BN Cooper faced N M'shangwe, scored 0 runs. Team score: 56/4
+8.6: BN Cooper faced N M'shangwe, scored 1 runs. Team score: 57/4
+8.0: BN Cooper faced N M'shangwe, scored 1 runs. Team score: 58/4
+9.1: BN Cooper faced SC Williams, scored 1 runs. Team score: 59/4
+9.2: TLW Cooper faced SC Williams, scored 1 runs. Team score: 60/4
+9.3: BN Cooper faced SC Williams, scored 0 runs. Team score: 60/4
+9.4: BN Cooper faced SC Williams, scored 1 runs. Team score: 61/4
+9.5: TLW Cooper faced SC Williams, scored 1 runs. Team score: 62/4
+9.6: BN Cooper faced SC Williams, scored 0 runs. Team score: 62/4
+10.1: TLW Cooper faced N M'shangwe, scored 0 runs. Team score: 62/4
+10.2: TLW Cooper faced N M'shangwe, scored 1 runs. Team score: 63/4
+10.3: BN Cooper faced N M'shangwe, scored 1 runs. Team score: 64/4
+10.4: TLW Cooper faced N M'shangwe, scored 1 runs. Team score: 65/4
+10.5: BN Cooper faced N M'shangwe, scored 0 runs. Team score: 65/4
+10.6: BN Cooper faced N M'shangwe, scored 1 runs. Team score: 66/4
+11.1: BN Cooper faced SC Williams, scored 4 runs. Team score: 70/4
+11.2: BN Cooper faced SC Williams, scored 0 runs. Team score: 70/4
+11.3: BN Cooper faced SC Williams, scored 1 runs. Team score: 71/4
+11.4: TLW Cooper faced SC Williams, scored 2 runs. Team score: 73/4
+11.5: TLW Cooper faced SC Williams, scored 1 runs. Team score: 74/4
+11.6: BN Cooper faced SC Williams, scored 1 runs. Team score: 75/4
+12.1: BN Cooper faced H Masakadza, scored 1 runs. Team score: 76/4
+12.2: TLW Cooper faced H Masakadza, scored 0 runs. Team score: 76/4
+12.3: TLW Cooper faced H Masakadza, scored 1 runs. Team score: 77/4
+12.4: TLW Cooper faced H Masakadza, scored 1 runs. Team score: 78/4
+12.5: BN Cooper faced H Masakadza, scored 1 runs. Team score: 79/4
+12.6: TLW Cooper faced H Masakadza, scored 6 runs. Team score: 85/4
+12.0: TLW Cooper faced H Masakadza, scored 1 runs. Team score: 86/4
+13.1: TLW Cooper faced N M'shangwe, scored 0 runs. Team score: 86/4
+13.2: TLW Cooper faced N M'shangwe, scored 0 runs. Team score: 86/4
+13.3: TLW Cooper faced N M'shangwe, scored 0 runs. Team score: 86/4
+13.4: TLW Cooper faced N M'shangwe, scored 1 runs. Team score: 87/4
+13.5: BN Cooper faced N M'shangwe, scored 0 runs. Team score: 87/4
+caught!, Batsman: BN Cooper (22 runs from 26 balls), Bowler: N M'shangwe (figures: 1/20). Fielders involved: T Panyangara. Team score: 87/5
+13.6: TLW Cooper faced N M'shangwe, scored 4 runs. Team score: 91/5
+14.1: Mudassar Bukhari faced SC Williams, scored 0 runs. Team score: 91/5
+14.2: Mudassar Bukhari faced SC Williams, scored 1 runs. Team score: 92/5
+14.3: TLW Cooper faced SC Williams, scored 1 runs. Team score: 93/5
+14.4: Mudassar Bukhari faced SC Williams, scored 1 runs. Team score: 94/5
+14.5: TLW Cooper faced SC Williams, scored 0 runs. Team score: 94/5
+14.6: TLW Cooper faced SC Williams, scored 1 runs. Team score: 95/5
+15.1: TLW Cooper faced T Panyangara, scored 2 runs. Team score: 97/5
+15.2: TLW Cooper faced T Panyangara, scored 1 runs. Team score: 98/5
+15.3: Mudassar Bukhari faced T Panyangara, scored 1 runs. Team score: 99/5
+15.4: TLW Cooper faced T Panyangara, scored 1 runs. Team score: 100/5
+15.5: TLW Cooper faced T Panyangara, scored 1 runs. Team score: 101/5
+15.6: Mudassar Bukhari faced T Panyangara, scored 1 runs. Team score: 102/5
+15.0: TLW Cooper faced T Panyangara, scored 1 runs. Team score: 103/5
+16.1: TLW Cooper faced P Utseya, scored 4 runs. Team score: 107/5
+16.2: TLW Cooper faced P Utseya, scored 1 runs. Team score: 108/5
+16.3: Mudassar Bukhari faced P Utseya, scored 0 runs. Team score: 108/5
+16.4: Mudassar Bukhari faced P Utseya, scored 1 runs. Team score: 109/5
+16.5: TLW Cooper faced P Utseya, scored 1 runs. Team score: 110/5
+16.6: Mudassar Bukhari faced P Utseya, scored 1 runs. Team score: 111/5
+17.1: Mudassar Bukhari faced T Panyangara, scored 1 runs. Team score: 112/5
+17.2: TLW Cooper faced T Panyangara, scored 4 runs. Team score: 116/5
+17.3: TLW Cooper faced T Panyangara, scored 4 runs. Team score: 120/5
+17.4: TLW Cooper faced T Panyangara, scored 4 runs. Team score: 124/5
+17.5: TLW Cooper faced T Panyangara, scored 1 runs. Team score: 125/5
+17.6: Mudassar Bukhari faced T Panyangara, scored 1 runs. Team score: 126/5
+18.1: Mudassar Bukhari faced TL Chatara, scored 1 runs. Team score: 127/5
+18.2: TLW Cooper faced TL Chatara, scored 0 runs. Team score: 127/5
+18.3: TLW Cooper faced TL Chatara, scored 1 runs. Team score: 128/5
+18.4: Mudassar Bukhari faced TL Chatara, scored 1 runs. Team score: 129/5
+18.5: TLW Cooper faced TL Chatara, scored 1 runs. Team score: 130/5
+18.6: Mudassar Bukhari faced TL Chatara, scored 2 runs. Team score: 132/5
+19.1: TLW Cooper faced T Panyangara, scored 1 runs. Team score: 133/5
+19.2: Mudassar Bukhari faced T Panyangara, scored 0 runs. Team score: 133/5
+19.3: Mudassar Bukhari faced T Panyangara, scored 1 runs. Team score: 134/5
+19.4: TLW Cooper faced T Panyangara, scored 4 runs. Team score: 138/5
+19.5: TLW Cooper faced T Panyangara, scored 1 runs. Team score: 139/5
+19.6: Mudassar Bukhari faced T Panyangara, scored 1 runs. Team score: 140/5
+End of innings for Netherlands: 140/5 in 20.0 overs
+Batsman scores:
+MR Swart: 3 runs from 8 balls
+SJ Myburgh: 0 runs from 1 balls
+W Barresi: 12 runs from 6 balls
+PW Borren: 12 runs from 7 balls
+TLW Cooper: 77 runs from 60 balls
+BN Cooper: 22 runs from 26 balls
+Mudassar Bukhari: 14 runs from 16 balls
+Bowler figures:
+P Utseya: 2 wickets for 28 runs
+T Panyangara: 1 wickets for 40 runs
+TL Chatara: 1 wickets for 15 runs
+N M'shangwe: 1 wickets for 24 runs
+SC Williams: 0 wickets for 22 runs
+H Masakadza: 0 wickets for 11 runs
+
+Innings 2:
+0.1: H Masakadza faced Mudassar Bukhari, scored 0 runs. Team score: 0/0
+0.2: H Masakadza faced Mudassar Bukhari, scored 4 runs. Team score: 4/0
+0.3: H Masakadza faced Mudassar Bukhari, scored 4 runs. Team score: 8/0
+0.4: H Masakadza faced Mudassar Bukhari, scored 0 runs. Team score: 8/0
+0.5: H Masakadza faced Mudassar Bukhari, scored 1 runs. Team score: 9/0
+0.6: Sikandar Raza faced Mudassar Bukhari, scored 0 runs. Team score: 9/0
+1.1: H Masakadza faced T van der Gugten, scored 0 runs. Team score: 9/0
+1.2: H Masakadza faced T van der Gugten, scored 0 runs. Team score: 9/0
+1.3: H Masakadza faced T van der Gugten, scored 0 runs. Team score: 9/0
+1.4: H Masakadza faced T van der Gugten, scored 0 runs. Team score: 9/0
+1.5: H Masakadza faced T van der Gugten, scored 0 runs. Team score: 9/0
+1.6: H Masakadza faced T van der Gugten, scored 2 runs. Team score: 11/0
+2.1: Sikandar Raza faced Ahsan Malik, scored 4 runs. Team score: 15/0
+2.2: Sikandar Raza faced Ahsan Malik, scored 0 runs. Team score: 15/0
+2.3: Sikandar Raza faced Ahsan Malik, scored 0 runs. Team score: 15/0
+2.4: Sikandar Raza faced Ahsan Malik, scored 1 runs. Team score: 16/0
+2.5: H Masakadza faced Ahsan Malik, scored 0 runs. Team score: 16/0
+2.6: H Masakadza faced Ahsan Malik, scored 0 runs. Team score: 16/0
+3.1: Sikandar Raza faced T van der Gugten, scored 1 runs. Team score: 17/0
+3.2: H Masakadza faced T van der Gugten, scored 0 runs. Team score: 17/0
+3.3: H Masakadza faced T van der Gugten, scored 1 runs. Team score: 18/0
+3.4: Sikandar Raza faced T van der Gugten, scored 4 runs. Team score: 22/0
+3.5: Sikandar Raza faced T van der Gugten, scored 0 runs. Team score: 22/0
+3.6: Sikandar Raza faced T van der Gugten, scored 1 runs. Team score: 23/0
+4.1: Sikandar Raza faced Ahsan Malik, scored 0 runs. Team score: 23/0
+4.2: Sikandar Raza faced Ahsan Malik, scored 2 runs. Team score: 25/0
+4.3: Sikandar Raza faced Ahsan Malik, scored 0 runs. Team score: 25/0
+caught!, Batsman: Sikandar Raza (13 runs from 12 balls), Bowler: Ahsan Malik (figures: 1/7). Fielders involved: PM Seelaar. Team score: 25/1
+4.4: H Masakadza faced Ahsan Malik, scored 0 runs. Team score: 25/1
+4.5: H Masakadza faced Ahsan Malik, scored 0 runs. Team score: 25/1
+4.6: H Masakadza faced Ahsan Malik, scored 1 runs. Team score: 26/1
+5.1: H Masakadza faced LV van Beek, scored 0 runs. Team score: 26/1
+5.2: H Masakadza faced LV van Beek, scored 1 runs. Team score: 27/1
+5.3: BRM Taylor faced LV van Beek, scored 1 runs. Team score: 28/1
+5.4: H Masakadza faced LV van Beek, scored 1 runs. Team score: 29/1
+5.5: H Masakadza faced LV van Beek, scored 1 runs. Team score: 30/1
+5.6: H Masakadza faced LV van Beek, scored 1 runs. Team score: 31/1
+5.0: H Masakadza faced LV van Beek, scored 1 runs. Team score: 32/1
+5.1: BRM Taylor faced LV van Beek, scored 1 runs. Team score: 33/1
+5.2: H Masakadza faced LV van Beek, scored 4 runs. Team score: 37/1
+6.1: BRM Taylor faced Mudassar Bukhari, scored 0 runs. Team score: 37/1
+6.2: BRM Taylor faced Mudassar Bukhari, scored 0 runs. Team score: 37/1
+6.3: BRM Taylor faced Mudassar Bukhari, scored 2 runs. Team score: 39/1
+6.4: BRM Taylor faced Mudassar Bukhari, scored 1 runs. Team score: 40/1
+6.5: H Masakadza faced Mudassar Bukhari, scored 0 runs. Team score: 40/1
+6.6: H Masakadza faced Mudassar Bukhari, scored 1 runs. Team score: 41/1
+7.1: H Masakadza faced PW Borren, scored 0 runs. Team score: 41/1
+7.2: H Masakadza faced PW Borren, scored 2 runs. Team score: 43/1
+7.3: H Masakadza faced PW Borren, scored 1 runs. Team score: 44/1
+7.4: BRM Taylor faced PW Borren, scored 1 runs. Team score: 45/1
+7.5: H Masakadza faced PW Borren, scored 1 runs. Team score: 46/1
+7.6: BRM Taylor faced PW Borren, scored 1 runs. Team score: 47/1
+8.1: BRM Taylor faced PM Seelaar, scored 0 runs. Team score: 47/1
+8.2: BRM Taylor faced PM Seelaar, scored 1 runs. Team score: 48/1
+8.3: H Masakadza faced PM Seelaar, scored 0 runs. Team score: 48/1
+8.4: H Masakadza faced PM Seelaar, scored 2 runs. Team score: 50/1
+8.5: H Masakadza faced PM Seelaar, scored 2 runs. Team score: 52/1
+8.6: H Masakadza faced PM Seelaar, scored 0 runs. Team score: 52/1
+9.1: BRM Taylor faced TLW Cooper, scored 6 runs. Team score: 58/1
+9.2: BRM Taylor faced TLW Cooper, scored 0 runs. Team score: 58/1
+9.3: BRM Taylor faced TLW Cooper, scored 1 runs. Team score: 59/1
+9.4: H Masakadza faced TLW Cooper, scored 6 runs. Team score: 65/1
+9.5: H Masakadza faced TLW Cooper, scored 1 runs. Team score: 66/1
+9.6: BRM Taylor faced TLW Cooper, scored 0 runs. Team score: 66/1
+10.1: H Masakadza faced Mudassar Bukhari, scored 1 runs. Team score: 67/1
+10.2: BRM Taylor faced Mudassar Bukhari, scored 1 runs. Team score: 68/1
+10.3: H Masakadza faced Mudassar Bukhari, scored 1 runs. Team score: 69/1
+10.4: BRM Taylor faced Mudassar Bukhari, scored 1 runs. Team score: 70/1
+10.5: H Masakadza faced Mudassar Bukhari, scored 1 runs. Team score: 71/1
+10.6: BRM Taylor faced Mudassar Bukhari, scored 1 runs. Team score: 72/1
+11.1: BRM Taylor faced LV van Beek, scored 1 runs. Team score: 73/1
+11.2: H Masakadza faced LV van Beek, scored 1 runs. Team score: 74/1
+11.3: BRM Taylor faced LV van Beek, scored 1 runs. Team score: 75/1
+11.4: H Masakadza faced LV van Beek, scored 1 runs. Team score: 76/1
+11.5: BRM Taylor faced LV van Beek, scored 1 runs. Team score: 77/1
+11.6: H Masakadza faced LV van Beek, scored 1 runs. Team score: 78/1
+12.1: H Masakadza faced Mudassar Bukhari, scored 1 runs. Team score: 79/1
+12.2: BRM Taylor faced Mudassar Bukhari, scored 1 runs. Team score: 80/1
+12.3: H Masakadza faced Mudassar Bukhari, scored 1 runs. Team score: 81/1
+12.4: BRM Taylor faced Mudassar Bukhari, scored 2 runs. Team score: 83/1
+12.5: BRM Taylor faced Mudassar Bukhari, scored 1 runs. Team score: 84/1
+12.6: H Masakadza faced Mudassar Bukhari, scored 1 runs. Team score: 85/1
+13.1: H Masakadza faced PM Seelaar, scored 1 runs. Team score: 86/1
+13.2: BRM Taylor faced PM Seelaar, scored 1 runs. Team score: 87/1
+13.3: H Masakadza faced PM Seelaar, scored 0 runs. Team score: 87/1
+bowled!, Batsman: H Masakadza (48 runs from 48 balls), Bowler: PM Seelaar (figures: 1/7). Fielders involved: None. Team score: 87/2
+13.4: E Chigumbura faced PM Seelaar, scored 0 runs. Team score: 87/2
+13.5: E Chigumbura faced PM Seelaar, scored 0 runs. Team score: 87/2
+caught!, Batsman: E Chigumbura (0 runs from 2 balls), Bowler: PM Seelaar (figures: 2/7). Fielders involved: PW Borren. Team score: 87/3
+13.6: SC Williams faced PM Seelaar, scored 2 runs. Team score: 89/3
+14.1: BRM Taylor faced PW Borren, scored 1 runs. Team score: 90/3
+14.2: SC Williams faced PW Borren, scored 1 runs. Team score: 91/3
+14.3: BRM Taylor faced PW Borren, scored 1 runs. Team score: 92/3
+14.4: SC Williams faced PW Borren, scored 1 runs. Team score: 93/3
+14.5: BRM Taylor faced PW Borren, scored 1 runs. Team score: 94/3
+14.6: SC Williams faced PW Borren, scored 1 runs. Team score: 95/3
+15.1: SC Williams faced T van der Gugten, scored 0 runs. Team score: 95/3
+15.2: SC Williams faced T van der Gugten, scored 1 runs. Team score: 96/3
+15.3: BRM Taylor faced T van der Gugten, scored 1 runs. Team score: 97/3
+15.4: SC Williams faced T van der Gugten, scored 1 runs. Team score: 98/3
+15.5: BRM Taylor faced T van der Gugten, scored 1 runs. Team score: 99/3
+15.6: SC Williams faced T van der Gugten, scored 2 runs. Team score: 101/3
+16.1: BRM Taylor faced LV van Beek, scored 4 runs. Team score: 105/3
+16.2: BRM Taylor faced LV van Beek, scored 4 runs. Team score: 109/3
+16.3: BRM Taylor faced LV van Beek, scored 1 runs. Team score: 110/3
+16.4: SC Williams faced LV van Beek, scored 1 runs. Team score: 111/3
+16.5: BRM Taylor faced LV van Beek, scored 1 runs. Team score: 112/3
+16.6: SC Williams faced LV van Beek, scored 4 runs. Team score: 116/3
+17.1: BRM Taylor faced Ahsan Malik, scored 2 runs. Team score: 118/3
+17.2: BRM Taylor faced Ahsan Malik, scored 1 runs. Team score: 119/3
+17.3: BRM Taylor faced Ahsan Malik, scored 1 runs. Team score: 120/3
+17.4: SC Williams faced Ahsan Malik, scored 1 runs. Team score: 121/3
+17.5: BRM Taylor faced Ahsan Malik, scored 2 runs. Team score: 123/3
+17.6: BRM Taylor faced Ahsan Malik, scored 2 runs. Team score: 125/3
+17.0: BRM Taylor faced Ahsan Malik, scored 1 runs. Team score: 126/3
+18.1: BRM Taylor faced T van der Gugten, scored 0 runs. Team score: 126/3
+caught!, Batsman: BRM Taylor (50 runs from 40 balls), Bowler: T van der Gugten (figures: 1/15). Fielders involved: PW Borren. Team score: 126/4
+18.2: V Sibanda faced T van der Gugten, scored 2 runs. Team score: 128/4
+18.3: V Sibanda faced T van der Gugten, scored 1 runs. Team score: 129/4
+18.4: SC Williams faced T van der Gugten, scored 2 runs. Team score: 131/4
+18.5: SC Williams faced T van der Gugten, scored 2 runs. Team score: 133/4
+18.6: SC Williams faced T van der Gugten, scored 1 runs. Team score: 134/4
+19.1: SC Williams faced Ahsan Malik, scored 0 runs. Team score: 134/4
+19.2: SC Williams faced Ahsan Malik, scored 2 runs. Team score: 136/4
+19.3: SC Williams faced Ahsan Malik, scored 4 runs. Team score: 140/4
+19.4: SC Williams faced Ahsan Malik, scored 0 runs. Team score: 140/4
+19.5: SC Williams faced Ahsan Malik, scored 0 runs. Team score: 140/4
+run out!, Batsman: SC Williams (26 runs from 19 balls), Bowler: Ahsan Malik (figures: 2/24). Fielders involved: Ahsan Malik. Team score: 140/5
+19.6: V Sibanda faced Ahsan Malik, scored 6 runs. Team score: 146/5
+End of innings for Zimbabwe: 146/5 in 20.0 overs
+Batsman scores:
+H Masakadza: 48 runs from 48 balls
+Sikandar Raza: 13 runs from 12 balls
+BRM Taylor: 50 runs from 40 balls
+E Chigumbura: 0 runs from 2 balls
+SC Williams: 26 runs from 19 balls
+V Sibanda: 9 runs from 3 balls
+Bowler figures:
+Mudassar Bukhari: 0 wickets for 26 runs
+T van der Gugten: 1 wickets for 23 runs
+Ahsan Malik: 2 wickets for 30 runs
+LV van Beek: 0 wickets for 32 runs
+PW Borren: 0 wickets for 12 runs
+PM Seelaar: 2 wickets for 9 runs
+TLW Cooper: 0 wickets for 14 runs
+

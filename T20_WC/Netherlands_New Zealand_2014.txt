@@ -1,0 +1,291 @@
+Match: World T20 - T20
+Date: 2014-03-29
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: Netherlands vs New Zealand
+Toss: New Zealand won the toss and decided to field
+Result: New Zealand won by 6 wickets
+Man of the Match: BB McCullum
+
+Innings 1:
+0.1: SJ Myburgh faced KD Mills, scored 0 runs. Team score: 0/0
+0.2: SJ Myburgh faced KD Mills, scored 0 runs. Team score: 0/0
+0.3: SJ Myburgh faced KD Mills, scored 4 runs. Team score: 4/0
+0.4: SJ Myburgh faced KD Mills, scored 0 runs. Team score: 4/0
+0.5: SJ Myburgh faced KD Mills, scored 0 runs. Team score: 4/0
+0.6: SJ Myburgh faced KD Mills, scored 1 runs. Team score: 5/0
+1.1: SJ Myburgh faced TA Boult, scored 1 runs. Team score: 6/0
+1.2: MR Swart faced TA Boult, scored 0 runs. Team score: 6/0
+1.3: MR Swart faced TA Boult, scored 0 runs. Team score: 6/0
+1.4: MR Swart faced TA Boult, scored 4 runs. Team score: 10/0
+1.5: MR Swart faced TA Boult, scored 0 runs. Team score: 10/0
+1.6: MR Swart faced TA Boult, scored 1 runs. Team score: 11/0
+2.1: MR Swart faced KD Mills, scored 1 runs. Team score: 12/0
+2.2: SJ Myburgh faced KD Mills, scored 0 runs. Team score: 12/0
+2.3: SJ Myburgh faced KD Mills, scored 0 runs. Team score: 12/0
+2.4: SJ Myburgh faced KD Mills, scored 0 runs. Team score: 12/0
+2.5: SJ Myburgh faced KD Mills, scored 1 runs. Team score: 13/0
+2.6: MR Swart faced KD Mills, scored 1 runs. Team score: 14/0
+3.1: MR Swart faced TA Boult, scored 1 runs. Team score: 15/0
+3.2: SJ Myburgh faced TA Boult, scored 2 runs. Team score: 17/0
+3.3: SJ Myburgh faced TA Boult, scored 0 runs. Team score: 17/0
+3.4: SJ Myburgh faced TA Boult, scored 4 runs. Team score: 21/0
+3.5: SJ Myburgh faced TA Boult, scored 0 runs. Team score: 21/0
+3.6: SJ Myburgh faced TA Boult, scored 1 runs. Team score: 22/0
+4.1: SJ Myburgh faced CJ Anderson, scored 0 runs. Team score: 22/0
+4.2: SJ Myburgh faced CJ Anderson, scored 0 runs. Team score: 22/0
+4.3: SJ Myburgh faced CJ Anderson, scored 0 runs. Team score: 22/0
+4.4: SJ Myburgh faced CJ Anderson, scored 0 runs. Team score: 22/0
+4.5: SJ Myburgh faced CJ Anderson, scored 0 runs. Team score: 22/0
+4.6: SJ Myburgh faced CJ Anderson, scored 1 runs. Team score: 23/0
+4.0: SJ Myburgh faced CJ Anderson, scored 6 runs. Team score: 29/0
+5.1: MR Swart faced TA Boult, scored 0 runs. Team score: 29/0
+5.2: MR Swart faced TA Boult, scored 4 runs. Team score: 33/0
+5.3: MR Swart faced TA Boult, scored 0 runs. Team score: 33/0
+5.4: MR Swart faced TA Boult, scored 1 runs. Team score: 34/0
+5.5: SJ Myburgh faced TA Boult, scored 0 runs. Team score: 34/0
+caught!, Batsman: SJ Myburgh (21 runs from 24 balls), Bowler: TA Boult (figures: 1/19). Fielders involved: MJ Guptill. Team score: 34/1
+5.6: MR Swart faced TA Boult, scored 2 runs. Team score: 36/1
+5.0: W Barresi faced TA Boult, scored 1 runs. Team score: 37/1
+6.1: W Barresi faced NL McCullum, scored 0 runs. Team score: 37/1
+6.2: W Barresi faced NL McCullum, scored 1 runs. Team score: 38/1
+6.3: MR Swart faced NL McCullum, scored 1 runs. Team score: 39/1
+6.4: W Barresi faced NL McCullum, scored 0 runs. Team score: 39/1
+6.5: W Barresi faced NL McCullum, scored 0 runs. Team score: 39/1
+6.6: W Barresi faced NL McCullum, scored 1 runs. Team score: 40/1
+7.1: W Barresi faced MJ McClenaghan, scored 1 runs. Team score: 41/1
+7.2: MR Swart faced MJ McClenaghan, scored 0 runs. Team score: 41/1
+7.3: MR Swart faced MJ McClenaghan, scored 1 runs. Team score: 42/1
+7.4: W Barresi faced MJ McClenaghan, scored 0 runs. Team score: 42/1
+caught!, Batsman: W Barresi (4 runs from 8 balls), Bowler: MJ McClenaghan (figures: 1/2). Fielders involved: L Ronchi. Team score: 42/2
+7.5: PW Borren faced MJ McClenaghan, scored 0 runs. Team score: 42/2
+7.6: PW Borren faced MJ McClenaghan, scored 0 runs. Team score: 42/2
+8.1: MR Swart faced NL McCullum, scored 1 runs. Team score: 43/2
+8.2: PW Borren faced NL McCullum, scored 1 runs. Team score: 44/2
+8.3: MR Swart faced NL McCullum, scored 4 runs. Team score: 48/2
+8.4: MR Swart faced NL McCullum, scored 0 runs. Team score: 48/2
+8.5: MR Swart faced NL McCullum, scored 1 runs. Team score: 49/2
+8.6: PW Borren faced NL McCullum, scored 1 runs. Team score: 50/2
+9.1: PW Borren faced MJ McClenaghan, scored 1 runs. Team score: 51/2
+9.2: PW Borren faced MJ McClenaghan, scored 4 runs. Team score: 55/2
+9.3: PW Borren faced MJ McClenaghan, scored 0 runs. Team score: 55/2
+9.4: PW Borren faced MJ McClenaghan, scored 0 runs. Team score: 55/2
+9.5: PW Borren faced MJ McClenaghan, scored 1 runs. Team score: 56/2
+9.6: MR Swart faced MJ McClenaghan, scored 2 runs. Team score: 58/2
+9.0: MR Swart faced MJ McClenaghan, scored 4 runs. Team score: 62/2
+10.1: PW Borren faced NL McCullum, scored 0 runs. Team score: 62/2
+10.2: PW Borren faced NL McCullum, scored 4 runs. Team score: 66/2
+10.3: PW Borren faced NL McCullum, scored 1 runs. Team score: 67/2
+10.4: MR Swart faced NL McCullum, scored 0 runs. Team score: 67/2
+10.5: MR Swart faced NL McCullum, scored 1 runs. Team score: 68/2
+10.6: PW Borren faced NL McCullum, scored 1 runs. Team score: 69/2
+11.1: PW Borren faced CJ Anderson, scored 4 runs. Team score: 73/2
+11.2: PW Borren faced CJ Anderson, scored 4 runs. Team score: 77/2
+11.3: PW Borren faced CJ Anderson, scored 2 runs. Team score: 79/2
+11.4: PW Borren faced CJ Anderson, scored 1 runs. Team score: 80/2
+11.5: MR Swart faced CJ Anderson, scored 1 runs. Team score: 81/2
+11.6: PW Borren faced CJ Anderson, scored 0 runs. Team score: 81/2
+12.1: MR Swart faced NL McCullum, scored 0 runs. Team score: 81/2
+stumped!, Batsman: MR Swart (31 runs from 26 balls), Bowler: NL McCullum (figures: 1/18). Fielders involved: L Ronchi. Team score: 81/3
+12.2: TLW Cooper faced NL McCullum, scored 1 runs. Team score: 82/3
+12.3: PW Borren faced NL McCullum, scored 1 runs. Team score: 83/3
+12.4: TLW Cooper faced NL McCullum, scored 0 runs. Team score: 83/3
+12.5: TLW Cooper faced NL McCullum, scored 0 runs. Team score: 83/3
+12.6: TLW Cooper faced NL McCullum, scored 4 runs. Team score: 87/3
+13.1: PW Borren faced MJ McClenaghan, scored 0 runs. Team score: 87/3
+13.2: PW Borren faced MJ McClenaghan, scored 1 runs. Team score: 88/3
+13.3: TLW Cooper faced MJ McClenaghan, scored 1 runs. Team score: 89/3
+13.4: PW Borren faced MJ McClenaghan, scored 0 runs. Team score: 89/3
+13.5: PW Borren faced MJ McClenaghan, scored 1 runs. Team score: 90/3
+13.6: TLW Cooper faced MJ McClenaghan, scored 1 runs. Team score: 91/3
+14.1: TLW Cooper faced KS Williamson, scored 1 runs. Team score: 92/3
+14.2: PW Borren faced KS Williamson, scored 6 runs. Team score: 98/3
+14.3: PW Borren faced KS Williamson, scored 2 runs. Team score: 100/3
+14.4: PW Borren faced KS Williamson, scored 4 runs. Team score: 104/3
+14.5: PW Borren faced KS Williamson, scored 0 runs. Team score: 104/3
+14.6: PW Borren faced KS Williamson, scored 4 runs. Team score: 108/3
+15.1: TLW Cooper faced MJ McClenaghan, scored 1 runs. Team score: 109/3
+15.2: PW Borren faced MJ McClenaghan, scored 1 runs. Team score: 110/3
+15.3: TLW Cooper faced MJ McClenaghan, scored 4 runs. Team score: 114/3
+15.4: TLW Cooper faced MJ McClenaghan, scored 6 runs. Team score: 120/3
+15.5: TLW Cooper faced MJ McClenaghan, scored 1 runs. Team score: 121/3
+15.6: PW Borren faced MJ McClenaghan, scored 0 runs. Team score: 121/3
+16.1: TLW Cooper faced JDS Neesham, scored 1 runs. Team score: 122/3
+16.2: PW Borren faced JDS Neesham, scored 1 runs. Team score: 123/3
+16.3: TLW Cooper faced JDS Neesham, scored 4 runs. Team score: 127/3
+16.4: TLW Cooper faced JDS Neesham, scored 1 runs. Team score: 128/3
+16.5: PW Borren faced JDS Neesham, scored 0 runs. Team score: 128/3
+16.6: PW Borren faced JDS Neesham, scored 1 runs. Team score: 129/3
+17.1: PW Borren faced KD Mills, scored 4 runs. Team score: 133/3
+17.2: PW Borren faced KD Mills, scored 1 runs. Team score: 134/3
+17.3: TLW Cooper faced KD Mills, scored 6 runs. Team score: 140/3
+17.4: TLW Cooper faced KD Mills, scored 0 runs. Team score: 140/3
+17.5: TLW Cooper faced KD Mills, scored 1 runs. Team score: 141/3
+17.6: PW Borren faced KD Mills, scored 0 runs. Team score: 141/3
+caught!, Batsman: PW Borren (52 runs from 36 balls), Bowler: KD Mills (figures: 1/20). Fielders involved: KS Williamson. Team score: 141/4
+18.1: TLW Cooper faced JDS Neesham, scored 1 runs. Team score: 142/4
+18.2: BN Cooper faced JDS Neesham, scored 0 runs. Team score: 142/4
+18.3: BN Cooper faced JDS Neesham, scored 0 runs. Team score: 142/4
+18.4: BN Cooper faced JDS Neesham, scored 0 runs. Team score: 142/4
+18.5: BN Cooper faced JDS Neesham, scored 0 runs. Team score: 142/4
+18.6: BN Cooper faced JDS Neesham, scored 0 runs. Team score: 142/4
+19.1: TLW Cooper faced TA Boult, scored 1 runs. Team score: 143/4
+19.2: BN Cooper faced TA Boult, scored 1 runs. Team score: 144/4
+19.3: TLW Cooper faced TA Boult, scored 4 runs. Team score: 148/4
+19.4: TLW Cooper faced TA Boult, scored 2 runs. Team score: 150/4
+19.5: TLW Cooper faced TA Boult, scored 0 runs. Team score: 150/4
+19.6: TLW Cooper faced TA Boult, scored 1 runs. Team score: 151/4
+End of innings for Netherlands: 151/4 in 20.0 overs
+Batsman scores:
+SJ Myburgh: 21 runs from 24 balls
+MR Swart: 31 runs from 26 balls
+W Barresi: 4 runs from 8 balls
+PW Borren: 52 runs from 36 balls
+TLW Cooper: 42 runs from 23 balls
+BN Cooper: 1 runs from 6 balls
+Bowler figures:
+KD Mills: 1 wickets for 20 runs
+TA Boult: 1 wickets for 31 runs
+CJ Anderson: 0 wickets for 19 runs
+NL McCullum: 1 wickets for 24 runs
+MJ McClenaghan: 1 wickets for 31 runs
+KS Williamson: 0 wickets for 17 runs
+JDS Neesham: 0 wickets for 9 runs
+
+Innings 2:
+0.1: MJ Guptill faced MR Swart, scored 0 runs. Team score: 0/0
+0.2: MJ Guptill faced MR Swart, scored 1 runs. Team score: 1/0
+0.3: MJ Guptill faced MR Swart, scored 0 runs. Team score: 1/0
+0.4: MJ Guptill faced MR Swart, scored 4 runs. Team score: 5/0
+0.5: MJ Guptill faced MR Swart, scored 0 runs. Team score: 5/0
+0.6: MJ Guptill faced MR Swart, scored 1 runs. Team score: 6/0
+0.0: KS Williamson faced MR Swart, scored 0 runs. Team score: 6/0
+1.1: MJ Guptill faced T van der Gugten, scored 0 runs. Team score: 6/0
+1.2: MJ Guptill faced T van der Gugten, scored 0 runs. Team score: 6/0
+1.3: MJ Guptill faced T van der Gugten, scored 0 runs. Team score: 6/0
+1.4: MJ Guptill faced T van der Gugten, scored 2 runs. Team score: 8/0
+1.5: MJ Guptill faced T van der Gugten, scored 1 runs. Team score: 9/0
+1.6: KS Williamson faced T van der Gugten, scored 0 runs. Team score: 9/0
+2.1: MJ Guptill faced Mudassar Bukhari, scored 0 runs. Team score: 9/0
+2.2: MJ Guptill faced Mudassar Bukhari, scored 0 runs. Team score: 9/0
+2.3: MJ Guptill faced Mudassar Bukhari, scored 1 runs. Team score: 10/0
+2.4: KS Williamson faced Mudassar Bukhari, scored 0 runs. Team score: 10/0
+2.5: KS Williamson faced Mudassar Bukhari, scored 0 runs. Team score: 10/0
+2.6: KS Williamson faced Mudassar Bukhari, scored 4 runs. Team score: 14/0
+3.1: MJ Guptill faced T van der Gugten, scored 0 runs. Team score: 14/0
+3.2: MJ Guptill faced T van der Gugten, scored 0 runs. Team score: 14/0
+caught!, Batsman: MJ Guptill (10 runs from 16 balls), Bowler: T van der Gugten (figures: 1/3). Fielders involved: W Barresi. Team score: 14/1
+3.3: BB McCullum faced T van der Gugten, scored 0 runs. Team score: 14/1
+3.4: BB McCullum faced T van der Gugten, scored 1 runs. Team score: 15/1
+3.5: KS Williamson faced T van der Gugten, scored 1 runs. Team score: 16/1
+3.6: BB McCullum faced T van der Gugten, scored 4 runs. Team score: 20/1
+4.1: KS Williamson faced Mudassar Bukhari, scored 0 runs. Team score: 20/1
+4.2: KS Williamson faced Mudassar Bukhari, scored 0 runs. Team score: 20/1
+4.3: KS Williamson faced Mudassar Bukhari, scored 1 runs. Team score: 21/1
+4.4: BB McCullum faced Mudassar Bukhari, scored 1 runs. Team score: 22/1
+4.5: KS Williamson faced Mudassar Bukhari, scored 4 runs. Team score: 26/1
+4.6: KS Williamson faced Mudassar Bukhari, scored 4 runs. Team score: 30/1
+5.1: BB McCullum faced Ahsan Malik, scored 0 runs. Team score: 30/1
+5.2: BB McCullum faced Ahsan Malik, scored 1 runs. Team score: 31/1
+5.3: KS Williamson faced Ahsan Malik, scored 4 runs. Team score: 35/1
+5.4: KS Williamson faced Ahsan Malik, scored 2 runs. Team score: 37/1
+5.5: KS Williamson faced Ahsan Malik, scored 1 runs. Team score: 38/1
+5.6: BB McCullum faced Ahsan Malik, scored 4 runs. Team score: 42/1
+6.1: KS Williamson faced PW Borren, scored 0 runs. Team score: 42/1
+6.2: KS Williamson faced PW Borren, scored 1 runs. Team score: 43/1
+6.3: BB McCullum faced PW Borren, scored 1 runs. Team score: 44/1
+6.4: KS Williamson faced PW Borren, scored 1 runs. Team score: 45/1
+6.5: BB McCullum faced PW Borren, scored 0 runs. Team score: 45/1
+6.6: BB McCullum faced PW Borren, scored 1 runs. Team score: 46/1
+7.1: BB McCullum faced PM Seelaar, scored 1 runs. Team score: 47/1
+7.2: KS Williamson faced PM Seelaar, scored 4 runs. Team score: 51/1
+7.3: KS Williamson faced PM Seelaar, scored 0 runs. Team score: 51/1
+7.4: KS Williamson faced PM Seelaar, scored 1 runs. Team score: 52/1
+7.5: BB McCullum faced PM Seelaar, scored 1 runs. Team score: 53/1
+7.6: KS Williamson faced PM Seelaar, scored 2 runs. Team score: 55/1
+8.1: BB McCullum faced LV van Beek, scored 0 runs. Team score: 55/1
+8.2: BB McCullum faced LV van Beek, scored 1 runs. Team score: 56/1
+8.3: KS Williamson faced LV van Beek, scored 0 runs. Team score: 56/1
+caught!, Batsman: KS Williamson (30 runs from 22 balls), Bowler: LV van Beek (figures: 1/1). Fielders involved: W Barresi. Team score: 56/2
+8.4: LRPL Taylor faced LV van Beek, scored 1 runs. Team score: 57/2
+8.5: BB McCullum faced LV van Beek, scored 1 runs. Team score: 58/2
+8.6: LRPL Taylor faced LV van Beek, scored 1 runs. Team score: 59/2
+9.1: LRPL Taylor faced PW Borren, scored 1 runs. Team score: 60/2
+9.2: BB McCullum faced PW Borren, scored 1 runs. Team score: 61/2
+9.3: LRPL Taylor faced PW Borren, scored 1 runs. Team score: 62/2
+9.4: BB McCullum faced PW Borren, scored 1 runs. Team score: 63/2
+9.5: LRPL Taylor faced PW Borren, scored 1 runs. Team score: 64/2
+9.6: BB McCullum faced PW Borren, scored 1 runs. Team score: 65/2
+10.1: BB McCullum faced LV van Beek, scored 1 runs. Team score: 66/2
+10.2: LRPL Taylor faced LV van Beek, scored 1 runs. Team score: 67/2
+10.3: BB McCullum faced LV van Beek, scored 1 runs. Team score: 68/2
+10.4: LRPL Taylor faced LV van Beek, scored 4 runs. Team score: 72/2
+10.5: LRPL Taylor faced LV van Beek, scored 1 runs. Team score: 73/2
+10.6: BB McCullum faced LV van Beek, scored 2 runs. Team score: 75/2
+11.1: LRPL Taylor faced PM Seelaar, scored 1 runs. Team score: 76/2
+11.2: BB McCullum faced PM Seelaar, scored 2 runs. Team score: 78/2
+11.3: BB McCullum faced PM Seelaar, scored 0 runs. Team score: 78/2
+11.4: BB McCullum faced PM Seelaar, scored 4 runs. Team score: 82/2
+11.5: BB McCullum faced PM Seelaar, scored 0 runs. Team score: 82/2
+11.6: BB McCullum faced PM Seelaar, scored 0 runs. Team score: 82/2
+12.1: LRPL Taylor faced T van der Gugten, scored 6 runs. Team score: 88/2
+12.2: LRPL Taylor faced T van der Gugten, scored 0 runs. Team score: 88/2
+caught!, Batsman: LRPL Taylor (18 runs from 11 balls), Bowler: T van der Gugten (figures: 2/15). Fielders involved: W Barresi. Team score: 88/3
+12.3: BB McCullum faced T van der Gugten, scored 0 runs. Team score: 88/3
+12.4: BB McCullum faced T van der Gugten, scored 2 runs. Team score: 90/3
+12.5: BB McCullum faced T van der Gugten, scored 0 runs. Team score: 90/3
+12.6: BB McCullum faced T van der Gugten, scored 1 runs. Team score: 91/3
+13.1: BB McCullum faced Ahsan Malik, scored 1 runs. Team score: 92/3
+13.2: CJ Anderson faced Ahsan Malik, scored 0 runs. Team score: 92/3
+13.3: CJ Anderson faced Ahsan Malik, scored 0 runs. Team score: 92/3
+13.4: CJ Anderson faced Ahsan Malik, scored 2 runs. Team score: 94/3
+13.5: CJ Anderson faced Ahsan Malik, scored 1 runs. Team score: 95/3
+13.6: BB McCullum faced Ahsan Malik, scored 1 runs. Team score: 96/3
+14.1: BB McCullum faced Mudassar Bukhari, scored 1 runs. Team score: 97/3
+14.2: CJ Anderson faced Mudassar Bukhari, scored 1 runs. Team score: 98/3
+14.3: BB McCullum faced Mudassar Bukhari, scored 6 runs. Team score: 104/3
+14.4: BB McCullum faced Mudassar Bukhari, scored 2 runs. Team score: 106/3
+14.5: BB McCullum faced Mudassar Bukhari, scored 0 runs. Team score: 106/3
+14.6: BB McCullum faced Mudassar Bukhari, scored 1 runs. Team score: 107/3
+15.1: BB McCullum faced Ahsan Malik, scored 2 runs. Team score: 109/3
+15.2: BB McCullum faced Ahsan Malik, scored 6 runs. Team score: 115/3
+15.3: BB McCullum faced Ahsan Malik, scored 1 runs. Team score: 116/3
+15.4: CJ Anderson faced Ahsan Malik, scored 4 runs. Team score: 120/3
+15.5: CJ Anderson faced Ahsan Malik, scored 1 runs. Team score: 121/3
+15.6: BB McCullum faced Ahsan Malik, scored 2 runs. Team score: 123/3
+16.1: CJ Anderson faced T van der Gugten, scored 1 runs. Team score: 124/3
+16.2: BB McCullum faced T van der Gugten, scored 6 runs. Team score: 130/3
+16.3: BB McCullum faced T van der Gugten, scored 0 runs. Team score: 130/3
+16.4: BB McCullum faced T van der Gugten, scored 4 runs. Team score: 134/3
+16.5: BB McCullum faced T van der Gugten, scored 0 runs. Team score: 134/3
+caught!, Batsman: BB McCullum (66 runs from 45 balls), Bowler: T van der Gugten (figures: 3/29). Fielders involved: Mudassar Bukhari. Team score: 134/4
+16.6: CJ Anderson faced T van der Gugten, scored 1 runs. Team score: 135/4
+17.1: CJ Anderson faced Ahsan Malik, scored 6 runs. Team score: 141/4
+17.2: CJ Anderson faced Ahsan Malik, scored 1 runs. Team score: 142/4
+17.3: JDS Neesham faced Ahsan Malik, scored 1 runs. Team score: 143/4
+17.4: CJ Anderson faced Ahsan Malik, scored 1 runs. Team score: 144/4
+17.5: JDS Neesham faced Ahsan Malik, scored 1 runs. Team score: 145/4
+17.6: CJ Anderson faced Ahsan Malik, scored 0 runs. Team score: 145/4
+18.1: JDS Neesham faced Mudassar Bukhari, scored 1 runs. Team score: 146/4
+18.2: CJ Anderson faced Mudassar Bukhari, scored 1 runs. Team score: 147/4
+18.3: JDS Neesham faced Mudassar Bukhari, scored 0 runs. Team score: 147/4
+18.4: JDS Neesham faced Mudassar Bukhari, scored 2 runs. Team score: 149/4
+18.5: JDS Neesham faced Mudassar Bukhari, scored 0 runs. Team score: 149/4
+18.6: JDS Neesham faced Mudassar Bukhari, scored 1 runs. Team score: 150/4
+18.0: JDS Neesham faced Mudassar Bukhari, scored 2 runs. Team score: 152/4
+End of innings for New Zealand: 152/4 in 19.0 overs
+Batsman scores:
+MJ Guptill: 10 runs from 16 balls
+KS Williamson: 30 runs from 22 balls
+BB McCullum: 66 runs from 45 balls
+LRPL Taylor: 18 runs from 11 balls
+CJ Anderson: 20 runs from 14 balls
+JDS Neesham: 8 runs from 8 balls
+Bowler figures:
+MR Swart: 0 wickets for 6 runs
+T van der Gugten: 3 wickets for 30 runs
+Mudassar Bukhari: 0 wickets for 33 runs
+Ahsan Malik: 0 wickets for 43 runs
+PW Borren: 0 wickets for 10 runs
+PM Seelaar: 0 wickets for 16 runs
+LV van Beek: 1 wickets for 14 runs
+

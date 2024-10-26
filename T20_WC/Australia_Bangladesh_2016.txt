@@ -1,0 +1,297 @@
+Match: World T20 - T20
+Date: 2016-03-21
+Venue: M Chinnaswamy Stadium, Bangalore
+Teams: Australia vs Bangladesh
+Toss: Australia won the toss and decided to field
+Result: Australia won by 3 wickets
+Man of the Match: A Zampa
+
+Innings 1:
+0.1: Mohammad Mithun faced NM Coulter-Nile, scored 1 runs. Team score: 1/0
+0.2: Soumya Sarkar faced NM Coulter-Nile, scored 0 runs. Team score: 1/0
+0.3: Soumya Sarkar faced NM Coulter-Nile, scored 0 runs. Team score: 1/0
+0.4: Soumya Sarkar faced NM Coulter-Nile, scored 0 runs. Team score: 1/0
+0.5: Soumya Sarkar faced NM Coulter-Nile, scored 1 runs. Team score: 2/0
+0.6: Mohammad Mithun faced NM Coulter-Nile, scored 0 runs. Team score: 2/0
+1.1: Soumya Sarkar faced SR Watson, scored 0 runs. Team score: 2/0
+1.2: Soumya Sarkar faced SR Watson, scored 0 runs. Team score: 2/0
+caught!, Batsman: Soumya Sarkar (1 runs from 6 balls), Bowler: SR Watson (figures: 1/0). Fielders involved: GJ Maxwell. Team score: 2/1
+1.3: Sabbir Rahman faced SR Watson, scored 1 runs. Team score: 3/1
+1.4: Sabbir Rahman faced SR Watson, scored 1 runs. Team score: 4/1
+1.5: Mohammad Mithun faced SR Watson, scored 1 runs. Team score: 5/1
+1.6: Sabbir Rahman faced SR Watson, scored 0 runs. Team score: 5/1
+1.0: Sabbir Rahman faced SR Watson, scored 0 runs. Team score: 5/1
+2.1: Mohammad Mithun faced NM Coulter-Nile, scored 1 runs. Team score: 6/1
+2.2: Sabbir Rahman faced NM Coulter-Nile, scored 0 runs. Team score: 6/1
+2.3: Sabbir Rahman faced NM Coulter-Nile, scored 0 runs. Team score: 6/1
+2.4: Sabbir Rahman faced NM Coulter-Nile, scored 2 runs. Team score: 8/1
+2.5: Sabbir Rahman faced NM Coulter-Nile, scored 1 runs. Team score: 9/1
+2.6: Mohammad Mithun faced NM Coulter-Nile, scored 1 runs. Team score: 10/1
+3.1: Mohammad Mithun faced JW Hastings, scored 1 runs. Team score: 11/1
+3.2: Sabbir Rahman faced JW Hastings, scored 4 runs. Team score: 15/1
+3.3: Sabbir Rahman faced JW Hastings, scored 0 runs. Team score: 15/1
+3.4: Sabbir Rahman faced JW Hastings, scored 4 runs. Team score: 19/1
+3.5: Sabbir Rahman faced JW Hastings, scored 0 runs. Team score: 19/1
+3.6: Sabbir Rahman faced JW Hastings, scored 0 runs. Team score: 19/1
+4.1: Mohammad Mithun faced NM Coulter-Nile, scored 1 runs. Team score: 20/1
+4.2: Sabbir Rahman faced NM Coulter-Nile, scored 0 runs. Team score: 20/1
+4.3: Sabbir Rahman faced NM Coulter-Nile, scored 1 runs. Team score: 21/1
+4.4: Mohammad Mithun faced NM Coulter-Nile, scored 1 runs. Team score: 22/1
+4.5: Sabbir Rahman faced NM Coulter-Nile, scored 2 runs. Team score: 24/1
+4.6: Sabbir Rahman faced NM Coulter-Nile, scored 1 runs. Team score: 25/1
+5.1: Sabbir Rahman faced SR Watson, scored 0 runs. Team score: 25/1
+caught!, Batsman: Sabbir Rahman (17 runs from 18 balls), Bowler: SR Watson (figures: 2/3). Fielders involved: JP Faulkner. Team score: 25/2
+5.2: Mohammad Mithun faced SR Watson, scored 0 runs. Team score: 25/2
+5.3: Mohammad Mithun faced SR Watson, scored 1 runs. Team score: 26/2
+5.4: Mohammad Mithun faced SR Watson, scored 1 runs. Team score: 27/2
+5.5: Shakib Al Hasan faced SR Watson, scored 4 runs. Team score: 31/2
+5.6: Shakib Al Hasan faced SR Watson, scored 1 runs. Team score: 32/2
+5.0: Mohammad Mithun faced SR Watson, scored 1 runs. Team score: 33/2
+6.1: Mohammad Mithun faced MR Marsh, scored 4 runs. Team score: 37/2
+6.2: Mohammad Mithun faced MR Marsh, scored 0 runs. Team score: 37/2
+6.3: Mohammad Mithun faced MR Marsh, scored 0 runs. Team score: 37/2
+6.4: Mohammad Mithun faced MR Marsh, scored 1 runs. Team score: 38/2
+6.5: Shakib Al Hasan faced MR Marsh, scored 1 runs. Team score: 39/2
+6.6: Mohammad Mithun faced MR Marsh, scored 6 runs. Team score: 45/2
+7.1: Shakib Al Hasan faced JW Hastings, scored 0 runs. Team score: 45/2
+7.2: Shakib Al Hasan faced JW Hastings, scored 1 runs. Team score: 46/2
+7.3: Mohammad Mithun faced JW Hastings, scored 0 runs. Team score: 46/2
+7.4: Mohammad Mithun faced JW Hastings, scored 0 runs. Team score: 46/2
+7.5: Mohammad Mithun faced JW Hastings, scored 2 runs. Team score: 48/2
+7.6: Mohammad Mithun faced JW Hastings, scored 1 runs. Team score: 49/2
+8.1: Mohammad Mithun faced GJ Maxwell, scored 1 runs. Team score: 50/2
+8.2: Shakib Al Hasan faced GJ Maxwell, scored 0 runs. Team score: 50/2
+8.3: Shakib Al Hasan faced GJ Maxwell, scored 0 runs. Team score: 50/2
+8.4: Shakib Al Hasan faced GJ Maxwell, scored 4 runs. Team score: 54/2
+8.5: Shakib Al Hasan faced GJ Maxwell, scored 6 runs. Team score: 60/2
+8.6: Shakib Al Hasan faced GJ Maxwell, scored 1 runs. Team score: 61/2
+9.1: Shakib Al Hasan faced A Zampa, scored 1 runs. Team score: 62/2
+9.2: Mohammad Mithun faced A Zampa, scored 0 runs. Team score: 62/2
+caught!, Batsman: Mohammad Mithun (25 runs from 23 balls), Bowler: A Zampa (figures: 1/1). Fielders involved: SR Watson. Team score: 62/3
+9.3: Shuvagata Hom faced A Zampa, scored 0 runs. Team score: 62/3
+9.4: Shuvagata Hom faced A Zampa, scored 1 runs. Team score: 63/3
+9.5: Shakib Al Hasan faced A Zampa, scored 1 runs. Team score: 64/3
+9.6: Shuvagata Hom faced A Zampa, scored 0 runs. Team score: 64/3
+10.1: Shakib Al Hasan faced JP Faulkner, scored 1 runs. Team score: 65/3
+10.2: Shuvagata Hom faced JP Faulkner, scored 0 runs. Team score: 65/3
+10.3: Shuvagata Hom faced JP Faulkner, scored 0 runs. Team score: 65/3
+10.4: Shuvagata Hom faced JP Faulkner, scored 1 runs. Team score: 66/3
+10.5: Shakib Al Hasan faced JP Faulkner, scored 1 runs. Team score: 67/3
+10.6: Shuvagata Hom faced JP Faulkner, scored 1 runs. Team score: 68/3
+11.1: Shuvagata Hom faced A Zampa, scored 6 runs. Team score: 74/3
+11.2: Shuvagata Hom faced A Zampa, scored 4 runs. Team score: 78/3
+11.3: Shuvagata Hom faced A Zampa, scored 0 runs. Team score: 78/3
+lbw!, Batsman: Shuvagata Hom (13 runs from 10 balls), Bowler: A Zampa (figures: 2/13). Fielders involved: None. Team score: 78/4
+11.4: Mahmudullah faced A Zampa, scored 1 runs. Team score: 79/4
+11.5: Shakib Al Hasan faced A Zampa, scored 1 runs. Team score: 80/4
+11.6: Mahmudullah faced A Zampa, scored 0 runs. Team score: 80/4
+12.1: Shakib Al Hasan faced JW Hastings, scored 1 runs. Team score: 81/4
+12.2: Mahmudullah faced JW Hastings, scored 0 runs. Team score: 81/4
+12.3: Mahmudullah faced JW Hastings, scored 4 runs. Team score: 85/4
+12.4: Mahmudullah faced JW Hastings, scored 6 runs. Team score: 91/4
+12.5: Mahmudullah faced JW Hastings, scored 0 runs. Team score: 91/4
+12.6: Mahmudullah faced JW Hastings, scored 0 runs. Team score: 91/4
+13.1: Shakib Al Hasan faced A Zampa, scored 1 runs. Team score: 92/4
+13.2: Mahmudullah faced A Zampa, scored 1 runs. Team score: 93/4
+13.3: Shakib Al Hasan faced A Zampa, scored 1 runs. Team score: 94/4
+13.4: Mahmudullah faced A Zampa, scored 1 runs. Team score: 95/4
+13.5: Shakib Al Hasan faced A Zampa, scored 0 runs. Team score: 95/4
+13.6: Shakib Al Hasan faced A Zampa, scored 1 runs. Team score: 96/4
+14.1: Shakib Al Hasan faced JP Faulkner, scored 1 runs. Team score: 97/4
+14.2: Mahmudullah faced JP Faulkner, scored 1 runs. Team score: 98/4
+14.3: Shakib Al Hasan faced JP Faulkner, scored 4 runs. Team score: 102/4
+14.4: Shakib Al Hasan faced JP Faulkner, scored 0 runs. Team score: 102/4
+14.5: Shakib Al Hasan faced JP Faulkner, scored 1 runs. Team score: 103/4
+14.6: Mahmudullah faced JP Faulkner, scored 1 runs. Team score: 104/4
+15.1: Mahmudullah faced A Zampa, scored 1 runs. Team score: 105/4
+15.2: Shakib Al Hasan faced A Zampa, scored 0 runs. Team score: 105/4
+caught!, Batsman: Shakib Al Hasan (33 runs from 25 balls), Bowler: A Zampa (figures: 3/21). Fielders involved: NM Coulter-Nile. Team score: 105/5
+15.3: Mushfiqur Rahim faced A Zampa, scored 1 runs. Team score: 106/5
+15.4: Mahmudullah faced A Zampa, scored 1 runs. Team score: 107/5
+15.5: Mushfiqur Rahim faced A Zampa, scored 0 runs. Team score: 107/5
+15.6: Mushfiqur Rahim faced A Zampa, scored 1 runs. Team score: 108/5
+16.1: Mushfiqur Rahim faced SR Watson, scored 1 runs. Team score: 109/5
+16.2: Mahmudullah faced SR Watson, scored 1 runs. Team score: 110/5
+16.3: Mushfiqur Rahim faced SR Watson, scored 1 runs. Team score: 111/5
+16.4: Mahmudullah faced SR Watson, scored 0 runs. Team score: 111/5
+16.5: Mahmudullah faced SR Watson, scored 1 runs. Team score: 112/5
+16.6: Mushfiqur Rahim faced SR Watson, scored 0 runs. Team score: 112/5
+17.1: Mahmudullah faced JP Faulkner, scored 4 runs. Team score: 116/5
+17.2: Mahmudullah faced JP Faulkner, scored 4 runs. Team score: 120/5
+17.3: Mahmudullah faced JP Faulkner, scored 1 runs. Team score: 121/5
+17.4: Mushfiqur Rahim faced JP Faulkner, scored 4 runs. Team score: 125/5
+17.5: Mushfiqur Rahim faced JP Faulkner, scored 1 runs. Team score: 126/5
+17.6: Mahmudullah faced JP Faulkner, scored 1 runs. Team score: 127/5
+18.1: Mahmudullah faced SR Watson, scored 2 runs. Team score: 129/5
+18.2: Mahmudullah faced SR Watson, scored 1 runs. Team score: 130/5
+18.3: Mahmudullah faced SR Watson, scored 4 runs. Team score: 134/5
+18.4: Mahmudullah faced SR Watson, scored 1 runs. Team score: 135/5
+18.5: Mushfiqur Rahim faced SR Watson, scored 4 runs. Team score: 139/5
+18.6: Mushfiqur Rahim faced SR Watson, scored 1 runs. Team score: 140/5
+18.0: Mahmudullah faced SR Watson, scored 4 runs. Team score: 144/5
+19.1: Mushfiqur Rahim faced NM Coulter-Nile, scored 1 runs. Team score: 145/5
+19.2: Mahmudullah faced NM Coulter-Nile, scored 4 runs. Team score: 149/5
+19.3: Mahmudullah faced NM Coulter-Nile, scored 4 runs. Team score: 153/5
+19.4: Mahmudullah faced NM Coulter-Nile, scored 2 runs. Team score: 155/5
+19.5: Mahmudullah faced NM Coulter-Nile, scored 0 runs. Team score: 155/5
+19.6: Mahmudullah faced NM Coulter-Nile, scored 1 runs. Team score: 156/5
+End of innings for Bangladesh: 156/5 in 20.0 overs
+Batsman scores:
+Mohammad Mithun: 25 runs from 23 balls
+Soumya Sarkar: 1 runs from 6 balls
+Sabbir Rahman: 17 runs from 18 balls
+Shakib Al Hasan: 33 runs from 25 balls
+Shuvagata Hom: 13 runs from 10 balls
+Mahmudullah: 52 runs from 30 balls
+Mushfiqur Rahim: 15 runs from 11 balls
+Bowler figures:
+NM Coulter-Nile: 0 wickets for 25 runs
+SR Watson: 2 wickets for 32 runs
+JW Hastings: 0 wickets for 24 runs
+MR Marsh: 0 wickets for 12 runs
+GJ Maxwell: 0 wickets for 12 runs
+A Zampa: 3 wickets for 24 runs
+JP Faulkner: 0 wickets for 27 runs
+
+Innings 2:
+0.1: UT Khawaja faced Mashrafe Mortaza, scored 0 runs. Team score: 0/0
+0.2: UT Khawaja faced Mashrafe Mortaza, scored 0 runs. Team score: 0/0
+0.3: UT Khawaja faced Mashrafe Mortaza, scored 2 runs. Team score: 2/0
+0.4: UT Khawaja faced Mashrafe Mortaza, scored 6 runs. Team score: 8/0
+0.5: UT Khawaja faced Mashrafe Mortaza, scored 0 runs. Team score: 8/0
+0.6: UT Khawaja faced Mashrafe Mortaza, scored 1 runs. Team score: 9/0
+1.1: UT Khawaja faced Mahmudullah, scored 1 runs. Team score: 10/0
+1.2: SR Watson faced Mahmudullah, scored 0 runs. Team score: 10/0
+1.3: SR Watson faced Mahmudullah, scored 1 runs. Team score: 11/0
+1.4: UT Khawaja faced Mahmudullah, scored 1 runs. Team score: 12/0
+1.5: SR Watson faced Mahmudullah, scored 1 runs. Team score: 13/0
+1.6: UT Khawaja faced Mahmudullah, scored 1 runs. Team score: 14/0
+2.1: UT Khawaja faced Al-Amin Hossain, scored 0 runs. Team score: 14/0
+2.2: UT Khawaja faced Al-Amin Hossain, scored 4 runs. Team score: 18/0
+2.3: UT Khawaja faced Al-Amin Hossain, scored 0 runs. Team score: 18/0
+2.4: UT Khawaja faced Al-Amin Hossain, scored 1 runs. Team score: 19/0
+2.5: SR Watson faced Al-Amin Hossain, scored 1 runs. Team score: 20/0
+2.6: UT Khawaja faced Al-Amin Hossain, scored 4 runs. Team score: 24/0
+3.1: SR Watson faced Mustafizur Rahman, scored 1 runs. Team score: 25/0
+3.2: SR Watson faced Mustafizur Rahman, scored 1 runs. Team score: 26/0
+3.3: UT Khawaja faced Mustafizur Rahman, scored 0 runs. Team score: 26/0
+3.4: UT Khawaja faced Mustafizur Rahman, scored 0 runs. Team score: 26/0
+3.5: UT Khawaja faced Mustafizur Rahman, scored 0 runs. Team score: 26/0
+3.6: UT Khawaja faced Mustafizur Rahman, scored 1 runs. Team score: 27/0
+3.0: SR Watson faced Mustafizur Rahman, scored 4 runs. Team score: 31/0
+4.1: UT Khawaja faced Shakib Al Hasan, scored 0 runs. Team score: 31/0
+4.2: UT Khawaja faced Shakib Al Hasan, scored 0 runs. Team score: 31/0
+4.3: UT Khawaja faced Shakib Al Hasan, scored 4 runs. Team score: 35/0
+4.4: UT Khawaja faced Shakib Al Hasan, scored 4 runs. Team score: 39/0
+4.5: UT Khawaja faced Shakib Al Hasan, scored 4 runs. Team score: 43/0
+4.6: UT Khawaja faced Shakib Al Hasan, scored 1 runs. Team score: 44/0
+5.1: UT Khawaja faced Mustafizur Rahman, scored 1 runs. Team score: 45/0
+5.2: SR Watson faced Mustafizur Rahman, scored 4 runs. Team score: 49/0
+5.3: SR Watson faced Mustafizur Rahman, scored 0 runs. Team score: 49/0
+5.4: SR Watson faced Mustafizur Rahman, scored 1 runs. Team score: 50/0
+5.5: UT Khawaja faced Mustafizur Rahman, scored 1 runs. Team score: 51/0
+5.6: SR Watson faced Mustafizur Rahman, scored 0 runs. Team score: 51/0
+6.1: UT Khawaja faced Saqlain Sajib, scored 1 runs. Team score: 52/0
+6.2: SR Watson faced Saqlain Sajib, scored 1 runs. Team score: 53/0
+6.3: UT Khawaja faced Saqlain Sajib, scored 1 runs. Team score: 54/0
+6.4: SR Watson faced Saqlain Sajib, scored 0 runs. Team score: 54/0
+6.5: SR Watson faced Saqlain Sajib, scored 0 runs. Team score: 54/0
+6.6: SR Watson faced Saqlain Sajib, scored 6 runs. Team score: 60/0
+7.1: UT Khawaja faced Shuvagata Hom, scored 1 runs. Team score: 61/0
+7.2: SR Watson faced Shuvagata Hom, scored 1 runs. Team score: 62/0
+run out!, Batsman: SR Watson (22 runs from 16 balls), Bowler: Shuvagata Hom (figures: 1/2). Fielders involved: Sabbir Rahman, Mushfiqur Rahim. Team score: 62/1
+7.3: SPD Smith faced Shuvagata Hom, scored 1 runs. Team score: 63/1
+7.4: UT Khawaja faced Shuvagata Hom, scored 1 runs. Team score: 64/1
+7.5: SPD Smith faced Shuvagata Hom, scored 1 runs. Team score: 65/1
+7.6: UT Khawaja faced Shuvagata Hom, scored 1 runs. Team score: 66/1
+8.1: UT Khawaja faced Shakib Al Hasan, scored 4 runs. Team score: 70/1
+8.2: UT Khawaja faced Shakib Al Hasan, scored 1 runs. Team score: 71/1
+8.3: SPD Smith faced Shakib Al Hasan, scored 0 runs. Team score: 71/1
+8.4: SPD Smith faced Shakib Al Hasan, scored 1 runs. Team score: 72/1
+8.5: UT Khawaja faced Shakib Al Hasan, scored 1 runs. Team score: 73/1
+8.6: SPD Smith faced Shakib Al Hasan, scored 1 runs. Team score: 74/1
+9.1: SPD Smith faced Shuvagata Hom, scored 1 runs. Team score: 75/1
+9.2: UT Khawaja faced Shuvagata Hom, scored 0 runs. Team score: 75/1
+9.3: UT Khawaja faced Shuvagata Hom, scored 1 runs. Team score: 76/1
+9.4: SPD Smith faced Shuvagata Hom, scored 1 runs. Team score: 77/1
+9.5: UT Khawaja faced Shuvagata Hom, scored 4 runs. Team score: 81/1
+9.6: UT Khawaja faced Shuvagata Hom, scored 1 runs. Team score: 82/1
+10.1: UT Khawaja faced Saqlain Sajib, scored 1 runs. Team score: 83/1
+10.2: SPD Smith faced Saqlain Sajib, scored 6 runs. Team score: 89/1
+10.3: SPD Smith faced Saqlain Sajib, scored 0 runs. Team score: 89/1
+10.4: SPD Smith faced Saqlain Sajib, scored 1 runs. Team score: 90/1
+10.5: UT Khawaja faced Saqlain Sajib, scored 2 runs. Team score: 92/1
+10.6: SPD Smith faced Saqlain Sajib, scored 1 runs. Team score: 93/1
+10.0: UT Khawaja faced Saqlain Sajib, scored 1 runs. Team score: 94/1
+11.1: UT Khawaja faced Mustafizur Rahman, scored 1 runs. Team score: 95/1
+11.2: SPD Smith faced Mustafizur Rahman, scored 0 runs. Team score: 95/1
+11.3: SPD Smith faced Mustafizur Rahman, scored 0 runs. Team score: 95/1
+bowled!, Batsman: SPD Smith (14 runs from 13 balls), Bowler: Mustafizur Rahman (figures: 1/15). Fielders involved: None. Team score: 95/2
+11.4: DA Warner faced Mustafizur Rahman, scored 1 runs. Team score: 96/2
+11.5: UT Khawaja faced Mustafizur Rahman, scored 2 runs. Team score: 98/2
+11.6: UT Khawaja faced Mustafizur Rahman, scored 0 runs. Team score: 98/2
+12.1: DA Warner faced Mahmudullah, scored 4 runs. Team score: 102/2
+12.2: DA Warner faced Mahmudullah, scored 6 runs. Team score: 108/2
+12.3: DA Warner faced Mahmudullah, scored 2 runs. Team score: 110/2
+12.4: DA Warner faced Mahmudullah, scored 1 runs. Team score: 111/2
+12.5: UT Khawaja faced Mahmudullah, scored 1 runs. Team score: 112/2
+12.6: DA Warner faced Mahmudullah, scored 1 runs. Team score: 113/2
+12.0: DA Warner faced Mahmudullah, scored 2 runs. Team score: 115/2
+13.1: UT Khawaja faced Al-Amin Hossain, scored 0 runs. Team score: 115/2
+bowled!, Batsman: UT Khawaja (62 runs from 46 balls), Bowler: Al-Amin Hossain (figures: 1/10). Fielders involved: None. Team score: 115/3
+13.2: GJ Maxwell faced Al-Amin Hossain, scored 0 runs. Team score: 115/3
+13.3: GJ Maxwell faced Al-Amin Hossain, scored 0 runs. Team score: 115/3
+13.4: GJ Maxwell faced Al-Amin Hossain, scored 1 runs. Team score: 116/3
+13.5: DA Warner faced Al-Amin Hossain, scored 1 runs. Team score: 117/3
+13.6: GJ Maxwell faced Al-Amin Hossain, scored 2 runs. Team score: 119/3
+14.1: DA Warner faced Shakib Al Hasan, scored 0 runs. Team score: 119/3
+14.2: DA Warner faced Shakib Al Hasan, scored 0 runs. Team score: 119/3
+caught and bowled!, Batsman: DA Warner (18 runs from 10 balls), Bowler: Shakib Al Hasan (figures: 1/21). Fielders involved: None. Team score: 119/4
+14.3: MR Marsh faced Shakib Al Hasan, scored 0 runs. Team score: 119/4
+14.4: MR Marsh faced Shakib Al Hasan, scored 1 runs. Team score: 120/4
+14.5: GJ Maxwell faced Shakib Al Hasan, scored 0 runs. Team score: 120/4
+14.6: GJ Maxwell faced Shakib Al Hasan, scored 1 runs. Team score: 121/4
+15.1: GJ Maxwell faced Saqlain Sajib, scored 0 runs. Team score: 121/4
+15.2: GJ Maxwell faced Saqlain Sajib, scored 4 runs. Team score: 125/4
+15.3: GJ Maxwell faced Saqlain Sajib, scored 1 runs. Team score: 126/4
+15.4: MR Marsh faced Saqlain Sajib, scored 4 runs. Team score: 130/4
+15.5: MR Marsh faced Saqlain Sajib, scored 1 runs. Team score: 131/4
+15.6: GJ Maxwell faced Saqlain Sajib, scored 4 runs. Team score: 135/4
+16.1: MR Marsh faced Mustafizur Rahman, scored 0 runs. Team score: 135/4
+16.2: MR Marsh faced Mustafizur Rahman, scored 0 runs. Team score: 135/4
+caught!, Batsman: MR Marsh (6 runs from 6 balls), Bowler: Mustafizur Rahman (figures: 2/18). Fielders involved: Shakib Al Hasan. Team score: 135/5
+16.3: GJ Maxwell faced Mustafizur Rahman, scored 6 runs. Team score: 141/5
+16.4: GJ Maxwell faced Mustafizur Rahman, scored 0 runs. Team score: 141/5
+16.5: GJ Maxwell faced Mustafizur Rahman, scored 6 runs. Team score: 147/5
+16.6: GJ Maxwell faced Mustafizur Rahman, scored 1 runs. Team score: 148/5
+17.1: GJ Maxwell faced Shakib Al Hasan, scored 0 runs. Team score: 148/5
+stumped!, Batsman: GJ Maxwell (26 runs from 15 balls), Bowler: Shakib Al Hasan (figures: 2/23). Fielders involved: Mushfiqur Rahim. Team score: 148/6
+17.2: JW Hastings faced Shakib Al Hasan, scored 0 runs. Team score: 148/6
+17.3: JW Hastings faced Shakib Al Hasan, scored 1 runs. Team score: 149/6
+17.4: JP Faulkner faced Shakib Al Hasan, scored 1 runs. Team score: 150/6
+17.5: JW Hastings faced Shakib Al Hasan, scored 2 runs. Team score: 152/6
+17.6: JW Hastings faced Shakib Al Hasan, scored 0 runs. Team score: 152/6
+caught!, Batsman: JW Hastings (3 runs from 4 balls), Bowler: Shakib Al Hasan (figures: 3/27). Fielders involved: Soumya Sarkar. Team score: 152/7
+18.1: PM Nevill faced Saqlain Sajib, scored 1 runs. Team score: 153/7
+18.2: JP Faulkner faced Saqlain Sajib, scored 0 runs. Team score: 153/7
+18.3: JP Faulkner faced Saqlain Sajib, scored 4 runs. Team score: 157/7
+End of innings for Australia: 157/7 in 19.3 overs
+Batsman scores:
+UT Khawaja: 62 runs from 46 balls
+SR Watson: 22 runs from 16 balls
+SPD Smith: 14 runs from 13 balls
+DA Warner: 18 runs from 10 balls
+GJ Maxwell: 26 runs from 15 balls
+MR Marsh: 6 runs from 6 balls
+JW Hastings: 3 runs from 4 balls
+JP Faulkner: 5 runs from 3 balls
+PM Nevill: 1 runs from 1 balls
+Bowler figures:
+Mashrafe Mortaza: 0 wickets for 9 runs
+Mahmudullah: 0 wickets for 22 runs
+Al-Amin Hossain: 1 wickets for 14 runs
+Mustafizur Rahman: 2 wickets for 31 runs
+Shakib Al Hasan: 3 wickets for 27 runs
+Saqlain Sajib: 0 wickets for 40 runs
+Shuvagata Hom: 1 wickets for 14 runs
+

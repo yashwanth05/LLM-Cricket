@@ -1,0 +1,302 @@
+Match: World T20 - T20
+Date: 2014-03-17
+Venue: Sylhet Stadium
+Teams: Ireland vs Zimbabwe
+Toss: Ireland won the toss and decided to field
+Result: Ireland won by 3 wickets
+Man of the Match: PR Stirling
+
+Innings 1:
+0.1: H Masakadza faced PR Stirling, scored 1 runs. Team score: 1/0
+0.2: Sikandar Raza faced PR Stirling, scored 0 runs. Team score: 1/0
+0.3: Sikandar Raza faced PR Stirling, scored 0 runs. Team score: 1/0
+0.4: Sikandar Raza faced PR Stirling, scored 1 runs. Team score: 2/0
+0.5: H Masakadza faced PR Stirling, scored 0 runs. Team score: 2/0
+0.6: H Masakadza faced PR Stirling, scored 2 runs. Team score: 4/0
+1.1: Sikandar Raza faced AR Cusack, scored 4 runs. Team score: 8/0
+1.2: Sikandar Raza faced AR Cusack, scored 4 runs. Team score: 12/0
+1.3: Sikandar Raza faced AR Cusack, scored 2 runs. Team score: 14/0
+1.4: Sikandar Raza faced AR Cusack, scored 0 runs. Team score: 14/0
+1.5: Sikandar Raza faced AR Cusack, scored 0 runs. Team score: 14/0
+caught!, Batsman: Sikandar Raza (11 runs from 8 balls), Bowler: AR Cusack (figures: 1/10). Fielders involved: MC Sorensen. Team score: 14/1
+1.6: BRM Taylor faced AR Cusack, scored 2 runs. Team score: 16/1
+2.1: H Masakadza faced PR Stirling, scored 0 runs. Team score: 16/1
+2.2: H Masakadza faced PR Stirling, scored 0 runs. Team score: 16/1
+2.3: H Masakadza faced PR Stirling, scored 1 runs. Team score: 17/1
+2.4: BRM Taylor faced PR Stirling, scored 4 runs. Team score: 21/1
+2.5: BRM Taylor faced PR Stirling, scored 1 runs. Team score: 22/1
+2.6: H Masakadza faced PR Stirling, scored 1 runs. Team score: 23/1
+3.1: H Masakadza faced MC Sorensen, scored 0 runs. Team score: 23/1
+3.2: H Masakadza faced MC Sorensen, scored 4 runs. Team score: 27/1
+3.3: H Masakadza faced MC Sorensen, scored 4 runs. Team score: 31/1
+3.4: H Masakadza faced MC Sorensen, scored 1 runs. Team score: 32/1
+3.5: BRM Taylor faced MC Sorensen, scored 1 runs. Team score: 33/1
+3.6: H Masakadza faced MC Sorensen, scored 2 runs. Team score: 35/1
+4.1: BRM Taylor faced GH Dockrell, scored 0 runs. Team score: 35/1
+4.2: BRM Taylor faced GH Dockrell, scored 0 runs. Team score: 35/1
+4.3: BRM Taylor faced GH Dockrell, scored 0 runs. Team score: 35/1
+4.4: BRM Taylor faced GH Dockrell, scored 1 runs. Team score: 36/1
+4.5: H Masakadza faced GH Dockrell, scored 1 runs. Team score: 37/1
+4.6: BRM Taylor faced GH Dockrell, scored 4 runs. Team score: 41/1
+5.1: H Masakadza faced AR Cusack, scored 4 runs. Team score: 45/1
+5.2: H Masakadza faced AR Cusack, scored 1 runs. Team score: 46/1
+5.3: BRM Taylor faced AR Cusack, scored 6 runs. Team score: 52/1
+5.4: BRM Taylor faced AR Cusack, scored 0 runs. Team score: 52/1
+5.5: BRM Taylor faced AR Cusack, scored 0 runs. Team score: 52/1
+5.6: BRM Taylor faced AR Cusack, scored 4 runs. Team score: 56/1
+6.1: H Masakadza faced AR McBrine, scored 0 runs. Team score: 56/1
+6.2: H Masakadza faced AR McBrine, scored 0 runs. Team score: 56/1
+caught!, Batsman: H Masakadza (22 runs from 17 balls), Bowler: AR McBrine (figures: 1/0). Fielders involved: WTS Porterfield. Team score: 56/2
+6.3: SC Williams faced AR McBrine, scored 2 runs. Team score: 58/2
+6.4: SC Williams faced AR McBrine, scored 6 runs. Team score: 64/2
+6.5: SC Williams faced AR McBrine, scored 1 runs. Team score: 65/2
+6.6: BRM Taylor faced AR McBrine, scored 1 runs. Team score: 66/2
+7.1: BRM Taylor faced GH Dockrell, scored 2 runs. Team score: 68/2
+7.2: BRM Taylor faced GH Dockrell, scored 1 runs. Team score: 69/2
+7.3: SC Williams faced GH Dockrell, scored 1 runs. Team score: 70/2
+7.4: BRM Taylor faced GH Dockrell, scored 0 runs. Team score: 70/2
+7.5: BRM Taylor faced GH Dockrell, scored 1 runs. Team score: 71/2
+7.6: SC Williams faced GH Dockrell, scored 1 runs. Team score: 72/2
+8.1: SC Williams faced AR McBrine, scored 0 runs. Team score: 72/2
+8.2: SC Williams faced AR McBrine, scored 4 runs. Team score: 76/2
+8.3: SC Williams faced AR McBrine, scored 1 runs. Team score: 77/2
+8.4: BRM Taylor faced AR McBrine, scored 1 runs. Team score: 78/2
+8.5: SC Williams faced AR McBrine, scored 0 runs. Team score: 78/2
+stumped!, Batsman: SC Williams (16 runs from 9 balls), Bowler: AR McBrine (figures: 2/16). Fielders involved: GC Wilson. Team score: 78/3
+8.6: V Sibanda faced AR McBrine, scored 1 runs. Team score: 79/3
+9.1: V Sibanda faced PR Stirling, scored 1 runs. Team score: 80/3
+9.2: BRM Taylor faced PR Stirling, scored 1 runs. Team score: 81/3
+9.3: BRM Taylor faced PR Stirling, scored 1 runs. Team score: 82/3
+9.4: V Sibanda faced PR Stirling, scored 1 runs. Team score: 83/3
+9.5: BRM Taylor faced PR Stirling, scored 1 runs. Team score: 84/3
+9.6: V Sibanda faced PR Stirling, scored 1 runs. Team score: 85/3
+9.0: BRM Taylor faced PR Stirling, scored 0 runs. Team score: 85/3
+10.1: V Sibanda faced AR McBrine, scored 1 runs. Team score: 86/3
+10.2: BRM Taylor faced AR McBrine, scored 0 runs. Team score: 86/3
+10.3: BRM Taylor faced AR McBrine, scored 1 runs. Team score: 87/3
+10.4: V Sibanda faced AR McBrine, scored 1 runs. Team score: 88/3
+10.5: BRM Taylor faced AR McBrine, scored 1 runs. Team score: 89/3
+10.6: V Sibanda faced AR McBrine, scored 1 runs. Team score: 90/3
+11.1: V Sibanda faced PR Stirling, scored 1 runs. Team score: 91/3
+11.2: BRM Taylor faced PR Stirling, scored 6 runs. Team score: 97/3
+11.3: BRM Taylor faced PR Stirling, scored 1 runs. Team score: 98/3
+11.4: V Sibanda faced PR Stirling, scored 1 runs. Team score: 99/3
+11.5: BRM Taylor faced PR Stirling, scored 0 runs. Team score: 99/3
+11.6: BRM Taylor faced PR Stirling, scored 0 runs. Team score: 99/3
+12.1: V Sibanda faced AR McBrine, scored 0 runs. Team score: 99/3
+12.2: V Sibanda faced AR McBrine, scored 1 runs. Team score: 100/3
+12.3: BRM Taylor faced AR McBrine, scored 1 runs. Team score: 101/3
+12.4: V Sibanda faced AR McBrine, scored 1 runs. Team score: 102/3
+12.5: BRM Taylor faced AR McBrine, scored 0 runs. Team score: 102/3
+12.6: BRM Taylor faced AR McBrine, scored 2 runs. Team score: 104/3
+13.1: V Sibanda faced KJ O'Brien, scored 0 runs. Team score: 104/3
+13.2: V Sibanda faced KJ O'Brien, scored 1 runs. Team score: 105/3
+13.3: BRM Taylor faced KJ O'Brien, scored 0 runs. Team score: 105/3
+13.4: BRM Taylor faced KJ O'Brien, scored 1 runs. Team score: 106/3
+13.5: V Sibanda faced KJ O'Brien, scored 0 runs. Team score: 106/3
+13.6: V Sibanda faced KJ O'Brien, scored 4 runs. Team score: 110/3
+14.1: BRM Taylor faced GH Dockrell, scored 1 runs. Team score: 111/3
+14.2: V Sibanda faced GH Dockrell, scored 0 runs. Team score: 111/3
+14.3: V Sibanda faced GH Dockrell, scored 0 runs. Team score: 111/3
+caught!, Batsman: V Sibanda (16 runs from 18 balls), Bowler: GH Dockrell (figures: 1/13). Fielders involved: MC Sorensen. Team score: 111/4
+14.4: BRM Taylor faced GH Dockrell, scored 2 runs. Team score: 113/4
+14.5: BRM Taylor faced GH Dockrell, scored 1 runs. Team score: 114/4
+14.6: E Chigumbura faced GH Dockrell, scored 1 runs. Team score: 115/4
+15.1: E Chigumbura faced KJ O'Brien, scored 1 runs. Team score: 116/4
+15.2: BRM Taylor faced KJ O'Brien, scored 4 runs. Team score: 120/4
+15.3: BRM Taylor faced KJ O'Brien, scored 0 runs. Team score: 120/4
+15.4: BRM Taylor faced KJ O'Brien, scored 4 runs. Team score: 124/4
+15.5: BRM Taylor faced KJ O'Brien, scored 4 runs. Team score: 128/4
+15.6: BRM Taylor faced KJ O'Brien, scored 1 runs. Team score: 129/4
+16.1: BRM Taylor faced GH Dockrell, scored 0 runs. Team score: 129/4
+16.2: BRM Taylor faced GH Dockrell, scored 1 runs. Team score: 130/4
+16.3: E Chigumbura faced GH Dockrell, scored 0 runs. Team score: 130/4
+16.4: E Chigumbura faced GH Dockrell, scored 1 runs. Team score: 131/4
+16.5: BRM Taylor faced GH Dockrell, scored 0 runs. Team score: 131/4
+16.6: BRM Taylor faced GH Dockrell, scored 0 runs. Team score: 131/4
+caught!, Batsman: BRM Taylor (63 runs from 47 balls), Bowler: GH Dockrell (figures: 2/19). Fielders involved: EC Joyce. Team score: 131/5
+17.1: T Maruma faced AR Cusack, scored 0 runs. Team score: 131/5
+17.2: T Maruma faced AR Cusack, scored 1 runs. Team score: 132/5
+17.3: E Chigumbura faced AR Cusack, scored 0 runs. Team score: 132/5
+17.4: E Chigumbura faced AR Cusack, scored 1 runs. Team score: 133/5
+17.5: T Maruma faced AR Cusack, scored 6 runs. Team score: 139/5
+17.6: T Maruma faced AR Cusack, scored 1 runs. Team score: 140/5
+18.1: T Maruma faced KJ O'Brien, scored 2 runs. Team score: 142/5
+18.2: T Maruma faced KJ O'Brien, scored 1 runs. Team score: 143/5
+18.3: E Chigumbura faced KJ O'Brien, scored 1 runs. Team score: 144/5
+18.4: T Maruma faced KJ O'Brien, scored 1 runs. Team score: 145/5
+18.5: E Chigumbura faced KJ O'Brien, scored 1 runs. Team score: 146/5
+18.6: T Maruma faced KJ O'Brien, scored 0 runs. Team score: 146/5
+19.1: E Chigumbura faced AR Cusack, scored 2 runs. Team score: 148/5
+19.2: E Chigumbura faced AR Cusack, scored 6 runs. Team score: 154/5
+19.3: E Chigumbura faced AR Cusack, scored 1 runs. Team score: 155/5
+19.4: T Maruma faced AR Cusack, scored 1 runs. Team score: 156/5
+19.5: E Chigumbura faced AR Cusack, scored 6 runs. Team score: 162/5
+19.6: E Chigumbura faced AR Cusack, scored 1 runs. Team score: 163/5
+End of innings for Zimbabwe: 163/5 in 20.0 overs
+Batsman scores:
+H Masakadza: 22 runs from 17 balls
+Sikandar Raza: 11 runs from 8 balls
+BRM Taylor: 63 runs from 47 balls
+SC Williams: 16 runs from 9 balls
+V Sibanda: 16 runs from 18 balls
+E Chigumbura: 22 runs from 13 balls
+T Maruma: 13 runs from 9 balls
+Bowler figures:
+PR Stirling: 0 wickets for 26 runs
+AR Cusack: 1 wickets for 53 runs
+MC Sorensen: 0 wickets for 12 runs
+GH Dockrell: 2 wickets for 19 runs
+AR McBrine: 2 wickets for 27 runs
+KJ O'Brien: 0 wickets for 26 runs
+
+Innings 2:
+0.1: WTS Porterfield faced P Utseya, scored 1 runs. Team score: 1/0
+0.2: PR Stirling faced P Utseya, scored 0 runs. Team score: 1/0
+0.3: PR Stirling faced P Utseya, scored 4 runs. Team score: 5/0
+0.4: PR Stirling faced P Utseya, scored 1 runs. Team score: 6/0
+0.5: WTS Porterfield faced P Utseya, scored 1 runs. Team score: 7/0
+0.6: PR Stirling faced P Utseya, scored 1 runs. Team score: 8/0
+1.1: PR Stirling faced T Kamungozi, scored 1 runs. Team score: 9/0
+1.2: WTS Porterfield faced T Kamungozi, scored 0 runs. Team score: 9/0
+1.3: WTS Porterfield faced T Kamungozi, scored 4 runs. Team score: 13/0
+1.4: WTS Porterfield faced T Kamungozi, scored 1 runs. Team score: 14/0
+1.5: PR Stirling faced T Kamungozi, scored 1 runs. Team score: 15/0
+1.6: WTS Porterfield faced T Kamungozi, scored 1 runs. Team score: 16/0
+2.1: WTS Porterfield faced TL Chatara, scored 0 runs. Team score: 16/0
+2.2: WTS Porterfield faced TL Chatara, scored 2 runs. Team score: 18/0
+2.3: WTS Porterfield faced TL Chatara, scored 0 runs. Team score: 18/0
+2.4: WTS Porterfield faced TL Chatara, scored 0 runs. Team score: 18/0
+2.5: WTS Porterfield faced TL Chatara, scored 1 runs. Team score: 19/0
+2.6: PR Stirling faced TL Chatara, scored 0 runs. Team score: 19/0
+3.1: WTS Porterfield faced P Utseya, scored 4 runs. Team score: 23/0
+3.2: WTS Porterfield faced P Utseya, scored 1 runs. Team score: 24/0
+3.3: PR Stirling faced P Utseya, scored 0 runs. Team score: 24/0
+3.4: PR Stirling faced P Utseya, scored 1 runs. Team score: 25/0
+3.5: WTS Porterfield faced P Utseya, scored 6 runs. Team score: 31/0
+3.6: WTS Porterfield faced P Utseya, scored 0 runs. Team score: 31/0
+4.1: PR Stirling faced TL Chatara, scored 4 runs. Team score: 35/0
+4.2: PR Stirling faced TL Chatara, scored 1 runs. Team score: 36/0
+4.3: WTS Porterfield faced TL Chatara, scored 0 runs. Team score: 36/0
+4.4: WTS Porterfield faced TL Chatara, scored 1 runs. Team score: 37/0
+4.5: PR Stirling faced TL Chatara, scored 1 runs. Team score: 38/0
+4.6: WTS Porterfield faced TL Chatara, scored 1 runs. Team score: 39/0
+4.0: WTS Porterfield faced TL Chatara, scored 4 runs. Team score: 43/0
+5.1: PR Stirling faced T Panyangara, scored 4 runs. Team score: 47/0
+5.2: PR Stirling faced T Panyangara, scored 4 runs. Team score: 51/0
+5.3: PR Stirling faced T Panyangara, scored 4 runs. Team score: 55/0
+5.4: PR Stirling faced T Panyangara, scored 4 runs. Team score: 59/0
+5.5: PR Stirling faced T Panyangara, scored 0 runs. Team score: 59/0
+5.6: PR Stirling faced T Panyangara, scored 2 runs. Team score: 61/0
+6.1: WTS Porterfield faced SC Williams, scored 1 runs. Team score: 62/0
+6.2: PR Stirling faced SC Williams, scored 0 runs. Team score: 62/0
+6.3: PR Stirling faced SC Williams, scored 1 runs. Team score: 63/0
+6.4: WTS Porterfield faced SC Williams, scored 1 runs. Team score: 64/0
+6.5: WTS Porterfield faced SC Williams, scored 1 runs. Team score: 65/0
+6.6: PR Stirling faced SC Williams, scored 1 runs. Team score: 66/0
+6.0: WTS Porterfield faced SC Williams, scored 1 runs. Team score: 67/0
+7.1: WTS Porterfield faced H Masakadza, scored 1 runs. Team score: 68/0
+7.2: PR Stirling faced H Masakadza, scored 0 runs. Team score: 68/0
+7.3: PR Stirling faced H Masakadza, scored 4 runs. Team score: 72/0
+7.4: PR Stirling faced H Masakadza, scored 4 runs. Team score: 76/0
+7.5: PR Stirling faced H Masakadza, scored 2 runs. Team score: 78/0
+7.6: PR Stirling faced H Masakadza, scored 1 runs. Team score: 79/0
+8.1: PR Stirling faced SC Williams, scored 1 runs. Team score: 80/0
+8.2: WTS Porterfield faced SC Williams, scored 0 runs. Team score: 80/0
+caught!, Batsman: WTS Porterfield (33 runs from 25 balls), Bowler: SC Williams (figures: 1/7). Fielders involved: T Maruma. Team score: 80/1
+8.3: PR Stirling faced SC Williams, scored 1 runs. Team score: 81/1
+8.4: EC Joyce faced SC Williams, scored 1 runs. Team score: 82/1
+8.5: PR Stirling faced SC Williams, scored 6 runs. Team score: 88/1
+8.6: PR Stirling faced SC Williams, scored 1 runs. Team score: 89/1
+9.1: PR Stirling faced P Utseya, scored 4 runs. Team score: 93/1
+9.2: PR Stirling faced P Utseya, scored 1 runs. Team score: 94/1
+9.3: EC Joyce faced P Utseya, scored 1 runs. Team score: 95/1
+9.4: PR Stirling faced P Utseya, scored 1 runs. Team score: 96/1
+9.5: EC Joyce faced P Utseya, scored 2 runs. Team score: 98/1
+9.6: EC Joyce faced P Utseya, scored 1 runs. Team score: 99/1
+10.1: EC Joyce faced TL Chatara, scored 0 runs. Team score: 99/1
+10.2: EC Joyce faced TL Chatara, scored 1 runs. Team score: 100/1
+10.3: PR Stirling faced TL Chatara, scored 0 runs. Team score: 100/1
+caught!, Batsman: PR Stirling (61 runs from 34 balls), Bowler: TL Chatara (figures: 1/16). Fielders involved: Sikandar Raza. Team score: 100/2
+10.4: EC Joyce faced TL Chatara, scored 1 runs. Team score: 101/2
+10.5: AD Poynter faced TL Chatara, scored 1 runs. Team score: 102/2
+10.6: EC Joyce faced TL Chatara, scored 0 runs. Team score: 102/2
+11.1: AD Poynter faced SC Williams, scored 0 runs. Team score: 102/2
+11.2: AD Poynter faced SC Williams, scored 2 runs. Team score: 104/2
+11.3: AD Poynter faced SC Williams, scored 4 runs. Team score: 108/2
+11.4: AD Poynter faced SC Williams, scored 1 runs. Team score: 109/2
+11.5: EC Joyce faced SC Williams, scored 1 runs. Team score: 110/2
+11.6: AD Poynter faced SC Williams, scored 1 runs. Team score: 111/2
+12.1: AD Poynter faced T Kamungozi, scored 0 runs. Team score: 111/2
+12.2: AD Poynter faced T Kamungozi, scored 2 runs. Team score: 113/2
+12.3: AD Poynter faced T Kamungozi, scored 1 runs. Team score: 114/2
+12.4: EC Joyce faced T Kamungozi, scored 1 runs. Team score: 115/2
+12.5: AD Poynter faced T Kamungozi, scored 4 runs. Team score: 119/2
+12.6: AD Poynter faced T Kamungozi, scored 1 runs. Team score: 120/2
+13.1: AD Poynter faced H Masakadza, scored 1 runs. Team score: 121/2
+13.2: EC Joyce faced H Masakadza, scored 0 runs. Team score: 121/2
+13.3: EC Joyce faced H Masakadza, scored 1 runs. Team score: 122/2
+13.4: AD Poynter faced H Masakadza, scored 1 runs. Team score: 123/2
+13.5: EC Joyce faced H Masakadza, scored 1 runs. Team score: 124/2
+13.6: AD Poynter faced H Masakadza, scored 4 runs. Team score: 128/2
+14.1: EC Joyce faced T Panyangara, scored 0 runs. Team score: 128/2
+14.2: EC Joyce faced T Panyangara, scored 0 runs. Team score: 128/2
+14.3: EC Joyce faced T Panyangara, scored 1 runs. Team score: 129/2
+14.4: AD Poynter faced T Panyangara, scored 0 runs. Team score: 129/2
+caught!, Batsman: AD Poynter (23 runs from 15 balls), Bowler: T Panyangara (figures: 1/19). Fielders involved: E Chigumbura. Team score: 129/3
+14.5: GC Wilson faced T Panyangara, scored 0 runs. Team score: 129/3
+14.6: GC Wilson faced T Panyangara, scored 0 runs. Team score: 129/3
+caught!, Batsman: GC Wilson (0 runs from 2 balls), Bowler: T Panyangara (figures: 2/19). Fielders involved: H Masakadza. Team score: 129/4
+15.1: EC Joyce faced P Utseya, scored 1 runs. Team score: 130/4
+15.2: KJ O'Brien faced P Utseya, scored 1 runs. Team score: 131/4
+15.3: KJ O'Brien faced P Utseya, scored 1 runs. Team score: 132/4
+15.4: EC Joyce faced P Utseya, scored 1 runs. Team score: 133/4
+15.5: KJ O'Brien faced P Utseya, scored 1 runs. Team score: 134/4
+15.6: EC Joyce faced P Utseya, scored 2 runs. Team score: 136/4
+15.0: EC Joyce faced P Utseya, scored 1 runs. Team score: 137/4
+16.1: EC Joyce faced SC Williams, scored 1 runs. Team score: 138/4
+16.2: KJ O'Brien faced SC Williams, scored 0 runs. Team score: 138/4
+16.3: KJ O'Brien faced SC Williams, scored 0 runs. Team score: 138/4
+16.4: KJ O'Brien faced SC Williams, scored 1 runs. Team score: 139/4
+16.5: EC Joyce faced SC Williams, scored 0 runs. Team score: 139/4
+16.6: EC Joyce faced SC Williams, scored 2 runs. Team score: 141/4
+17.1: KJ O'Brien faced T Panyangara, scored 6 runs. Team score: 147/4
+17.2: KJ O'Brien faced T Panyangara, scored 4 runs. Team score: 151/4
+17.3: KJ O'Brien faced T Panyangara, scored 1 runs. Team score: 152/4
+17.4: EC Joyce faced T Panyangara, scored 1 runs. Team score: 153/4
+17.5: KJ O'Brien faced T Panyangara, scored 4 runs. Team score: 157/4
+17.6: KJ O'Brien faced T Panyangara, scored 0 runs. Team score: 157/4
+caught!, Batsman: KJ O'Brien (19 runs from 11 balls), Bowler: T Panyangara (figures: 3/35). Fielders involved: SC Williams. Team score: 157/5
+18.1: EC Joyce faced TL Chatara, scored 1 runs. Team score: 158/5
+18.2: SR Thompson faced TL Chatara, scored 0 runs. Team score: 158/5
+18.3: SR Thompson faced TL Chatara, scored 0 runs. Team score: 158/5
+18.4: SR Thompson faced TL Chatara, scored 1 runs. Team score: 159/5
+18.5: EC Joyce faced TL Chatara, scored 1 runs. Team score: 160/5
+18.6: SR Thompson faced TL Chatara, scored 0 runs. Team score: 160/5
+19.1: EC Joyce faced T Panyangara, scored 1 runs. Team score: 161/5
+19.2: SR Thompson faced T Panyangara, scored 1 runs. Team score: 162/5
+19.3: EC Joyce faced T Panyangara, scored 0 runs. Team score: 162/5
+bowled!, Batsman: EC Joyce (24 runs from 28 balls), Bowler: T Panyangara (figures: 4/37). Fielders involved: None. Team score: 162/6
+19.4: MC Sorensen faced T Panyangara, scored 0 runs. Team score: 162/6
+run out!, Batsman: MC Sorensen (0 runs from 1 balls), Bowler: T Panyangara (figures: 5/37). Fielders involved: SC Williams. Team score: 162/7
+19.5: SR Thompson faced T Panyangara, scored 1 runs. Team score: 163/7
+19.6: AR Cusack faced T Panyangara, scored 1 runs. Team score: 164/7
+End of innings for Ireland: 164/7 in 20.0 overs
+Batsman scores:
+WTS Porterfield: 33 runs from 25 balls
+PR Stirling: 61 runs from 34 balls
+EC Joyce: 24 runs from 28 balls
+AD Poynter: 23 runs from 15 balls
+GC Wilson: 0 runs from 2 balls
+KJ O'Brien: 19 runs from 11 balls
+SR Thompson: 3 runs from 6 balls
+MC Sorensen: 0 runs from 1 balls
+AR Cusack: 1 runs from 1 balls
+Bowler figures:
+P Utseya: 0 wickets for 38 runs
+T Kamungozi: 0 wickets for 17 runs
+TL Chatara: 1 wickets for 21 runs
+T Panyangara: 5 wickets for 39 runs
+SC Williams: 1 wickets for 29 runs
+H Masakadza: 0 wickets for 20 runs
+

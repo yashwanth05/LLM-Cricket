@@ -1,0 +1,313 @@
+Match: World T20 - T20
+Date: 2016-03-23
+Venue: Feroz Shah Kotla, Delhi
+Teams: Afghanistan vs England
+Toss: England won the toss and decided to bat
+Result: England won by 15 runs
+Man of the Match: MM Ali
+
+Innings 1:
+0.1: JJ Roy faced Amir Hamza, scored 1 runs. Team score: 1/0
+0.2: JM Vince faced Amir Hamza, scored 0 runs. Team score: 1/0
+0.3: JM Vince faced Amir Hamza, scored 0 runs. Team score: 1/0
+0.4: JM Vince faced Amir Hamza, scored 0 runs. Team score: 1/0
+0.5: JM Vince faced Amir Hamza, scored 1 runs. Team score: 2/0
+0.6: JJ Roy faced Amir Hamza, scored 0 runs. Team score: 2/0
+1.1: JM Vince faced Shapoor Zadran, scored 1 runs. Team score: 3/0
+1.2: JJ Roy faced Shapoor Zadran, scored 0 runs. Team score: 3/0
+1.3: JJ Roy faced Shapoor Zadran, scored 3 runs. Team score: 6/0
+1.4: JM Vince faced Shapoor Zadran, scored 1 runs. Team score: 7/0
+1.5: JJ Roy faced Shapoor Zadran, scored 4 runs. Team score: 11/0
+1.6: JJ Roy faced Shapoor Zadran, scored 0 runs. Team score: 11/0
+2.1: JM Vince faced Amir Hamza, scored 4 runs. Team score: 15/0
+2.2: JM Vince faced Amir Hamza, scored 0 runs. Team score: 15/0
+2.3: JM Vince faced Amir Hamza, scored 0 runs. Team score: 15/0
+2.4: JM Vince faced Amir Hamza, scored 0 runs. Team score: 15/0
+2.5: JM Vince faced Amir Hamza, scored 1 runs. Team score: 16/0
+2.6: JJ Roy faced Amir Hamza, scored 0 runs. Team score: 16/0
+bowled!, Batsman: JJ Roy (8 runs from 7 balls), Bowler: Amir Hamza (figures: 1/7). Fielders involved: None. Team score: 16/1
+3.1: JM Vince faced Shapoor Zadran, scored 4 runs. Team score: 20/1
+3.2: JM Vince faced Shapoor Zadran, scored 1 runs. Team score: 21/1
+3.3: JE Root faced Shapoor Zadran, scored 0 runs. Team score: 21/1
+3.4: JE Root faced Shapoor Zadran, scored 0 runs. Team score: 21/1
+3.5: JE Root faced Shapoor Zadran, scored 0 runs. Team score: 21/1
+3.6: JE Root faced Shapoor Zadran, scored 6 runs. Team score: 27/1
+4.1: JM Vince faced Amir Hamza, scored 4 runs. Team score: 31/1
+4.2: JM Vince faced Amir Hamza, scored 1 runs. Team score: 32/1
+4.3: JE Root faced Amir Hamza, scored 4 runs. Team score: 36/1
+4.4: JE Root faced Amir Hamza, scored 0 runs. Team score: 36/1
+4.5: JE Root faced Amir Hamza, scored 1 runs. Team score: 37/1
+4.6: JM Vince faced Amir Hamza, scored 4 runs. Team score: 41/1
+5.1: JE Root faced Mohammad Nabi, scored 1 runs. Team score: 42/1
+5.2: JM Vince faced Mohammad Nabi, scored 0 runs. Team score: 42/1
+5.3: JM Vince faced Mohammad Nabi, scored 0 runs. Team score: 42/1
+caught and bowled!, Batsman: JM Vince (22 runs from 18 balls), Bowler: Mohammad Nabi (figures: 1/1). Fielders involved: None. Team score: 42/2
+5.4: EJG Morgan faced Mohammad Nabi, scored 0 runs. Team score: 42/2
+bowled!, Batsman: EJG Morgan (0 runs from 1 balls), Bowler: Mohammad Nabi (figures: 2/1). Fielders involved: None. Team score: 42/3
+5.5: BA Stokes faced Mohammad Nabi, scored 0 runs. Team score: 42/3
+5.6: BA Stokes faced Mohammad Nabi, scored 0 runs. Team score: 42/3
+run out!, Batsman: JE Root (12 runs from 8 balls), Bowler: Mohammad Nabi (figures: 3/1). Fielders involved: Rashid Khan, Mohammad Nabi. Team score: 42/4
+6.1: JC Buttler faced Samiullah Shenwari, scored 1 runs. Team score: 43/4
+6.2: BA Stokes faced Samiullah Shenwari, scored 1 runs. Team score: 44/4
+6.3: JC Buttler faced Samiullah Shenwari, scored 4 runs. Team score: 48/4
+6.4: JC Buttler faced Samiullah Shenwari, scored 0 runs. Team score: 48/4
+6.5: JC Buttler faced Samiullah Shenwari, scored 0 runs. Team score: 48/4
+6.6: JC Buttler faced Samiullah Shenwari, scored 0 runs. Team score: 48/4
+7.1: BA Stokes faced Mohammad Nabi, scored 1 runs. Team score: 49/4
+7.2: JC Buttler faced Mohammad Nabi, scored 0 runs. Team score: 49/4
+7.3: JC Buttler faced Mohammad Nabi, scored 0 runs. Team score: 49/4
+7.4: JC Buttler faced Mohammad Nabi, scored 0 runs. Team score: 49/4
+7.5: JC Buttler faced Mohammad Nabi, scored 1 runs. Team score: 50/4
+7.6: BA Stokes faced Mohammad Nabi, scored 0 runs. Team score: 50/4
+8.1: JC Buttler faced Samiullah Shenwari, scored 0 runs. Team score: 50/4
+caught!, Batsman: JC Buttler (6 runs from 10 balls), Bowler: Samiullah Shenwari (figures: 1/6). Fielders involved: Mohammad Nabi. Team score: 50/5
+8.2: MM Ali faced Samiullah Shenwari, scored 1 runs. Team score: 51/5
+8.3: MM Ali faced Samiullah Shenwari, scored 0 runs. Team score: 51/5
+8.4: MM Ali faced Samiullah Shenwari, scored 0 runs. Team score: 51/5
+8.5: MM Ali faced Samiullah Shenwari, scored 0 runs. Team score: 51/5
+8.6: MM Ali faced Samiullah Shenwari, scored 1 runs. Team score: 52/5
+8.0: BA Stokes faced Samiullah Shenwari, scored 1 runs. Team score: 53/5
+9.1: BA Stokes faced Rashid Khan, scored 4 runs. Team score: 57/5
+9.2: BA Stokes faced Rashid Khan, scored 0 runs. Team score: 57/5
+bowled!, Batsman: BA Stokes (7 runs from 8 balls), Bowler: Rashid Khan (figures: 1/4). Fielders involved: None. Team score: 57/6
+9.3: CJ Jordan faced Rashid Khan, scored 0 runs. Team score: 57/6
+9.4: CJ Jordan faced Rashid Khan, scored 1 runs. Team score: 58/6
+9.5: MM Ali faced Rashid Khan, scored 1 runs. Team score: 59/6
+9.6: CJ Jordan faced Rashid Khan, scored 0 runs. Team score: 59/6
+10.1: MM Ali faced Samiullah Shenwari, scored 1 runs. Team score: 60/6
+10.2: CJ Jordan faced Samiullah Shenwari, scored 1 runs. Team score: 61/6
+10.3: MM Ali faced Samiullah Shenwari, scored 1 runs. Team score: 62/6
+10.4: CJ Jordan faced Samiullah Shenwari, scored 1 runs. Team score: 63/6
+10.5: MM Ali faced Samiullah Shenwari, scored 0 runs. Team score: 63/6
+10.6: MM Ali faced Samiullah Shenwari, scored 1 runs. Team score: 64/6
+11.1: MM Ali faced Rashid Khan, scored 0 runs. Team score: 64/6
+11.2: MM Ali faced Rashid Khan, scored 1 runs. Team score: 65/6
+11.3: CJ Jordan faced Rashid Khan, scored 0 runs. Team score: 65/6
+11.4: CJ Jordan faced Rashid Khan, scored 0 runs. Team score: 65/6
+11.5: CJ Jordan faced Rashid Khan, scored 0 runs. Team score: 65/6
+11.6: CJ Jordan faced Rashid Khan, scored 0 runs. Team score: 65/6
+12.1: MM Ali faced Samiullah Shenwari, scored 0 runs. Team score: 65/6
+12.2: MM Ali faced Samiullah Shenwari, scored 1 runs. Team score: 66/6
+12.3: CJ Jordan faced Samiullah Shenwari, scored 5 runs. Team score: 71/6
+12.4: CJ Jordan faced Samiullah Shenwari, scored 1 runs. Team score: 72/6
+12.5: MM Ali faced Samiullah Shenwari, scored 0 runs. Team score: 72/6
+12.6: MM Ali faced Samiullah Shenwari, scored 1 runs. Team score: 73/6
+12.0: CJ Jordan faced Samiullah Shenwari, scored 1 runs. Team score: 74/6
+13.1: CJ Jordan faced Mohammad Nabi, scored 0 runs. Team score: 74/6
+13.2: CJ Jordan faced Mohammad Nabi, scored 1 runs. Team score: 75/6
+13.3: MM Ali faced Mohammad Nabi, scored 1 runs. Team score: 76/6
+13.4: CJ Jordan faced Mohammad Nabi, scored 4 runs. Team score: 80/6
+13.5: CJ Jordan faced Mohammad Nabi, scored 1 runs. Team score: 81/6
+13.6: MM Ali faced Mohammad Nabi, scored 0 runs. Team score: 81/6
+14.1: CJ Jordan faced Rashid Khan, scored 4 runs. Team score: 85/6
+14.2: CJ Jordan faced Rashid Khan, scored 0 runs. Team score: 85/6
+14.3: CJ Jordan faced Rashid Khan, scored 0 runs. Team score: 85/6
+caught and bowled!, Batsman: CJ Jordan (20 runs from 19 balls), Bowler: Rashid Khan (figures: 2/11). Fielders involved: None. Team score: 85/7
+14.4: DJ Willey faced Rashid Khan, scored 0 runs. Team score: 85/7
+14.5: DJ Willey faced Rashid Khan, scored 1 runs. Team score: 86/7
+14.6: DJ Willey faced Rashid Khan, scored 0 runs. Team score: 86/7
+14.0: DJ Willey faced Rashid Khan, scored 1 runs. Team score: 87/7
+15.1: DJ Willey faced Mohammad Nabi, scored 1 runs. Team score: 88/7
+15.2: MM Ali faced Mohammad Nabi, scored 4 runs. Team score: 92/7
+15.3: MM Ali faced Mohammad Nabi, scored 1 runs. Team score: 93/7
+15.4: DJ Willey faced Mohammad Nabi, scored 0 runs. Team score: 93/7
+15.5: DJ Willey faced Mohammad Nabi, scored 0 runs. Team score: 93/7
+15.6: DJ Willey faced Mohammad Nabi, scored 1 runs. Team score: 94/7
+16.1: DJ Willey faced Rashid Khan, scored 0 runs. Team score: 94/7
+16.2: DJ Willey faced Rashid Khan, scored 1 runs. Team score: 95/7
+16.3: MM Ali faced Rashid Khan, scored 1 runs. Team score: 96/7
+16.4: DJ Willey faced Rashid Khan, scored 1 runs. Team score: 97/7
+16.5: MM Ali faced Rashid Khan, scored 1 runs. Team score: 98/7
+16.6: DJ Willey faced Rashid Khan, scored 0 runs. Team score: 98/7
+17.1: MM Ali faced Shapoor Zadran, scored 4 runs. Team score: 102/7
+17.2: MM Ali faced Shapoor Zadran, scored 1 runs. Team score: 103/7
+17.3: DJ Willey faced Shapoor Zadran, scored 1 runs. Team score: 104/7
+17.4: MM Ali faced Shapoor Zadran, scored 1 runs. Team score: 105/7
+17.5: DJ Willey faced Shapoor Zadran, scored 1 runs. Team score: 106/7
+17.6: MM Ali faced Shapoor Zadran, scored 1 runs. Team score: 107/7
+18.1: MM Ali faced Amir Hamza, scored 2 runs. Team score: 109/7
+18.2: MM Ali faced Amir Hamza, scored 6 runs. Team score: 115/7
+18.3: MM Ali faced Amir Hamza, scored 4 runs. Team score: 119/7
+18.4: MM Ali faced Amir Hamza, scored 1 runs. Team score: 120/7
+18.5: DJ Willey faced Amir Hamza, scored 6 runs. Team score: 126/7
+18.6: DJ Willey faced Amir Hamza, scored 6 runs. Team score: 132/7
+19.1: MM Ali faced Shapoor Zadran, scored 1 runs. Team score: 133/7
+19.2: MM Ali faced Shapoor Zadran, scored 1 runs. Team score: 134/7
+19.3: DJ Willey faced Shapoor Zadran, scored 1 runs. Team score: 135/7
+19.4: MM Ali faced Shapoor Zadran, scored 4 runs. Team score: 139/7
+19.5: MM Ali faced Shapoor Zadran, scored 1 runs. Team score: 140/7
+19.6: DJ Willey faced Shapoor Zadran, scored 1 runs. Team score: 141/7
+19.0: MM Ali faced Shapoor Zadran, scored 1 runs. Team score: 142/7
+End of innings for England: 142/7 in 20.0 overs
+Batsman scores:
+JJ Roy: 8 runs from 7 balls
+JM Vince: 22 runs from 18 balls
+JE Root: 12 runs from 8 balls
+EJG Morgan: 0 runs from 1 balls
+BA Stokes: 7 runs from 8 balls
+JC Buttler: 6 runs from 10 balls
+MM Ali: 45 runs from 35 balls
+CJ Jordan: 20 runs from 19 balls
+DJ Willey: 22 runs from 18 balls
+Bowler figures:
+Amir Hamza: 1 wickets for 46 runs
+Shapoor Zadran: 0 wickets for 39 runs
+Mohammad Nabi: 3 wickets for 17 runs
+Samiullah Shenwari: 1 wickets for 23 runs
+Rashid Khan: 2 wickets for 17 runs
+
+Innings 2:
+0.1: Mohammad Shahzad faced DJ Willey, scored 4 runs. Team score: 4/0
+0.2: Mohammad Shahzad faced DJ Willey, scored 0 runs. Team score: 4/0
+0.3: Mohammad Shahzad faced DJ Willey, scored 0 runs. Team score: 4/0
+lbw!, Batsman: Mohammad Shahzad (4 runs from 3 balls), Bowler: DJ Willey (figures: 1/4). Fielders involved: None. Team score: 4/1
+0.4: Asghar Stanikzai faced DJ Willey, scored 1 runs. Team score: 5/1
+0.5: Noor Ali Zadran faced DJ Willey, scored 2 runs. Team score: 7/1
+0.6: Noor Ali Zadran faced DJ Willey, scored 1 runs. Team score: 8/1
+0.0: Noor Ali Zadran faced DJ Willey, scored 1 runs. Team score: 9/1
+1.1: Noor Ali Zadran faced CJ Jordan, scored 2 runs. Team score: 11/1
+1.2: Noor Ali Zadran faced CJ Jordan, scored 0 runs. Team score: 11/1
+1.3: Noor Ali Zadran faced CJ Jordan, scored 1 runs. Team score: 12/1
+1.4: Asghar Stanikzai faced CJ Jordan, scored 0 runs. Team score: 12/1
+1.5: Asghar Stanikzai faced CJ Jordan, scored 0 runs. Team score: 12/1
+1.6: Asghar Stanikzai faced CJ Jordan, scored 0 runs. Team score: 12/1
+caught!, Batsman: Asghar Stanikzai (1 runs from 4 balls), Bowler: CJ Jordan (figures: 1/3). Fielders involved: JE Root. Team score: 12/2
+2.1: Noor Ali Zadran faced DJ Willey, scored 1 runs. Team score: 13/2
+2.2: Gulbadin Naib faced DJ Willey, scored 0 runs. Team score: 13/2
+2.3: Gulbadin Naib faced DJ Willey, scored 0 runs. Team score: 13/2
+2.4: Gulbadin Naib faced DJ Willey, scored 0 runs. Team score: 13/2
+2.5: Gulbadin Naib faced DJ Willey, scored 0 runs. Team score: 13/2
+2.6: Gulbadin Naib faced DJ Willey, scored 0 runs. Team score: 13/2
+caught!, Batsman: Gulbadin Naib (0 runs from 5 balls), Bowler: DJ Willey (figures: 2/10). Fielders involved: BA Stokes. Team score: 13/3
+3.1: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 13/3
+3.2: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 13/3
+3.3: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 13/3
+3.4: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 13/3
+3.5: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 13/3
+3.6: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 13/3
+Maiden over by LE Plunkett
+4.1: Noor Ali Zadran faced DJ Willey, scored 1 runs. Team score: 14/3
+4.2: Rashid Khan faced DJ Willey, scored 1 runs. Team score: 15/3
+4.3: Noor Ali Zadran faced DJ Willey, scored 0 runs. Team score: 15/3
+4.4: Noor Ali Zadran faced DJ Willey, scored 0 runs. Team score: 15/3
+4.5: Noor Ali Zadran faced DJ Willey, scored 1 runs. Team score: 16/3
+4.6: Rashid Khan faced DJ Willey, scored 4 runs. Team score: 20/3
+5.1: Noor Ali Zadran faced CJ Jordan, scored 0 runs. Team score: 20/3
+5.2: Noor Ali Zadran faced CJ Jordan, scored 1 runs. Team score: 21/3
+5.3: Rashid Khan faced CJ Jordan, scored 0 runs. Team score: 21/3
+5.4: Rashid Khan faced CJ Jordan, scored 6 runs. Team score: 27/3
+5.5: Rashid Khan faced CJ Jordan, scored 0 runs. Team score: 27/3
+5.6: Rashid Khan faced CJ Jordan, scored 1 runs. Team score: 28/3
+6.1: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 28/3
+6.2: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 28/3
+6.3: Rashid Khan faced LE Plunkett, scored 0 runs. Team score: 28/3
+6.4: Rashid Khan faced LE Plunkett, scored 1 runs. Team score: 29/3
+6.5: Noor Ali Zadran faced LE Plunkett, scored 1 runs. Team score: 30/3
+6.6: Rashid Khan faced LE Plunkett, scored 1 runs. Team score: 31/3
+7.1: Rashid Khan faced MM Ali, scored 0 runs. Team score: 31/3
+7.2: Rashid Khan faced MM Ali, scored 1 runs. Team score: 32/3
+7.3: Noor Ali Zadran faced MM Ali, scored 2 runs. Team score: 34/3
+7.4: Noor Ali Zadran faced MM Ali, scored 1 runs. Team score: 35/3
+7.5: Rashid Khan faced MM Ali, scored 0 runs. Team score: 35/3
+caught!, Batsman: Rashid Khan (15 runs from 20 balls), Bowler: MM Ali (figures: 1/4). Fielders involved: EJG Morgan. Team score: 35/4
+7.6: Mohammad Nabi faced MM Ali, scored 0 runs. Team score: 35/4
+8.1: Noor Ali Zadran faced AU Rashid, scored 0 runs. Team score: 35/4
+8.2: Noor Ali Zadran faced AU Rashid, scored 2 runs. Team score: 37/4
+8.3: Noor Ali Zadran faced AU Rashid, scored 1 runs. Team score: 38/4
+8.4: Mohammad Nabi faced AU Rashid, scored 1 runs. Team score: 39/4
+8.5: Noor Ali Zadran faced AU Rashid, scored 0 runs. Team score: 39/4
+caught and bowled!, Batsman: Noor Ali Zadran (18 runs from 20 balls), Bowler: AU Rashid (figures: 1/4). Fielders involved: None. Team score: 39/5
+8.6: Samiullah Shenwari faced AU Rashid, scored 1 runs. Team score: 40/5
+9.1: Samiullah Shenwari faced LE Plunkett, scored 1 runs. Team score: 41/5
+9.2: Mohammad Nabi faced LE Plunkett, scored 1 runs. Team score: 42/5
+9.3: Samiullah Shenwari faced LE Plunkett, scored 0 runs. Team score: 42/5
+9.4: Samiullah Shenwari faced LE Plunkett, scored 2 runs. Team score: 44/5
+9.5: Samiullah Shenwari faced LE Plunkett, scored 0 runs. Team score: 44/5
+9.6: Samiullah Shenwari faced LE Plunkett, scored 1 runs. Team score: 45/5
+10.1: Samiullah Shenwari faced AU Rashid, scored 0 runs. Team score: 45/5
+10.2: Samiullah Shenwari faced AU Rashid, scored 1 runs. Team score: 46/5
+10.3: Mohammad Nabi faced AU Rashid, scored 0 runs. Team score: 46/5
+10.4: Mohammad Nabi faced AU Rashid, scored 2 runs. Team score: 48/5
+10.5: Mohammad Nabi faced AU Rashid, scored 0 runs. Team score: 48/5
+10.6: Mohammad Nabi faced AU Rashid, scored 6 runs. Team score: 54/5
+11.1: Samiullah Shenwari faced LE Plunkett, scored 1 runs. Team score: 55/5
+11.2: Mohammad Nabi faced LE Plunkett, scored 1 runs. Team score: 56/5
+11.3: Samiullah Shenwari faced LE Plunkett, scored 1 runs. Team score: 57/5
+11.4: Samiullah Shenwari faced LE Plunkett, scored 0 runs. Team score: 57/5
+11.5: Samiullah Shenwari faced LE Plunkett, scored 1 runs. Team score: 58/5
+11.6: Mohammad Nabi faced LE Plunkett, scored 1 runs. Team score: 59/5
+11.0: Samiullah Shenwari faced LE Plunkett, scored 1 runs. Team score: 60/5
+12.1: Samiullah Shenwari faced AU Rashid, scored 1 runs. Team score: 61/5
+12.2: Samiullah Shenwari faced AU Rashid, scored 0 runs. Team score: 61/5
+12.3: Samiullah Shenwari faced AU Rashid, scored 0 runs. Team score: 61/5
+12.4: Samiullah Shenwari faced AU Rashid, scored 2 runs. Team score: 63/5
+12.5: Samiullah Shenwari faced AU Rashid, scored 1 runs. Team score: 64/5
+12.6: Mohammad Nabi faced AU Rashid, scored 0 runs. Team score: 64/5
+caught!, Batsman: Mohammad Nabi (12 runs from 10 balls), Bowler: AU Rashid (figures: 2/18). Fielders involved: CJ Jordan. Team score: 64/6
+12.0: Najibullah Zadran faced AU Rashid, scored 0 runs. Team score: 64/6
+13.1: Samiullah Shenwari faced MM Ali, scored 1 runs. Team score: 65/6
+13.2: Najibullah Zadran faced MM Ali, scored 0 runs. Team score: 65/6
+13.3: Najibullah Zadran faced MM Ali, scored 4 runs. Team score: 69/6
+13.4: Najibullah Zadran faced MM Ali, scored 1 runs. Team score: 70/6
+13.5: Samiullah Shenwari faced MM Ali, scored 1 runs. Team score: 71/6
+13.6: Najibullah Zadran faced MM Ali, scored 6 runs. Team score: 77/6
+14.1: Samiullah Shenwari faced BA Stokes, scored 1 runs. Team score: 78/6
+14.2: Najibullah Zadran faced BA Stokes, scored 1 runs. Team score: 79/6
+14.3: Najibullah Zadran faced BA Stokes, scored 1 runs. Team score: 80/6
+14.4: Samiullah Shenwari faced BA Stokes, scored 1 runs. Team score: 81/6
+14.5: Najibullah Zadran faced BA Stokes, scored 0 runs. Team score: 81/6
+14.6: Najibullah Zadran faced BA Stokes, scored 1 runs. Team score: 82/6
+14.0: Samiullah Shenwari faced BA Stokes, scored 1 runs. Team score: 83/6
+15.1: Samiullah Shenwari faced CJ Jordan, scored 1 runs. Team score: 84/6
+15.2: Najibullah Zadran faced CJ Jordan, scored 0 runs. Team score: 84/6
+15.3: Najibullah Zadran faced CJ Jordan, scored 1 runs. Team score: 85/6
+15.4: Samiullah Shenwari faced CJ Jordan, scored 0 runs. Team score: 85/6
+run out!, Batsman: Najibullah Zadran (15 runs from 11 balls), Bowler: CJ Jordan (figures: 2/13). Fielders involved: CJ Jordan. Team score: 85/7
+15.5: Samiullah Shenwari faced CJ Jordan, scored 1 runs. Team score: 86/7
+15.6: Shafiqullah faced CJ Jordan, scored 2 runs. Team score: 88/7
+16.1: Samiullah Shenwari faced BA Stokes, scored 4 runs. Team score: 92/7
+16.2: Samiullah Shenwari faced BA Stokes, scored 1 runs. Team score: 93/7
+16.3: Shafiqullah faced BA Stokes, scored 1 runs. Team score: 94/7
+16.4: Samiullah Shenwari faced BA Stokes, scored 0 runs. Team score: 94/7
+caught!, Batsman: Samiullah Shenwari (26 runs from 29 balls), Bowler: BA Stokes (figures: 1/12). Fielders involved: JE Root. Team score: 94/8
+16.5: Shafiqullah faced BA Stokes, scored 2 runs. Team score: 96/8
+16.6: Shafiqullah faced BA Stokes, scored 6 runs. Team score: 102/8
+17.1: Amir Hamza faced DJ Willey, scored 1 runs. Team score: 103/8
+17.2: Shafiqullah faced DJ Willey, scored 0 runs. Team score: 103/8
+17.3: Shafiqullah faced DJ Willey, scored 4 runs. Team score: 107/8
+17.4: Shafiqullah faced DJ Willey, scored 0 runs. Team score: 107/8
+17.5: Shafiqullah faced DJ Willey, scored 1 runs. Team score: 108/8
+17.6: Amir Hamza faced DJ Willey, scored 0 runs. Team score: 108/8
+18.1: Shafiqullah faced CJ Jordan, scored 0 runs. Team score: 108/8
+run out!, Batsman: Amir Hamza (1 runs from 2 balls), Bowler: CJ Jordan (figures: 3/16). Fielders involved: MM Ali, CJ Jordan. Team score: 108/9
+18.2: Shafiqullah faced CJ Jordan, scored 0 runs. Team score: 108/9
+18.3: Shafiqullah faced CJ Jordan, scored 4 runs. Team score: 112/9
+18.4: Shafiqullah faced CJ Jordan, scored 6 runs. Team score: 118/9
+18.5: Shafiqullah faced CJ Jordan, scored 0 runs. Team score: 118/9
+18.6: Shafiqullah faced CJ Jordan, scored 1 runs. Team score: 119/9
+19.1: Shafiqullah faced BA Stokes, scored 4 runs. Team score: 123/9
+19.2: Shafiqullah faced BA Stokes, scored 0 runs. Team score: 123/9
+19.3: Shafiqullah faced BA Stokes, scored 0 runs. Team score: 123/9
+19.4: Shafiqullah faced BA Stokes, scored 0 runs. Team score: 123/9
+19.5: Shafiqullah faced BA Stokes, scored 0 runs. Team score: 123/9
+19.6: Shafiqullah faced BA Stokes, scored 4 runs. Team score: 127/9
+End of innings for Afghanistan: 127/9 in 20.0 overs
+Batsman scores:
+Mohammad Shahzad: 4 runs from 3 balls
+Asghar Stanikzai: 1 runs from 4 balls
+Noor Ali Zadran: 18 runs from 20 balls
+Gulbadin Naib: 0 runs from 5 balls
+Rashid Khan: 15 runs from 20 balls
+Mohammad Nabi: 12 runs from 10 balls
+Samiullah Shenwari: 26 runs from 29 balls
+Najibullah Zadran: 15 runs from 11 balls
+Shafiqullah: 35 runs from 20 balls
+Amir Hamza: 1 runs from 2 balls
+Bowler figures:
+DJ Willey: 2 wickets for 23 runs
+CJ Jordan: 3 wickets for 27 runs
+LE Plunkett: 0 wickets for 14 runs
+MM Ali: 1 wickets for 17 runs
+AU Rashid: 2 wickets for 18 runs
+BA Stokes: 1 wickets for 28 runs
+

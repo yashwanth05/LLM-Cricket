@@ -1,0 +1,312 @@
+Match: World T20 - T20
+Date: 2014-03-22
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: South Africa vs Sri Lanka
+Toss: Sri Lanka won the toss and decided to bat
+Result: Sri Lanka won by 5 runs
+Man of the Match: MDKJ Perera
+
+Innings 1:
+0.1: MDKJ Perera faced DW Steyn, scored 0 runs. Team score: 0/0
+0.2: MDKJ Perera faced DW Steyn, scored 4 runs. Team score: 4/0
+0.3: MDKJ Perera faced DW Steyn, scored 4 runs. Team score: 8/0
+0.4: MDKJ Perera faced DW Steyn, scored 1 runs. Team score: 9/0
+0.5: MDKJ Perera faced DW Steyn, scored 6 runs. Team score: 15/0
+0.6: MDKJ Perera faced DW Steyn, scored 1 runs. Team score: 16/0
+0.0: MDKJ Perera faced DW Steyn, scored 1 runs. Team score: 17/0
+0.1: TM Dilshan faced DW Steyn, scored 0 runs. Team score: 17/0
+bowled!, Batsman: TM Dilshan (0 runs from 1 balls), Bowler: DW Steyn (figures: 1/17). Fielders involved: None. Team score: 17/1
+1.1: MDKJ Perera faced LL Tsotsobe, scored 1 runs. Team score: 18/1
+1.2: MDKJ Perera faced LL Tsotsobe, scored 0 runs. Team score: 18/1
+1.3: MDKJ Perera faced LL Tsotsobe, scored 0 runs. Team score: 18/1
+1.4: MDKJ Perera faced LL Tsotsobe, scored 1 runs. Team score: 19/1
+1.5: DPMD Jayawardene faced LL Tsotsobe, scored 1 runs. Team score: 20/1
+1.6: MDKJ Perera faced LL Tsotsobe, scored 0 runs. Team score: 20/1
+1.0: MDKJ Perera faced LL Tsotsobe, scored 1 runs. Team score: 21/1
+2.1: MDKJ Perera faced M Morkel, scored 1 runs. Team score: 22/1
+2.2: DPMD Jayawardene faced M Morkel, scored 0 runs. Team score: 22/1
+2.3: DPMD Jayawardene faced M Morkel, scored 1 runs. Team score: 23/1
+2.4: MDKJ Perera faced M Morkel, scored 6 runs. Team score: 29/1
+2.5: MDKJ Perera faced M Morkel, scored 1 runs. Team score: 30/1
+2.6: DPMD Jayawardene faced M Morkel, scored 0 runs. Team score: 30/1
+3.1: MDKJ Perera faced LL Tsotsobe, scored 1 runs. Team score: 31/1
+3.2: DPMD Jayawardene faced LL Tsotsobe, scored 2 runs. Team score: 33/1
+3.3: DPMD Jayawardene faced LL Tsotsobe, scored 0 runs. Team score: 33/1
+3.4: DPMD Jayawardene faced LL Tsotsobe, scored 1 runs. Team score: 34/1
+3.5: MDKJ Perera faced LL Tsotsobe, scored 4 runs. Team score: 38/1
+3.6: MDKJ Perera faced LL Tsotsobe, scored 0 runs. Team score: 38/1
+4.1: DPMD Jayawardene faced M Morkel, scored 4 runs. Team score: 42/1
+4.2: DPMD Jayawardene faced M Morkel, scored 0 runs. Team score: 42/1
+caught!, Batsman: DPMD Jayawardene (9 runs from 9 balls), Bowler: M Morkel (figures: 1/13). Fielders involved: DW Steyn. Team score: 42/2
+4.3: KC Sangakkara faced M Morkel, scored 0 runs. Team score: 42/2
+4.4: KC Sangakkara faced M Morkel, scored 0 runs. Team score: 42/2
+4.5: KC Sangakkara faced M Morkel, scored 1 runs. Team score: 43/2
+4.6: MDKJ Perera faced M Morkel, scored 0 runs. Team score: 43/2
+5.1: KC Sangakkara faced LL Tsotsobe, scored 0 runs. Team score: 43/2
+5.2: KC Sangakkara faced LL Tsotsobe, scored 0 runs. Team score: 43/2
+5.3: KC Sangakkara faced LL Tsotsobe, scored 1 runs. Team score: 44/2
+5.4: MDKJ Perera faced LL Tsotsobe, scored 0 runs. Team score: 44/2
+5.5: MDKJ Perera faced LL Tsotsobe, scored 6 runs. Team score: 50/2
+5.6: MDKJ Perera faced LL Tsotsobe, scored 1 runs. Team score: 51/2
+6.1: MDKJ Perera faced JP Duminy, scored 1 runs. Team score: 52/2
+6.2: KC Sangakkara faced JP Duminy, scored 1 runs. Team score: 53/2
+6.3: MDKJ Perera faced JP Duminy, scored 1 runs. Team score: 54/2
+6.4: KC Sangakkara faced JP Duminy, scored 1 runs. Team score: 55/2
+6.5: MDKJ Perera faced JP Duminy, scored 1 runs. Team score: 56/2
+6.6: KC Sangakkara faced JP Duminy, scored 1 runs. Team score: 57/2
+7.1: KC Sangakkara faced JA Morkel, scored 4 runs. Team score: 61/2
+7.2: KC Sangakkara faced JA Morkel, scored 2 runs. Team score: 63/2
+7.3: KC Sangakkara faced JA Morkel, scored 1 runs. Team score: 64/2
+7.4: MDKJ Perera faced JA Morkel, scored 4 runs. Team score: 68/2
+7.5: MDKJ Perera faced JA Morkel, scored 0 runs. Team score: 68/2
+7.6: MDKJ Perera faced JA Morkel, scored 1 runs. Team score: 69/2
+7.0: MDKJ Perera faced JA Morkel, scored 1 runs. Team score: 70/2
+8.1: MDKJ Perera faced JP Duminy, scored 4 runs. Team score: 74/2
+8.2: MDKJ Perera faced JP Duminy, scored 3 runs. Team score: 77/2
+8.3: KC Sangakkara faced JP Duminy, scored 0 runs. Team score: 77/2
+8.4: KC Sangakkara faced JP Duminy, scored 1 runs. Team score: 78/2
+8.5: KC Sangakkara faced JP Duminy, scored 1 runs. Team score: 79/2
+8.6: MDKJ Perera faced JP Duminy, scored 1 runs. Team score: 80/2
+8.0: KC Sangakkara faced JP Duminy, scored 0 runs. Team score: 80/2
+9.1: MDKJ Perera faced Imran Tahir, scored 1 runs. Team score: 81/2
+9.2: KC Sangakkara faced Imran Tahir, scored 0 runs. Team score: 81/2
+9.3: KC Sangakkara faced Imran Tahir, scored 1 runs. Team score: 82/2
+9.4: MDKJ Perera faced Imran Tahir, scored 1 runs. Team score: 83/2
+9.5: KC Sangakkara faced Imran Tahir, scored 0 runs. Team score: 83/2
+caught!, Batsman: KC Sangakkara (15 runs from 19 balls), Bowler: Imran Tahir (figures: 1/3). Fielders involved: LL Tsotsobe. Team score: 83/3
+9.6: AD Mathews faced Imran Tahir, scored 1 runs. Team score: 84/3
+10.1: AD Mathews faced DW Steyn, scored 0 runs. Team score: 84/3
+10.2: AD Mathews faced DW Steyn, scored 0 runs. Team score: 84/3
+10.3: AD Mathews faced DW Steyn, scored 0 runs. Team score: 84/3
+10.4: AD Mathews faced DW Steyn, scored 0 runs. Team score: 84/3
+10.5: AD Mathews faced DW Steyn, scored 1 runs. Team score: 85/3
+10.6: MDKJ Perera faced DW Steyn, scored 0 runs. Team score: 85/3
+11.1: AD Mathews faced Imran Tahir, scored 1 runs. Team score: 86/3
+11.2: MDKJ Perera faced Imran Tahir, scored 1 runs. Team score: 87/3
+11.3: AD Mathews faced Imran Tahir, scored 1 runs. Team score: 88/3
+11.4: MDKJ Perera faced Imran Tahir, scored 0 runs. Team score: 88/3
+11.5: MDKJ Perera faced Imran Tahir, scored 1 runs. Team score: 89/3
+11.6: AD Mathews faced Imran Tahir, scored 4 runs. Team score: 93/3
+12.1: MDKJ Perera faced LL Tsotsobe, scored 1 runs. Team score: 94/3
+12.2: AD Mathews faced LL Tsotsobe, scored 2 runs. Team score: 96/3
+12.3: AD Mathews faced LL Tsotsobe, scored 1 runs. Team score: 97/3
+12.4: MDKJ Perera faced LL Tsotsobe, scored 4 runs. Team score: 101/3
+12.5: MDKJ Perera faced LL Tsotsobe, scored 1 runs. Team score: 102/3
+12.6: AD Mathews faced LL Tsotsobe, scored 2 runs. Team score: 104/3
+13.1: MDKJ Perera faced Imran Tahir, scored 1 runs. Team score: 105/3
+13.2: AD Mathews faced Imran Tahir, scored 1 runs. Team score: 106/3
+13.3: MDKJ Perera faced Imran Tahir, scored 0 runs. Team score: 106/3
+caught!, Batsman: MDKJ Perera (68 runs from 44 balls), Bowler: Imran Tahir (figures: 2/14). Fielders involved: AB de Villiers. Team score: 106/4
+13.4: AD Mathews faced Imran Tahir, scored 1 runs. Team score: 107/4
+13.5: LD Chandimal faced Imran Tahir, scored 1 runs. Team score: 108/4
+13.6: AD Mathews faced Imran Tahir, scored 0 runs. Team score: 108/4
+14.1: LD Chandimal faced M Morkel, scored 0 runs. Team score: 108/4
+14.2: LD Chandimal faced M Morkel, scored 1 runs. Team score: 109/4
+14.3: AD Mathews faced M Morkel, scored 0 runs. Team score: 109/4
+14.4: AD Mathews faced M Morkel, scored 2 runs. Team score: 111/4
+14.5: AD Mathews faced M Morkel, scored 4 runs. Team score: 115/4
+14.6: AD Mathews faced M Morkel, scored 2 runs. Team score: 117/4
+15.1: LD Chandimal faced JA Morkel, scored 2 runs. Team score: 119/4
+15.2: LD Chandimal faced JA Morkel, scored 2 runs. Team score: 121/4
+15.3: LD Chandimal faced JA Morkel, scored 4 runs. Team score: 125/4
+15.4: LD Chandimal faced JA Morkel, scored 1 runs. Team score: 126/4
+15.5: AD Mathews faced JA Morkel, scored 1 runs. Team score: 127/4
+15.6: AD Mathews faced JA Morkel, scored 0 runs. Team score: 127/4
+15.0: AD Mathews faced JA Morkel, scored 1 runs. Team score: 128/4
+16.1: AD Mathews faced Imran Tahir, scored 6 runs. Team score: 134/4
+16.2: AD Mathews faced Imran Tahir, scored 1 runs. Team score: 135/4
+16.3: LD Chandimal faced Imran Tahir, scored 1 runs. Team score: 136/4
+16.4: AD Mathews faced Imran Tahir, scored 1 runs. Team score: 137/4
+16.5: LD Chandimal faced Imran Tahir, scored 0 runs. Team score: 137/4
+stumped!, Batsman: LD Chandimal (12 runs from 9 balls), Bowler: Imran Tahir (figures: 3/25). Fielders involved: Q de Kock. Team score: 137/5
+16.6: NLTC Perera faced Imran Tahir, scored 1 runs. Team score: 138/5
+17.1: NLTC Perera faced DW Steyn, scored 4 runs. Team score: 142/5
+17.2: NLTC Perera faced DW Steyn, scored 0 runs. Team score: 142/5
+17.3: NLTC Perera faced DW Steyn, scored 1 runs. Team score: 143/5
+17.4: AD Mathews faced DW Steyn, scored 0 runs. Team score: 143/5
+17.5: AD Mathews faced DW Steyn, scored 4 runs. Team score: 147/5
+17.6: AD Mathews faced DW Steyn, scored 1 runs. Team score: 148/5
+18.1: AD Mathews faced M Morkel, scored 1 runs. Team score: 149/5
+18.2: AD Mathews faced M Morkel, scored 1 runs. Team score: 150/5
+18.3: NLTC Perera faced M Morkel, scored 2 runs. Team score: 152/5
+18.4: NLTC Perera faced M Morkel, scored 0 runs. Team score: 152/5
+bowled!, Batsman: NLTC Perera (8 runs from 6 balls), Bowler: M Morkel (figures: 2/27). Fielders involved: None. Team score: 152/6
+18.5: KMDN Kulasekara faced M Morkel, scored 2 runs. Team score: 154/6
+18.6: KMDN Kulasekara faced M Morkel, scored 1 runs. Team score: 155/6
+18.0: AD Mathews faced M Morkel, scored 1 runs. Team score: 156/6
+19.1: AD Mathews faced DW Steyn, scored 2 runs. Team score: 158/6
+19.2: AD Mathews faced DW Steyn, scored 2 runs. Team score: 160/6
+19.3: AD Mathews faced DW Steyn, scored 0 runs. Team score: 160/6
+bowled!, Batsman: AD Mathews (45 runs from 34 balls), Bowler: DW Steyn (figures: 2/32). Fielders involved: None. Team score: 160/7
+19.4: SMSM Senanayake faced DW Steyn, scored 1 runs. Team score: 161/7
+19.5: KMDN Kulasekara faced DW Steyn, scored 0 runs. Team score: 161/7
+19.6: KMDN Kulasekara faced DW Steyn, scored 4 runs. Team score: 165/7
+End of innings for Sri Lanka: 165/7 in 20.0 overs
+Batsman scores:
+MDKJ Perera: 68 runs from 44 balls
+TM Dilshan: 0 runs from 1 balls
+DPMD Jayawardene: 9 runs from 9 balls
+KC Sangakkara: 15 runs from 19 balls
+AD Mathews: 45 runs from 34 balls
+LD Chandimal: 12 runs from 9 balls
+NLTC Perera: 8 runs from 6 balls
+KMDN Kulasekara: 7 runs from 4 balls
+SMSM Senanayake: 1 runs from 1 balls
+Bowler figures:
+DW Steyn: 2 wickets for 37 runs
+LL Tsotsobe: 0 wickets for 31 runs
+M Morkel: 2 wickets for 31 runs
+JP Duminy: 0 wickets for 16 runs
+JA Morkel: 0 wickets for 24 runs
+Imran Tahir: 3 wickets for 26 runs
+
+Innings 2:
+0.1: Q de Kock faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+0.2: Q de Kock faced KMDN Kulasekara, scored 1 runs. Team score: 1/0
+0.3: HM Amla faced KMDN Kulasekara, scored 1 runs. Team score: 2/0
+0.4: Q de Kock faced KMDN Kulasekara, scored 0 runs. Team score: 2/0
+0.5: Q de Kock faced KMDN Kulasekara, scored 1 runs. Team score: 3/0
+0.6: HM Amla faced KMDN Kulasekara, scored 1 runs. Team score: 4/0
+1.1: HM Amla faced AD Mathews, scored 1 runs. Team score: 5/0
+1.2: Q de Kock faced AD Mathews, scored 4 runs. Team score: 9/0
+1.3: Q de Kock faced AD Mathews, scored 1 runs. Team score: 10/0
+1.4: HM Amla faced AD Mathews, scored 0 runs. Team score: 10/0
+1.5: HM Amla faced AD Mathews, scored 1 runs. Team score: 11/0
+1.6: Q de Kock faced AD Mathews, scored 0 runs. Team score: 11/0
+2.1: HM Amla faced KMDN Kulasekara, scored 1 runs. Team score: 12/0
+2.2: Q de Kock faced KMDN Kulasekara, scored 0 runs. Team score: 12/0
+2.3: Q de Kock faced KMDN Kulasekara, scored 4 runs. Team score: 16/0
+2.4: Q de Kock faced KMDN Kulasekara, scored 6 runs. Team score: 22/0
+2.5: Q de Kock faced KMDN Kulasekara, scored 4 runs. Team score: 26/0
+2.6: Q de Kock faced KMDN Kulasekara, scored 0 runs. Team score: 26/0
+3.1: HM Amla faced SMSM Senanayake, scored 0 runs. Team score: 26/0
+3.2: HM Amla faced SMSM Senanayake, scored 1 runs. Team score: 27/0
+3.3: Q de Kock faced SMSM Senanayake, scored 4 runs. Team score: 31/0
+3.4: Q de Kock faced SMSM Senanayake, scored 0 runs. Team score: 31/0
+3.5: Q de Kock faced SMSM Senanayake, scored 0 runs. Team score: 31/0
+3.6: Q de Kock faced SMSM Senanayake, scored 0 runs. Team score: 31/0
+4.1: HM Amla faced SL Malinga, scored 1 runs. Team score: 32/0
+4.2: Q de Kock faced SL Malinga, scored 0 runs. Team score: 32/0
+4.3: Q de Kock faced SL Malinga, scored 0 runs. Team score: 32/0
+bowled!, Batsman: Q de Kock (25 runs from 18 balls), Bowler: SL Malinga (figures: 1/1). Fielders involved: None. Team score: 32/1
+4.4: JP Duminy faced SL Malinga, scored 0 runs. Team score: 32/1
+4.5: JP Duminy faced SL Malinga, scored 0 runs. Team score: 32/1
+4.6: JP Duminy faced SL Malinga, scored 0 runs. Team score: 32/1
+5.1: HM Amla faced AD Mathews, scored 1 runs. Team score: 33/1
+5.2: JP Duminy faced AD Mathews, scored 0 runs. Team score: 33/1
+5.3: JP Duminy faced AD Mathews, scored 1 runs. Team score: 34/1
+5.4: JP Duminy faced AD Mathews, scored 1 runs. Team score: 35/1
+5.5: HM Amla faced AD Mathews, scored 4 runs. Team score: 39/1
+5.6: HM Amla faced AD Mathews, scored 1 runs. Team score: 40/1
+5.0: JP Duminy faced AD Mathews, scored 0 runs. Team score: 40/1
+6.1: HM Amla faced NLTC Perera, scored 0 runs. Team score: 40/1
+6.2: HM Amla faced NLTC Perera, scored 0 runs. Team score: 40/1
+6.3: HM Amla faced NLTC Perera, scored 1 runs. Team score: 41/1
+6.4: JP Duminy faced NLTC Perera, scored 1 runs. Team score: 42/1
+6.5: HM Amla faced NLTC Perera, scored 0 runs. Team score: 42/1
+6.6: HM Amla faced NLTC Perera, scored 0 runs. Team score: 42/1
+7.1: JP Duminy faced SMSM Senanayake, scored 1 runs. Team score: 43/1
+7.2: HM Amla faced SMSM Senanayake, scored 0 runs. Team score: 43/1
+7.3: HM Amla faced SMSM Senanayake, scored 1 runs. Team score: 44/1
+7.4: JP Duminy faced SMSM Senanayake, scored 1 runs. Team score: 45/1
+7.5: HM Amla faced SMSM Senanayake, scored 1 runs. Team score: 46/1
+7.6: JP Duminy faced SMSM Senanayake, scored 1 runs. Team score: 47/1
+8.1: JP Duminy faced NLTC Perera, scored 4 runs. Team score: 51/1
+8.2: JP Duminy faced NLTC Perera, scored 1 runs. Team score: 52/1
+8.3: HM Amla faced NLTC Perera, scored 1 runs. Team score: 53/1
+8.4: JP Duminy faced NLTC Perera, scored 0 runs. Team score: 53/1
+8.5: JP Duminy faced NLTC Perera, scored 4 runs. Team score: 57/1
+8.6: JP Duminy faced NLTC Perera, scored 6 runs. Team score: 63/1
+9.1: HM Amla faced BAW Mendis, scored 0 runs. Team score: 63/1
+9.2: HM Amla faced BAW Mendis, scored 1 runs. Team score: 64/1
+9.3: JP Duminy faced BAW Mendis, scored 4 runs. Team score: 68/1
+9.4: JP Duminy faced BAW Mendis, scored 6 runs. Team score: 74/1
+9.5: JP Duminy faced BAW Mendis, scored 0 runs. Team score: 74/1
+9.6: JP Duminy faced BAW Mendis, scored 1 runs. Team score: 75/1
+10.1: JP Duminy faced SMSM Senanayake, scored 0 runs. Team score: 75/1
+10.2: JP Duminy faced SMSM Senanayake, scored 1 runs. Team score: 76/1
+10.3: HM Amla faced SMSM Senanayake, scored 4 runs. Team score: 80/1
+10.4: HM Amla faced SMSM Senanayake, scored 2 runs. Team score: 82/1
+10.5: HM Amla faced SMSM Senanayake, scored 0 runs. Team score: 82/1
+caught!, Batsman: HM Amla (24 runs from 26 balls), Bowler: SMSM Senanayake (figures: 1/17). Fielders involved: TM Dilshan. Team score: 82/2
+10.6: AB de Villiers faced SMSM Senanayake, scored 1 runs. Team score: 83/2
+11.1: AB de Villiers faced BAW Mendis, scored 2 runs. Team score: 85/2
+11.2: AB de Villiers faced BAW Mendis, scored 0 runs. Team score: 85/2
+11.3: AB de Villiers faced BAW Mendis, scored 2 runs. Team score: 87/2
+11.4: AB de Villiers faced BAW Mendis, scored 2 runs. Team score: 89/2
+11.5: AB de Villiers faced BAW Mendis, scored 4 runs. Team score: 93/2
+11.6: AB de Villiers faced BAW Mendis, scored 1 runs. Team score: 94/2
+12.1: AB de Villiers faced SL Malinga, scored 4 runs. Team score: 98/2
+12.2: AB de Villiers faced SL Malinga, scored 1 runs. Team score: 99/2
+12.3: JP Duminy faced SL Malinga, scored 1 runs. Team score: 100/2
+12.4: AB de Villiers faced SL Malinga, scored 1 runs. Team score: 101/2
+12.5: AB de Villiers faced SL Malinga, scored 0 runs. Team score: 101/2
+12.6: AB de Villiers faced SL Malinga, scored 1 runs. Team score: 102/2
+12.0: JP Duminy faced SL Malinga, scored 1 runs. Team score: 103/2
+13.1: JP Duminy faced AD Mathews, scored 1 runs. Team score: 104/2
+13.2: AB de Villiers faced AD Mathews, scored 2 runs. Team score: 106/2
+13.3: AB de Villiers faced AD Mathews, scored 0 runs. Team score: 106/2
+13.4: AB de Villiers faced AD Mathews, scored 0 runs. Team score: 106/2
+13.5: AB de Villiers faced AD Mathews, scored 4 runs. Team score: 110/2
+13.6: AB de Villiers faced AD Mathews, scored 0 runs. Team score: 110/2
+caught!, Batsman: AB de Villiers (25 runs from 17 balls), Bowler: AD Mathews (figures: 1/22). Fielders involved: KC Sangakkara. Team score: 110/3
+14.1: JP Duminy faced BAW Mendis, scored 1 runs. Team score: 111/3
+14.2: DA Miller faced BAW Mendis, scored 1 runs. Team score: 112/3
+14.3: JP Duminy faced BAW Mendis, scored 1 runs. Team score: 113/3
+14.4: DA Miller faced BAW Mendis, scored 0 runs. Team score: 113/3
+14.5: DA Miller faced BAW Mendis, scored 1 runs. Team score: 114/3
+14.6: JP Duminy faced BAW Mendis, scored 1 runs. Team score: 115/3
+15.1: JP Duminy faced SMSM Senanayake, scored 1 runs. Team score: 116/3
+15.2: DA Miller faced SMSM Senanayake, scored 1 runs. Team score: 117/3
+15.3: JP Duminy faced SMSM Senanayake, scored 2 runs. Team score: 119/3
+15.4: JP Duminy faced SMSM Senanayake, scored 0 runs. Team score: 119/3
+caught!, Batsman: JP Duminy (42 runs from 31 balls), Bowler: SMSM Senanayake (figures: 2/22). Fielders involved: TM Dilshan. Team score: 119/4
+15.5: DA Miller faced SMSM Senanayake, scored 1 runs. Team score: 120/4
+15.6: JA Morkel faced SMSM Senanayake, scored 0 runs. Team score: 120/4
+16.1: DA Miller faced BAW Mendis, scored 1 runs. Team score: 121/4
+16.2: JA Morkel faced BAW Mendis, scored 6 runs. Team score: 127/4
+16.3: JA Morkel faced BAW Mendis, scored 6 runs. Team score: 133/4
+16.4: JA Morkel faced BAW Mendis, scored 0 runs. Team score: 133/4
+caught!, Batsman: JA Morkel (12 runs from 4 balls), Bowler: BAW Mendis (figures: 1/41). Fielders involved: LD Chandimal. Team score: 133/5
+16.5: DA Miller faced BAW Mendis, scored 1 runs. Team score: 134/5
+16.6: F Behardien faced BAW Mendis, scored 3 runs. Team score: 137/5
+17.1: F Behardien faced SL Malinga, scored 1 runs. Team score: 138/5
+17.2: DA Miller faced SL Malinga, scored 4 runs. Team score: 142/5
+17.3: DA Miller faced SL Malinga, scored 1 runs. Team score: 143/5
+17.4: F Behardien faced SL Malinga, scored 1 runs. Team score: 144/5
+17.5: DA Miller faced SL Malinga, scored 2 runs. Team score: 146/5
+17.6: DA Miller faced SL Malinga, scored 1 runs. Team score: 147/5
+18.1: DA Miller faced KMDN Kulasekara, scored 1 runs. Team score: 148/5
+18.2: F Behardien faced KMDN Kulasekara, scored 0 runs. Team score: 148/5
+caught!, Batsman: F Behardien (5 runs from 4 balls), Bowler: KMDN Kulasekara (figures: 1/20). Fielders involved: DPMD Jayawardene. Team score: 148/6
+18.3: DA Miller faced KMDN Kulasekara, scored 2 runs. Team score: 150/6
+18.4: DA Miller faced KMDN Kulasekara, scored 1 runs. Team score: 151/6
+18.5: DW Steyn faced KMDN Kulasekara, scored 0 runs. Team score: 151/6
+18.6: DW Steyn faced KMDN Kulasekara, scored 0 runs. Team score: 151/6
+19.1: DA Miller faced SL Malinga, scored 0 runs. Team score: 151/6
+run out!, Batsman: DW Steyn (0 runs from 2 balls), Bowler: SL Malinga (figures: 2/20). Fielders involved: AD Mathews, SL Malinga. Team score: 151/7
+19.2: DA Miller faced SL Malinga, scored 1 runs. Team score: 152/7
+run out!, Batsman: DA Miller (19 runs from 16 balls), Bowler: SL Malinga (figures: 3/21). Fielders involved: NLTC Perera, KC Sangakkara. Team score: 152/8
+19.3: Imran Tahir faced SL Malinga, scored 0 runs. Team score: 152/8
+19.4: Imran Tahir faced SL Malinga, scored 2 runs. Team score: 154/8
+19.5: Imran Tahir faced SL Malinga, scored 0 runs. Team score: 154/8
+19.6: Imran Tahir faced SL Malinga, scored 6 runs. Team score: 160/8
+End of innings for South Africa: 160/8 in 20.0 overs
+Batsman scores:
+Q de Kock: 25 runs from 18 balls
+HM Amla: 24 runs from 26 balls
+JP Duminy: 42 runs from 31 balls
+AB de Villiers: 25 runs from 17 balls
+DA Miller: 19 runs from 16 balls
+JA Morkel: 12 runs from 4 balls
+F Behardien: 5 runs from 4 balls
+DW Steyn: 0 runs from 2 balls
+Imran Tahir: 8 runs from 4 balls
+Bowler figures:
+KMDN Kulasekara: 1 wickets for 23 runs
+AD Mathews: 1 wickets for 22 runs
+SMSM Senanayake: 2 wickets for 23 runs
+SL Malinga: 3 wickets for 29 runs
+NLTC Perera: 0 wickets for 18 runs
+BAW Mendis: 1 wickets for 45 runs
+

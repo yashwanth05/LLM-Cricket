@@ -1,0 +1,305 @@
+Match: World T20 - T20
+Date: 2014-03-30
+Venue: Shere Bangla National Stadium, Mirpur
+Teams: Bangladesh vs Pakistan
+Toss: Pakistan won the toss and decided to bat
+Result: Pakistan won by 50 runs
+Man of the Match: Ahmed Shehzad
+
+Innings 1:
+0.1: Ahmed Shehzad faced Mashrafe Mortaza, scored 0 runs. Team score: 0/0
+0.2: Ahmed Shehzad faced Mashrafe Mortaza, scored 1 runs. Team score: 1/0
+0.3: Kamran Akmal faced Mashrafe Mortaza, scored 0 runs. Team score: 1/0
+0.4: Kamran Akmal faced Mashrafe Mortaza, scored 0 runs. Team score: 1/0
+0.5: Kamran Akmal faced Mashrafe Mortaza, scored 0 runs. Team score: 1/0
+0.6: Kamran Akmal faced Mashrafe Mortaza, scored 4 runs. Team score: 5/0
+1.1: Ahmed Shehzad faced Al-Amin Hossain, scored 1 runs. Team score: 6/0
+1.2: Kamran Akmal faced Al-Amin Hossain, scored 1 runs. Team score: 7/0
+1.3: Ahmed Shehzad faced Al-Amin Hossain, scored 4 runs. Team score: 11/0
+1.4: Ahmed Shehzad faced Al-Amin Hossain, scored 0 runs. Team score: 11/0
+1.5: Ahmed Shehzad faced Al-Amin Hossain, scored 4 runs. Team score: 15/0
+1.6: Ahmed Shehzad faced Al-Amin Hossain, scored 1 runs. Team score: 16/0
+2.1: Ahmed Shehzad faced Mashrafe Mortaza, scored 0 runs. Team score: 16/0
+2.2: Ahmed Shehzad faced Mashrafe Mortaza, scored 4 runs. Team score: 20/0
+2.3: Ahmed Shehzad faced Mashrafe Mortaza, scored 4 runs. Team score: 24/0
+2.4: Ahmed Shehzad faced Mashrafe Mortaza, scored 4 runs. Team score: 28/0
+2.5: Ahmed Shehzad faced Mashrafe Mortaza, scored 0 runs. Team score: 28/0
+2.6: Ahmed Shehzad faced Mashrafe Mortaza, scored 6 runs. Team score: 34/0
+3.1: Kamran Akmal faced Shakib Al Hasan, scored 0 runs. Team score: 34/0
+3.2: Kamran Akmal faced Shakib Al Hasan, scored 4 runs. Team score: 38/0
+3.3: Kamran Akmal faced Shakib Al Hasan, scored 3 runs. Team score: 41/0
+3.4: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 42/0
+3.5: Kamran Akmal faced Shakib Al Hasan, scored 0 runs. Team score: 42/0
+3.6: Kamran Akmal faced Shakib Al Hasan, scored 0 runs. Team score: 42/0
+4.1: Ahmed Shehzad faced Abdur Razzak, scored 1 runs. Team score: 43/0
+4.2: Kamran Akmal faced Abdur Razzak, scored 0 runs. Team score: 43/0
+4.3: Kamran Akmal faced Abdur Razzak, scored 0 runs. Team score: 43/0
+caught!, Batsman: Kamran Akmal (12 runs from 12 balls), Bowler: Abdur Razzak (figures: 1/1). Fielders involved: Ziaur Rahman. Team score: 43/1
+4.4: Mohammad Hafeez faced Abdur Razzak, scored 0 runs. Team score: 43/1
+4.5: Mohammad Hafeez faced Abdur Razzak, scored 1 runs. Team score: 44/1
+4.6: Ahmed Shehzad faced Abdur Razzak, scored 1 runs. Team score: 45/1
+4.0: Ahmed Shehzad faced Abdur Razzak, scored 1 runs. Team score: 46/1
+5.1: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 47/1
+5.2: Mohammad Hafeez faced Shakib Al Hasan, scored 0 runs. Team score: 47/1
+5.3: Mohammad Hafeez faced Shakib Al Hasan, scored 0 runs. Team score: 47/1
+5.4: Mohammad Hafeez faced Shakib Al Hasan, scored 1 runs. Team score: 48/1
+5.5: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 49/1
+5.6: Mohammad Hafeez faced Shakib Al Hasan, scored 1 runs. Team score: 50/1
+6.1: Mohammad Hafeez faced Abdur Razzak, scored 0 runs. Team score: 50/1
+6.2: Mohammad Hafeez faced Abdur Razzak, scored 1 runs. Team score: 51/1
+6.3: Ahmed Shehzad faced Abdur Razzak, scored 1 runs. Team score: 52/1
+6.4: Mohammad Hafeez faced Abdur Razzak, scored 1 runs. Team score: 53/1
+6.5: Ahmed Shehzad faced Abdur Razzak, scored 0 runs. Team score: 53/1
+6.6: Ahmed Shehzad faced Abdur Razzak, scored 1 runs. Team score: 54/1
+7.1: Ahmed Shehzad faced Al-Amin Hossain, scored 0 runs. Team score: 54/1
+7.2: Ahmed Shehzad faced Al-Amin Hossain, scored 6 runs. Team score: 60/1
+7.3: Ahmed Shehzad faced Al-Amin Hossain, scored 2 runs. Team score: 62/1
+7.4: Ahmed Shehzad faced Al-Amin Hossain, scored 0 runs. Team score: 62/1
+7.5: Ahmed Shehzad faced Al-Amin Hossain, scored 2 runs. Team score: 64/1
+7.6: Ahmed Shehzad faced Al-Amin Hossain, scored 1 runs. Team score: 65/1
+8.1: Ahmed Shehzad faced Abdur Razzak, scored 1 runs. Team score: 66/1
+8.2: Mohammad Hafeez faced Abdur Razzak, scored 1 runs. Team score: 67/1
+8.3: Ahmed Shehzad faced Abdur Razzak, scored 1 runs. Team score: 68/1
+8.4: Mohammad Hafeez faced Abdur Razzak, scored 2 runs. Team score: 70/1
+8.5: Mohammad Hafeez faced Abdur Razzak, scored 0 runs. Team score: 70/1
+stumped!, Batsman: Mohammad Hafeez (8 runs from 12 balls), Bowler: Abdur Razzak (figures: 2/13). Fielders involved: Mushfiqur Rahim. Team score: 70/2
+8.6: Umar Akmal faced Abdur Razzak, scored 0 runs. Team score: 70/2
+9.1: Ahmed Shehzad faced Mahmudullah, scored 1 runs. Team score: 71/2
+9.2: Umar Akmal faced Mahmudullah, scored 0 runs. Team score: 71/2
+caught!, Batsman: Umar Akmal (0 runs from 2 balls), Bowler: Mahmudullah (figures: 1/1). Fielders involved: Tamim Iqbal. Team score: 71/3
+9.3: Shoaib Malik faced Mahmudullah, scored 0 runs. Team score: 71/3
+9.4: Shoaib Malik faced Mahmudullah, scored 1 runs. Team score: 72/3
+9.5: Ahmed Shehzad faced Mahmudullah, scored 2 runs. Team score: 74/3
+9.6: Ahmed Shehzad faced Mahmudullah, scored 1 runs. Team score: 75/3
+10.1: Ahmed Shehzad faced Abdur Razzak, scored 2 runs. Team score: 77/3
+10.2: Shoaib Malik faced Abdur Razzak, scored 0 runs. Team score: 77/3
+10.3: Shoaib Malik faced Abdur Razzak, scored 1 runs. Team score: 78/3
+10.4: Ahmed Shehzad faced Abdur Razzak, scored 1 runs. Team score: 79/3
+10.5: Shoaib Malik faced Abdur Razzak, scored 0 runs. Team score: 79/3
+10.6: Shoaib Malik faced Abdur Razzak, scored 0 runs. Team score: 79/3
+10.0: Shoaib Malik faced Abdur Razzak, scored 3 runs. Team score: 82/3
+11.1: Shoaib Malik faced Mahmudullah, scored 0 runs. Team score: 82/3
+11.2: Shoaib Malik faced Mahmudullah, scored 1 runs. Team score: 83/3
+11.3: Ahmed Shehzad faced Mahmudullah, scored 1 runs. Team score: 84/3
+11.4: Shoaib Malik faced Mahmudullah, scored 1 runs. Team score: 85/3
+11.5: Ahmed Shehzad faced Mahmudullah, scored 1 runs. Team score: 86/3
+11.6: Shoaib Malik faced Mahmudullah, scored 2 runs. Team score: 88/3
+12.1: Ahmed Shehzad faced Ziaur Rahman, scored 6 runs. Team score: 94/3
+12.2: Ahmed Shehzad faced Ziaur Rahman, scored 4 runs. Team score: 98/3
+12.3: Ahmed Shehzad faced Ziaur Rahman, scored 1 runs. Team score: 99/3
+12.4: Shoaib Malik faced Ziaur Rahman, scored 1 runs. Team score: 100/3
+12.5: Ahmed Shehzad faced Ziaur Rahman, scored 6 runs. Team score: 106/3
+12.6: Ahmed Shehzad faced Ziaur Rahman, scored 4 runs. Team score: 110/3
+13.1: Shoaib Malik faced Mahmudullah, scored 2 runs. Team score: 112/3
+13.2: Shoaib Malik faced Mahmudullah, scored 1 runs. Team score: 113/3
+13.3: Ahmed Shehzad faced Mahmudullah, scored 1 runs. Team score: 114/3
+13.4: Shoaib Malik faced Mahmudullah, scored 4 runs. Team score: 118/3
+13.5: Shoaib Malik faced Mahmudullah, scored 4 runs. Team score: 122/3
+13.6: Shoaib Malik faced Mahmudullah, scored 1 runs. Team score: 123/3
+14.1: Shoaib Malik faced Shakib Al Hasan, scored 0 runs. Team score: 123/3
+14.2: Shoaib Malik faced Shakib Al Hasan, scored 1 runs. Team score: 124/3
+14.3: Ahmed Shehzad faced Shakib Al Hasan, scored 2 runs. Team score: 126/3
+14.4: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 127/3
+14.5: Shoaib Malik faced Shakib Al Hasan, scored 1 runs. Team score: 128/3
+14.6: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 129/3
+14.0: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 130/3
+15.1: Ahmed Shehzad faced Mashrafe Mortaza, scored 0 runs. Team score: 130/3
+15.2: Ahmed Shehzad faced Mashrafe Mortaza, scored 5 runs. Team score: 135/3
+15.3: Ahmed Shehzad faced Mashrafe Mortaza, scored 4 runs. Team score: 139/3
+15.4: Ahmed Shehzad faced Mashrafe Mortaza, scored 1 runs. Team score: 140/3
+15.5: Shoaib Malik faced Mashrafe Mortaza, scored 1 runs. Team score: 141/3
+15.6: Ahmed Shehzad faced Mashrafe Mortaza, scored 4 runs. Team score: 145/3
+15.0: Ahmed Shehzad faced Mashrafe Mortaza, scored 1 runs. Team score: 146/3
+16.1: Ahmed Shehzad faced Al-Amin Hossain, scored 0 runs. Team score: 146/3
+16.2: Ahmed Shehzad faced Al-Amin Hossain, scored 2 runs. Team score: 148/3
+16.3: Ahmed Shehzad faced Al-Amin Hossain, scored 0 runs. Team score: 148/3
+16.4: Ahmed Shehzad faced Al-Amin Hossain, scored 2 runs. Team score: 150/3
+16.5: Ahmed Shehzad faced Al-Amin Hossain, scored 0 runs. Team score: 150/3
+16.6: Ahmed Shehzad faced Al-Amin Hossain, scored 1 runs. Team score: 151/3
+17.1: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 152/3
+17.2: Shoaib Malik faced Shakib Al Hasan, scored 1 runs. Team score: 153/3
+17.3: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 154/3
+17.4: Shoaib Malik faced Shakib Al Hasan, scored 0 runs. Team score: 154/3
+stumped!, Batsman: Shoaib Malik (26 runs from 23 balls), Bowler: Shakib Al Hasan (figures: 1/22). Fielders involved: Mushfiqur Rahim. Team score: 154/4
+17.5: Shahid Afridi faced Shakib Al Hasan, scored 1 runs. Team score: 155/4
+17.6: Ahmed Shehzad faced Shakib Al Hasan, scored 1 runs. Team score: 156/4
+18.1: Ahmed Shehzad faced Mashrafe Mortaza, scored 6 runs. Team score: 162/4
+18.2: Ahmed Shehzad faced Mashrafe Mortaza, scored 1 runs. Team score: 163/4
+18.3: Shahid Afridi faced Mashrafe Mortaza, scored 6 runs. Team score: 169/4
+18.4: Shahid Afridi faced Mashrafe Mortaza, scored 6 runs. Team score: 175/4
+18.5: Shahid Afridi faced Mashrafe Mortaza, scored 0 runs. Team score: 175/4
+18.6: Shahid Afridi faced Mashrafe Mortaza, scored 1 runs. Team score: 176/4
+18.0: Ahmed Shehzad faced Mashrafe Mortaza, scored 4 runs. Team score: 180/4
+19.1: Shahid Afridi faced Al-Amin Hossain, scored 4 runs. Team score: 184/4
+19.2: Shahid Afridi faced Al-Amin Hossain, scored 2 runs. Team score: 186/4
+19.3: Shahid Afridi faced Al-Amin Hossain, scored 2 runs. Team score: 188/4
+19.4: Shahid Afridi faced Al-Amin Hossain, scored 0 runs. Team score: 188/4
+caught!, Batsman: Shahid Afridi (22 runs from 9 balls), Bowler: Al-Amin Hossain (figures: 1/35). Fielders involved: Ziaur Rahman. Team score: 188/5
+19.5: Sohaib Maqsood faced Al-Amin Hossain, scored 1 runs. Team score: 189/5
+19.6: Ahmed Shehzad faced Al-Amin Hossain, scored 1 runs. Team score: 190/5
+End of innings for Pakistan: 190/5 in 20.0 overs
+Batsman scores:
+Ahmed Shehzad: 121 runs from 66 balls
+Kamran Akmal: 12 runs from 12 balls
+Mohammad Hafeez: 8 runs from 12 balls
+Umar Akmal: 0 runs from 2 balls
+Shoaib Malik: 26 runs from 23 balls
+Shahid Afridi: 22 runs from 9 balls
+Sohaib Maqsood: 1 runs from 1 balls
+Bowler figures:
+Mashrafe Mortaza: 0 wickets for 63 runs
+Al-Amin Hossain: 1 wickets for 37 runs
+Shakib Al Hasan: 1 wickets for 24 runs
+Abdur Razzak: 2 wickets for 20 runs
+Mahmudullah: 1 wickets for 24 runs
+Ziaur Rahman: 0 wickets for 22 runs
+
+Innings 2:
+0.1: Tamim Iqbal faced Mohammad Hafeez, scored 0 runs. Team score: 0/0
+0.2: Tamim Iqbal faced Mohammad Hafeez, scored 0 runs. Team score: 0/0
+0.3: Tamim Iqbal faced Mohammad Hafeez, scored 4 runs. Team score: 4/0
+0.4: Tamim Iqbal faced Mohammad Hafeez, scored 1 runs. Team score: 5/0
+0.5: Anamul Haque faced Mohammad Hafeez, scored 1 runs. Team score: 6/0
+0.6: Tamim Iqbal faced Mohammad Hafeez, scored 0 runs. Team score: 6/0
+1.1: Anamul Haque faced Sohail Tanvir, scored 4 runs. Team score: 10/0
+1.2: Anamul Haque faced Sohail Tanvir, scored 0 runs. Team score: 10/0
+1.3: Anamul Haque faced Sohail Tanvir, scored 0 runs. Team score: 10/0
+1.4: Anamul Haque faced Sohail Tanvir, scored 1 runs. Team score: 11/0
+1.5: Tamim Iqbal faced Sohail Tanvir, scored 2 runs. Team score: 13/0
+1.6: Tamim Iqbal faced Sohail Tanvir, scored 0 runs. Team score: 13/0
+2.1: Anamul Haque faced Mohammad Hafeez, scored 0 runs. Team score: 13/0
+2.2: Anamul Haque faced Mohammad Hafeez, scored 1 runs. Team score: 14/0
+2.3: Tamim Iqbal faced Mohammad Hafeez, scored 1 runs. Team score: 15/0
+2.4: Anamul Haque faced Mohammad Hafeez, scored 4 runs. Team score: 19/0
+2.5: Anamul Haque faced Mohammad Hafeez, scored 0 runs. Team score: 19/0
+2.6: Anamul Haque faced Mohammad Hafeez, scored 1 runs. Team score: 20/0
+3.1: Anamul Haque faced Sohail Tanvir, scored 1 runs. Team score: 21/0
+3.2: Tamim Iqbal faced Sohail Tanvir, scored 0 runs. Team score: 21/0
+3.3: Tamim Iqbal faced Sohail Tanvir, scored 2 runs. Team score: 23/0
+3.4: Tamim Iqbal faced Sohail Tanvir, scored 4 runs. Team score: 27/0
+3.5: Tamim Iqbal faced Sohail Tanvir, scored 2 runs. Team score: 29/0
+3.6: Tamim Iqbal faced Sohail Tanvir, scored 1 runs. Team score: 30/0
+4.1: Tamim Iqbal faced Umar Gul, scored 0 runs. Team score: 30/0
+4.2: Tamim Iqbal faced Umar Gul, scored 0 runs. Team score: 30/0
+bowled!, Batsman: Tamim Iqbal (17 runs from 15 balls), Bowler: Umar Gul (figures: 1/0). Fielders involved: None. Team score: 30/1
+4.3: Shakib Al Hasan faced Umar Gul, scored 0 runs. Team score: 30/1
+4.4: Shakib Al Hasan faced Umar Gul, scored 0 runs. Team score: 30/1
+4.5: Shakib Al Hasan faced Umar Gul, scored 1 runs. Team score: 31/1
+4.6: Anamul Haque faced Umar Gul, scored 1 runs. Team score: 32/1
+5.1: Anamul Haque faced Saeed Ajmal, scored 4 runs. Team score: 36/1
+5.2: Anamul Haque faced Saeed Ajmal, scored 0 runs. Team score: 36/1
+5.3: Anamul Haque faced Saeed Ajmal, scored 0 runs. Team score: 36/1
+5.4: Anamul Haque faced Saeed Ajmal, scored 0 runs. Team score: 36/1
+caught and bowled!, Batsman: Anamul Haque (18 runs from 16 balls), Bowler: Saeed Ajmal (figures: 1/4). Fielders involved: None. Team score: 36/2
+5.5: Shamsur Rahman faced Saeed Ajmal, scored 0 runs. Team score: 36/2
+5.6: Shamsur Rahman faced Saeed Ajmal, scored 0 runs. Team score: 36/2
+6.1: Shakib Al Hasan faced Mohammad Hafeez, scored 1 runs. Team score: 37/2
+6.2: Shamsur Rahman faced Mohammad Hafeez, scored 0 runs. Team score: 37/2
+6.3: Shamsur Rahman faced Mohammad Hafeez, scored 0 runs. Team score: 37/2
+6.4: Shamsur Rahman faced Mohammad Hafeez, scored 1 runs. Team score: 38/2
+6.5: Shakib Al Hasan faced Mohammad Hafeez, scored 1 runs. Team score: 39/2
+6.6: Shamsur Rahman faced Mohammad Hafeez, scored 1 runs. Team score: 40/2
+7.1: Shamsur Rahman faced Zulfiqar Babar, scored 0 runs. Team score: 40/2
+7.2: Shamsur Rahman faced Zulfiqar Babar, scored 0 runs. Team score: 40/2
+7.3: Shamsur Rahman faced Zulfiqar Babar, scored 0 runs. Team score: 40/2
+7.4: Shamsur Rahman faced Zulfiqar Babar, scored 1 runs. Team score: 41/2
+7.5: Shamsur Rahman faced Zulfiqar Babar, scored 1 runs. Team score: 42/2
+7.6: Shakib Al Hasan faced Zulfiqar Babar, scored 1 runs. Team score: 43/2
+7.0: Shamsur Rahman faced Zulfiqar Babar, scored 1 runs. Team score: 44/2
+8.1: Shamsur Rahman faced Shahid Afridi, scored 0 runs. Team score: 44/2
+caught!, Batsman: Shamsur Rahman (5 runs from 13 balls), Bowler: Shahid Afridi (figures: 1/0). Fielders involved: Kamran Akmal. Team score: 44/3
+8.2: Mushfiqur Rahim faced Shahid Afridi, scored 1 runs. Team score: 45/3
+8.3: Shakib Al Hasan faced Shahid Afridi, scored 1 runs. Team score: 46/3
+8.4: Mushfiqur Rahim faced Shahid Afridi, scored 0 runs. Team score: 46/3
+8.5: Mushfiqur Rahim faced Shahid Afridi, scored 1 runs. Team score: 47/3
+8.6: Shakib Al Hasan faced Shahid Afridi, scored 0 runs. Team score: 47/3
+9.1: Mushfiqur Rahim faced Zulfiqar Babar, scored 0 runs. Team score: 47/3
+lbw!, Batsman: Mushfiqur Rahim (2 runs from 4 balls), Bowler: Zulfiqar Babar (figures: 1/4). Fielders involved: None. Team score: 47/4
+9.2: Nasir Hossain faced Zulfiqar Babar, scored 2 runs. Team score: 49/4
+9.3: Nasir Hossain faced Zulfiqar Babar, scored 2 runs. Team score: 51/4
+9.4: Nasir Hossain faced Zulfiqar Babar, scored 1 runs. Team score: 52/4
+9.5: Shakib Al Hasan faced Zulfiqar Babar, scored 1 runs. Team score: 53/4
+9.6: Nasir Hossain faced Zulfiqar Babar, scored 0 runs. Team score: 53/4
+10.1: Shakib Al Hasan faced Shahid Afridi, scored 0 runs. Team score: 53/4
+10.2: Shakib Al Hasan faced Shahid Afridi, scored 0 runs. Team score: 53/4
+10.3: Shakib Al Hasan faced Shahid Afridi, scored 1 runs. Team score: 54/4
+10.4: Nasir Hossain faced Shahid Afridi, scored 0 runs. Team score: 54/4
+10.5: Nasir Hossain faced Shahid Afridi, scored 1 runs. Team score: 55/4
+10.6: Shakib Al Hasan faced Shahid Afridi, scored 0 runs. Team score: 55/4
+11.1: Nasir Hossain faced Zulfiqar Babar, scored 1 runs. Team score: 56/4
+11.2: Shakib Al Hasan faced Zulfiqar Babar, scored 0 runs. Team score: 56/4
+11.3: Shakib Al Hasan faced Zulfiqar Babar, scored 6 runs. Team score: 62/4
+11.4: Shakib Al Hasan faced Zulfiqar Babar, scored 6 runs. Team score: 68/4
+11.5: Shakib Al Hasan faced Zulfiqar Babar, scored 0 runs. Team score: 68/4
+11.6: Shakib Al Hasan faced Zulfiqar Babar, scored 1 runs. Team score: 69/4
+12.1: Shakib Al Hasan faced Saeed Ajmal, scored 1 runs. Team score: 70/4
+12.2: Nasir Hossain faced Saeed Ajmal, scored 1 runs. Team score: 71/4
+12.3: Shakib Al Hasan faced Saeed Ajmal, scored 1 runs. Team score: 72/4
+12.4: Nasir Hossain faced Saeed Ajmal, scored 1 runs. Team score: 73/4
+12.5: Shakib Al Hasan faced Saeed Ajmal, scored 0 runs. Team score: 73/4
+12.6: Shakib Al Hasan faced Saeed Ajmal, scored 1 runs. Team score: 74/4
+13.1: Shakib Al Hasan faced Shahid Afridi, scored 1 runs. Team score: 75/4
+13.2: Nasir Hossain faced Shahid Afridi, scored 1 runs. Team score: 76/4
+13.3: Shakib Al Hasan faced Shahid Afridi, scored 1 runs. Team score: 77/4
+13.4: Nasir Hossain faced Shahid Afridi, scored 1 runs. Team score: 78/4
+13.5: Shakib Al Hasan faced Shahid Afridi, scored 2 runs. Team score: 80/4
+13.6: Shakib Al Hasan faced Shahid Afridi, scored 1 runs. Team score: 81/4
+14.1: Shakib Al Hasan faced Umar Gul, scored 4 runs. Team score: 85/4
+14.2: Shakib Al Hasan faced Umar Gul, scored 4 runs. Team score: 89/4
+14.3: Shakib Al Hasan faced Umar Gul, scored 0 runs. Team score: 89/4
+14.4: Shakib Al Hasan faced Umar Gul, scored 0 runs. Team score: 89/4
+14.5: Shakib Al Hasan faced Umar Gul, scored 2 runs. Team score: 91/4
+14.6: Shakib Al Hasan faced Umar Gul, scored 0 runs. Team score: 91/4
+caught!, Batsman: Shakib Al Hasan (38 runs from 32 balls), Bowler: Umar Gul (figures: 2/12). Fielders involved: Umar Akmal. Team score: 91/5
+15.1: Nasir Hossain faced Shahid Afridi, scored 1 runs. Team score: 92/5
+15.2: Mahmudullah faced Shahid Afridi, scored 1 runs. Team score: 93/5
+15.3: Nasir Hossain faced Shahid Afridi, scored 0 runs. Team score: 93/5
+15.4: Nasir Hossain faced Shahid Afridi, scored 6 runs. Team score: 99/5
+15.5: Nasir Hossain faced Shahid Afridi, scored 0 runs. Team score: 99/5
+15.6: Nasir Hossain faced Shahid Afridi, scored 1 runs. Team score: 100/5
+16.1: Nasir Hossain faced Saeed Ajmal, scored 4 runs. Team score: 104/5
+16.2: Nasir Hossain faced Saeed Ajmal, scored 1 runs. Team score: 105/5
+16.3: Mahmudullah faced Saeed Ajmal, scored 6 runs. Team score: 111/5
+16.4: Mahmudullah faced Saeed Ajmal, scored 0 runs. Team score: 111/5
+16.5: Mahmudullah faced Saeed Ajmal, scored 1 runs. Team score: 112/5
+16.6: Nasir Hossain faced Saeed Ajmal, scored 0 runs. Team score: 112/5
+stumped!, Batsman: Nasir Hossain (24 runs from 19 balls), Bowler: Saeed Ajmal (figures: 2/21). Fielders involved: Kamran Akmal. Team score: 112/6
+17.1: Mahmudullah faced Umar Gul, scored 1 runs. Team score: 113/6
+17.2: Mahmudullah faced Umar Gul, scored 0 runs. Team score: 113/6
+17.3: Mahmudullah faced Umar Gul, scored 2 runs. Team score: 115/6
+17.4: Mahmudullah faced Umar Gul, scored 1 runs. Team score: 116/6
+17.5: Ziaur Rahman faced Umar Gul, scored 0 runs. Team score: 116/6
+caught!, Batsman: Ziaur Rahman (0 runs from 1 balls), Bowler: Umar Gul (figures: 3/16). Fielders involved: Kamran Akmal. Team score: 116/7
+17.6: Mashrafe Mortaza faced Umar Gul, scored 0 runs. Team score: 116/7
+17.0: Mashrafe Mortaza faced Umar Gul, scored 4 runs. Team score: 120/7
+18.1: Mahmudullah faced Sohail Tanvir, scored 1 runs. Team score: 121/7
+18.2: Mashrafe Mortaza faced Sohail Tanvir, scored 0 runs. Team score: 121/7
+18.3: Mashrafe Mortaza faced Sohail Tanvir, scored 4 runs. Team score: 125/7
+18.4: Mashrafe Mortaza faced Sohail Tanvir, scored 1 runs. Team score: 126/7
+18.5: Mahmudullah faced Sohail Tanvir, scored 2 runs. Team score: 128/7
+18.6: Mahmudullah faced Sohail Tanvir, scored 1 runs. Team score: 129/7
+19.1: Mahmudullah faced Umar Gul, scored 1 runs. Team score: 130/7
+19.2: Mashrafe Mortaza faced Umar Gul, scored 4 runs. Team score: 134/7
+19.3: Mashrafe Mortaza faced Umar Gul, scored 4 runs. Team score: 138/7
+19.4: Mashrafe Mortaza faced Umar Gul, scored 0 runs. Team score: 138/7
+19.5: Mashrafe Mortaza faced Umar Gul, scored 1 runs. Team score: 139/7
+19.6: Mahmudullah faced Umar Gul, scored 1 runs. Team score: 140/7
+End of innings for Bangladesh: 140/7 in 20.0 overs
+Batsman scores:
+Tamim Iqbal: 17 runs from 15 balls
+Anamul Haque: 18 runs from 16 balls
+Shakib Al Hasan: 38 runs from 32 balls
+Shamsur Rahman: 5 runs from 13 balls
+Mushfiqur Rahim: 2 runs from 4 balls
+Nasir Hossain: 24 runs from 19 balls
+Mahmudullah: 18 runs from 13 balls
+Ziaur Rahman: 0 runs from 1 balls
+Mashrafe Mortaza: 18 runs from 9 balls
+Bowler figures:
+Mohammad Hafeez: 0 wickets for 17 runs
+Sohail Tanvir: 0 wickets for 26 runs
+Umar Gul: 3 wickets for 31 runs
+Saeed Ajmal: 2 wickets for 21 runs
+Zulfiqar Babar: 1 wickets for 24 runs
+Shahid Afridi: 1 wickets for 21 runs
+

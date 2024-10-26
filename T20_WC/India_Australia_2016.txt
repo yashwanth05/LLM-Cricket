@@ -1,0 +1,299 @@
+Match: World T20 - T20
+Date: 2016-03-27
+Venue: Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh
+Teams: India vs Australia
+Toss: Australia won the toss and decided to bat
+Result: India won by 6 wickets
+Man of the Match: V Kohli
+
+Innings 1:
+0.1: UT Khawaja faced A Nehra, scored 4 runs. Team score: 4/0
+0.2: UT Khawaja faced A Nehra, scored 0 runs. Team score: 4/0
+0.3: UT Khawaja faced A Nehra, scored 0 runs. Team score: 4/0
+0.4: UT Khawaja faced A Nehra, scored 0 runs. Team score: 4/0
+0.5: UT Khawaja faced A Nehra, scored 0 runs. Team score: 4/0
+0.6: UT Khawaja faced A Nehra, scored 0 runs. Team score: 4/0
+1.1: AJ Finch faced JJ Bumrah, scored 1 runs. Team score: 5/0
+1.2: UT Khawaja faced JJ Bumrah, scored 4 runs. Team score: 9/0
+1.3: UT Khawaja faced JJ Bumrah, scored 4 runs. Team score: 13/0
+1.4: UT Khawaja faced JJ Bumrah, scored 4 runs. Team score: 17/0
+1.5: UT Khawaja faced JJ Bumrah, scored 0 runs. Team score: 17/0
+1.6: UT Khawaja faced JJ Bumrah, scored 4 runs. Team score: 21/0
+2.1: AJ Finch faced A Nehra, scored 0 runs. Team score: 21/0
+2.2: AJ Finch faced A Nehra, scored 4 runs. Team score: 25/0
+2.3: AJ Finch faced A Nehra, scored 1 runs. Team score: 26/0
+2.4: UT Khawaja faced A Nehra, scored 4 runs. Team score: 30/0
+2.5: UT Khawaja faced A Nehra, scored 0 runs. Team score: 30/0
+2.6: UT Khawaja faced A Nehra, scored 1 runs. Team score: 31/0
+3.1: UT Khawaja faced R Ashwin, scored 1 runs. Team score: 32/0
+3.2: AJ Finch faced R Ashwin, scored 0 runs. Team score: 32/0
+3.3: AJ Finch faced R Ashwin, scored 6 runs. Team score: 38/0
+3.4: AJ Finch faced R Ashwin, scored 6 runs. Team score: 44/0
+3.5: AJ Finch faced R Ashwin, scored 5 runs. Team score: 49/0
+3.6: AJ Finch faced R Ashwin, scored 1 runs. Team score: 50/0
+3.0: AJ Finch faced R Ashwin, scored 2 runs. Team score: 52/0
+3.1: AJ Finch faced R Ashwin, scored 1 runs. Team score: 53/0
+4.1: AJ Finch faced A Nehra, scored 1 runs. Team score: 54/0
+4.2: UT Khawaja faced A Nehra, scored 0 runs. Team score: 54/0
+caught!, Batsman: UT Khawaja (26 runs from 16 balls), Bowler: A Nehra (figures: 1/15). Fielders involved: MS Dhoni. Team score: 54/1
+4.3: DA Warner faced A Nehra, scored 0 runs. Team score: 54/1
+4.4: DA Warner faced A Nehra, scored 1 runs. Team score: 55/1
+4.5: AJ Finch faced A Nehra, scored 0 runs. Team score: 55/1
+4.6: AJ Finch faced A Nehra, scored 0 runs. Team score: 55/1
+5.1: DA Warner faced JJ Bumrah, scored 1 runs. Team score: 56/1
+5.2: AJ Finch faced JJ Bumrah, scored 0 runs. Team score: 56/1
+5.3: AJ Finch faced JJ Bumrah, scored 0 runs. Team score: 56/1
+5.4: AJ Finch faced JJ Bumrah, scored 1 runs. Team score: 57/1
+5.5: DA Warner faced JJ Bumrah, scored 1 runs. Team score: 58/1
+5.6: AJ Finch faced JJ Bumrah, scored 1 runs. Team score: 59/1
+6.1: AJ Finch faced RA Jadeja, scored 1 runs. Team score: 60/1
+6.2: DA Warner faced RA Jadeja, scored 2 runs. Team score: 62/1
+6.3: DA Warner faced RA Jadeja, scored 0 runs. Team score: 62/1
+6.4: DA Warner faced RA Jadeja, scored 1 runs. Team score: 63/1
+6.5: AJ Finch faced RA Jadeja, scored 0 runs. Team score: 63/1
+6.6: AJ Finch faced RA Jadeja, scored 1 runs. Team score: 64/1
+7.1: AJ Finch faced R Ashwin, scored 1 runs. Team score: 65/1
+7.2: AJ Finch faced R Ashwin, scored 1 runs. Team score: 66/1
+7.3: DA Warner faced R Ashwin, scored 1 runs. Team score: 67/1
+7.4: AJ Finch faced R Ashwin, scored 4 runs. Team score: 71/1
+7.5: AJ Finch faced R Ashwin, scored 1 runs. Team score: 72/1
+7.6: DA Warner faced R Ashwin, scored 0 runs. Team score: 72/1
+stumped!, Batsman: DA Warner (7 runs from 9 balls), Bowler: R Ashwin (figures: 1/30). Fielders involved: MS Dhoni. Team score: 72/2
+7.0: SPD Smith faced R Ashwin, scored 1 runs. Team score: 73/2
+8.1: SPD Smith faced RA Jadeja, scored 0 runs. Team score: 73/2
+8.2: SPD Smith faced RA Jadeja, scored 0 runs. Team score: 73/2
+8.3: SPD Smith faced RA Jadeja, scored 0 runs. Team score: 73/2
+8.4: SPD Smith faced RA Jadeja, scored 1 runs. Team score: 74/2
+8.5: AJ Finch faced RA Jadeja, scored 0 runs. Team score: 74/2
+8.6: AJ Finch faced RA Jadeja, scored 0 runs. Team score: 74/2
+9.1: SPD Smith faced Yuvraj Singh, scored 0 runs. Team score: 74/2
+caught!, Batsman: SPD Smith (2 runs from 6 balls), Bowler: Yuvraj Singh (figures: 1/0). Fielders involved: MS Dhoni. Team score: 74/3
+9.2: GJ Maxwell faced Yuvraj Singh, scored 1 runs. Team score: 75/3
+9.3: AJ Finch faced Yuvraj Singh, scored 2 runs. Team score: 77/3
+9.4: GJ Maxwell faced Yuvraj Singh, scored 0 runs. Team score: 77/3
+9.5: GJ Maxwell faced Yuvraj Singh, scored 1 runs. Team score: 78/3
+9.6: AJ Finch faced Yuvraj Singh, scored 1 runs. Team score: 79/3
+9.0: AJ Finch faced Yuvraj Singh, scored 1 runs. Team score: 80/3
+9.1: GJ Maxwell faced Yuvraj Singh, scored 1 runs. Team score: 81/3
+10.1: GJ Maxwell faced HH Pandya, scored 0 runs. Team score: 81/3
+10.2: GJ Maxwell faced HH Pandya, scored 0 runs. Team score: 81/3
+10.3: GJ Maxwell faced HH Pandya, scored 2 runs. Team score: 83/3
+10.4: GJ Maxwell faced HH Pandya, scored 0 runs. Team score: 83/3
+10.5: GJ Maxwell faced HH Pandya, scored 1 runs. Team score: 84/3
+10.6: AJ Finch faced HH Pandya, scored 1 runs. Team score: 85/3
+11.1: AJ Finch faced Yuvraj Singh, scored 1 runs. Team score: 86/3
+11.2: GJ Maxwell faced Yuvraj Singh, scored 2 runs. Team score: 88/3
+11.3: GJ Maxwell faced Yuvraj Singh, scored 2 runs. Team score: 90/3
+11.4: GJ Maxwell faced Yuvraj Singh, scored 1 runs. Team score: 91/3
+11.5: AJ Finch faced Yuvraj Singh, scored 1 runs. Team score: 92/3
+11.6: GJ Maxwell faced Yuvraj Singh, scored 1 runs. Team score: 93/3
+12.1: GJ Maxwell faced HH Pandya, scored 1 runs. Team score: 94/3
+12.2: AJ Finch faced HH Pandya, scored 0 runs. Team score: 94/3
+12.3: AJ Finch faced HH Pandya, scored 2 runs. Team score: 96/3
+12.4: AJ Finch faced HH Pandya, scored 0 runs. Team score: 96/3
+12.5: AJ Finch faced HH Pandya, scored 4 runs. Team score: 100/3
+12.6: AJ Finch faced HH Pandya, scored 0 runs. Team score: 100/3
+caught!, Batsman: AJ Finch (52 runs from 38 balls), Bowler: HH Pandya (figures: 1/11). Fielders involved: S Dhawan. Team score: 100/4
+13.1: GJ Maxwell faced Yuvraj Singh, scored 1 runs. Team score: 101/4
+13.2: GJ Maxwell faced Yuvraj Singh, scored 0 runs. Team score: 101/4
+13.3: GJ Maxwell faced Yuvraj Singh, scored 2 runs. Team score: 103/4
+13.4: GJ Maxwell faced Yuvraj Singh, scored 0 runs. Team score: 103/4
+13.5: GJ Maxwell faced Yuvraj Singh, scored 0 runs. Team score: 103/4
+13.6: GJ Maxwell faced Yuvraj Singh, scored 1 runs. Team score: 104/4
+13.0: SR Watson faced Yuvraj Singh, scored 0 runs. Team score: 104/4
+14.1: GJ Maxwell faced HH Pandya, scored 1 runs. Team score: 105/4
+14.2: SR Watson faced HH Pandya, scored 1 runs. Team score: 106/4
+14.3: SR Watson faced HH Pandya, scored 4 runs. Team score: 110/4
+14.4: SR Watson faced HH Pandya, scored 1 runs. Team score: 111/4
+14.5: GJ Maxwell faced HH Pandya, scored 1 runs. Team score: 112/4
+14.6: SR Watson faced HH Pandya, scored 1 runs. Team score: 113/4
+14.0: GJ Maxwell faced HH Pandya, scored 1 runs. Team score: 114/4
+15.1: GJ Maxwell faced RA Jadeja, scored 1 runs. Team score: 115/4
+15.2: SR Watson faced RA Jadeja, scored 1 runs. Team score: 116/4
+15.3: GJ Maxwell faced RA Jadeja, scored 1 runs. Team score: 117/4
+15.4: SR Watson faced RA Jadeja, scored 1 runs. Team score: 118/4
+15.5: SR Watson faced RA Jadeja, scored 1 runs. Team score: 119/4
+15.6: GJ Maxwell faced RA Jadeja, scored 4 runs. Team score: 123/4
+15.0: GJ Maxwell faced RA Jadeja, scored 6 runs. Team score: 129/4
+16.1: SR Watson faced JJ Bumrah, scored 1 runs. Team score: 130/4
+16.2: GJ Maxwell faced JJ Bumrah, scored 0 runs. Team score: 130/4
+16.3: GJ Maxwell faced JJ Bumrah, scored 0 runs. Team score: 130/4
+bowled!, Batsman: GJ Maxwell (32 runs from 29 balls), Bowler: JJ Bumrah (figures: 1/22). Fielders involved: None. Team score: 130/5
+16.4: JP Faulkner faced JJ Bumrah, scored 1 runs. Team score: 131/5
+16.5: SR Watson faced JJ Bumrah, scored 0 runs. Team score: 131/5
+16.6: SR Watson faced JJ Bumrah, scored 1 runs. Team score: 132/5
+17.1: SR Watson faced A Nehra, scored 1 runs. Team score: 133/5
+17.2: JP Faulkner faced A Nehra, scored 1 runs. Team score: 134/5
+17.3: SR Watson faced A Nehra, scored 1 runs. Team score: 135/5
+17.4: JP Faulkner faced A Nehra, scored 0 runs. Team score: 135/5
+17.5: JP Faulkner faced A Nehra, scored 0 runs. Team score: 135/5
+17.6: JP Faulkner faced A Nehra, scored 1 runs. Team score: 136/5
+18.1: JP Faulkner faced JJ Bumrah, scored 4 runs. Team score: 140/5
+18.2: JP Faulkner faced JJ Bumrah, scored 1 runs. Team score: 141/5
+18.3: SR Watson faced JJ Bumrah, scored 1 runs. Team score: 142/5
+18.4: JP Faulkner faced JJ Bumrah, scored 1 runs. Team score: 143/5
+18.5: SR Watson faced JJ Bumrah, scored 1 runs. Team score: 144/5
+18.6: JP Faulkner faced JJ Bumrah, scored 1 runs. Team score: 145/5
+19.1: JP Faulkner faced HH Pandya, scored 0 runs. Team score: 145/5
+caught!, Batsman: JP Faulkner (10 runs from 10 balls), Bowler: HH Pandya (figures: 2/21). Fielders involved: V Kohli. Team score: 145/6
+19.2: SR Watson faced HH Pandya, scored 0 runs. Team score: 145/6
+19.3: SR Watson faced HH Pandya, scored 4 runs. Team score: 149/6
+19.4: SR Watson faced HH Pandya, scored 1 runs. Team score: 150/6
+19.5: PM Nevill faced HH Pandya, scored 4 runs. Team score: 154/6
+19.6: PM Nevill faced HH Pandya, scored 6 runs. Team score: 160/6
+End of innings for Australia: 160/6 in 20.0 overs
+Batsman scores:
+UT Khawaja: 26 runs from 16 balls
+AJ Finch: 52 runs from 38 balls
+DA Warner: 7 runs from 9 balls
+SPD Smith: 2 runs from 6 balls
+GJ Maxwell: 32 runs from 29 balls
+SR Watson: 21 runs from 18 balls
+JP Faulkner: 10 runs from 10 balls
+PM Nevill: 10 runs from 2 balls
+Bowler figures:
+A Nehra: 1 wickets for 20 runs
+JJ Bumrah: 1 wickets for 33 runs
+R Ashwin: 1 wickets for 31 runs
+RA Jadeja: 0 wickets for 21 runs
+Yuvraj Singh: 1 wickets for 19 runs
+HH Pandya: 2 wickets for 36 runs
+
+Innings 2:
+0.1: RG Sharma faced JR Hazlewood, scored 1 runs. Team score: 1/0
+0.2: S Dhawan faced JR Hazlewood, scored 4 runs. Team score: 5/0
+0.3: S Dhawan faced JR Hazlewood, scored 0 runs. Team score: 5/0
+0.4: S Dhawan faced JR Hazlewood, scored 1 runs. Team score: 6/0
+0.5: RG Sharma faced JR Hazlewood, scored 0 runs. Team score: 6/0
+0.6: RG Sharma faced JR Hazlewood, scored 1 runs. Team score: 7/0
+1.1: RG Sharma faced NM Coulter-Nile, scored 0 runs. Team score: 7/0
+1.2: RG Sharma faced NM Coulter-Nile, scored 0 runs. Team score: 7/0
+1.3: RG Sharma faced NM Coulter-Nile, scored 0 runs. Team score: 7/0
+1.4: RG Sharma faced NM Coulter-Nile, scored 1 runs. Team score: 8/0
+1.5: S Dhawan faced NM Coulter-Nile, scored 1 runs. Team score: 9/0
+1.6: RG Sharma faced NM Coulter-Nile, scored 0 runs. Team score: 9/0
+2.1: S Dhawan faced JR Hazlewood, scored 1 runs. Team score: 10/0
+2.2: S Dhawan faced JR Hazlewood, scored 0 runs. Team score: 10/0
+2.3: S Dhawan faced JR Hazlewood, scored 6 runs. Team score: 16/0
+2.4: S Dhawan faced JR Hazlewood, scored 1 runs. Team score: 17/0
+2.5: RG Sharma faced JR Hazlewood, scored 1 runs. Team score: 18/0
+2.6: S Dhawan faced JR Hazlewood, scored 0 runs. Team score: 18/0
+2.0: S Dhawan faced JR Hazlewood, scored 0 runs. Team score: 18/0
+3.1: RG Sharma faced NM Coulter-Nile, scored 4 runs. Team score: 22/0
+3.2: RG Sharma faced NM Coulter-Nile, scored 1 runs. Team score: 23/0
+3.3: S Dhawan faced NM Coulter-Nile, scored 0 runs. Team score: 23/0
+3.4: S Dhawan faced NM Coulter-Nile, scored 0 runs. Team score: 23/0
+3.5: S Dhawan faced NM Coulter-Nile, scored 0 runs. Team score: 23/0
+caught!, Batsman: S Dhawan (14 runs from 13 balls), Bowler: NM Coulter-Nile (figures: 1/7). Fielders involved: UT Khawaja. Team score: 23/1
+3.6: RG Sharma faced NM Coulter-Nile, scored 1 runs. Team score: 24/1
+4.1: RG Sharma faced JR Hazlewood, scored 1 runs. Team score: 25/1
+4.2: V Kohli faced JR Hazlewood, scored 0 runs. Team score: 25/1
+4.3: V Kohli faced JR Hazlewood, scored 4 runs. Team score: 29/1
+4.4: V Kohli faced JR Hazlewood, scored 4 runs. Team score: 33/1
+4.5: V Kohli faced JR Hazlewood, scored 1 runs. Team score: 34/1
+4.6: RG Sharma faced JR Hazlewood, scored 0 runs. Team score: 34/1
+5.1: V Kohli faced SR Watson, scored 1 runs. Team score: 35/1
+5.2: RG Sharma faced SR Watson, scored 1 runs. Team score: 36/1
+5.3: V Kohli faced SR Watson, scored 1 runs. Team score: 37/1
+5.4: RG Sharma faced SR Watson, scored 0 runs. Team score: 37/1
+5.5: RG Sharma faced SR Watson, scored 0 runs. Team score: 37/1
+bowled!, Batsman: RG Sharma (12 runs from 17 balls), Bowler: SR Watson (figures: 1/3). Fielders involved: None. Team score: 37/2
+5.6: SK Raina faced SR Watson, scored 0 runs. Team score: 37/2
+6.1: V Kohli faced JP Faulkner, scored 0 runs. Team score: 37/2
+6.2: V Kohli faced JP Faulkner, scored 0 runs. Team score: 37/2
+6.3: V Kohli faced JP Faulkner, scored 1 runs. Team score: 38/2
+6.4: SK Raina faced JP Faulkner, scored 2 runs. Team score: 40/2
+6.5: SK Raina faced JP Faulkner, scored 4 runs. Team score: 44/2
+6.6: SK Raina faced JP Faulkner, scored 1 runs. Team score: 45/2
+7.1: SK Raina faced SR Watson, scored 1 runs. Team score: 46/2
+7.2: V Kohli faced SR Watson, scored 1 runs. Team score: 47/2
+7.3: SK Raina faced SR Watson, scored 2 runs. Team score: 49/2
+7.4: SK Raina faced SR Watson, scored 0 runs. Team score: 49/2
+caught!, Batsman: SK Raina (10 runs from 7 balls), Bowler: SR Watson (figures: 2/7). Fielders involved: PM Nevill. Team score: 49/3
+7.5: Yuvraj Singh faced SR Watson, scored 1 runs. Team score: 50/3
+7.6: V Kohli faced SR Watson, scored 0 runs. Team score: 50/3
+8.1: Yuvraj Singh faced NM Coulter-Nile, scored 4 runs. Team score: 54/3
+8.2: Yuvraj Singh faced NM Coulter-Nile, scored 1 runs. Team score: 55/3
+8.3: V Kohli faced NM Coulter-Nile, scored 1 runs. Team score: 56/3
+8.4: V Kohli faced NM Coulter-Nile, scored 1 runs. Team score: 57/3
+8.5: Yuvraj Singh faced NM Coulter-Nile, scored 0 runs. Team score: 57/3
+8.6: Yuvraj Singh faced NM Coulter-Nile, scored 1 runs. Team score: 58/3
+8.0: V Kohli faced NM Coulter-Nile, scored 1 runs. Team score: 59/3
+9.1: V Kohli faced GJ Maxwell, scored 1 runs. Team score: 60/3
+9.2: Yuvraj Singh faced GJ Maxwell, scored 1 runs. Team score: 61/3
+9.3: V Kohli faced GJ Maxwell, scored 0 runs. Team score: 61/3
+9.4: V Kohli faced GJ Maxwell, scored 1 runs. Team score: 62/3
+9.5: Yuvraj Singh faced GJ Maxwell, scored 1 runs. Team score: 63/3
+9.6: V Kohli faced GJ Maxwell, scored 2 runs. Team score: 65/3
+10.1: Yuvraj Singh faced A Zampa, scored 0 runs. Team score: 65/3
+10.2: Yuvraj Singh faced A Zampa, scored 1 runs. Team score: 66/3
+10.3: V Kohli faced A Zampa, scored 1 runs. Team score: 67/3
+10.4: Yuvraj Singh faced A Zampa, scored 1 runs. Team score: 68/3
+10.5: V Kohli faced A Zampa, scored 0 runs. Team score: 68/3
+10.6: V Kohli faced A Zampa, scored 0 runs. Team score: 68/3
+11.1: Yuvraj Singh faced GJ Maxwell, scored 1 runs. Team score: 69/3
+11.2: V Kohli faced GJ Maxwell, scored 6 runs. Team score: 75/3
+11.3: V Kohli faced GJ Maxwell, scored 2 runs. Team score: 77/3
+11.4: V Kohli faced GJ Maxwell, scored 1 runs. Team score: 78/3
+11.5: Yuvraj Singh faced GJ Maxwell, scored 1 runs. Team score: 79/3
+11.6: V Kohli faced GJ Maxwell, scored 1 runs. Team score: 80/3
+12.1: V Kohli faced A Zampa, scored 1 runs. Team score: 81/3
+12.2: Yuvraj Singh faced A Zampa, scored 0 runs. Team score: 81/3
+12.3: Yuvraj Singh faced A Zampa, scored 6 runs. Team score: 87/3
+12.4: Yuvraj Singh faced A Zampa, scored 1 runs. Team score: 88/3
+12.5: V Kohli faced A Zampa, scored 0 runs. Team score: 88/3
+12.6: V Kohli faced A Zampa, scored 1 runs. Team score: 89/3
+13.1: V Kohli faced JP Faulkner, scored 1 runs. Team score: 90/3
+13.2: Yuvraj Singh faced JP Faulkner, scored 1 runs. Team score: 91/3
+13.3: V Kohli faced JP Faulkner, scored 1 runs. Team score: 92/3
+13.4: Yuvraj Singh faced JP Faulkner, scored 1 runs. Team score: 93/3
+13.5: V Kohli faced JP Faulkner, scored 1 runs. Team score: 94/3
+13.6: Yuvraj Singh faced JP Faulkner, scored 0 runs. Team score: 94/3
+caught!, Batsman: Yuvraj Singh (22 runs from 18 balls), Bowler: JP Faulkner (figures: 1/13). Fielders involved: SR Watson. Team score: 94/4
+14.1: MS Dhoni faced SR Watson, scored 0 runs. Team score: 94/4
+14.2: MS Dhoni faced SR Watson, scored 1 runs. Team score: 95/4
+14.3: V Kohli faced SR Watson, scored 1 runs. Team score: 96/4
+14.4: MS Dhoni faced SR Watson, scored 4 runs. Team score: 100/4
+14.5: MS Dhoni faced SR Watson, scored 1 runs. Team score: 101/4
+14.6: V Kohli faced SR Watson, scored 1 runs. Team score: 102/4
+15.1: V Kohli faced JR Hazlewood, scored 0 runs. Team score: 102/4
+15.2: V Kohli faced JR Hazlewood, scored 2 runs. Team score: 104/4
+15.3: V Kohli faced JR Hazlewood, scored 2 runs. Team score: 106/4
+15.4: V Kohli faced JR Hazlewood, scored 4 runs. Team score: 110/4
+15.5: V Kohli faced JR Hazlewood, scored 2 runs. Team score: 112/4
+15.6: V Kohli faced JR Hazlewood, scored 2 runs. Team score: 114/4
+16.1: MS Dhoni faced SR Watson, scored 0 runs. Team score: 114/4
+16.2: MS Dhoni faced SR Watson, scored 1 runs. Team score: 115/4
+16.3: V Kohli faced SR Watson, scored 1 runs. Team score: 116/4
+16.4: MS Dhoni faced SR Watson, scored 1 runs. Team score: 117/4
+16.5: V Kohli faced SR Watson, scored 1 runs. Team score: 118/4
+16.6: MS Dhoni faced SR Watson, scored 4 runs. Team score: 122/4
+17.1: V Kohli faced JP Faulkner, scored 4 runs. Team score: 126/4
+17.2: V Kohli faced JP Faulkner, scored 4 runs. Team score: 130/4
+17.3: V Kohli faced JP Faulkner, scored 6 runs. Team score: 136/4
+17.4: V Kohli faced JP Faulkner, scored 2 runs. Team score: 138/4
+17.5: V Kohli faced JP Faulkner, scored 1 runs. Team score: 139/4
+17.6: MS Dhoni faced JP Faulkner, scored 2 runs. Team score: 141/4
+18.1: V Kohli faced NM Coulter-Nile, scored 0 runs. Team score: 141/4
+18.2: V Kohli faced NM Coulter-Nile, scored 4 runs. Team score: 145/4
+18.3: V Kohli faced NM Coulter-Nile, scored 4 runs. Team score: 149/4
+18.4: V Kohli faced NM Coulter-Nile, scored 4 runs. Team score: 153/4
+18.5: V Kohli faced NM Coulter-Nile, scored 0 runs. Team score: 153/4
+18.6: V Kohli faced NM Coulter-Nile, scored 4 runs. Team score: 157/4
+19.1: MS Dhoni faced JP Faulkner, scored 4 runs. Team score: 161/4
+End of innings for India: 161/4 in 20.0 overs
+Batsman scores:
+RG Sharma: 12 runs from 17 balls
+S Dhawan: 14 runs from 13 balls
+V Kohli: 85 runs from 52 balls
+SK Raina: 10 runs from 7 balls
+Yuvraj Singh: 22 runs from 18 balls
+MS Dhoni: 18 runs from 10 balls
+Bowler figures:
+JR Hazlewood: 0 wickets for 38 runs
+NM Coulter-Nile: 1 wickets for 33 runs
+SR Watson: 2 wickets for 24 runs
+JP Faulkner: 1 wickets for 36 runs
+GJ Maxwell: 0 wickets for 18 runs
+A Zampa: 0 wickets for 12 runs
+

@@ -1,0 +1,297 @@
+Match: World T20 - T20
+Date: 2014-03-27
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: England vs Sri Lanka
+Toss: England won the toss and decided to field
+Result: England won by 6 wickets
+Man of the Match: AD Hales
+
+Innings 1:
+0.1: TM Dilshan faced MM Ali, scored 0 runs. Team score: 0/0
+0.2: TM Dilshan faced MM Ali, scored 1 runs. Team score: 1/0
+0.3: MDKJ Perera faced MM Ali, scored 2 runs. Team score: 3/0
+0.4: MDKJ Perera faced MM Ali, scored 0 runs. Team score: 3/0
+0.5: MDKJ Perera faced MM Ali, scored 0 runs. Team score: 3/0
+0.6: MDKJ Perera faced MM Ali, scored 1 runs. Team score: 4/0
+1.1: MDKJ Perera faced JW Dernbach, scored 0 runs. Team score: 4/0
+1.2: MDKJ Perera faced JW Dernbach, scored 0 runs. Team score: 4/0
+caught!, Batsman: MDKJ Perera (3 runs from 6 balls), Bowler: JW Dernbach (figures: 1/0). Fielders involved: JC Buttler. Team score: 4/1
+1.3: DPMD Jayawardene faced JW Dernbach, scored 0 runs. Team score: 4/1
+1.4: DPMD Jayawardene faced JW Dernbach, scored 0 runs. Team score: 4/1
+1.5: DPMD Jayawardene faced JW Dernbach, scored 0 runs. Team score: 4/1
+1.6: DPMD Jayawardene faced JW Dernbach, scored 4 runs. Team score: 8/1
+2.1: TM Dilshan faced TT Bresnan, scored 6 runs. Team score: 14/1
+2.2: TM Dilshan faced TT Bresnan, scored 0 runs. Team score: 14/1
+2.3: TM Dilshan faced TT Bresnan, scored 0 runs. Team score: 14/1
+2.4: TM Dilshan faced TT Bresnan, scored 0 runs. Team score: 14/1
+2.5: TM Dilshan faced TT Bresnan, scored 0 runs. Team score: 14/1
+2.6: TM Dilshan faced TT Bresnan, scored 0 runs. Team score: 14/1
+3.1: DPMD Jayawardene faced JW Dernbach, scored 4 runs. Team score: 18/1
+3.2: DPMD Jayawardene faced JW Dernbach, scored 0 runs. Team score: 18/1
+3.3: DPMD Jayawardene faced JW Dernbach, scored 4 runs. Team score: 22/1
+3.4: DPMD Jayawardene faced JW Dernbach, scored 0 runs. Team score: 22/1
+3.5: DPMD Jayawardene faced JW Dernbach, scored 0 runs. Team score: 22/1
+3.6: DPMD Jayawardene faced JW Dernbach, scored 1 runs. Team score: 23/1
+4.1: DPMD Jayawardene faced TT Bresnan, scored 0 runs. Team score: 23/1
+4.2: DPMD Jayawardene faced TT Bresnan, scored 6 runs. Team score: 29/1
+4.3: DPMD Jayawardene faced TT Bresnan, scored 2 runs. Team score: 31/1
+4.4: DPMD Jayawardene faced TT Bresnan, scored 4 runs. Team score: 35/1
+4.5: DPMD Jayawardene faced TT Bresnan, scored 0 runs. Team score: 35/1
+4.6: DPMD Jayawardene faced TT Bresnan, scored 0 runs. Team score: 35/1
+5.1: TM Dilshan faced CJ Jordan, scored 0 runs. Team score: 35/1
+5.2: TM Dilshan faced CJ Jordan, scored 1 runs. Team score: 36/1
+5.3: DPMD Jayawardene faced CJ Jordan, scored 4 runs. Team score: 40/1
+5.4: DPMD Jayawardene faced CJ Jordan, scored 0 runs. Team score: 40/1
+5.5: DPMD Jayawardene faced CJ Jordan, scored 1 runs. Team score: 41/1
+5.6: TM Dilshan faced CJ Jordan, scored 1 runs. Team score: 42/1
+6.1: TM Dilshan faced JC Tredwell, scored 1 runs. Team score: 43/1
+6.2: DPMD Jayawardene faced JC Tredwell, scored 1 runs. Team score: 44/1
+6.3: TM Dilshan faced JC Tredwell, scored 1 runs. Team score: 45/1
+6.4: DPMD Jayawardene faced JC Tredwell, scored 0 runs. Team score: 45/1
+6.5: DPMD Jayawardene faced JC Tredwell, scored 1 runs. Team score: 46/1
+6.6: TM Dilshan faced JC Tredwell, scored 2 runs. Team score: 48/1
+7.1: DPMD Jayawardene faced SCJ Broad, scored 1 runs. Team score: 49/1
+7.2: TM Dilshan faced SCJ Broad, scored 6 runs. Team score: 55/1
+7.3: TM Dilshan faced SCJ Broad, scored 2 runs. Team score: 57/1
+7.4: TM Dilshan faced SCJ Broad, scored 0 runs. Team score: 57/1
+7.5: TM Dilshan faced SCJ Broad, scored 0 runs. Team score: 57/1
+7.6: TM Dilshan faced SCJ Broad, scored 1 runs. Team score: 58/1
+8.1: TM Dilshan faced JC Tredwell, scored 0 runs. Team score: 58/1
+8.2: TM Dilshan faced JC Tredwell, scored 0 runs. Team score: 58/1
+8.3: TM Dilshan faced JC Tredwell, scored 1 runs. Team score: 59/1
+8.4: DPMD Jayawardene faced JC Tredwell, scored 1 runs. Team score: 60/1
+8.5: TM Dilshan faced JC Tredwell, scored 0 runs. Team score: 60/1
+8.6: TM Dilshan faced JC Tredwell, scored 1 runs. Team score: 61/1
+9.1: TM Dilshan faced CJ Jordan, scored 2 runs. Team score: 63/1
+9.2: TM Dilshan faced CJ Jordan, scored 4 runs. Team score: 67/1
+9.3: TM Dilshan faced CJ Jordan, scored 1 runs. Team score: 68/1
+9.4: DPMD Jayawardene faced CJ Jordan, scored 1 runs. Team score: 69/1
+9.5: TM Dilshan faced CJ Jordan, scored 0 runs. Team score: 69/1
+9.6: TM Dilshan faced CJ Jordan, scored 1 runs. Team score: 70/1
+10.1: TM Dilshan faced JC Tredwell, scored 1 runs. Team score: 71/1
+10.2: DPMD Jayawardene faced JC Tredwell, scored 4 runs. Team score: 75/1
+10.3: DPMD Jayawardene faced JC Tredwell, scored 4 runs. Team score: 79/1
+10.4: DPMD Jayawardene faced JC Tredwell, scored 2 runs. Team score: 81/1
+10.5: DPMD Jayawardene faced JC Tredwell, scored 1 runs. Team score: 82/1
+10.6: TM Dilshan faced JC Tredwell, scored 1 runs. Team score: 83/1
+11.1: TM Dilshan faced SCJ Broad, scored 0 runs. Team score: 83/1
+11.2: TM Dilshan faced SCJ Broad, scored 0 runs. Team score: 83/1
+11.3: TM Dilshan faced SCJ Broad, scored 2 runs. Team score: 85/1
+11.4: TM Dilshan faced SCJ Broad, scored 1 runs. Team score: 86/1
+11.5: DPMD Jayawardene faced SCJ Broad, scored 2 runs. Team score: 88/1
+11.6: DPMD Jayawardene faced SCJ Broad, scored 1 runs. Team score: 89/1
+12.1: DPMD Jayawardene faced JC Tredwell, scored 4 runs. Team score: 93/1
+12.2: DPMD Jayawardene faced JC Tredwell, scored 1 runs. Team score: 94/1
+12.3: TM Dilshan faced JC Tredwell, scored 0 runs. Team score: 94/1
+12.4: TM Dilshan faced JC Tredwell, scored 1 runs. Team score: 95/1
+12.5: DPMD Jayawardene faced JC Tredwell, scored 2 runs. Team score: 97/1
+12.6: DPMD Jayawardene faced JC Tredwell, scored 6 runs. Team score: 103/1
+13.1: TM Dilshan faced TT Bresnan, scored 1 runs. Team score: 104/1
+13.2: DPMD Jayawardene faced TT Bresnan, scored 1 runs. Team score: 105/1
+13.3: TM Dilshan faced TT Bresnan, scored 1 runs. Team score: 106/1
+13.4: DPMD Jayawardene faced TT Bresnan, scored 4 runs. Team score: 110/1
+13.5: DPMD Jayawardene faced TT Bresnan, scored 6 runs. Team score: 116/1
+13.6: DPMD Jayawardene faced TT Bresnan, scored 1 runs. Team score: 117/1
+14.1: DPMD Jayawardene faced JW Dernbach, scored 3 runs. Team score: 120/1
+14.2: DPMD Jayawardene faced JW Dernbach, scored 1 runs. Team score: 121/1
+14.3: TM Dilshan faced JW Dernbach, scored 2 runs. Team score: 123/1
+14.4: TM Dilshan faced JW Dernbach, scored 1 runs. Team score: 124/1
+14.5: DPMD Jayawardene faced JW Dernbach, scored 4 runs. Team score: 128/1
+14.6: DPMD Jayawardene faced JW Dernbach, scored 2 runs. Team score: 130/1
+14.0: DPMD Jayawardene faced JW Dernbach, scored 0 runs. Team score: 130/1
+15.1: TM Dilshan faced SCJ Broad, scored 1 runs. Team score: 131/1
+15.2: TM Dilshan faced SCJ Broad, scored 4 runs. Team score: 135/1
+15.3: TM Dilshan faced SCJ Broad, scored 2 runs. Team score: 137/1
+15.4: DPMD Jayawardene faced SCJ Broad, scored 0 runs. Team score: 137/1
+15.5: DPMD Jayawardene faced SCJ Broad, scored 0 runs. Team score: 137/1
+15.6: DPMD Jayawardene faced SCJ Broad, scored 1 runs. Team score: 138/1
+15.0: TM Dilshan faced SCJ Broad, scored 4 runs. Team score: 142/1
+15.1: TM Dilshan faced SCJ Broad, scored 1 runs. Team score: 143/1
+15.2: TM Dilshan faced SCJ Broad, scored 0 runs. Team score: 143/1
+16.1: DPMD Jayawardene faced CJ Jordan, scored 2 runs. Team score: 145/1
+16.2: DPMD Jayawardene faced CJ Jordan, scored 4 runs. Team score: 149/1
+16.3: DPMD Jayawardene faced CJ Jordan, scored 0 runs. Team score: 149/1
+16.4: DPMD Jayawardene faced CJ Jordan, scored 0 runs. Team score: 149/1
+bowled!, Batsman: DPMD Jayawardene (91 runs from 51 balls), Bowler: CJ Jordan (figures: 1/22). Fielders involved: None. Team score: 149/2
+16.5: NLTC Perera faced CJ Jordan, scored 1 runs. Team score: 150/2
+16.6: NLTC Perera faced CJ Jordan, scored 0 runs. Team score: 150/2
+16.0: NLTC Perera faced CJ Jordan, scored 2 runs. Team score: 152/2
+17.1: TM Dilshan faced JW Dernbach, scored 4 runs. Team score: 156/2
+17.2: TM Dilshan faced JW Dernbach, scored 0 runs. Team score: 156/2
+caught!, Batsman: TM Dilshan (59 runs from 49 balls), Bowler: JW Dernbach (figures: 2/30). Fielders involved: CJ Jordan. Team score: 156/3
+17.3: NLTC Perera faced JW Dernbach, scored 2 runs. Team score: 158/3
+17.4: NLTC Perera faced JW Dernbach, scored 4 runs. Team score: 162/3
+17.5: NLTC Perera faced JW Dernbach, scored 0 runs. Team score: 162/3
+17.6: NLTC Perera faced JW Dernbach, scored 1 runs. Team score: 163/3
+17.0: NLTC Perera faced JW Dernbach, scored 6 runs. Team score: 169/3
+18.1: KC Sangakkara faced CJ Jordan, scored 0 runs. Team score: 169/3
+caught!, Batsman: KC Sangakkara (0 runs from 1 balls), Bowler: CJ Jordan (figures: 2/25). Fielders involved: AD Hales. Team score: 169/4
+18.2: NLTC Perera faced CJ Jordan, scored 1 runs. Team score: 170/4
+18.3: AD Mathews faced CJ Jordan, scored 1 runs. Team score: 171/4
+18.4: NLTC Perera faced CJ Jordan, scored 0 runs. Team score: 171/4
+18.5: NLTC Perera faced CJ Jordan, scored 1 runs. Team score: 172/4
+18.6: AD Mathews faced CJ Jordan, scored 1 runs. Team score: 173/4
+19.1: AD Mathews faced TT Bresnan, scored 1 runs. Team score: 174/4
+19.2: NLTC Perera faced TT Bresnan, scored 2 runs. Team score: 176/4
+19.3: NLTC Perera faced TT Bresnan, scored 4 runs. Team score: 180/4
+19.4: NLTC Perera faced TT Bresnan, scored 1 runs. Team score: 181/4
+19.5: AD Mathews faced TT Bresnan, scored 2 runs. Team score: 183/4
+19.6: AD Mathews faced TT Bresnan, scored 6 runs. Team score: 189/4
+End of innings for Sri Lanka: 189/4 in 20.0 overs
+Batsman scores:
+TM Dilshan: 59 runs from 49 balls
+MDKJ Perera: 3 runs from 6 balls
+DPMD Jayawardene: 91 runs from 51 balls
+NLTC Perera: 25 runs from 14 balls
+KC Sangakkara: 0 runs from 1 balls
+AD Mathews: 11 runs from 5 balls
+Bowler figures:
+MM Ali: 0 wickets for 4 runs
+JW Dernbach: 2 wickets for 43 runs
+TT Bresnan: 0 wickets for 48 runs
+CJ Jordan: 2 wickets for 29 runs
+JC Tredwell: 0 wickets for 36 runs
+SCJ Broad: 0 wickets for 29 runs
+
+Innings 2:
+0.1: MJ Lumb faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+0.2: MJ Lumb faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+0.3: MJ Lumb faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+0.4: MJ Lumb faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+0.5: MJ Lumb faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+bowled!, Batsman: MJ Lumb (0 runs from 5 balls), Bowler: KMDN Kulasekara (figures: 1/0). Fielders involved: None. Team score: 0/1
+0.6: MM Ali faced KMDN Kulasekara, scored 0 runs. Team score: 0/1
+caught!, Batsman: MM Ali (0 runs from 1 balls), Bowler: KMDN Kulasekara (figures: 2/0). Fielders involved: SMSM Senanayake. Team score: 0/2
+Maiden over by KMDN Kulasekara
+1.1: AD Hales faced AD Mathews, scored 4 runs. Team score: 4/2
+1.2: AD Hales faced AD Mathews, scored 4 runs. Team score: 8/2
+1.3: AD Hales faced AD Mathews, scored 0 runs. Team score: 8/2
+1.4: AD Hales faced AD Mathews, scored 0 runs. Team score: 8/2
+1.5: AD Hales faced AD Mathews, scored 0 runs. Team score: 8/2
+1.6: AD Hales faced AD Mathews, scored 0 runs. Team score: 8/2
+2.1: EJG Morgan faced KMDN Kulasekara, scored 1 runs. Team score: 9/2
+2.2: EJG Morgan faced KMDN Kulasekara, scored 0 runs. Team score: 9/2
+2.3: EJG Morgan faced KMDN Kulasekara, scored 1 runs. Team score: 10/2
+2.4: AD Hales faced KMDN Kulasekara, scored 4 runs. Team score: 14/2
+2.5: AD Hales faced KMDN Kulasekara, scored 0 runs. Team score: 14/2
+2.6: AD Hales faced KMDN Kulasekara, scored 4 runs. Team score: 18/2
+2.0: AD Hales faced KMDN Kulasekara, scored 1 runs. Team score: 19/2
+3.1: AD Hales faced SL Malinga, scored 1 runs. Team score: 20/2
+3.2: EJG Morgan faced SL Malinga, scored 0 runs. Team score: 20/2
+3.3: EJG Morgan faced SL Malinga, scored 0 runs. Team score: 20/2
+3.4: EJG Morgan faced SL Malinga, scored 0 runs. Team score: 20/2
+3.5: EJG Morgan faced SL Malinga, scored 4 runs. Team score: 24/2
+3.6: EJG Morgan faced SL Malinga, scored 0 runs. Team score: 24/2
+4.1: AD Hales faced SMSM Senanayake, scored 2 runs. Team score: 26/2
+4.2: AD Hales faced SMSM Senanayake, scored 0 runs. Team score: 26/2
+4.3: AD Hales faced SMSM Senanayake, scored 0 runs. Team score: 26/2
+4.4: AD Hales faced SMSM Senanayake, scored 1 runs. Team score: 27/2
+4.5: EJG Morgan faced SMSM Senanayake, scored 4 runs. Team score: 31/2
+4.6: EJG Morgan faced SMSM Senanayake, scored 0 runs. Team score: 31/2
+5.1: AD Hales faced SL Malinga, scored 0 runs. Team score: 31/2
+5.2: AD Hales faced SL Malinga, scored 0 runs. Team score: 31/2
+5.3: AD Hales faced SL Malinga, scored 0 runs. Team score: 31/2
+5.4: AD Hales faced SL Malinga, scored 0 runs. Team score: 31/2
+5.5: AD Hales faced SL Malinga, scored 4 runs. Team score: 35/2
+5.6: AD Hales faced SL Malinga, scored 2 runs. Team score: 37/2
+6.1: EJG Morgan faced BAW Mendis, scored 4 runs. Team score: 41/2
+6.2: EJG Morgan faced BAW Mendis, scored 0 runs. Team score: 41/2
+6.3: EJG Morgan faced BAW Mendis, scored 1 runs. Team score: 42/2
+6.4: AD Hales faced BAW Mendis, scored 2 runs. Team score: 44/2
+6.5: AD Hales faced BAW Mendis, scored 1 runs. Team score: 45/2
+6.6: EJG Morgan faced BAW Mendis, scored 2 runs. Team score: 47/2
+7.1: AD Hales faced SMSM Senanayake, scored 0 runs. Team score: 47/2
+7.2: AD Hales faced SMSM Senanayake, scored 2 runs. Team score: 49/2
+7.3: AD Hales faced SMSM Senanayake, scored 1 runs. Team score: 50/2
+7.4: EJG Morgan faced SMSM Senanayake, scored 1 runs. Team score: 51/2
+7.5: AD Hales faced SMSM Senanayake, scored 1 runs. Team score: 52/2
+7.6: EJG Morgan faced SMSM Senanayake, scored 0 runs. Team score: 52/2
+8.1: AD Hales faced BAW Mendis, scored 1 runs. Team score: 53/2
+8.2: EJG Morgan faced BAW Mendis, scored 0 runs. Team score: 53/2
+8.3: EJG Morgan faced BAW Mendis, scored 0 runs. Team score: 53/2
+8.4: EJG Morgan faced BAW Mendis, scored 1 runs. Team score: 54/2
+8.5: AD Hales faced BAW Mendis, scored 1 runs. Team score: 55/2
+8.6: EJG Morgan faced BAW Mendis, scored 1 runs. Team score: 56/2
+9.1: EJG Morgan faced AD Mathews, scored 6 runs. Team score: 62/2
+9.2: EJG Morgan faced AD Mathews, scored 4 runs. Team score: 66/2
+9.3: EJG Morgan faced AD Mathews, scored 1 runs. Team score: 67/2
+9.4: AD Hales faced AD Mathews, scored 4 runs. Team score: 71/2
+9.5: AD Hales faced AD Mathews, scored 1 runs. Team score: 72/2
+9.6: EJG Morgan faced AD Mathews, scored 0 runs. Team score: 72/2
+10.1: AD Hales faced BAW Mendis, scored 0 runs. Team score: 72/2
+10.2: AD Hales faced BAW Mendis, scored 1 runs. Team score: 73/2
+10.3: EJG Morgan faced BAW Mendis, scored 6 runs. Team score: 79/2
+10.4: EJG Morgan faced BAW Mendis, scored 1 runs. Team score: 80/2
+10.5: AD Hales faced BAW Mendis, scored 1 runs. Team score: 81/2
+10.6: EJG Morgan faced BAW Mendis, scored 4 runs. Team score: 85/2
+11.1: AD Hales faced SMSM Senanayake, scored 1 runs. Team score: 86/2
+11.2: EJG Morgan faced SMSM Senanayake, scored 1 runs. Team score: 87/2
+11.3: AD Hales faced SMSM Senanayake, scored 1 runs. Team score: 88/2
+11.4: EJG Morgan faced SMSM Senanayake, scored 1 runs. Team score: 89/2
+11.5: AD Hales faced SMSM Senanayake, scored 1 runs. Team score: 90/2
+11.6: EJG Morgan faced SMSM Senanayake, scored 4 runs. Team score: 94/2
+12.1: AD Hales faced NLTC Perera, scored 4 runs. Team score: 98/2
+12.2: AD Hales faced NLTC Perera, scored 1 runs. Team score: 99/2
+12.3: EJG Morgan faced NLTC Perera, scored 0 runs. Team score: 99/2
+12.4: EJG Morgan faced NLTC Perera, scored 1 runs. Team score: 100/2
+12.5: AD Hales faced NLTC Perera, scored 4 runs. Team score: 104/2
+12.6: AD Hales faced NLTC Perera, scored 4 runs. Team score: 108/2
+13.1: EJG Morgan faced SMSM Senanayake, scored 4 runs. Team score: 112/2
+13.2: EJG Morgan faced SMSM Senanayake, scored 1 runs. Team score: 113/2
+13.3: AD Hales faced SMSM Senanayake, scored 0 runs. Team score: 113/2
+13.4: AD Hales faced SMSM Senanayake, scored 1 runs. Team score: 114/2
+13.5: EJG Morgan faced SMSM Senanayake, scored 1 runs. Team score: 115/2
+13.6: AD Hales faced SMSM Senanayake, scored 2 runs. Team score: 117/2
+14.1: EJG Morgan faced BAW Mendis, scored 1 runs. Team score: 118/2
+14.2: AD Hales faced BAW Mendis, scored 6 runs. Team score: 124/2
+14.3: AD Hales faced BAW Mendis, scored 2 runs. Team score: 126/2
+14.4: AD Hales faced BAW Mendis, scored 6 runs. Team score: 132/2
+14.5: AD Hales faced BAW Mendis, scored 6 runs. Team score: 138/2
+14.6: AD Hales faced BAW Mendis, scored 4 runs. Team score: 142/2
+15.1: EJG Morgan faced SL Malinga, scored 1 runs. Team score: 143/2
+15.2: AD Hales faced SL Malinga, scored 1 runs. Team score: 144/2
+15.3: EJG Morgan faced SL Malinga, scored 1 runs. Team score: 145/2
+15.4: AD Hales faced SL Malinga, scored 0 runs. Team score: 145/2
+15.5: AD Hales faced SL Malinga, scored 4 runs. Team score: 149/2
+15.6: AD Hales faced SL Malinga, scored 1 runs. Team score: 150/2
+15.0: AD Hales faced SL Malinga, scored 1 runs. Team score: 151/2
+16.1: AD Hales faced KMDN Kulasekara, scored 1 runs. Team score: 152/2
+16.2: EJG Morgan faced KMDN Kulasekara, scored 0 runs. Team score: 152/2
+caught!, Batsman: EJG Morgan (58 runs from 39 balls), Bowler: KMDN Kulasekara (figures: 3/12). Fielders involved: AD Mathews. Team score: 152/3
+16.3: AD Hales faced KMDN Kulasekara, scored 1 runs. Team score: 153/3
+16.4: JC Buttler faced KMDN Kulasekara, scored 0 runs. Team score: 153/3
+16.5: JC Buttler faced KMDN Kulasekara, scored 2 runs. Team score: 155/3
+16.6: JC Buttler faced KMDN Kulasekara, scored 1 runs. Team score: 156/3
+16.0: JC Buttler faced KMDN Kulasekara, scored 0 runs. Team score: 156/3
+caught!, Batsman: JC Buttler (3 runs from 4 balls), Bowler: KMDN Kulasekara (figures: 4/16). Fielders involved: LD Chandimal. Team score: 156/4
+17.1: RS Bopara faced SL Malinga, scored 4 runs. Team score: 160/4
+17.2: RS Bopara faced SL Malinga, scored 4 runs. Team score: 164/4
+17.3: RS Bopara faced SL Malinga, scored 0 runs. Team score: 164/4
+17.4: RS Bopara faced SL Malinga, scored 1 runs. Team score: 165/4
+17.5: AD Hales faced SL Malinga, scored 1 runs. Team score: 166/4
+17.6: AD Hales faced SL Malinga, scored 0 runs. Team score: 166/4
+17.0: AD Hales faced SL Malinga, scored 1 runs. Team score: 167/4
+18.1: AD Hales faced KMDN Kulasekara, scored 2 runs. Team score: 169/4
+18.2: AD Hales faced KMDN Kulasekara, scored 6 runs. Team score: 175/4
+18.3: AD Hales faced KMDN Kulasekara, scored 6 runs. Team score: 181/4
+18.4: AD Hales faced KMDN Kulasekara, scored 1 runs. Team score: 182/4
+18.5: RS Bopara faced KMDN Kulasekara, scored 1 runs. Team score: 183/4
+18.6: AD Hales faced KMDN Kulasekara, scored 0 runs. Team score: 183/4
+19.1: RS Bopara faced AD Mathews, scored 1 runs. Team score: 184/4
+19.2: AD Hales faced AD Mathews, scored 6 runs. Team score: 190/4
+End of innings for England: 190/4 in 20.0 overs
+Batsman scores:
+MJ Lumb: 0 runs from 5 balls
+MM Ali: 0 runs from 1 balls
+AD Hales: 118 runs from 65 balls
+EJG Morgan: 58 runs from 39 balls
+JC Buttler: 3 runs from 4 balls
+RS Bopara: 11 runs from 6 balls
+Bowler figures:
+KMDN Kulasekara: 4 wickets for 32 runs
+AD Mathews: 0 wickets for 31 runs
+SL Malinga: 0 wickets for 31 runs
+SMSM Senanayake: 0 wickets for 30 runs
+BAW Mendis: 0 wickets for 52 runs
+NLTC Perera: 0 wickets for 14 runs
+

@@ -1,0 +1,311 @@
+Match: World T20 - T20
+Date: 2014-03-27
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: Netherlands vs South Africa
+Toss: Netherlands won the toss and decided to field
+Result: South Africa won by 6 runs
+Man of the Match: Imran Tahir
+
+Innings 1:
+0.1: HM Amla faced MR Swart, scored 0 runs. Team score: 0/0
+0.2: HM Amla faced MR Swart, scored 2 runs. Team score: 2/0
+0.3: HM Amla faced MR Swart, scored 1 runs. Team score: 3/0
+0.4: Q de Kock faced MR Swart, scored 0 runs. Team score: 3/0
+0.5: Q de Kock faced MR Swart, scored 0 runs. Team score: 3/0
+caught!, Batsman: Q de Kock (0 runs from 2 balls), Bowler: MR Swart (figures: 1/3). Fielders involved: SJ Myburgh. Team score: 3/1
+0.6: F du Plessis faced MR Swart, scored 0 runs. Team score: 3/1
+1.1: HM Amla faced T van der Gugten, scored 2 runs. Team score: 5/1
+1.2: HM Amla faced T van der Gugten, scored 4 runs. Team score: 9/1
+1.3: HM Amla faced T van der Gugten, scored 0 runs. Team score: 9/1
+1.4: HM Amla faced T van der Gugten, scored 0 runs. Team score: 9/1
+1.5: HM Amla faced T van der Gugten, scored 0 runs. Team score: 9/1
+1.6: HM Amla faced T van der Gugten, scored 1 runs. Team score: 10/1
+2.1: HM Amla faced MR Swart, scored 1 runs. Team score: 11/1
+2.2: HM Amla faced MR Swart, scored 0 runs. Team score: 11/1
+2.3: HM Amla faced MR Swart, scored 6 runs. Team score: 17/1
+2.4: HM Amla faced MR Swart, scored 4 runs. Team score: 21/1
+2.5: HM Amla faced MR Swart, scored 4 runs. Team score: 25/1
+2.6: HM Amla faced MR Swart, scored 4 runs. Team score: 29/1
+2.0: HM Amla faced MR Swart, scored 4 runs. Team score: 33/1
+3.1: F du Plessis faced T van der Gugten, scored 1 runs. Team score: 34/1
+3.2: HM Amla faced T van der Gugten, scored 4 runs. Team score: 38/1
+3.3: HM Amla faced T van der Gugten, scored 0 runs. Team score: 38/1
+3.4: HM Amla faced T van der Gugten, scored 0 runs. Team score: 38/1
+3.5: HM Amla faced T van der Gugten, scored 1 runs. Team score: 39/1
+3.6: F du Plessis faced T van der Gugten, scored 0 runs. Team score: 39/1
+4.1: HM Amla faced Ahsan Malik, scored 2 runs. Team score: 41/1
+4.2: HM Amla faced Ahsan Malik, scored 4 runs. Team score: 45/1
+4.3: HM Amla faced Ahsan Malik, scored 0 runs. Team score: 45/1
+caught!, Batsman: HM Amla (44 runs from 23 balls), Bowler: Ahsan Malik (figures: 1/6). Fielders involved: W Barresi. Team score: 45/2
+4.4: AB de Villiers faced Ahsan Malik, scored 0 runs. Team score: 45/2
+4.5: AB de Villiers faced Ahsan Malik, scored 0 runs. Team score: 45/2
+4.6: AB de Villiers faced Ahsan Malik, scored 1 runs. Team score: 46/2
+5.1: AB de Villiers faced LV van Beek, scored 0 runs. Team score: 46/2
+5.2: AB de Villiers faced LV van Beek, scored 0 runs. Team score: 46/2
+5.3: AB de Villiers faced LV van Beek, scored 1 runs. Team score: 47/2
+5.4: F du Plessis faced LV van Beek, scored 4 runs. Team score: 51/2
+5.5: F du Plessis faced LV van Beek, scored 1 runs. Team score: 52/2
+5.6: F du Plessis faced LV van Beek, scored 1 runs. Team score: 53/2
+5.0: F du Plessis faced LV van Beek, scored 1 runs. Team score: 54/2
+5.1: AB de Villiers faced LV van Beek, scored 4 runs. Team score: 58/2
+6.1: F du Plessis faced Mudassar Bukhari, scored 1 runs. Team score: 59/2
+6.2: AB de Villiers faced Mudassar Bukhari, scored 1 runs. Team score: 60/2
+6.3: F du Plessis faced Mudassar Bukhari, scored 0 runs. Team score: 60/2
+6.4: F du Plessis faced Mudassar Bukhari, scored 1 runs. Team score: 61/2
+6.5: AB de Villiers faced Mudassar Bukhari, scored 1 runs. Team score: 62/2
+6.6: F du Plessis faced Mudassar Bukhari, scored 4 runs. Team score: 66/2
+7.1: AB de Villiers faced PM Seelaar, scored 0 runs. Team score: 66/2
+7.2: AB de Villiers faced PM Seelaar, scored 1 runs. Team score: 67/2
+7.3: F du Plessis faced PM Seelaar, scored 4 runs. Team score: 71/2
+7.4: F du Plessis faced PM Seelaar, scored 1 runs. Team score: 72/2
+7.5: AB de Villiers faced PM Seelaar, scored 2 runs. Team score: 74/2
+7.6: AB de Villiers faced PM Seelaar, scored 1 runs. Team score: 75/2
+8.1: AB de Villiers faced TLW Cooper, scored 1 runs. Team score: 76/2
+8.2: F du Plessis faced TLW Cooper, scored 1 runs. Team score: 77/2
+8.3: AB de Villiers faced TLW Cooper, scored 1 runs. Team score: 78/2
+8.4: F du Plessis faced TLW Cooper, scored 6 runs. Team score: 84/2
+8.5: F du Plessis faced TLW Cooper, scored 0 runs. Team score: 84/2
+caught!, Batsman: F du Plessis (26 runs from 16 balls), Bowler: TLW Cooper (figures: 1/9). Fielders involved: LV van Beek. Team score: 84/3
+8.6: AB de Villiers faced TLW Cooper, scored 1 runs. Team score: 85/3
+9.1: AB de Villiers faced Mudassar Bukhari, scored 2 runs. Team score: 87/3
+9.2: AB de Villiers faced Mudassar Bukhari, scored 2 runs. Team score: 89/3
+9.3: AB de Villiers faced Mudassar Bukhari, scored 1 runs. Team score: 90/3
+9.4: JA Morkel faced Mudassar Bukhari, scored 0 runs. Team score: 90/3
+9.5: JA Morkel faced Mudassar Bukhari, scored 1 runs. Team score: 91/3
+9.6: AB de Villiers faced Mudassar Bukhari, scored 1 runs. Team score: 92/3
+10.1: AB de Villiers faced LV van Beek, scored 0 runs. Team score: 92/3
+caught!, Batsman: AB de Villiers (21 runs from 21 balls), Bowler: LV van Beek (figures: 1/12). Fielders involved: BN Cooper. Team score: 92/4
+10.2: JA Morkel faced LV van Beek, scored 1 runs. Team score: 93/4
+10.3: JP Duminy faced LV van Beek, scored 0 runs. Team score: 93/4
+10.4: JP Duminy faced LV van Beek, scored 0 runs. Team score: 93/4
+10.5: JP Duminy faced LV van Beek, scored 1 runs. Team score: 94/4
+10.6: JA Morkel faced LV van Beek, scored 0 runs. Team score: 94/4
+11.1: JP Duminy faced TLW Cooper, scored 2 runs. Team score: 96/4
+11.2: JP Duminy faced TLW Cooper, scored 1 runs. Team score: 97/4
+11.3: JA Morkel faced TLW Cooper, scored 0 runs. Team score: 97/4
+11.4: JA Morkel faced TLW Cooper, scored 1 runs. Team score: 98/4
+11.5: JP Duminy faced TLW Cooper, scored 1 runs. Team score: 99/4
+11.6: JA Morkel faced TLW Cooper, scored 1 runs. Team score: 100/4
+12.1: JA Morkel faced Ahsan Malik, scored 0 runs. Team score: 100/4
+12.2: JA Morkel faced Ahsan Malik, scored 1 runs. Team score: 101/4
+12.3: JP Duminy faced Ahsan Malik, scored 0 runs. Team score: 101/4
+12.4: JP Duminy faced Ahsan Malik, scored 1 runs. Team score: 102/4
+12.5: JA Morkel faced Ahsan Malik, scored 0 runs. Team score: 102/4
+12.6: JA Morkel faced Ahsan Malik, scored 0 runs. Team score: 102/4
+caught!, Batsman: JA Morkel (5 runs from 11 balls), Bowler: Ahsan Malik (figures: 2/9). Fielders involved: BN Cooper. Team score: 102/5
+13.1: DA Miller faced TLW Cooper, scored 1 runs. Team score: 103/5
+13.2: JP Duminy faced TLW Cooper, scored 1 runs. Team score: 104/5
+13.3: DA Miller faced TLW Cooper, scored 0 runs. Team score: 104/5
+13.4: DA Miller faced TLW Cooper, scored 1 runs. Team score: 105/5
+13.5: JP Duminy faced TLW Cooper, scored 2 runs. Team score: 107/5
+13.6: JP Duminy faced TLW Cooper, scored 1 runs. Team score: 108/5
+14.1: JP Duminy faced Mudassar Bukhari, scored 1 runs. Team score: 109/5
+14.2: DA Miller faced Mudassar Bukhari, scored 1 runs. Team score: 110/5
+14.3: JP Duminy faced Mudassar Bukhari, scored 0 runs. Team score: 110/5
+14.4: JP Duminy faced Mudassar Bukhari, scored 1 runs. Team score: 111/5
+14.5: DA Miller faced Mudassar Bukhari, scored 2 runs. Team score: 113/5
+14.6: DA Miller faced Mudassar Bukhari, scored 1 runs. Team score: 114/5
+15.1: DA Miller faced T van der Gugten, scored 2 runs. Team score: 116/5
+15.2: DA Miller faced T van der Gugten, scored 0 runs. Team score: 116/5
+15.3: DA Miller faced T van der Gugten, scored 1 runs. Team score: 117/5
+15.4: DA Miller faced T van der Gugten, scored 2 runs. Team score: 119/5
+15.5: DA Miller faced T van der Gugten, scored 1 runs. Team score: 120/5
+15.6: JP Duminy faced T van der Gugten, scored 0 runs. Team score: 120/5
+caught!, Batsman: JP Duminy (12 runs from 15 balls), Bowler: T van der Gugten (figures: 1/19). Fielders involved: W Barresi. Team score: 120/6
+15.0: DW Steyn faced T van der Gugten, scored 0 runs. Team score: 120/6
+16.1: DA Miller faced Ahsan Malik, scored 1 runs. Team score: 121/6
+16.2: DW Steyn faced Ahsan Malik, scored 1 runs. Team score: 122/6
+16.3: DA Miller faced Ahsan Malik, scored 1 runs. Team score: 123/6
+16.4: DW Steyn faced Ahsan Malik, scored 4 runs. Team score: 127/6
+16.5: DW Steyn faced Ahsan Malik, scored 0 runs. Team score: 127/6
+caught!, Batsman: DW Steyn (5 runs from 4 balls), Bowler: Ahsan Malik (figures: 3/16). Fielders involved: W Barresi. Team score: 127/7
+16.6: BE Hendricks faced Ahsan Malik, scored 1 runs. Team score: 128/7
+17.1: BE Hendricks faced Mudassar Bukhari, scored 1 runs. Team score: 129/7
+17.2: DA Miller faced Mudassar Bukhari, scored 0 runs. Team score: 129/7
+17.3: DA Miller faced Mudassar Bukhari, scored 1 runs. Team score: 130/7
+17.4: BE Hendricks faced Mudassar Bukhari, scored 1 runs. Team score: 131/7
+17.5: DA Miller faced Mudassar Bukhari, scored 0 runs. Team score: 131/7
+17.6: DA Miller faced Mudassar Bukhari, scored 2 runs. Team score: 133/7
+18.1: BE Hendricks faced Ahsan Malik, scored 0 runs. Team score: 133/7
+caught!, Batsman: BE Hendricks (3 runs from 4 balls), Bowler: Ahsan Malik (figures: 4/17). Fielders involved: PW Borren. Team score: 133/8
+18.2: DA Miller faced Ahsan Malik, scored 1 runs. Team score: 134/8
+18.3: Imran Tahir faced Ahsan Malik, scored 0 runs. Team score: 134/8
+18.4: Imran Tahir faced Ahsan Malik, scored 1 runs. Team score: 135/8
+18.5: DA Miller faced Ahsan Malik, scored 0 runs. Team score: 135/8
+bowled!, Batsman: DA Miller (18 runs from 19 balls), Bowler: Ahsan Malik (figures: 5/19). Fielders involved: None. Team score: 135/9
+18.6: LL Tsotsobe faced Ahsan Malik, scored 0 runs. Team score: 135/9
+19.1: Imran Tahir faced T van der Gugten, scored 4 runs. Team score: 139/9
+19.2: Imran Tahir faced T van der Gugten, scored 2 runs. Team score: 141/9
+19.3: Imran Tahir faced T van der Gugten, scored 2 runs. Team score: 143/9
+19.4: Imran Tahir faced T van der Gugten, scored 0 runs. Team score: 143/9
+19.5: Imran Tahir faced T van der Gugten, scored 1 runs. Team score: 144/9
+19.6: LL Tsotsobe faced T van der Gugten, scored 1 runs. Team score: 145/9
+End of innings for South Africa: 145/9 in 20.0 overs
+Batsman scores:
+HM Amla: 44 runs from 23 balls
+Q de Kock: 0 runs from 2 balls
+F du Plessis: 26 runs from 16 balls
+AB de Villiers: 21 runs from 21 balls
+JA Morkel: 5 runs from 11 balls
+JP Duminy: 12 runs from 15 balls
+DA Miller: 18 runs from 19 balls
+DW Steyn: 5 runs from 4 balls
+BE Hendricks: 3 runs from 4 balls
+Imran Tahir: 10 runs from 7 balls
+LL Tsotsobe: 1 runs from 2 balls
+Bowler figures:
+MR Swart: 1 wickets for 26 runs
+T van der Gugten: 1 wickets for 29 runs
+Ahsan Malik: 5 wickets for 19 runs
+LV van Beek: 1 wickets for 14 runs
+Mudassar Bukhari: 0 wickets for 26 runs
+PM Seelaar: 0 wickets for 9 runs
+TLW Cooper: 1 wickets for 22 runs
+
+Innings 2:
+0.1: SJ Myburgh faced JA Morkel, scored 1 runs. Team score: 1/0
+0.2: MR Swart faced JA Morkel, scored 0 runs. Team score: 1/0
+0.3: MR Swart faced JA Morkel, scored 0 runs. Team score: 1/0
+0.4: MR Swart faced JA Morkel, scored 1 runs. Team score: 2/0
+0.5: SJ Myburgh faced JA Morkel, scored 0 runs. Team score: 2/0
+0.6: SJ Myburgh faced JA Morkel, scored 4 runs. Team score: 6/0
+1.1: MR Swart faced BE Hendricks, scored 4 runs. Team score: 10/0
+1.2: MR Swart faced BE Hendricks, scored 0 runs. Team score: 10/0
+1.3: MR Swart faced BE Hendricks, scored 1 runs. Team score: 11/0
+1.4: SJ Myburgh faced BE Hendricks, scored 0 runs. Team score: 11/0
+1.5: SJ Myburgh faced BE Hendricks, scored 0 runs. Team score: 11/0
+1.6: SJ Myburgh faced BE Hendricks, scored 1 runs. Team score: 12/0
+2.1: SJ Myburgh faced LL Tsotsobe, scored 4 runs. Team score: 16/0
+2.2: SJ Myburgh faced LL Tsotsobe, scored 4 runs. Team score: 20/0
+2.3: SJ Myburgh faced LL Tsotsobe, scored 0 runs. Team score: 20/0
+2.4: SJ Myburgh faced LL Tsotsobe, scored 6 runs. Team score: 26/0
+2.5: SJ Myburgh faced LL Tsotsobe, scored 0 runs. Team score: 26/0
+2.6: SJ Myburgh faced LL Tsotsobe, scored 4 runs. Team score: 30/0
+3.1: MR Swart faced DW Steyn, scored 1 runs. Team score: 31/0
+3.2: SJ Myburgh faced DW Steyn, scored 0 runs. Team score: 31/0
+3.3: SJ Myburgh faced DW Steyn, scored 1 runs. Team score: 32/0
+3.4: MR Swart faced DW Steyn, scored 4 runs. Team score: 36/0
+3.5: MR Swart faced DW Steyn, scored 0 runs. Team score: 36/0
+3.6: MR Swart faced DW Steyn, scored 0 runs. Team score: 36/0
+4.1: SJ Myburgh faced LL Tsotsobe, scored 0 runs. Team score: 36/0
+4.2: SJ Myburgh faced LL Tsotsobe, scored 4 runs. Team score: 40/0
+4.3: SJ Myburgh faced LL Tsotsobe, scored 4 runs. Team score: 44/0
+4.4: SJ Myburgh faced LL Tsotsobe, scored 0 runs. Team score: 44/0
+4.5: SJ Myburgh faced LL Tsotsobe, scored 6 runs. Team score: 50/0
+4.6: SJ Myburgh faced LL Tsotsobe, scored 1 runs. Team score: 51/0
+5.1: SJ Myburgh faced DW Steyn, scored 1 runs. Team score: 52/0
+5.2: MR Swart faced DW Steyn, scored 1 runs. Team score: 53/0
+5.3: SJ Myburgh faced DW Steyn, scored 4 runs. Team score: 57/0
+5.4: SJ Myburgh faced DW Steyn, scored 1 runs. Team score: 58/0
+5.5: MR Swart faced DW Steyn, scored 0 runs. Team score: 58/0
+caught!, Batsman: MR Swart (12 runs from 12 balls), Bowler: DW Steyn (figures: 1/13). Fielders involved: F du Plessis. Team score: 58/1
+5.6: SJ Myburgh faced DW Steyn, scored 1 runs. Team score: 59/1
+5.0: SJ Myburgh faced DW Steyn, scored 4 runs. Team score: 63/1
+6.1: W Barresi faced Imran Tahir, scored 1 runs. Team score: 64/1
+6.2: SJ Myburgh faced Imran Tahir, scored 1 runs. Team score: 65/1
+6.3: W Barresi faced Imran Tahir, scored 1 runs. Team score: 66/1
+6.4: SJ Myburgh faced Imran Tahir, scored 1 runs. Team score: 67/1
+6.5: W Barresi faced Imran Tahir, scored 0 runs. Team score: 67/1
+6.6: W Barresi faced Imran Tahir, scored 1 runs. Team score: 68/1
+7.1: W Barresi faced JP Duminy, scored 4 runs. Team score: 72/1
+7.2: W Barresi faced JP Duminy, scored 1 runs. Team score: 73/1
+7.3: W Barresi faced JP Duminy, scored 6 runs. Team score: 79/1
+7.4: W Barresi faced JP Duminy, scored 1 runs. Team score: 80/1
+7.5: SJ Myburgh faced JP Duminy, scored 0 runs. Team score: 80/1
+7.6: SJ Myburgh faced JP Duminy, scored 0 runs. Team score: 80/1
+bowled!, Batsman: SJ Myburgh (53 runs from 29 balls), Bowler: JP Duminy (figures: 1/12). Fielders involved: None. Team score: 80/2
+7.0: PW Borren faced JP Duminy, scored 0 runs. Team score: 80/2
+8.1: W Barresi faced Imran Tahir, scored 1 runs. Team score: 81/2
+8.2: PW Borren faced Imran Tahir, scored 1 runs. Team score: 82/2
+8.3: W Barresi faced Imran Tahir, scored 0 runs. Team score: 82/2
+lbw!, Batsman: W Barresi (16 runs from 10 balls), Bowler: Imran Tahir (figures: 1/7). Fielders involved: None. Team score: 82/3
+8.4: TLW Cooper faced Imran Tahir, scored 1 runs. Team score: 83/3
+8.5: PW Borren faced Imran Tahir, scored 1 runs. Team score: 84/3
+8.6: TLW Cooper faced Imran Tahir, scored 0 runs. Team score: 84/3
+9.1: PW Borren faced BE Hendricks, scored 0 runs. Team score: 84/3
+9.2: PW Borren faced BE Hendricks, scored 0 runs. Team score: 84/3
+9.3: PW Borren faced BE Hendricks, scored 1 runs. Team score: 85/3
+9.4: TLW Cooper faced BE Hendricks, scored 1 runs. Team score: 86/3
+9.5: PW Borren faced BE Hendricks, scored 0 runs. Team score: 86/3
+9.6: PW Borren faced BE Hendricks, scored 4 runs. Team score: 90/3
+10.1: TLW Cooper faced Imran Tahir, scored 1 runs. Team score: 91/3
+10.2: PW Borren faced Imran Tahir, scored 6 runs. Team score: 97/3
+10.3: PW Borren faced Imran Tahir, scored 0 runs. Team score: 97/3
+lbw!, Batsman: PW Borren (13 runs from 10 balls), Bowler: Imran Tahir (figures: 2/16). Fielders involved: None. Team score: 97/4
+10.4: BN Cooper faced Imran Tahir, scored 2 runs. Team score: 99/4
+10.5: BN Cooper faced Imran Tahir, scored 1 runs. Team score: 100/4
+10.6: TLW Cooper faced Imran Tahir, scored 1 runs. Team score: 101/4
+11.1: TLW Cooper faced JA Morkel, scored 1 runs. Team score: 102/4
+11.2: BN Cooper faced JA Morkel, scored 1 runs. Team score: 103/4
+11.3: TLW Cooper faced JA Morkel, scored 4 runs. Team score: 107/4
+11.4: TLW Cooper faced JA Morkel, scored 1 runs. Team score: 108/4
+11.5: TLW Cooper faced JA Morkel, scored 2 runs. Team score: 110/4
+11.6: TLW Cooper faced JA Morkel, scored 4 runs. Team score: 114/4
+11.0: TLW Cooper faced JA Morkel, scored 0 runs. Team score: 114/4
+12.1: BN Cooper faced DW Steyn, scored 1 runs. Team score: 115/4
+12.2: TLW Cooper faced DW Steyn, scored 0 runs. Team score: 115/4
+12.3: TLW Cooper faced DW Steyn, scored 1 runs. Team score: 116/4
+12.4: BN Cooper faced DW Steyn, scored 0 runs. Team score: 116/4
+12.5: BN Cooper faced DW Steyn, scored 0 runs. Team score: 116/4
+caught!, Batsman: BN Cooper (5 runs from 6 balls), Bowler: DW Steyn (figures: 2/20). Fielders involved: Q de Kock. Team score: 116/5
+12.6: Mudassar Bukhari faced DW Steyn, scored 0 runs. Team score: 116/5
+13.1: TLW Cooper faced Imran Tahir, scored 0 runs. Team score: 116/5
+bowled!, Batsman: TLW Cooper (17 runs from 14 balls), Bowler: Imran Tahir (figures: 3/20). Fielders involved: None. Team score: 116/6
+13.2: PM Seelaar faced Imran Tahir, scored 2 runs. Team score: 118/6
+13.3: PM Seelaar faced Imran Tahir, scored 0 runs. Team score: 118/6
+13.4: PM Seelaar faced Imran Tahir, scored 0 runs. Team score: 118/6
+13.5: PM Seelaar faced Imran Tahir, scored 0 runs. Team score: 118/6
+caught!, Batsman: PM Seelaar (2 runs from 4 balls), Bowler: Imran Tahir (figures: 4/22). Fielders involved: JP Duminy. Team score: 118/7
+13.6: Mudassar Bukhari faced Imran Tahir, scored 0 runs. Team score: 118/7
+14.1: LV van Beek faced BE Hendricks, scored 0 runs. Team score: 118/7
+14.2: LV van Beek faced BE Hendricks, scored 0 runs. Team score: 118/7
+14.3: LV van Beek faced BE Hendricks, scored 1 runs. Team score: 119/7
+14.4: Mudassar Bukhari faced BE Hendricks, scored 1 runs. Team score: 120/7
+14.5: LV van Beek faced BE Hendricks, scored 0 runs. Team score: 120/7
+14.6: LV van Beek faced BE Hendricks, scored 0 runs. Team score: 120/7
+15.1: Mudassar Bukhari faced LL Tsotsobe, scored 4 runs. Team score: 124/7
+15.2: Mudassar Bukhari faced LL Tsotsobe, scored 1 runs. Team score: 125/7
+run out!, Batsman: LV van Beek (1 runs from 5 balls), Bowler: LL Tsotsobe (figures: 1/38). Fielders involved: DA Miller, Q de Kock. Team score: 125/8
+15.3: T van der Gugten faced LL Tsotsobe, scored 0 runs. Team score: 125/8
+15.4: T van der Gugten faced LL Tsotsobe, scored 1 runs. Team score: 126/8
+15.5: Mudassar Bukhari faced LL Tsotsobe, scored 1 runs. Team score: 127/8
+15.6: T van der Gugten faced LL Tsotsobe, scored 1 runs. Team score: 128/8
+16.1: T van der Gugten faced DW Steyn, scored 1 runs. Team score: 129/8
+16.2: Mudassar Bukhari faced DW Steyn, scored 0 runs. Team score: 129/8
+16.3: Mudassar Bukhari faced DW Steyn, scored 0 runs. Team score: 129/8
+16.4: Mudassar Bukhari faced DW Steyn, scored 3 runs. Team score: 132/8
+16.5: T van der Gugten faced DW Steyn, scored 0 runs. Team score: 132/8
+16.6: T van der Gugten faced DW Steyn, scored 0 runs. Team score: 132/8
+17.1: Mudassar Bukhari faced LL Tsotsobe, scored 0 runs. Team score: 132/8
+17.2: Mudassar Bukhari faced LL Tsotsobe, scored 1 runs. Team score: 133/8
+17.3: T van der Gugten faced LL Tsotsobe, scored 1 runs. Team score: 134/8
+17.4: Mudassar Bukhari faced LL Tsotsobe, scored 0 runs. Team score: 134/8
+caught!, Batsman: Mudassar Bukhari (11 runs from 12 balls), Bowler: LL Tsotsobe (figures: 2/43). Fielders involved: DA Miller. Team score: 134/9
+17.5: T van der Gugten faced LL Tsotsobe, scored 2 runs. Team score: 136/9
+17.6: T van der Gugten faced LL Tsotsobe, scored 1 runs. Team score: 137/9
+18.1: T van der Gugten faced BE Hendricks, scored 1 runs. Team score: 138/9
+18.2: Ahsan Malik faced BE Hendricks, scored 1 runs. Team score: 139/9
+18.3: T van der Gugten faced BE Hendricks, scored 0 runs. Team score: 139/9
+18.4: T van der Gugten faced BE Hendricks, scored 0 runs. Team score: 139/9
+caught!, Batsman: T van der Gugten (8 runs from 12 balls), Bowler: BE Hendricks (figures: 1/16). Fielders involved: Q de Kock. Team score: 139/10
+End of innings for Netherlands: 139/10 in 19.4 overs
+Batsman scores:
+SJ Myburgh: 53 runs from 29 balls
+MR Swart: 12 runs from 12 balls
+W Barresi: 16 runs from 10 balls
+PW Borren: 13 runs from 10 balls
+TLW Cooper: 17 runs from 14 balls
+BN Cooper: 5 runs from 6 balls
+Mudassar Bukhari: 11 runs from 12 balls
+PM Seelaar: 2 runs from 4 balls
+LV van Beek: 1 runs from 5 balls
+T van der Gugten: 8 runs from 12 balls
+Ahsan Malik: 1 runs from 1 balls
+Bowler figures:
+JA Morkel: 0 wickets for 19 runs
+BE Hendricks: 1 wickets for 16 runs
+LL Tsotsobe: 2 wickets for 46 runs
+DW Steyn: 2 wickets for 24 runs
+Imran Tahir: 4 wickets for 22 runs
+JP Duminy: 1 wickets for 12 runs
+

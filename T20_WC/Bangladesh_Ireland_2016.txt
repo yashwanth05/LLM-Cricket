@@ -1,0 +1,74 @@
+Match: World T20 - T20
+Date: 2016-03-11
+Venue: Himachal Pradesh Cricket Association Stadium, Dharamsala
+Teams: Bangladesh vs Ireland
+Toss: Ireland won the toss and decided to field
+Result: 
+Man of the Match: 
+
+Innings 1:
+0.1: Tamim Iqbal faced TJ Murtagh, scored 0 runs. Team score: 0/0
+0.2: Tamim Iqbal faced TJ Murtagh, scored 0 runs. Team score: 0/0
+0.3: Tamim Iqbal faced TJ Murtagh, scored 1 runs. Team score: 1/0
+0.4: Soumya Sarkar faced TJ Murtagh, scored 2 runs. Team score: 3/0
+0.5: Soumya Sarkar faced TJ Murtagh, scored 0 runs. Team score: 3/0
+0.6: Soumya Sarkar faced TJ Murtagh, scored 1 runs. Team score: 4/0
+1.1: Soumya Sarkar faced WB Rankin, scored 0 runs. Team score: 4/0
+1.2: Soumya Sarkar faced WB Rankin, scored 5 runs. Team score: 9/0
+1.3: Tamim Iqbal faced WB Rankin, scored 6 runs. Team score: 15/0
+1.4: Tamim Iqbal faced WB Rankin, scored 4 runs. Team score: 19/0
+1.5: Tamim Iqbal faced WB Rankin, scored 0 runs. Team score: 19/0
+1.6: Tamim Iqbal faced WB Rankin, scored 1 runs. Team score: 20/0
+2.1: Tamim Iqbal faced TJ Murtagh, scored 1 runs. Team score: 21/0
+2.2: Soumya Sarkar faced TJ Murtagh, scored 1 runs. Team score: 22/0
+2.3: Tamim Iqbal faced TJ Murtagh, scored 6 runs. Team score: 28/0
+2.4: Tamim Iqbal faced TJ Murtagh, scored 4 runs. Team score: 32/0
+2.5: Tamim Iqbal faced TJ Murtagh, scored 0 runs. Team score: 32/0
+2.6: Tamim Iqbal faced TJ Murtagh, scored 1 runs. Team score: 33/0
+3.1: Tamim Iqbal faced KJ O'Brien, scored 0 runs. Team score: 33/0
+3.2: Tamim Iqbal faced KJ O'Brien, scored 2 runs. Team score: 35/0
+3.3: Soumya Sarkar faced KJ O'Brien, scored 4 runs. Team score: 39/0
+3.4: Soumya Sarkar faced KJ O'Brien, scored 2 runs. Team score: 41/0
+3.5: Soumya Sarkar faced KJ O'Brien, scored 1 runs. Team score: 42/0
+3.6: Soumya Sarkar faced KJ O'Brien, scored 4 runs. Team score: 46/0
+3.0: Soumya Sarkar faced KJ O'Brien, scored 2 runs. Team score: 48/0
+3.1: Soumya Sarkar faced KJ O'Brien, scored 4 runs. Team score: 52/0
+4.1: Tamim Iqbal faced AR McBrine, scored 6 runs. Team score: 58/0
+4.2: Tamim Iqbal faced AR McBrine, scored 3 runs. Team score: 61/0
+4.3: Soumya Sarkar faced AR McBrine, scored 0 runs. Team score: 61/0
+4.4: Soumya Sarkar faced AR McBrine, scored 0 runs. Team score: 61/0
+stumped!, Batsman: Soumya Sarkar (26 runs from 14 balls), Bowler: AR McBrine (figures: 1/9). Fielders involved: NJ O'Brien. Team score: 61/1
+4.5: Sabbir Rahman faced AR McBrine, scored 1 runs. Team score: 62/1
+4.6: Tamim Iqbal faced AR McBrine, scored 1 runs. Team score: 63/1
+5.1: Tamim Iqbal faced GH Dockrell, scored 4 runs. Team score: 67/1
+5.2: Tamim Iqbal faced GH Dockrell, scored 0 runs. Team score: 67/1
+5.3: Tamim Iqbal faced GH Dockrell, scored 1 runs. Team score: 68/1
+5.4: Sabbir Rahman faced GH Dockrell, scored 1 runs. Team score: 69/1
+5.5: Tamim Iqbal faced GH Dockrell, scored 1 runs. Team score: 70/1
+5.6: Sabbir Rahman faced GH Dockrell, scored 1 runs. Team score: 71/1
+6.1: Sabbir Rahman faced AR McBrine, scored 4 runs. Team score: 75/1
+6.2: Sabbir Rahman faced AR McBrine, scored 1 runs. Team score: 76/1
+6.3: Tamim Iqbal faced AR McBrine, scored 1 runs. Team score: 77/1
+6.4: Sabbir Rahman faced AR McBrine, scored 6 runs. Team score: 83/1
+6.5: Sabbir Rahman faced AR McBrine, scored 1 runs. Team score: 84/1
+6.6: Tamim Iqbal faced AR McBrine, scored 0 runs. Team score: 84/1
+7.1: Sabbir Rahman faced GH Dockrell, scored 1 runs. Team score: 85/1
+7.2: Tamim Iqbal faced GH Dockrell, scored 6 runs. Team score: 91/1
+7.3: Tamim Iqbal faced GH Dockrell, scored 1 runs. Team score: 92/1
+7.4: Tamim Iqbal faced GH Dockrell, scored 0 runs. Team score: 92/1
+7.5: Tamim Iqbal faced GH Dockrell, scored 1 runs. Team score: 93/1
+7.6: Sabbir Rahman faced GH Dockrell, scored 1 runs. Team score: 94/1
+7.0: Tamim Iqbal faced GH Dockrell, scored 0 runs. Team score: 94/1
+caught!, Batsman: Tamim Iqbal (51 runs from 28 balls), Bowler: GH Dockrell (figures: 1/18). Fielders involved: WTS Porterfield. Team score: 94/2
+End of innings for Bangladesh: 94/2 in 8.0 overs
+Batsman scores:
+Tamim Iqbal: 51 runs from 28 balls
+Soumya Sarkar: 26 runs from 14 balls
+Sabbir Rahman: 17 runs from 9 balls
+Bowler figures:
+TJ Murtagh: 0 wickets for 17 runs
+WB Rankin: 0 wickets for 16 runs
+KJ O'Brien: 0 wickets for 19 runs
+AR McBrine: 1 wickets for 24 runs
+GH Dockrell: 1 wickets for 18 runs
+

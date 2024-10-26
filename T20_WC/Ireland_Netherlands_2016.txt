@@ -1,0 +1,129 @@
+Match: World T20 - T20
+Date: 2016-03-13
+Venue: Himachal Pradesh Cricket Association Stadium, Dharamsala
+Teams: Ireland vs Netherlands
+Toss: Ireland won the toss and decided to field
+Result: Netherlands won by 12 runs
+Man of the Match: PA van Meekeren
+
+Innings 1:
+0.1: SJ Myburgh faced TJ Murtagh, scored 0 runs. Team score: 0/0
+0.2: SJ Myburgh faced TJ Murtagh, scored 0 runs. Team score: 0/0
+0.3: SJ Myburgh faced TJ Murtagh, scored 0 runs. Team score: 0/0
+0.4: SJ Myburgh faced TJ Murtagh, scored 4 runs. Team score: 4/0
+0.5: SJ Myburgh faced TJ Murtagh, scored 4 runs. Team score: 8/0
+0.6: SJ Myburgh faced TJ Murtagh, scored 1 runs. Team score: 9/0
+1.1: SJ Myburgh faced GH Dockrell, scored 1 runs. Team score: 10/0
+1.2: TLW Cooper faced GH Dockrell, scored 0 runs. Team score: 10/0
+1.3: TLW Cooper faced GH Dockrell, scored 0 runs. Team score: 10/0
+caught!, Batsman: TLW Cooper (0 runs from 2 balls), Bowler: GH Dockrell (figures: 1/1). Fielders involved: WB Rankin. Team score: 10/1
+1.4: RE van der Merwe faced GH Dockrell, scored 2 runs. Team score: 12/1
+1.5: RE van der Merwe faced GH Dockrell, scored 0 runs. Team score: 12/1
+caught!, Batsman: RE van der Merwe (2 runs from 2 balls), Bowler: GH Dockrell (figures: 2/3). Fielders involved: TJ Murtagh. Team score: 12/2
+1.6: W Barresi faced GH Dockrell, scored 1 runs. Team score: 13/2
+2.1: W Barresi faced AR McBrine, scored 1 runs. Team score: 14/2
+2.2: SJ Myburgh faced AR McBrine, scored 2 runs. Team score: 16/2
+2.3: SJ Myburgh faced AR McBrine, scored 1 runs. Team score: 17/2
+2.4: W Barresi faced AR McBrine, scored 6 runs. Team score: 23/2
+2.5: W Barresi faced AR McBrine, scored 2 runs. Team score: 25/2
+2.6: SJ Myburgh faced AR McBrine, scored 4 runs. Team score: 29/2
+2.0: SJ Myburgh faced AR McBrine, scored 4 runs. Team score: 33/2
+3.1: W Barresi faced GH Dockrell, scored 0 runs. Team score: 33/2
+3.2: W Barresi faced GH Dockrell, scored 0 runs. Team score: 33/2
+stumped!, Batsman: W Barresi (10 runs from 6 balls), Bowler: GH Dockrell (figures: 3/4). Fielders involved: NJ O'Brien. Team score: 33/3
+3.3: PW Borren faced GH Dockrell, scored 4 runs. Team score: 37/3
+3.4: PW Borren faced GH Dockrell, scored 0 runs. Team score: 37/3
+3.5: PW Borren faced GH Dockrell, scored 0 runs. Team score: 37/3
+3.6: PW Borren faced GH Dockrell, scored 1 runs. Team score: 38/3
+4.1: PW Borren faced KJ O'Brien, scored 4 runs. Team score: 42/3
+4.2: PW Borren faced KJ O'Brien, scored 1 runs. Team score: 43/3
+4.3: SJ Myburgh faced KJ O'Brien, scored 2 runs. Team score: 45/3
+4.4: SJ Myburgh faced KJ O'Brien, scored 1 runs. Team score: 46/3
+4.5: PW Borren faced KJ O'Brien, scored 0 runs. Team score: 46/3
+4.6: PW Borren faced KJ O'Brien, scored 4 runs. Team score: 50/3
+5.1: SJ Myburgh faced WB Rankin, scored 4 runs. Team score: 54/3
+5.2: SJ Myburgh faced WB Rankin, scored 0 runs. Team score: 54/3
+5.3: SJ Myburgh faced WB Rankin, scored 4 runs. Team score: 58/3
+5.4: SJ Myburgh faced WB Rankin, scored 0 runs. Team score: 58/3
+5.5: SJ Myburgh faced WB Rankin, scored 0 runs. Team score: 58/3
+run out!, Batsman: SJ Myburgh (32 runs from 18 balls), Bowler: WB Rankin (figures: 1/8). Fielders involved: NJ O'Brien, WB Rankin. Team score: 58/4
+5.6: PW Borren faced WB Rankin, scored 1 runs. Team score: 59/4
+run out!, Batsman: PW Borren (15 runs from 9 balls), Bowler: WB Rankin (figures: 2/9). Fielders involved: GC Wilson, NJ O'Brien. Team score: 59/5
+End of innings for Netherlands: 59/5 in 5.6 overs
+Batsman scores:
+SJ Myburgh: 32 runs from 18 balls
+TLW Cooper: 0 runs from 2 balls
+RE van der Merwe: 2 runs from 2 balls
+W Barresi: 10 runs from 6 balls
+PW Borren: 15 runs from 9 balls
+Bowler figures:
+TJ Murtagh: 0 wickets for 9 runs
+GH Dockrell: 3 wickets for 9 runs
+AR McBrine: 0 wickets for 20 runs
+KJ O'Brien: 0 wickets for 12 runs
+WB Rankin: 2 wickets for 9 runs
+
+Innings 2:
+0.1: WTS Porterfield faced Ahsan Malik, scored 4 runs. Team score: 4/0
+0.2: WTS Porterfield faced Ahsan Malik, scored 0 runs. Team score: 4/0
+0.3: WTS Porterfield faced Ahsan Malik, scored 4 runs. Team score: 8/0
+0.4: WTS Porterfield faced Ahsan Malik, scored 0 runs. Team score: 8/0
+0.5: WTS Porterfield faced Ahsan Malik, scored 1 runs. Team score: 9/0
+0.6: PR Stirling faced Ahsan Malik, scored 1 runs. Team score: 10/0
+1.1: PR Stirling faced T van der Gugten, scored 6 runs. Team score: 16/0
+1.2: PR Stirling faced T van der Gugten, scored 3 runs. Team score: 19/0
+1.3: WTS Porterfield faced T van der Gugten, scored 0 runs. Team score: 19/0
+caught!, Batsman: WTS Porterfield (9 runs from 6 balls), Bowler: T van der Gugten (figures: 1/9). Fielders involved: BN Cooper. Team score: 19/1
+1.4: PR Stirling faced T van der Gugten, scored 0 runs. Team score: 19/1
+1.5: PR Stirling faced T van der Gugten, scored 1 runs. Team score: 20/1
+1.6: KJ O'Brien faced T van der Gugten, scored 2 runs. Team score: 22/1
+1.0: PR Stirling faced T van der Gugten, scored 6 runs. Team score: 28/1
+2.1: KJ O'Brien faced PA van Meekeren, scored 0 runs. Team score: 28/1
+2.2: KJ O'Brien faced PA van Meekeren, scored 0 runs. Team score: 28/1
+caught!, Batsman: KJ O'Brien (2 runs from 3 balls), Bowler: PA van Meekeren (figures: 1/0). Fielders involved: PM Seelaar. Team score: 28/2
+2.3: PR Stirling faced PA van Meekeren, scored 0 runs. Team score: 28/2
+caught!, Batsman: PR Stirling (17 runs from 7 balls), Bowler: PA van Meekeren (figures: 2/0). Fielders involved: RE van der Merwe. Team score: 28/3
+2.4: GC Wilson faced PA van Meekeren, scored 0 runs. Team score: 28/3
+2.5: GC Wilson faced PA van Meekeren, scored 0 runs. Team score: 28/3
+2.6: GC Wilson faced PA van Meekeren, scored 4 runs. Team score: 32/3
+3.1: NJ O'Brien faced RE van der Merwe, scored 1 runs. Team score: 33/3
+3.2: GC Wilson faced RE van der Merwe, scored 0 runs. Team score: 33/3
+caught!, Batsman: GC Wilson (4 runs from 4 balls), Bowler: RE van der Merwe (figures: 1/1). Fielders involved: T van der Gugten. Team score: 33/4
+3.3: AD Poynter faced RE van der Merwe, scored 0 runs. Team score: 33/4
+caught!, Batsman: AD Poynter (0 runs from 1 balls), Bowler: RE van der Merwe (figures: 2/1). Fielders involved: BN Cooper. Team score: 33/5
+3.4: NJ O'Brien faced RE van der Merwe, scored 0 runs. Team score: 33/5
+3.5: NJ O'Brien faced RE van der Merwe, scored 1 runs. Team score: 34/5
+3.6: MC Sorensen faced RE van der Merwe, scored 1 runs. Team score: 35/5
+4.1: MC Sorensen faced Mudassar Bukhari, scored 1 runs. Team score: 36/5
+4.2: NJ O'Brien faced Mudassar Bukhari, scored 0 runs. Team score: 36/5
+4.3: NJ O'Brien faced Mudassar Bukhari, scored 1 runs. Team score: 37/5
+4.4: MC Sorensen faced Mudassar Bukhari, scored 2 runs. Team score: 39/5
+4.5: MC Sorensen faced Mudassar Bukhari, scored 1 runs. Team score: 40/5
+4.6: NJ O'Brien faced Mudassar Bukhari, scored 0 runs. Team score: 40/5
+5.1: MC Sorensen faced PA van Meekeren, scored 2 runs. Team score: 42/5
+5.2: MC Sorensen faced PA van Meekeren, scored 2 runs. Team score: 44/5
+5.3: MC Sorensen faced PA van Meekeren, scored 0 runs. Team score: 44/5
+bowled!, Batsman: MC Sorensen (9 runs from 7 balls), Bowler: PA van Meekeren (figures: 3/8). Fielders involved: None. Team score: 44/6
+5.4: GH Dockrell faced PA van Meekeren, scored 0 runs. Team score: 44/6
+bowled!, Batsman: GH Dockrell (0 runs from 1 balls), Bowler: PA van Meekeren (figures: 4/8). Fielders involved: None. Team score: 44/7
+5.5: AR McBrine faced PA van Meekeren, scored 1 runs. Team score: 45/7
+5.6: NJ O'Brien faced PA van Meekeren, scored 1 runs. Team score: 46/7
+5.0: NJ O'Brien faced PA van Meekeren, scored 1 runs. Team score: 47/7
+End of innings for Ireland: 47/7 in 6.0 overs
+Batsman scores:
+WTS Porterfield: 9 runs from 6 balls
+PR Stirling: 17 runs from 7 balls
+KJ O'Brien: 2 runs from 3 balls
+GC Wilson: 4 runs from 4 balls
+NJ O'Brien: 5 runs from 8 balls
+AD Poynter: 0 runs from 1 balls
+MC Sorensen: 9 runs from 7 balls
+GH Dockrell: 0 runs from 1 balls
+AR McBrine: 1 runs from 1 balls
+Bowler figures:
+Ahsan Malik: 0 wickets for 10 runs
+T van der Gugten: 1 wickets for 18 runs
+PA van Meekeren: 4 wickets for 11 runs
+RE van der Merwe: 2 wickets for 3 runs
+Mudassar Bukhari: 0 wickets for 5 runs
+

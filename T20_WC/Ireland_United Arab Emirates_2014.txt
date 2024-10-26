@@ -1,0 +1,268 @@
+Match: World T20 - T20
+Date: 2014-03-19
+Venue: Sylhet Stadium
+Teams: Ireland vs United Arab Emirates
+Toss: Ireland won the toss and decided to field
+Result: Ireland won by 21 runs
+Man of the Match: EC Joyce
+
+Innings 1:
+0.1: Amjad Ali faced PR Stirling, scored 0 runs. Team score: 0/0
+0.2: Amjad Ali faced PR Stirling, scored 0 runs. Team score: 0/0
+0.3: Amjad Ali faced PR Stirling, scored 1 runs. Team score: 1/0
+0.4: Faizan Asif faced PR Stirling, scored 0 runs. Team score: 1/0
+0.5: Faizan Asif faced PR Stirling, scored 1 runs. Team score: 2/0
+0.6: Faizan Asif faced PR Stirling, scored 1 runs. Team score: 3/0
+0.0: Amjad Ali faced PR Stirling, scored 0 runs. Team score: 3/0
+1.1: Faizan Asif faced MC Sorensen, scored 1 runs. Team score: 4/0
+1.2: Amjad Ali faced MC Sorensen, scored 0 runs. Team score: 4/0
+1.3: Amjad Ali faced MC Sorensen, scored 0 runs. Team score: 4/0
+1.4: Amjad Ali faced MC Sorensen, scored 0 runs. Team score: 4/0
+1.5: Amjad Ali faced MC Sorensen, scored 0 runs. Team score: 4/0
+1.6: Amjad Ali faced MC Sorensen, scored 4 runs. Team score: 8/0
+2.1: Faizan Asif faced PR Stirling, scored 0 runs. Team score: 8/0
+2.2: Faizan Asif faced PR Stirling, scored 2 runs. Team score: 10/0
+2.3: Faizan Asif faced PR Stirling, scored 0 runs. Team score: 10/0
+2.4: Faizan Asif faced PR Stirling, scored 5 runs. Team score: 15/0
+2.5: Faizan Asif faced PR Stirling, scored 0 runs. Team score: 15/0
+2.6: Faizan Asif faced PR Stirling, scored 0 runs. Team score: 15/0
+2.0: Faizan Asif faced PR Stirling, scored 2 runs. Team score: 17/0
+3.1: Amjad Ali faced MC Sorensen, scored 1 runs. Team score: 18/0
+3.2: Faizan Asif faced MC Sorensen, scored 1 runs. Team score: 19/0
+3.3: Amjad Ali faced MC Sorensen, scored 0 runs. Team score: 19/0
+3.4: Amjad Ali faced MC Sorensen, scored 4 runs. Team score: 23/0
+3.5: Amjad Ali faced MC Sorensen, scored 0 runs. Team score: 23/0
+3.6: Amjad Ali faced MC Sorensen, scored 4 runs. Team score: 27/0
+4.1: Faizan Asif faced TJ Murtagh, scored 4 runs. Team score: 31/0
+4.2: Faizan Asif faced TJ Murtagh, scored 2 runs. Team score: 33/0
+4.3: Faizan Asif faced TJ Murtagh, scored 0 runs. Team score: 33/0
+4.4: Faizan Asif faced TJ Murtagh, scored 1 runs. Team score: 34/0
+4.5: Amjad Ali faced TJ Murtagh, scored 1 runs. Team score: 35/0
+4.6: Faizan Asif faced TJ Murtagh, scored 0 runs. Team score: 35/0
+run out!, Batsman: Faizan Asif (20 runs from 17 balls), Bowler: TJ Murtagh (figures: 1/8). Fielders involved: TJ Murtagh, GC Wilson. Team score: 35/1
+5.1: Amjad Ali faced AR Cusack, scored 1 runs. Team score: 36/1
+5.2: Khurram Khan faced AR Cusack, scored 0 runs. Team score: 36/1
+5.3: Khurram Khan faced AR Cusack, scored 1 runs. Team score: 37/1
+5.4: Amjad Ali faced AR Cusack, scored 4 runs. Team score: 41/1
+5.5: Amjad Ali faced AR Cusack, scored 1 runs. Team score: 42/1
+5.6: Khurram Khan faced AR Cusack, scored 4 runs. Team score: 46/1
+6.1: Amjad Ali faced PR Stirling, scored 0 runs. Team score: 46/1
+caught!, Batsman: Amjad Ali (21 runs from 19 balls), Bowler: PR Stirling (figures: 1/12). Fielders involved: GH Dockrell. Team score: 46/2
+6.2: SP Patil faced PR Stirling, scored 0 runs. Team score: 46/2
+6.3: SP Patil faced PR Stirling, scored 0 runs. Team score: 46/2
+6.4: SP Patil faced PR Stirling, scored 0 runs. Team score: 46/2
+caught!, Batsman: SP Patil (0 runs from 3 balls), Bowler: PR Stirling (figures: 2/12). Fielders involved: WTS Porterfield. Team score: 46/3
+6.5: Shaiman Anwar faced PR Stirling, scored 0 runs. Team score: 46/3
+6.6: Shaiman Anwar faced PR Stirling, scored 0 runs. Team score: 46/3
+Maiden over by PR Stirling
+7.1: Khurram Khan faced AR Cusack, scored 1 runs. Team score: 47/3
+7.2: Shaiman Anwar faced AR Cusack, scored 1 runs. Team score: 48/3
+7.3: Khurram Khan faced AR Cusack, scored 1 runs. Team score: 49/3
+7.4: Shaiman Anwar faced AR Cusack, scored 0 runs. Team score: 49/3
+7.5: Shaiman Anwar faced AR Cusack, scored 0 runs. Team score: 49/3
+7.6: Shaiman Anwar faced AR Cusack, scored 1 runs. Team score: 50/3
+8.1: Shaiman Anwar faced GH Dockrell, scored 2 runs. Team score: 52/3
+8.2: Shaiman Anwar faced GH Dockrell, scored 1 runs. Team score: 53/3
+8.3: Khurram Khan faced GH Dockrell, scored 1 runs. Team score: 54/3
+8.4: Shaiman Anwar faced GH Dockrell, scored 0 runs. Team score: 54/3
+8.5: Shaiman Anwar faced GH Dockrell, scored 0 runs. Team score: 54/3
+8.6: Shaiman Anwar faced GH Dockrell, scored 6 runs. Team score: 60/3
+9.1: Khurram Khan faced TJ Murtagh, scored 1 runs. Team score: 61/3
+9.2: Shaiman Anwar faced TJ Murtagh, scored 0 runs. Team score: 61/3
+9.3: Shaiman Anwar faced TJ Murtagh, scored 1 runs. Team score: 62/3
+9.4: Shaiman Anwar faced TJ Murtagh, scored 0 runs. Team score: 62/3
+9.5: Shaiman Anwar faced TJ Murtagh, scored 1 runs. Team score: 63/3
+9.6: Khurram Khan faced TJ Murtagh, scored 1 runs. Team score: 64/3
+9.0: Shaiman Anwar faced TJ Murtagh, scored 2 runs. Team score: 66/3
+10.1: Khurram Khan faced MC Sorensen, scored 1 runs. Team score: 67/3
+10.2: Shaiman Anwar faced MC Sorensen, scored 6 runs. Team score: 73/3
+10.3: Shaiman Anwar faced MC Sorensen, scored 1 runs. Team score: 74/3
+10.4: Khurram Khan faced MC Sorensen, scored 0 runs. Team score: 74/3
+10.5: Khurram Khan faced MC Sorensen, scored 1 runs. Team score: 75/3
+10.6: Shaiman Anwar faced MC Sorensen, scored 0 runs. Team score: 75/3
+11.1: Khurram Khan faced KJ O'Brien, scored 0 runs. Team score: 75/3
+11.2: Khurram Khan faced KJ O'Brien, scored 1 runs. Team score: 76/3
+11.3: Shaiman Anwar faced KJ O'Brien, scored 0 runs. Team score: 76/3
+11.4: Shaiman Anwar faced KJ O'Brien, scored 1 runs. Team score: 77/3
+11.5: Khurram Khan faced KJ O'Brien, scored 0 runs. Team score: 77/3
+11.6: Khurram Khan faced KJ O'Brien, scored 0 runs. Team score: 77/3
+12.1: Shaiman Anwar faced SR Thompson, scored 0 runs. Team score: 77/3
+12.2: Shaiman Anwar faced SR Thompson, scored 1 runs. Team score: 78/3
+12.3: Khurram Khan faced SR Thompson, scored 0 runs. Team score: 78/3
+12.4: Khurram Khan faced SR Thompson, scored 1 runs. Team score: 79/3
+12.5: Shaiman Anwar faced SR Thompson, scored 2 runs. Team score: 81/3
+12.6: Shaiman Anwar faced SR Thompson, scored 1 runs. Team score: 82/3
+13.1: Shaiman Anwar faced KJ O'Brien, scored 1 runs. Team score: 83/3
+13.2: Khurram Khan faced KJ O'Brien, scored 1 runs. Team score: 84/3
+13.3: Shaiman Anwar faced KJ O'Brien, scored 2 runs. Team score: 86/3
+13.4: Shaiman Anwar faced KJ O'Brien, scored 1 runs. Team score: 87/3
+13.5: Khurram Khan faced KJ O'Brien, scored 1 runs. Team score: 88/3
+13.6: Shaiman Anwar faced KJ O'Brien, scored 0 runs. Team score: 88/3
+caught and bowled!, Batsman: Shaiman Anwar (31 runs from 29 balls), Bowler: KJ O'Brien (figures: 1/8). Fielders involved: None. Team score: 88/4
+14.1: Khurram Khan faced TJ Murtagh, scored 1 runs. Team score: 89/4
+14.2: Amjad Javed faced TJ Murtagh, scored 1 runs. Team score: 90/4
+14.3: Khurram Khan faced TJ Murtagh, scored 0 runs. Team score: 90/4
+caught!, Batsman: Khurram Khan (17 runs from 21 balls), Bowler: TJ Murtagh (figures: 2/16). Fielders involved: EC Joyce. Team score: 90/5
+14.4: Amjad Javed faced TJ Murtagh, scored 0 runs. Team score: 90/5
+14.5: Amjad Javed faced TJ Murtagh, scored 0 runs. Team score: 90/5
+14.6: Amjad Javed faced TJ Murtagh, scored 1 runs. Team score: 91/5
+15.1: Amjad Javed faced KJ O'Brien, scored 0 runs. Team score: 91/5
+15.2: Amjad Javed faced KJ O'Brien, scored 1 runs. Team score: 92/5
+15.3: Rohan Mustafa faced KJ O'Brien, scored 0 runs. Team score: 92/5
+15.4: Rohan Mustafa faced KJ O'Brien, scored 0 runs. Team score: 92/5
+15.5: Rohan Mustafa faced KJ O'Brien, scored 0 runs. Team score: 92/5
+15.6: Rohan Mustafa faced KJ O'Brien, scored 2 runs. Team score: 94/5
+16.1: Amjad Javed faced TJ Murtagh, scored 4 runs. Team score: 98/5
+16.2: Amjad Javed faced TJ Murtagh, scored 0 runs. Team score: 98/5
+16.3: Amjad Javed faced TJ Murtagh, scored 0 runs. Team score: 98/5
+16.4: Amjad Javed faced TJ Murtagh, scored 0 runs. Team score: 98/5
+16.5: Amjad Javed faced TJ Murtagh, scored 1 runs. Team score: 99/5
+16.6: Rohan Mustafa faced TJ Murtagh, scored 1 runs. Team score: 100/5
+17.1: Rohan Mustafa faced AR Cusack, scored 1 runs. Team score: 101/5
+17.2: Amjad Javed faced AR Cusack, scored 0 runs. Team score: 101/5
+17.3: Amjad Javed faced AR Cusack, scored 0 runs. Team score: 101/5
+17.4: Amjad Javed faced AR Cusack, scored 4 runs. Team score: 105/5
+17.5: Amjad Javed faced AR Cusack, scored 2 runs. Team score: 107/5
+17.6: Amjad Javed faced AR Cusack, scored 1 runs. Team score: 108/5
+17.0: Amjad Javed faced AR Cusack, scored 0 runs. Team score: 108/5
+18.1: Rohan Mustafa faced KJ O'Brien, scored 1 runs. Team score: 109/5
+18.2: Amjad Javed faced KJ O'Brien, scored 1 runs. Team score: 110/5
+18.3: Rohan Mustafa faced KJ O'Brien, scored 1 runs. Team score: 111/5
+18.4: Amjad Javed faced KJ O'Brien, scored 0 runs. Team score: 111/5
+18.5: Amjad Javed faced KJ O'Brien, scored 4 runs. Team score: 115/5
+18.6: Amjad Javed faced KJ O'Brien, scored 0 runs. Team score: 115/5
+caught!, Batsman: Amjad Javed (20 runs from 21 balls), Bowler: KJ O'Brien (figures: 2/18). Fielders involved: EC Joyce. Team score: 115/6
+19.1: Rohan Mustafa faced AR Cusack, scored 2 runs. Team score: 117/6
+19.2: Rohan Mustafa faced AR Cusack, scored 0 runs. Team score: 117/6
+19.3: Rohan Mustafa faced AR Cusack, scored 2 runs. Team score: 119/6
+19.4: Rohan Mustafa faced AR Cusack, scored 2 runs. Team score: 121/6
+19.5: Rohan Mustafa faced AR Cusack, scored 1 runs. Team score: 122/6
+19.6: V Shetty faced AR Cusack, scored 1 runs. Team score: 123/6
+End of innings for United Arab Emirates: 123/6 in 20.0 overs
+Batsman scores:
+Amjad Ali: 21 runs from 19 balls
+Faizan Asif: 20 runs from 17 balls
+Khurram Khan: 17 runs from 21 balls
+SP Patil: 0 runs from 3 balls
+Shaiman Anwar: 31 runs from 29 balls
+Amjad Javed: 20 runs from 21 balls
+Rohan Mustafa: 13 runs from 13 balls
+V Shetty: 1 runs from 1 balls
+Bowler figures:
+PR Stirling: 2 wickets for 12 runs
+MC Sorensen: 0 wickets for 24 runs
+TJ Murtagh: 2 wickets for 23 runs
+AR Cusack: 0 wickets for 31 runs
+GH Dockrell: 0 wickets for 10 runs
+KJ O'Brien: 2 wickets for 18 runs
+SR Thompson: 0 wickets for 5 runs
+
+Innings 2:
+0.1: WTS Porterfield faced Sharif Asadullah, scored 1 runs. Team score: 1/0
+0.2: PR Stirling faced Sharif Asadullah, scored 0 runs. Team score: 1/0
+0.3: PR Stirling faced Sharif Asadullah, scored 1 runs. Team score: 2/0
+0.4: PR Stirling faced Sharif Asadullah, scored 4 runs. Team score: 6/0
+0.5: PR Stirling faced Sharif Asadullah, scored 0 runs. Team score: 6/0
+0.6: PR Stirling faced Sharif Asadullah, scored 0 runs. Team score: 6/0
+0.0: PR Stirling faced Sharif Asadullah, scored 4 runs. Team score: 10/0
+1.1: WTS Porterfield faced Kamran Shazad, scored 0 runs. Team score: 10/0
+1.2: WTS Porterfield faced Kamran Shazad, scored 5 runs. Team score: 15/0
+retired hurt!, Batsman: PR Stirling (9 runs from 6 balls), Bowler: Kamran Shazad (figures: 1/5). Fielders involved: None. Team score: 15/1
+1.3: WTS Porterfield faced Kamran Shazad, scored 4 runs. Team score: 19/1
+1.4: WTS Porterfield faced Kamran Shazad, scored 1 runs. Team score: 20/1
+1.5: EC Joyce faced Kamran Shazad, scored 0 runs. Team score: 20/1
+1.6: EC Joyce faced Kamran Shazad, scored 0 runs. Team score: 20/1
+1.0: EC Joyce faced Kamran Shazad, scored 4 runs. Team score: 24/1
+2.1: WTS Porterfield faced Sharif Asadullah, scored 0 runs. Team score: 24/1
+2.2: WTS Porterfield faced Sharif Asadullah, scored 1 runs. Team score: 25/1
+2.3: EC Joyce faced Sharif Asadullah, scored 1 runs. Team score: 26/1
+2.4: WTS Porterfield faced Sharif Asadullah, scored 0 runs. Team score: 26/1
+2.5: WTS Porterfield faced Sharif Asadullah, scored 4 runs. Team score: 30/1
+2.6: WTS Porterfield faced Sharif Asadullah, scored 1 runs. Team score: 31/1
+3.1: WTS Porterfield faced Amjad Javed, scored 0 runs. Team score: 31/1
+3.2: WTS Porterfield faced Amjad Javed, scored 1 runs. Team score: 32/1
+3.3: EC Joyce faced Amjad Javed, scored 0 runs. Team score: 32/1
+3.4: EC Joyce faced Amjad Javed, scored 1 runs. Team score: 33/1
+3.5: EC Joyce faced Amjad Javed, scored 0 runs. Team score: 33/1
+3.6: EC Joyce faced Amjad Javed, scored 0 runs. Team score: 33/1
+3.0: EC Joyce faced Amjad Javed, scored 0 runs. Team score: 33/1
+4.1: WTS Porterfield faced Rohan Mustafa, scored 0 runs. Team score: 33/1
+4.2: WTS Porterfield faced Rohan Mustafa, scored 0 runs. Team score: 33/1
+4.3: WTS Porterfield faced Rohan Mustafa, scored 0 runs. Team score: 33/1
+4.4: WTS Porterfield faced Rohan Mustafa, scored 1 runs. Team score: 34/1
+4.5: EC Joyce faced Rohan Mustafa, scored 1 runs. Team score: 35/1
+4.6: WTS Porterfield faced Rohan Mustafa, scored 0 runs. Team score: 35/1
+5.1: EC Joyce faced Amjad Javed, scored 4 runs. Team score: 39/1
+5.2: EC Joyce faced Amjad Javed, scored 0 runs. Team score: 39/1
+5.3: EC Joyce faced Amjad Javed, scored 0 runs. Team score: 39/1
+5.4: EC Joyce faced Amjad Javed, scored 2 runs. Team score: 41/1
+5.5: EC Joyce faced Amjad Javed, scored 4 runs. Team score: 45/1
+5.6: EC Joyce faced Amjad Javed, scored 6 runs. Team score: 51/1
+6.1: EC Joyce faced Rohan Mustafa, scored 0 runs. Team score: 51/1
+6.2: EC Joyce faced Rohan Mustafa, scored 0 runs. Team score: 51/1
+6.3: EC Joyce faced Rohan Mustafa, scored 0 runs. Team score: 51/1
+6.4: EC Joyce faced Rohan Mustafa, scored 0 runs. Team score: 51/1
+6.5: EC Joyce faced Rohan Mustafa, scored 0 runs. Team score: 51/1
+6.6: EC Joyce faced Rohan Mustafa, scored 2 runs. Team score: 53/1
+7.1: WTS Porterfield faced Ahmed Raza, scored 1 runs. Team score: 54/1
+7.2: EC Joyce faced Ahmed Raza, scored 2 runs. Team score: 56/1
+7.3: EC Joyce faced Ahmed Raza, scored 6 runs. Team score: 62/1
+7.4: EC Joyce faced Ahmed Raza, scored 4 runs. Team score: 66/1
+7.5: EC Joyce faced Ahmed Raza, scored 1 runs. Team score: 67/1
+7.6: WTS Porterfield faced Ahmed Raza, scored 1 runs. Team score: 68/1
+8.1: WTS Porterfield faced Rohan Mustafa, scored 0 runs. Team score: 68/1
+8.2: WTS Porterfield faced Rohan Mustafa, scored 1 runs. Team score: 69/1
+8.3: EC Joyce faced Rohan Mustafa, scored 0 runs. Team score: 69/1
+8.4: EC Joyce faced Rohan Mustafa, scored 0 runs. Team score: 69/1
+8.5: EC Joyce faced Rohan Mustafa, scored 1 runs. Team score: 70/1
+8.6: WTS Porterfield faced Rohan Mustafa, scored 0 runs. Team score: 70/1
+9.1: EC Joyce faced Kamran Shazad, scored 1 runs. Team score: 71/1
+9.2: WTS Porterfield faced Kamran Shazad, scored 0 runs. Team score: 71/1
+9.3: WTS Porterfield faced Kamran Shazad, scored 1 runs. Team score: 72/1
+9.4: EC Joyce faced Kamran Shazad, scored 0 runs. Team score: 72/1
+9.5: EC Joyce faced Kamran Shazad, scored 1 runs. Team score: 73/1
+9.6: WTS Porterfield faced Kamran Shazad, scored 1 runs. Team score: 74/1
+10.1: WTS Porterfield faced Rohan Mustafa, scored 1 runs. Team score: 75/1
+10.2: EC Joyce faced Rohan Mustafa, scored 1 runs. Team score: 76/1
+10.3: WTS Porterfield faced Rohan Mustafa, scored 1 runs. Team score: 77/1
+10.4: EC Joyce faced Rohan Mustafa, scored 1 runs. Team score: 78/1
+10.5: WTS Porterfield faced Rohan Mustafa, scored 1 runs. Team score: 79/1
+10.6: EC Joyce faced Rohan Mustafa, scored 2 runs. Team score: 81/1
+11.1: WTS Porterfield faced Kamran Shazad, scored 1 runs. Team score: 82/1
+11.2: EC Joyce faced Kamran Shazad, scored 1 runs. Team score: 83/1
+11.3: WTS Porterfield faced Kamran Shazad, scored 1 runs. Team score: 84/1
+11.4: EC Joyce faced Kamran Shazad, scored 1 runs. Team score: 85/1
+11.5: WTS Porterfield faced Kamran Shazad, scored 6 runs. Team score: 91/1
+11.6: WTS Porterfield faced Kamran Shazad, scored 1 runs. Team score: 92/1
+12.1: WTS Porterfield faced Sharif Asadullah, scored 1 runs. Team score: 93/1
+12.2: EC Joyce faced Sharif Asadullah, scored 2 runs. Team score: 95/1
+12.3: EC Joyce faced Sharif Asadullah, scored 0 runs. Team score: 95/1
+caught!, Batsman: EC Joyce (49 runs from 39 balls), Bowler: Sharif Asadullah (figures: 1/20). Fielders involved: Khurram Khan. Team score: 95/2
+12.4: WTS Porterfield faced Sharif Asadullah, scored 1 runs. Team score: 96/2
+12.5: KJ O'Brien faced Sharif Asadullah, scored 0 runs. Team score: 96/2
+12.6: KJ O'Brien faced Sharif Asadullah, scored 0 runs. Team score: 96/2
+caught!, Batsman: KJ O'Brien (0 runs from 2 balls), Bowler: Sharif Asadullah (figures: 2/21). Fielders involved: V Shetty. Team score: 96/3
+13.1: WTS Porterfield faced Amjad Javed, scored 1 runs. Team score: 97/3
+13.2: AD Poynter faced Amjad Javed, scored 0 runs. Team score: 97/3
+13.3: AD Poynter faced Amjad Javed, scored 0 runs. Team score: 97/3
+13.4: AD Poynter faced Amjad Javed, scored 4 runs. Team score: 101/3
+13.5: AD Poynter faced Amjad Javed, scored 0 runs. Team score: 101/3
+13.6: AD Poynter faced Amjad Javed, scored 0 runs. Team score: 101/3
+bowled!, Batsman: AD Poynter (4 runs from 5 balls), Bowler: Amjad Javed (figures: 1/23). Fielders involved: None. Team score: 101/4
+14.1: WTS Porterfield faced Ahmed Raza, scored 1 runs. Team score: 102/4
+14.2: GC Wilson faced Ahmed Raza, scored 1 runs. Team score: 103/4
+End of innings for Ireland: 103/4 in 15.2 overs
+Batsman scores:
+WTS Porterfield: 40 runs from 36 balls
+PR Stirling: 9 runs from 6 balls
+EC Joyce: 49 runs from 39 balls
+KJ O'Brien: 0 runs from 2 balls
+AD Poynter: 4 runs from 5 balls
+GC Wilson: 1 runs from 1 balls
+Bowler figures:
+Sharif Asadullah: 2 wickets for 21 runs
+Kamran Shazad: 1 wickets for 29 runs
+Amjad Javed: 1 wickets for 23 runs
+Rohan Mustafa: 0 wickets for 13 runs
+Ahmed Raza: 0 wickets for 17 runs
+

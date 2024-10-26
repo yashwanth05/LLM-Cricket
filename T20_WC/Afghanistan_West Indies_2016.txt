@@ -1,0 +1,308 @@
+Match: World T20 - T20
+Date: 2016-03-27
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Teams: Afghanistan vs West Indies
+Toss: West Indies won the toss and decided to field
+Result: Afghanistan won by 6 runs
+Man of the Match: Najibullah Zadran
+
+Innings 1:
+0.1: Mohammad Shahzad faced AD Russell, scored 1 runs. Team score: 1/0
+0.2: Usman Ghani faced AD Russell, scored 0 runs. Team score: 1/0
+0.3: Usman Ghani faced AD Russell, scored 0 runs. Team score: 1/0
+0.4: Usman Ghani faced AD Russell, scored 0 runs. Team score: 1/0
+0.5: Usman Ghani faced AD Russell, scored 4 runs. Team score: 5/0
+0.6: Usman Ghani faced AD Russell, scored 0 runs. Team score: 5/0
+1.1: Mohammad Shahzad faced S Badree, scored 0 runs. Team score: 5/0
+1.2: Mohammad Shahzad faced S Badree, scored 0 runs. Team score: 5/0
+1.3: Mohammad Shahzad faced S Badree, scored 2 runs. Team score: 7/0
+1.4: Mohammad Shahzad faced S Badree, scored 1 runs. Team score: 8/0
+1.5: Usman Ghani faced S Badree, scored 0 runs. Team score: 8/0
+bowled!, Batsman: Usman Ghani (4 runs from 6 balls), Bowler: S Badree (figures: 1/3). Fielders involved: None. Team score: 8/1
+1.6: Asghar Stanikzai faced S Badree, scored 0 runs. Team score: 8/1
+2.1: Mohammad Shahzad faced CR Brathwaite, scored 1 runs. Team score: 9/1
+2.2: Asghar Stanikzai faced CR Brathwaite, scored 1 runs. Team score: 10/1
+2.3: Mohammad Shahzad faced CR Brathwaite, scored 4 runs. Team score: 14/1
+2.4: Mohammad Shahzad faced CR Brathwaite, scored 0 runs. Team score: 14/1
+2.5: Mohammad Shahzad faced CR Brathwaite, scored 4 runs. Team score: 18/1
+2.6: Mohammad Shahzad faced CR Brathwaite, scored 1 runs. Team score: 19/1
+3.1: Mohammad Shahzad faced SJ Benn, scored 0 runs. Team score: 19/1
+3.2: Mohammad Shahzad faced SJ Benn, scored 0 runs. Team score: 19/1
+3.3: Mohammad Shahzad faced SJ Benn, scored 0 runs. Team score: 19/1
+3.4: Mohammad Shahzad faced SJ Benn, scored 1 runs. Team score: 20/1
+3.5: Asghar Stanikzai faced SJ Benn, scored 1 runs. Team score: 21/1
+3.6: Mohammad Shahzad faced SJ Benn, scored 6 runs. Team score: 27/1
+4.1: Asghar Stanikzai faced DJ Bravo, scored 1 runs. Team score: 28/1
+4.2: Mohammad Shahzad faced DJ Bravo, scored 0 runs. Team score: 28/1
+4.3: Mohammad Shahzad faced DJ Bravo, scored 2 runs. Team score: 30/1
+4.4: Mohammad Shahzad faced DJ Bravo, scored 1 runs. Team score: 31/1
+4.5: Asghar Stanikzai faced DJ Bravo, scored 0 runs. Team score: 31/1
+4.6: Asghar Stanikzai faced DJ Bravo, scored 1 runs. Team score: 32/1
+5.1: Asghar Stanikzai faced S Badree, scored 0 runs. Team score: 32/1
+5.2: Asghar Stanikzai faced S Badree, scored 1 runs. Team score: 33/1
+5.3: Mohammad Shahzad faced S Badree, scored 0 runs. Team score: 33/1
+5.4: Mohammad Shahzad faced S Badree, scored 0 runs. Team score: 33/1
+5.5: Mohammad Shahzad faced S Badree, scored 0 runs. Team score: 33/1
+5.6: Mohammad Shahzad faced S Badree, scored 0 runs. Team score: 33/1
+caught!, Batsman: Mohammad Shahzad (24 runs from 22 balls), Bowler: S Badree (figures: 2/4). Fielders involved: SJ Benn. Team score: 33/2
+6.1: Asghar Stanikzai faced SJ Benn, scored 0 runs. Team score: 33/2
+6.2: Asghar Stanikzai faced SJ Benn, scored 1 runs. Team score: 34/2
+6.3: Gulbadin Naib faced SJ Benn, scored 1 runs. Team score: 35/2
+6.4: Asghar Stanikzai faced SJ Benn, scored 1 runs. Team score: 36/2
+6.5: Gulbadin Naib faced SJ Benn, scored 0 runs. Team score: 36/2
+6.6: Gulbadin Naib faced SJ Benn, scored 2 runs. Team score: 38/2
+7.1: Asghar Stanikzai faced S Badree, scored 0 runs. Team score: 38/2
+7.2: Asghar Stanikzai faced S Badree, scored 0 runs. Team score: 38/2
+7.3: Asghar Stanikzai faced S Badree, scored 0 runs. Team score: 38/2
+7.4: Asghar Stanikzai faced S Badree, scored 1 runs. Team score: 39/2
+7.5: Gulbadin Naib faced S Badree, scored 0 runs. Team score: 39/2
+7.6: Gulbadin Naib faced S Badree, scored 1 runs. Team score: 40/2
+8.1: Gulbadin Naib faced SJ Benn, scored 1 runs. Team score: 41/2
+8.2: Asghar Stanikzai faced SJ Benn, scored 1 runs. Team score: 42/2
+8.3: Gulbadin Naib faced SJ Benn, scored 1 runs. Team score: 43/2
+8.4: Asghar Stanikzai faced SJ Benn, scored 0 runs. Team score: 43/2
+8.5: Asghar Stanikzai faced SJ Benn, scored 0 runs. Team score: 43/2
+8.6: Asghar Stanikzai faced SJ Benn, scored 1 runs. Team score: 44/2
+9.1: Asghar Stanikzai faced S Badree, scored 0 runs. Team score: 44/2
+9.2: Asghar Stanikzai faced S Badree, scored 6 runs. Team score: 50/2
+9.3: Asghar Stanikzai faced S Badree, scored 0 runs. Team score: 50/2
+caught!, Batsman: Asghar Stanikzai (16 runs from 22 balls), Bowler: S Badree (figures: 3/12). Fielders involved: DJ Bravo. Team score: 50/3
+9.4: Gulbadin Naib faced S Badree, scored 0 runs. Team score: 50/3
+9.5: Gulbadin Naib faced S Badree, scored 1 runs. Team score: 51/3
+9.6: Samiullah Shenwari faced S Badree, scored 1 runs. Team score: 52/3
+10.1: Samiullah Shenwari faced SJ Benn, scored 0 runs. Team score: 52/3
+10.2: Samiullah Shenwari faced SJ Benn, scored 0 runs. Team score: 52/3
+caught!, Batsman: Samiullah Shenwari (1 runs from 3 balls), Bowler: SJ Benn (figures: 1/17). Fielders involved: DJG Sammy. Team score: 52/4
+10.3: Najibullah Zadran faced SJ Benn, scored 1 runs. Team score: 53/4
+10.4: Gulbadin Naib faced SJ Benn, scored 0 runs. Team score: 53/4
+10.5: Gulbadin Naib faced SJ Benn, scored 0 runs. Team score: 53/4
+10.6: Gulbadin Naib faced SJ Benn, scored 0 runs. Team score: 53/4
+11.1: Najibullah Zadran faced DJG Sammy, scored 1 runs. Team score: 54/4
+11.2: Gulbadin Naib faced DJG Sammy, scored 1 runs. Team score: 55/4
+11.3: Najibullah Zadran faced DJG Sammy, scored 0 runs. Team score: 55/4
+11.4: Najibullah Zadran faced DJG Sammy, scored 1 runs. Team score: 56/4
+11.5: Gulbadin Naib faced DJG Sammy, scored 0 runs. Team score: 56/4
+caught!, Batsman: Gulbadin Naib (8 runs from 14 balls), Bowler: DJG Sammy (figures: 1/3). Fielders involved: DJ Bravo. Team score: 56/5
+11.6: Najibullah Zadran faced DJG Sammy, scored 1 runs. Team score: 57/5
+12.1: Najibullah Zadran faced AD Russell, scored 0 runs. Team score: 57/5
+12.2: Najibullah Zadran faced AD Russell, scored 0 runs. Team score: 57/5
+12.3: Najibullah Zadran faced AD Russell, scored 0 runs. Team score: 57/5
+12.4: Najibullah Zadran faced AD Russell, scored 0 runs. Team score: 57/5
+12.5: Najibullah Zadran faced AD Russell, scored 4 runs. Team score: 61/5
+12.6: Najibullah Zadran faced AD Russell, scored 1 runs. Team score: 62/5
+13.1: Najibullah Zadran faced DJ Bravo, scored 2 runs. Team score: 64/5
+13.2: Najibullah Zadran faced DJ Bravo, scored 1 runs. Team score: 65/5
+13.3: Mohammad Nabi faced DJ Bravo, scored 0 runs. Team score: 65/5
+13.4: Mohammad Nabi faced DJ Bravo, scored 1 runs. Team score: 66/5
+13.5: Najibullah Zadran faced DJ Bravo, scored 0 runs. Team score: 66/5
+13.6: Najibullah Zadran faced DJ Bravo, scored 0 runs. Team score: 66/5
+14.1: Mohammad Nabi faced CR Brathwaite, scored 1 runs. Team score: 67/5
+14.2: Najibullah Zadran faced CR Brathwaite, scored 0 runs. Team score: 67/5
+14.3: Najibullah Zadran faced CR Brathwaite, scored 2 runs. Team score: 69/5
+14.4: Najibullah Zadran faced CR Brathwaite, scored 2 runs. Team score: 71/5
+14.5: Najibullah Zadran faced CR Brathwaite, scored 1 runs. Team score: 72/5
+14.6: Mohammad Nabi faced CR Brathwaite, scored 4 runs. Team score: 76/5
+15.1: Najibullah Zadran faced DJG Sammy, scored 2 runs. Team score: 78/5
+15.2: Najibullah Zadran faced DJG Sammy, scored 6 runs. Team score: 84/5
+15.3: Najibullah Zadran faced DJG Sammy, scored 1 runs. Team score: 85/5
+15.4: Mohammad Nabi faced DJG Sammy, scored 1 runs. Team score: 86/5
+15.5: Najibullah Zadran faced DJG Sammy, scored 1 runs. Team score: 87/5
+15.6: Mohammad Nabi faced DJG Sammy, scored 2 runs. Team score: 89/5
+16.1: Najibullah Zadran faced AD Russell, scored 1 runs. Team score: 90/5
+16.2: Mohammad Nabi faced AD Russell, scored 0 runs. Team score: 90/5
+16.3: Mohammad Nabi faced AD Russell, scored 0 runs. Team score: 90/5
+caught!, Batsman: Mohammad Nabi (9 runs from 8 balls), Bowler: AD Russell (figures: 1/11). Fielders involved: MN Samuels. Team score: 90/6
+16.4: Shafiqullah faced AD Russell, scored 1 runs. Team score: 91/6
+16.5: Shafiqullah faced AD Russell, scored 1 runs. Team score: 92/6
+16.6: Najibullah Zadran faced AD Russell, scored 0 runs. Team score: 92/6
+16.0: Najibullah Zadran faced AD Russell, scored 1 runs. Team score: 93/6
+17.1: Najibullah Zadran faced DJ Bravo, scored 0 runs. Team score: 93/6
+17.2: Najibullah Zadran faced DJ Bravo, scored 4 runs. Team score: 97/6
+17.3: Najibullah Zadran faced DJ Bravo, scored 2 runs. Team score: 99/6
+17.4: Najibullah Zadran faced DJ Bravo, scored 1 runs. Team score: 100/6
+17.5: Shafiqullah faced DJ Bravo, scored 2 runs. Team score: 102/6
+17.6: Shafiqullah faced DJ Bravo, scored 1 runs. Team score: 103/6
+18.1: Shafiqullah faced AD Russell, scored 0 runs. Team score: 103/6
+caught!, Batsman: Shafiqullah (5 runs from 5 balls), Bowler: AD Russell (figures: 2/14). Fielders involved: ADS Fletcher. Team score: 103/7
+18.2: Najibullah Zadran faced AD Russell, scored 2 runs. Team score: 105/7
+18.3: Najibullah Zadran faced AD Russell, scored 0 runs. Team score: 105/7
+18.4: Najibullah Zadran faced AD Russell, scored 0 runs. Team score: 105/7
+18.5: Najibullah Zadran faced AD Russell, scored 1 runs. Team score: 106/7
+18.6: Rashid Khan faced AD Russell, scored 6 runs. Team score: 112/7
+19.1: Najibullah Zadran faced DJ Bravo, scored 4 runs. Team score: 116/7
+19.2: Najibullah Zadran faced DJ Bravo, scored 0 runs. Team score: 116/7
+19.3: Najibullah Zadran faced DJ Bravo, scored 2 runs. Team score: 118/7
+19.4: Najibullah Zadran faced DJ Bravo, scored 0 runs. Team score: 118/7
+19.5: Najibullah Zadran faced DJ Bravo, scored 4 runs. Team score: 122/7
+19.6: Najibullah Zadran faced DJ Bravo, scored 1 runs. Team score: 123/7
+End of innings for Afghanistan: 123/7 in 20.0 overs
+Batsman scores:
+Mohammad Shahzad: 24 runs from 22 balls
+Usman Ghani: 4 runs from 6 balls
+Asghar Stanikzai: 16 runs from 22 balls
+Gulbadin Naib: 8 runs from 14 balls
+Samiullah Shenwari: 1 runs from 3 balls
+Najibullah Zadran: 50 runs from 40 balls
+Mohammad Nabi: 9 runs from 8 balls
+Shafiqullah: 5 runs from 5 balls
+Rashid Khan: 6 runs from 1 balls
+Bowler figures:
+AD Russell: 2 wickets for 23 runs
+S Badree: 3 wickets for 14 runs
+CR Brathwaite: 0 wickets for 21 runs
+SJ Benn: 1 wickets for 18 runs
+DJ Bravo: 0 wickets for 30 runs
+DJG Sammy: 1 wickets for 17 runs
+
+Innings 2:
+0.1: J Charles faced Amir Hamza, scored 1 runs. Team score: 1/0
+0.2: E Lewis faced Amir Hamza, scored 0 runs. Team score: 1/0
+0.3: E Lewis faced Amir Hamza, scored 0 runs. Team score: 1/0
+0.4: E Lewis faced Amir Hamza, scored 0 runs. Team score: 1/0
+0.5: E Lewis faced Amir Hamza, scored 0 runs. Team score: 1/0
+0.6: E Lewis faced Amir Hamza, scored 0 runs. Team score: 1/0
+1.1: J Charles faced Mohammad Nabi, scored 6 runs. Team score: 7/0
+1.2: J Charles faced Mohammad Nabi, scored 0 runs. Team score: 7/0
+1.3: J Charles faced Mohammad Nabi, scored 0 runs. Team score: 7/0
+1.4: J Charles faced Mohammad Nabi, scored 2 runs. Team score: 9/0
+1.5: J Charles faced Mohammad Nabi, scored 6 runs. Team score: 15/0
+1.6: J Charles faced Mohammad Nabi, scored 1 runs. Team score: 16/0
+2.1: J Charles faced Amir Hamza, scored 1 runs. Team score: 17/0
+2.2: E Lewis faced Amir Hamza, scored 0 runs. Team score: 17/0
+2.3: E Lewis faced Amir Hamza, scored 0 runs. Team score: 17/0
+caught!, Batsman: E Lewis (0 runs from 7 balls), Bowler: Amir Hamza (figures: 1/2). Fielders involved: Rashid Khan. Team score: 17/1
+2.4: J Charles faced Amir Hamza, scored 0 runs. Team score: 17/1
+2.5: J Charles faced Amir Hamza, scored 0 runs. Team score: 17/1
+2.6: J Charles faced Amir Hamza, scored 0 runs. Team score: 17/1
+3.1: ADS Fletcher faced Hamid Hassan, scored 0 runs. Team score: 17/1
+3.2: ADS Fletcher faced Hamid Hassan, scored 4 runs. Team score: 21/1
+3.3: ADS Fletcher faced Hamid Hassan, scored 0 runs. Team score: 21/1
+3.4: ADS Fletcher faced Hamid Hassan, scored 0 runs. Team score: 21/1
+3.5: ADS Fletcher faced Hamid Hassan, scored 1 runs. Team score: 22/1
+3.6: J Charles faced Hamid Hassan, scored 2 runs. Team score: 24/1
+3.0: ADS Fletcher faced Hamid Hassan, scored 1 runs. Team score: 25/1
+4.1: ADS Fletcher faced Amir Hamza, scored 0 runs. Team score: 25/1
+4.2: ADS Fletcher faced Amir Hamza, scored 4 runs. Team score: 29/1
+4.3: ADS Fletcher faced Amir Hamza, scored 0 runs. Team score: 29/1
+4.4: ADS Fletcher faced Amir Hamza, scored 0 runs. Team score: 29/1
+4.5: ADS Fletcher faced Amir Hamza, scored 0 runs. Team score: 29/1
+4.6: ADS Fletcher faced Amir Hamza, scored 0 runs. Team score: 29/1
+5.1: J Charles faced Hamid Hassan, scored 4 runs. Team score: 33/1
+5.2: J Charles faced Hamid Hassan, scored 0 runs. Team score: 33/1
+5.3: J Charles faced Hamid Hassan, scored 0 runs. Team score: 33/1
+bowled!, Batsman: J Charles (23 runs from 15 balls), Bowler: Hamid Hassan (figures: 1/12). Fielders involved: None. Team score: 33/2
+5.4: MN Samuels faced Hamid Hassan, scored 0 runs. Team score: 33/2
+5.5: MN Samuels faced Hamid Hassan, scored 0 runs. Team score: 33/2
+5.6: MN Samuels faced Hamid Hassan, scored 1 runs. Team score: 34/2
+6.1: MN Samuels faced Rashid Khan, scored 4 runs. Team score: 38/2
+6.2: MN Samuels faced Rashid Khan, scored 0 runs. Team score: 38/2
+bowled!, Batsman: MN Samuels (5 runs from 5 balls), Bowler: Rashid Khan (figures: 1/4). Fielders involved: None. Team score: 38/3
+6.3: DJ Bravo faced Rashid Khan, scored 1 runs. Team score: 39/3
+6.4: D Ramdin faced Rashid Khan, scored 1 runs. Team score: 40/3
+6.5: DJ Bravo faced Rashid Khan, scored 0 runs. Team score: 40/3
+6.6: DJ Bravo faced Rashid Khan, scored 1 runs. Team score: 41/3
+7.1: DJ Bravo faced Mohammad Nabi, scored 0 runs. Team score: 41/3
+7.2: DJ Bravo faced Mohammad Nabi, scored 0 runs. Team score: 41/3
+7.3: DJ Bravo faced Mohammad Nabi, scored 1 runs. Team score: 42/3
+7.4: D Ramdin faced Mohammad Nabi, scored 3 runs. Team score: 45/3
+7.5: DJ Bravo faced Mohammad Nabi, scored 0 runs. Team score: 45/3
+7.6: DJ Bravo faced Mohammad Nabi, scored 1 runs. Team score: 46/3
+8.1: DJ Bravo faced Rashid Khan, scored 1 runs. Team score: 47/3
+8.2: D Ramdin faced Rashid Khan, scored 0 runs. Team score: 47/3
+8.3: D Ramdin faced Rashid Khan, scored 1 runs. Team score: 48/3
+8.4: DJ Bravo faced Rashid Khan, scored 1 runs. Team score: 49/3
+8.5: D Ramdin faced Rashid Khan, scored 1 runs. Team score: 50/3
+8.6: DJ Bravo faced Rashid Khan, scored 0 runs. Team score: 50/3
+9.1: D Ramdin faced Samiullah Shenwari, scored 0 runs. Team score: 50/3
+9.2: D Ramdin faced Samiullah Shenwari, scored 1 runs. Team score: 51/3
+9.3: DJ Bravo faced Samiullah Shenwari, scored 2 runs. Team score: 53/3
+9.4: DJ Bravo faced Samiullah Shenwari, scored 4 runs. Team score: 57/3
+9.5: DJ Bravo faced Samiullah Shenwari, scored 0 runs. Team score: 57/3
+9.6: DJ Bravo faced Samiullah Shenwari, scored 1 runs. Team score: 58/3
+10.1: DJ Bravo faced Amir Hamza, scored 1 runs. Team score: 59/3
+10.2: D Ramdin faced Amir Hamza, scored 0 runs. Team score: 59/3
+10.3: D Ramdin faced Amir Hamza, scored 0 runs. Team score: 59/3
+10.4: D Ramdin faced Amir Hamza, scored 1 runs. Team score: 60/3
+10.5: DJ Bravo faced Amir Hamza, scored 0 runs. Team score: 60/3
+10.6: DJ Bravo faced Amir Hamza, scored 1 runs. Team score: 61/3
+11.1: DJ Bravo faced Samiullah Shenwari, scored 1 runs. Team score: 62/3
+11.2: D Ramdin faced Samiullah Shenwari, scored 1 runs. Team score: 63/3
+11.3: DJ Bravo faced Samiullah Shenwari, scored 2 runs. Team score: 65/3
+11.4: DJ Bravo faced Samiullah Shenwari, scored 0 runs. Team score: 65/3
+11.5: DJ Bravo faced Samiullah Shenwari, scored 1 runs. Team score: 66/3
+11.6: D Ramdin faced Samiullah Shenwari, scored 0 runs. Team score: 66/3
+12.1: DJ Bravo faced Rashid Khan, scored 0 runs. Team score: 66/3
+12.2: DJ Bravo faced Rashid Khan, scored 1 runs. Team score: 67/3
+12.3: D Ramdin faced Rashid Khan, scored 1 runs. Team score: 68/3
+12.4: DJ Bravo faced Rashid Khan, scored 1 runs. Team score: 69/3
+12.5: D Ramdin faced Rashid Khan, scored 1 runs. Team score: 70/3
+12.6: DJ Bravo faced Rashid Khan, scored 6 runs. Team score: 76/3
+13.1: D Ramdin faced Mohammad Nabi, scored 1 runs. Team score: 77/3
+13.2: DJ Bravo faced Mohammad Nabi, scored 1 runs. Team score: 78/3
+13.3: D Ramdin faced Mohammad Nabi, scored 0 runs. Team score: 78/3
+13.4: D Ramdin faced Mohammad Nabi, scored 1 runs. Team score: 79/3
+13.5: DJ Bravo faced Mohammad Nabi, scored 0 runs. Team score: 79/3
+13.6: DJ Bravo faced Mohammad Nabi, scored 0 runs. Team score: 79/3
+lbw!, Batsman: DJ Bravo (28 runs from 29 balls), Bowler: Mohammad Nabi (figures: 1/23). Fielders involved: None. Team score: 79/4
+14.1: D Ramdin faced Samiullah Shenwari, scored 1 runs. Team score: 80/4
+14.2: AD Russell faced Samiullah Shenwari, scored 2 runs. Team score: 82/4
+14.3: D Ramdin faced Samiullah Shenwari, scored 1 runs. Team score: 83/4
+14.4: AD Russell faced Samiullah Shenwari, scored 0 runs. Team score: 83/4
+14.5: AD Russell faced Samiullah Shenwari, scored 0 runs. Team score: 83/4
+14.6: AD Russell faced Samiullah Shenwari, scored 1 runs. Team score: 84/4
+14.0: D Ramdin faced Samiullah Shenwari, scored 0 runs. Team score: 84/4
+15.1: AD Russell faced Rashid Khan, scored 1 runs. Team score: 85/4
+15.2: D Ramdin faced Rashid Khan, scored 0 runs. Team score: 85/4
+15.3: D Ramdin faced Rashid Khan, scored 1 runs. Team score: 86/4
+15.4: AD Russell faced Rashid Khan, scored 1 runs. Team score: 87/4
+15.5: D Ramdin faced Rashid Khan, scored 2 runs. Team score: 89/4
+15.6: D Ramdin faced Rashid Khan, scored 0 runs. Team score: 89/4
+stumped!, Batsman: D Ramdin (18 runs from 24 balls), Bowler: Rashid Khan (figures: 2/26). Fielders involved: Mohammad Shahzad. Team score: 89/5
+16.1: AD Russell faced Hamid Hassan, scored 1 runs. Team score: 90/5
+16.2: DJG Sammy faced Hamid Hassan, scored 2 runs. Team score: 92/5
+16.3: DJG Sammy faced Hamid Hassan, scored 0 runs. Team score: 92/5
+16.4: DJG Sammy faced Hamid Hassan, scored 1 runs. Team score: 93/5
+16.5: AD Russell faced Hamid Hassan, scored 2 runs. Team score: 95/5
+16.6: DJG Sammy faced Gulbadin Naib, scored 0 runs. Team score: 95/5
+16.0: DJG Sammy faced Gulbadin Naib, scored 0 runs. Team score: 95/5
+17.1: AD Russell faced Samiullah Shenwari, scored 1 runs. Team score: 96/5
+17.2: DJG Sammy faced Samiullah Shenwari, scored 1 runs. Team score: 97/5
+17.3: AD Russell faced Samiullah Shenwari, scored 1 runs. Team score: 98/5
+run out!, Batsman: AD Russell (10 runs from 10 balls), Bowler: Samiullah Shenwari (figures: 1/21). Fielders involved: Rashid Khan, Mohammad Shahzad. Team score: 98/6
+17.4: DJG Sammy faced Samiullah Shenwari, scored 0 runs. Team score: 98/6
+17.5: DJG Sammy faced Samiullah Shenwari, scored 1 runs. Team score: 99/6
+17.6: CR Brathwaite faced Samiullah Shenwari, scored 0 runs. Team score: 99/6
+18.1: DJG Sammy faced Gulbadin Naib, scored 1 runs. Team score: 100/6
+18.2: CR Brathwaite faced Gulbadin Naib, scored 6 runs. Team score: 106/6
+18.3: CR Brathwaite faced Gulbadin Naib, scored 1 runs. Team score: 107/6
+18.4: DJG Sammy faced Gulbadin Naib, scored 0 runs. Team score: 107/6
+caught!, Batsman: DJG Sammy (6 runs from 10 balls), Bowler: Gulbadin Naib (figures: 1/8). Fielders involved: Samiullah Shenwari. Team score: 107/7
+18.5: CR Brathwaite faced Gulbadin Naib, scored 6 runs. Team score: 113/7
+18.6: CR Brathwaite faced Gulbadin Naib, scored 1 runs. Team score: 114/7
+19.1: CR Brathwaite faced Mohammad Nabi, scored 0 runs. Team score: 114/7
+19.2: CR Brathwaite faced Mohammad Nabi, scored 0 runs. Team score: 114/7
+19.3: CR Brathwaite faced Mohammad Nabi, scored 0 runs. Team score: 114/7
+caught!, Batsman: CR Brathwaite (14 runs from 8 balls), Bowler: Mohammad Nabi (figures: 2/23). Fielders involved: Najibullah Zadran. Team score: 114/8
+19.4: S Badree faced Mohammad Nabi, scored 1 runs. Team score: 115/8
+19.5: ADS Fletcher faced Mohammad Nabi, scored 1 runs. Team score: 116/8
+19.6: S Badree faced Mohammad Nabi, scored 1 runs. Team score: 117/8
+End of innings for West Indies: 117/8 in 20.0 overs
+Batsman scores:
+J Charles: 23 runs from 15 balls
+E Lewis: 0 runs from 7 balls
+ADS Fletcher: 11 runs from 13 balls
+MN Samuels: 5 runs from 5 balls
+DJ Bravo: 28 runs from 29 balls
+D Ramdin: 18 runs from 24 balls
+AD Russell: 10 runs from 10 balls
+DJG Sammy: 6 runs from 10 balls
+CR Brathwaite: 14 runs from 8 balls
+S Badree: 2 runs from 2 balls
+Bowler figures:
+Amir Hamza: 1 wickets for 9 runs
+Mohammad Nabi: 2 wickets for 26 runs
+Hamid Hassan: 1 wickets for 19 runs
+Rashid Khan: 2 wickets for 26 runs
+Samiullah Shenwari: 1 wickets for 22 runs
+Gulbadin Naib: 1 wickets for 15 runs
+

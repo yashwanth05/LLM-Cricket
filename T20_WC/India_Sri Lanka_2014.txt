@@ -1,0 +1,280 @@
+Match: World T20 - T20
+Date: 2014-04-06
+Venue: Shere Bangla National Stadium, Mirpur
+Teams: India vs Sri Lanka
+Toss: Sri Lanka won the toss and decided to field
+Result: Sri Lanka won by 6 wickets
+Man of the Match: KC Sangakkara
+
+Innings 1:
+0.1: RG Sharma faced KMDN Kulasekara, scored 1 runs. Team score: 1/0
+0.2: AM Rahane faced KMDN Kulasekara, scored 0 runs. Team score: 1/0
+0.3: AM Rahane faced KMDN Kulasekara, scored 0 runs. Team score: 1/0
+0.4: AM Rahane faced KMDN Kulasekara, scored 2 runs. Team score: 3/0
+0.5: AM Rahane faced KMDN Kulasekara, scored 0 runs. Team score: 3/0
+0.6: AM Rahane faced KMDN Kulasekara, scored 1 runs. Team score: 4/0
+1.1: AM Rahane faced AD Mathews, scored 0 runs. Team score: 4/0
+1.2: AM Rahane faced AD Mathews, scored 0 runs. Team score: 4/0
+1.3: AM Rahane faced AD Mathews, scored 0 runs. Team score: 4/0
+bowled!, Batsman: AM Rahane (3 runs from 8 balls), Bowler: AD Mathews (figures: 1/0). Fielders involved: None. Team score: 4/1
+1.4: V Kohli faced AD Mathews, scored 0 runs. Team score: 4/1
+1.5: V Kohli faced AD Mathews, scored 0 runs. Team score: 4/1
+1.6: V Kohli faced AD Mathews, scored 1 runs. Team score: 5/1
+2.1: V Kohli faced KMDN Kulasekara, scored 4 runs. Team score: 9/1
+2.2: V Kohli faced KMDN Kulasekara, scored 0 runs. Team score: 9/1
+2.3: V Kohli faced KMDN Kulasekara, scored 0 runs. Team score: 9/1
+2.4: V Kohli faced KMDN Kulasekara, scored 0 runs. Team score: 9/1
+2.5: V Kohli faced KMDN Kulasekara, scored 1 runs. Team score: 10/1
+2.6: RG Sharma faced KMDN Kulasekara, scored 1 runs. Team score: 11/1
+3.1: RG Sharma faced AD Mathews, scored 1 runs. Team score: 12/1
+3.2: V Kohli faced AD Mathews, scored 1 runs. Team score: 13/1
+3.3: RG Sharma faced AD Mathews, scored 0 runs. Team score: 13/1
+3.4: RG Sharma faced AD Mathews, scored 1 runs. Team score: 14/1
+3.5: V Kohli faced AD Mathews, scored 1 runs. Team score: 15/1
+3.6: RG Sharma faced AD Mathews, scored 0 runs. Team score: 15/1
+4.1: V Kohli faced SMSM Senanayake, scored 1 runs. Team score: 16/1
+4.2: RG Sharma faced SMSM Senanayake, scored 4 runs. Team score: 20/1
+4.3: RG Sharma faced SMSM Senanayake, scored 3 runs. Team score: 23/1
+4.4: V Kohli faced SMSM Senanayake, scored 0 runs. Team score: 23/1
+4.5: V Kohli faced SMSM Senanayake, scored 0 runs. Team score: 23/1
+4.6: V Kohli faced SMSM Senanayake, scored 0 runs. Team score: 23/1
+5.1: RG Sharma faced SL Malinga, scored 1 runs. Team score: 24/1
+5.2: V Kohli faced SL Malinga, scored 1 runs. Team score: 25/1
+5.3: RG Sharma faced SL Malinga, scored 1 runs. Team score: 26/1
+5.4: V Kohli faced SL Malinga, scored 1 runs. Team score: 27/1
+5.5: RG Sharma faced SL Malinga, scored 0 runs. Team score: 27/1
+5.6: RG Sharma faced SL Malinga, scored 4 runs. Team score: 31/1
+6.1: V Kohli faced HMRKB Herath, scored 1 runs. Team score: 32/1
+6.2: RG Sharma faced HMRKB Herath, scored 0 runs. Team score: 32/1
+6.3: RG Sharma faced HMRKB Herath, scored 1 runs. Team score: 33/1
+6.4: V Kohli faced HMRKB Herath, scored 1 runs. Team score: 34/1
+6.5: RG Sharma faced HMRKB Herath, scored 1 runs. Team score: 35/1
+6.6: V Kohli faced HMRKB Herath, scored 6 runs. Team score: 41/1
+7.1: RG Sharma faced AD Mathews, scored 1 runs. Team score: 42/1
+7.2: V Kohli faced AD Mathews, scored 0 runs. Team score: 42/1
+7.3: V Kohli faced AD Mathews, scored 1 runs. Team score: 43/1
+7.4: RG Sharma faced AD Mathews, scored 2 runs. Team score: 45/1
+7.5: RG Sharma faced AD Mathews, scored 1 runs. Team score: 46/1
+7.6: V Kohli faced AD Mathews, scored 1 runs. Team score: 47/1
+8.1: V Kohli faced HMRKB Herath, scored 1 runs. Team score: 48/1
+8.2: RG Sharma faced HMRKB Herath, scored 0 runs. Team score: 48/1
+8.3: RG Sharma faced HMRKB Herath, scored 1 runs. Team score: 49/1
+8.4: V Kohli faced HMRKB Herath, scored 0 runs. Team score: 49/1
+8.5: V Kohli faced HMRKB Herath, scored 0 runs. Team score: 49/1
+8.6: V Kohli faced HMRKB Herath, scored 1 runs. Team score: 50/1
+9.1: V Kohli faced AD Mathews, scored 1 runs. Team score: 51/1
+9.2: RG Sharma faced AD Mathews, scored 1 runs. Team score: 52/1
+9.3: V Kohli faced AD Mathews, scored 1 runs. Team score: 53/1
+9.4: RG Sharma faced AD Mathews, scored 4 runs. Team score: 57/1
+9.5: RG Sharma faced AD Mathews, scored 1 runs. Team score: 58/1
+9.6: V Kohli faced AD Mathews, scored 6 runs. Team score: 64/1
+10.1: RG Sharma faced HMRKB Herath, scored 0 runs. Team score: 64/1
+10.2: RG Sharma faced HMRKB Herath, scored 0 runs. Team score: 64/1
+10.3: RG Sharma faced HMRKB Herath, scored 0 runs. Team score: 64/1
+caught!, Batsman: RG Sharma (30 runs from 26 balls), Bowler: HMRKB Herath (figures: 1/13). Fielders involved: SMSM Senanayake. Team score: 64/2
+10.4: Yuvraj Singh faced HMRKB Herath, scored 1 runs. Team score: 65/2
+10.5: V Kohli faced HMRKB Herath, scored 0 runs. Team score: 65/2
+10.6: V Kohli faced HMRKB Herath, scored 0 runs. Team score: 65/2
+11.1: Yuvraj Singh faced SMSM Senanayake, scored 1 runs. Team score: 66/2
+11.2: V Kohli faced SMSM Senanayake, scored 0 runs. Team score: 66/2
+11.3: V Kohli faced SMSM Senanayake, scored 2 runs. Team score: 68/2
+11.4: V Kohli faced SMSM Senanayake, scored 4 runs. Team score: 72/2
+11.5: V Kohli faced SMSM Senanayake, scored 0 runs. Team score: 72/2
+11.6: V Kohli faced SMSM Senanayake, scored 1 runs. Team score: 73/2
+12.1: V Kohli faced HMRKB Herath, scored 6 runs. Team score: 79/2
+12.2: V Kohli faced HMRKB Herath, scored 0 runs. Team score: 79/2
+12.3: V Kohli faced HMRKB Herath, scored 1 runs. Team score: 80/2
+12.4: V Kohli faced HMRKB Herath, scored 1 runs. Team score: 81/2
+12.5: Yuvraj Singh faced HMRKB Herath, scored 0 runs. Team score: 81/2
+12.6: Yuvraj Singh faced HMRKB Herath, scored 1 runs. Team score: 82/2
+12.0: V Kohli faced HMRKB Herath, scored 1 runs. Team score: 83/2
+13.1: V Kohli faced SL Malinga, scored 1 runs. Team score: 84/2
+13.2: Yuvraj Singh faced SL Malinga, scored 1 runs. Team score: 85/2
+13.3: V Kohli faced SL Malinga, scored 2 runs. Team score: 87/2
+13.4: V Kohli faced SL Malinga, scored 1 runs. Team score: 88/2
+13.5: Yuvraj Singh faced SL Malinga, scored 1 runs. Team score: 89/2
+13.6: V Kohli faced SL Malinga, scored 4 runs. Team score: 93/2
+14.1: Yuvraj Singh faced SMSM Senanayake, scored 0 runs. Team score: 93/2
+14.2: Yuvraj Singh faced SMSM Senanayake, scored 0 runs. Team score: 93/2
+14.3: Yuvraj Singh faced SMSM Senanayake, scored 1 runs. Team score: 94/2
+14.4: V Kohli faced SMSM Senanayake, scored 1 runs. Team score: 95/2
+14.5: Yuvraj Singh faced SMSM Senanayake, scored 0 runs. Team score: 95/2
+14.6: Yuvraj Singh faced SMSM Senanayake, scored 0 runs. Team score: 95/2
+15.1: V Kohli faced KMDN Kulasekara, scored 6 runs. Team score: 101/2
+15.2: V Kohli faced KMDN Kulasekara, scored 4 runs. Team score: 105/2
+15.3: V Kohli faced KMDN Kulasekara, scored 4 runs. Team score: 109/2
+15.4: V Kohli faced KMDN Kulasekara, scored 1 runs. Team score: 110/2
+15.5: Yuvraj Singh faced KMDN Kulasekara, scored 1 runs. Team score: 111/2
+15.6: V Kohli faced KMDN Kulasekara, scored 0 runs. Team score: 111/2
+16.1: Yuvraj Singh faced SMSM Senanayake, scored 0 runs. Team score: 111/2
+16.2: Yuvraj Singh faced SMSM Senanayake, scored 0 runs. Team score: 111/2
+16.3: Yuvraj Singh faced SMSM Senanayake, scored 1 runs. Team score: 112/2
+16.4: V Kohli faced SMSM Senanayake, scored 1 runs. Team score: 113/2
+16.5: Yuvraj Singh faced SMSM Senanayake, scored 1 runs. Team score: 114/2
+16.6: V Kohli faced SMSM Senanayake, scored 1 runs. Team score: 115/2
+17.1: V Kohli faced SL Malinga, scored 1 runs. Team score: 116/2
+17.2: Yuvraj Singh faced SL Malinga, scored 0 runs. Team score: 116/2
+17.3: Yuvraj Singh faced SL Malinga, scored 1 runs. Team score: 117/2
+17.4: V Kohli faced SL Malinga, scored 1 runs. Team score: 118/2
+17.5: Yuvraj Singh faced SL Malinga, scored 0 runs. Team score: 118/2
+17.6: Yuvraj Singh faced SL Malinga, scored 1 runs. Team score: 119/2
+18.1: Yuvraj Singh faced KMDN Kulasekara, scored 0 runs. Team score: 119/2
+caught!, Batsman: Yuvraj Singh (11 runs from 21 balls), Bowler: KMDN Kulasekara (figures: 1/26). Fielders involved: NLTC Perera. Team score: 119/3
+18.2: V Kohli faced KMDN Kulasekara, scored 1 runs. Team score: 120/3
+18.3: MS Dhoni faced KMDN Kulasekara, scored 1 runs. Team score: 121/3
+18.4: V Kohli faced KMDN Kulasekara, scored 0 runs. Team score: 121/3
+18.5: V Kohli faced KMDN Kulasekara, scored 1 runs. Team score: 122/3
+18.6: MS Dhoni faced KMDN Kulasekara, scored 1 runs. Team score: 123/3
+19.1: MS Dhoni faced SL Malinga, scored 0 runs. Team score: 123/3
+19.2: MS Dhoni faced SL Malinga, scored 1 runs. Team score: 124/3
+19.3: MS Dhoni faced SL Malinga, scored 2 runs. Team score: 126/3
+19.4: MS Dhoni faced SL Malinga, scored 0 runs. Team score: 126/3
+19.5: MS Dhoni faced SL Malinga, scored 2 runs. Team score: 128/3
+19.6: MS Dhoni faced SL Malinga, scored 1 runs. Team score: 129/3
+19.0: V Kohli faced SL Malinga, scored 1 runs. Team score: 130/3
+run out!, Batsman: V Kohli (78 runs from 59 balls), Bowler: SL Malinga (figures: 1/29). Fielders involved: SMSM Senanayake. Team score: 130/4
+End of innings for India: 130/4 in 20.0 overs
+Batsman scores:
+RG Sharma: 30 runs from 26 balls
+AM Rahane: 3 runs from 8 balls
+V Kohli: 78 runs from 59 balls
+Yuvraj Singh: 11 runs from 21 balls
+MS Dhoni: 8 runs from 8 balls
+Bowler figures:
+KMDN Kulasekara: 1 wickets for 30 runs
+AD Mathews: 1 wickets for 25 runs
+SMSM Senanayake: 0 wickets for 22 runs
+SL Malinga: 1 wickets for 29 runs
+HMRKB Herath: 1 wickets for 24 runs
+
+Innings 2:
+0.1: MDKJ Perera faced B Kumar, scored 0 runs. Team score: 0/0
+0.2: MDKJ Perera faced B Kumar, scored 4 runs. Team score: 4/0
+0.3: MDKJ Perera faced B Kumar, scored 0 runs. Team score: 4/0
+0.4: MDKJ Perera faced B Kumar, scored 0 runs. Team score: 4/0
+0.5: MDKJ Perera faced B Kumar, scored 0 runs. Team score: 4/0
+0.6: MDKJ Perera faced B Kumar, scored 1 runs. Team score: 5/0
+1.1: MDKJ Perera faced MM Sharma, scored 0 runs. Team score: 5/0
+caught!, Batsman: MDKJ Perera (5 runs from 7 balls), Bowler: MM Sharma (figures: 1/0). Fielders involved: RA Jadeja. Team score: 5/1
+1.2: TM Dilshan faced MM Sharma, scored 1 runs. Team score: 6/1
+1.3: DPMD Jayawardene faced MM Sharma, scored 2 runs. Team score: 8/1
+1.4: DPMD Jayawardene faced MM Sharma, scored 0 runs. Team score: 8/1
+1.5: DPMD Jayawardene faced MM Sharma, scored 0 runs. Team score: 8/1
+1.6: DPMD Jayawardene faced MM Sharma, scored 0 runs. Team score: 8/1
+2.1: TM Dilshan faced B Kumar, scored 0 runs. Team score: 8/1
+2.2: TM Dilshan faced B Kumar, scored 4 runs. Team score: 12/1
+2.3: TM Dilshan faced B Kumar, scored 0 runs. Team score: 12/1
+2.4: TM Dilshan faced B Kumar, scored 0 runs. Team score: 12/1
+2.5: TM Dilshan faced B Kumar, scored 0 runs. Team score: 12/1
+2.6: TM Dilshan faced B Kumar, scored 0 runs. Team score: 12/1
+3.1: DPMD Jayawardene faced MM Sharma, scored 4 runs. Team score: 16/1
+3.2: DPMD Jayawardene faced MM Sharma, scored 1 runs. Team score: 17/1
+3.3: TM Dilshan faced MM Sharma, scored 4 runs. Team score: 21/1
+3.4: TM Dilshan faced MM Sharma, scored 4 runs. Team score: 25/1
+3.5: TM Dilshan faced MM Sharma, scored 1 runs. Team score: 26/1
+3.6: DPMD Jayawardene faced MM Sharma, scored 1 runs. Team score: 27/1
+4.1: DPMD Jayawardene faced B Kumar, scored 1 runs. Team score: 28/1
+4.2: TM Dilshan faced B Kumar, scored 1 runs. Team score: 29/1
+4.3: DPMD Jayawardene faced B Kumar, scored 4 runs. Team score: 33/1
+4.4: DPMD Jayawardene faced B Kumar, scored 4 runs. Team score: 37/1
+4.5: DPMD Jayawardene faced B Kumar, scored 0 runs. Team score: 37/1
+4.6: DPMD Jayawardene faced B Kumar, scored 0 runs. Team score: 37/1
+5.1: TM Dilshan faced R Ashwin, scored 0 runs. Team score: 37/1
+5.2: TM Dilshan faced R Ashwin, scored 4 runs. Team score: 41/1
+5.3: TM Dilshan faced R Ashwin, scored 0 runs. Team score: 41/1
+5.4: TM Dilshan faced R Ashwin, scored 0 runs. Team score: 41/1
+5.5: TM Dilshan faced R Ashwin, scored 0 runs. Team score: 41/1
+caught!, Batsman: TM Dilshan (19 runs from 16 balls), Bowler: R Ashwin (figures: 1/4). Fielders involved: V Kohli. Team score: 41/2
+5.6: DPMD Jayawardene faced R Ashwin, scored 0 runs. Team score: 41/2
+6.1: KC Sangakkara faced A Mishra, scored 1 runs. Team score: 42/2
+6.2: DPMD Jayawardene faced A Mishra, scored 0 runs. Team score: 42/2
+6.3: DPMD Jayawardene faced A Mishra, scored 0 runs. Team score: 42/2
+6.4: DPMD Jayawardene faced A Mishra, scored 0 runs. Team score: 42/2
+6.5: DPMD Jayawardene faced A Mishra, scored 0 runs. Team score: 42/2
+6.6: DPMD Jayawardene faced A Mishra, scored 0 runs. Team score: 42/2
+7.1: KC Sangakkara faced SK Raina, scored 0 runs. Team score: 42/2
+7.2: KC Sangakkara faced SK Raina, scored 0 runs. Team score: 42/2
+7.3: KC Sangakkara faced SK Raina, scored 2 runs. Team score: 44/2
+7.4: KC Sangakkara faced SK Raina, scored 1 runs. Team score: 45/2
+7.5: DPMD Jayawardene faced SK Raina, scored 0 runs. Team score: 45/2
+7.6: DPMD Jayawardene faced SK Raina, scored 2 runs. Team score: 47/2
+8.1: KC Sangakkara faced RA Jadeja, scored 4 runs. Team score: 51/2
+8.2: KC Sangakkara faced RA Jadeja, scored 0 runs. Team score: 51/2
+8.3: KC Sangakkara faced RA Jadeja, scored 0 runs. Team score: 51/2
+8.4: KC Sangakkara faced RA Jadeja, scored 6 runs. Team score: 57/2
+8.5: KC Sangakkara faced RA Jadeja, scored 1 runs. Team score: 58/2
+8.6: DPMD Jayawardene faced RA Jadeja, scored 0 runs. Team score: 58/2
+9.1: KC Sangakkara faced SK Raina, scored 1 runs. Team score: 59/2
+9.2: DPMD Jayawardene faced SK Raina, scored 1 runs. Team score: 60/2
+9.3: KC Sangakkara faced SK Raina, scored 1 runs. Team score: 61/2
+9.4: DPMD Jayawardene faced SK Raina, scored 4 runs. Team score: 65/2
+9.5: DPMD Jayawardene faced SK Raina, scored 0 runs. Team score: 65/2
+caught!, Batsman: DPMD Jayawardene (24 runs from 24 balls), Bowler: SK Raina (figures: 1/12). Fielders involved: R Ashwin. Team score: 65/3
+9.6: HDRL Thirimanne faced SK Raina, scored 4 runs. Team score: 69/3
+10.1: KC Sangakkara faced R Ashwin, scored 1 runs. Team score: 70/3
+10.2: HDRL Thirimanne faced R Ashwin, scored 0 runs. Team score: 70/3
+10.3: HDRL Thirimanne faced R Ashwin, scored 1 runs. Team score: 71/3
+10.4: KC Sangakkara faced R Ashwin, scored 1 runs. Team score: 72/3
+10.5: HDRL Thirimanne faced R Ashwin, scored 0 runs. Team score: 72/3
+10.6: HDRL Thirimanne faced R Ashwin, scored 1 runs. Team score: 73/3
+11.1: HDRL Thirimanne faced SK Raina, scored 0 runs. Team score: 73/3
+11.2: HDRL Thirimanne faced SK Raina, scored 1 runs. Team score: 74/3
+11.3: KC Sangakkara faced SK Raina, scored 1 runs. Team score: 75/3
+11.4: HDRL Thirimanne faced SK Raina, scored 0 runs. Team score: 75/3
+11.5: HDRL Thirimanne faced SK Raina, scored 0 runs. Team score: 75/3
+11.6: HDRL Thirimanne faced SK Raina, scored 0 runs. Team score: 75/3
+12.1: KC Sangakkara faced A Mishra, scored 2 runs. Team score: 77/3
+12.2: KC Sangakkara faced A Mishra, scored 1 runs. Team score: 78/3
+12.3: HDRL Thirimanne faced A Mishra, scored 0 runs. Team score: 78/3
+caught!, Batsman: HDRL Thirimanne (7 runs from 11 balls), Bowler: A Mishra (figures: 1/4). Fielders involved: MS Dhoni. Team score: 78/4
+12.4: NLTC Perera faced A Mishra, scored 0 runs. Team score: 78/4
+12.5: NLTC Perera faced A Mishra, scored 0 runs. Team score: 78/4
+12.6: NLTC Perera faced A Mishra, scored 0 runs. Team score: 78/4
+13.1: KC Sangakkara faced SK Raina, scored 1 runs. Team score: 79/4
+13.2: NLTC Perera faced SK Raina, scored 1 runs. Team score: 80/4
+13.3: KC Sangakkara faced SK Raina, scored 1 runs. Team score: 81/4
+13.4: KC Sangakkara faced SK Raina, scored 1 runs. Team score: 82/4
+13.5: NLTC Perera faced SK Raina, scored 0 runs. Team score: 82/4
+13.6: NLTC Perera faced SK Raina, scored 1 runs. Team score: 83/4
+13.0: KC Sangakkara faced SK Raina, scored 1 runs. Team score: 84/4
+14.1: KC Sangakkara faced A Mishra, scored 1 runs. Team score: 85/4
+14.2: KC Sangakkara faced A Mishra, scored 1 runs. Team score: 86/4
+14.3: NLTC Perera faced A Mishra, scored 6 runs. Team score: 92/4
+14.4: NLTC Perera faced A Mishra, scored 1 runs. Team score: 93/4
+14.5: KC Sangakkara faced A Mishra, scored 4 runs. Team score: 97/4
+14.6: KC Sangakkara faced A Mishra, scored 0 runs. Team score: 97/4
+14.0: KC Sangakkara faced A Mishra, scored 1 runs. Team score: 98/4
+15.1: KC Sangakkara faced R Ashwin, scored 0 runs. Team score: 98/4
+15.2: KC Sangakkara faced R Ashwin, scored 4 runs. Team score: 102/4
+15.3: KC Sangakkara faced R Ashwin, scored 0 runs. Team score: 102/4
+15.4: KC Sangakkara faced R Ashwin, scored 1 runs. Team score: 103/4
+15.5: NLTC Perera faced R Ashwin, scored 0 runs. Team score: 103/4
+15.6: NLTC Perera faced R Ashwin, scored 1 runs. Team score: 104/4
+15.0: NLTC Perera faced R Ashwin, scored 0 runs. Team score: 104/4
+16.1: KC Sangakkara faced A Mishra, scored 4 runs. Team score: 108/4
+16.2: KC Sangakkara faced A Mishra, scored 1 runs. Team score: 109/4
+16.3: NLTC Perera faced A Mishra, scored 6 runs. Team score: 115/4
+16.4: NLTC Perera faced A Mishra, scored 2 runs. Team score: 117/4
+16.5: NLTC Perera faced A Mishra, scored 1 runs. Team score: 118/4
+16.6: KC Sangakkara faced A Mishra, scored 1 runs. Team score: 119/4
+17.1: KC Sangakkara faced R Ashwin, scored 4 runs. Team score: 123/4
+17.2: KC Sangakkara faced R Ashwin, scored 4 runs. Team score: 127/4
+17.3: KC Sangakkara faced R Ashwin, scored 0 runs. Team score: 127/4
+17.4: KC Sangakkara faced R Ashwin, scored 1 runs. Team score: 128/4
+17.5: NLTC Perera faced R Ashwin, scored 6 runs. Team score: 134/4
+End of innings for Sri Lanka: 134/4 in 18.5 overs
+Batsman scores:
+MDKJ Perera: 5 runs from 7 balls
+TM Dilshan: 19 runs from 16 balls
+DPMD Jayawardene: 24 runs from 24 balls
+KC Sangakkara: 54 runs from 37 balls
+HDRL Thirimanne: 7 runs from 11 balls
+NLTC Perera: 25 runs from 15 balls
+Bowler figures:
+B Kumar: 0 wickets for 19 runs
+MM Sharma: 1 wickets for 18 runs
+R Ashwin: 1 wickets for 29 runs
+A Mishra: 1 wickets for 33 runs
+SK Raina: 1 wickets for 24 runs
+RA Jadeja: 0 wickets for 11 runs
+

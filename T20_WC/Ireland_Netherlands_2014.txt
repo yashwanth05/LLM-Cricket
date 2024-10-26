@@ -1,0 +1,256 @@
+Match: World T20 - T20
+Date: 2014-03-21
+Venue: Sylhet Stadium
+Teams: Ireland vs Netherlands
+Toss: Netherlands won the toss and decided to field
+Result: Netherlands won by 6 wickets
+Man of the Match: SJ Myburgh
+
+Innings 1:
+0.1: WTS Porterfield faced MR Swart, scored 0 runs. Team score: 0/0
+0.2: WTS Porterfield faced MR Swart, scored 1 runs. Team score: 1/0
+0.3: PR Stirling faced MR Swart, scored 1 runs. Team score: 2/0
+0.4: WTS Porterfield faced MR Swart, scored 0 runs. Team score: 2/0
+0.5: WTS Porterfield faced MR Swart, scored 0 runs. Team score: 2/0
+0.6: WTS Porterfield faced MR Swart, scored 4 runs. Team score: 6/0
+1.1: PR Stirling faced T van der Gugten, scored 0 runs. Team score: 6/0
+1.2: PR Stirling faced T van der Gugten, scored 2 runs. Team score: 8/0
+1.3: PR Stirling faced T van der Gugten, scored 0 runs. Team score: 8/0
+1.4: PR Stirling faced T van der Gugten, scored 0 runs. Team score: 8/0
+1.5: PR Stirling faced T van der Gugten, scored 4 runs. Team score: 12/0
+1.6: PR Stirling faced T van der Gugten, scored 0 runs. Team score: 12/0
+2.1: WTS Porterfield faced Ahsan Malik, scored 2 runs. Team score: 14/0
+2.2: WTS Porterfield faced Ahsan Malik, scored 2 runs. Team score: 16/0
+2.3: WTS Porterfield faced Ahsan Malik, scored 4 runs. Team score: 20/0
+2.4: WTS Porterfield faced Ahsan Malik, scored 6 runs. Team score: 26/0
+2.5: WTS Porterfield faced Ahsan Malik, scored 1 runs. Team score: 27/0
+2.6: PR Stirling faced Ahsan Malik, scored 0 runs. Team score: 27/0
+3.1: WTS Porterfield faced T van der Gugten, scored 1 runs. Team score: 28/0
+3.2: PR Stirling faced T van der Gugten, scored 0 runs. Team score: 28/0
+caught!, Batsman: PR Stirling (7 runs from 9 balls), Bowler: T van der Gugten (figures: 1/7). Fielders involved: PW Borren. Team score: 28/1
+3.3: WTS Porterfield faced T van der Gugten, scored 4 runs. Team score: 32/1
+3.4: WTS Porterfield faced T van der Gugten, scored 0 runs. Team score: 32/1
+3.5: WTS Porterfield faced T van der Gugten, scored 4 runs. Team score: 36/1
+3.6: WTS Porterfield faced T van der Gugten, scored 0 runs. Team score: 36/1
+4.1: EC Joyce faced MR Swart, scored 0 runs. Team score: 36/1
+4.2: EC Joyce faced MR Swart, scored 0 runs. Team score: 36/1
+4.3: EC Joyce faced MR Swart, scored 1 runs. Team score: 37/1
+4.4: WTS Porterfield faced MR Swart, scored 6 runs. Team score: 43/1
+4.5: WTS Porterfield faced MR Swart, scored 0 runs. Team score: 43/1
+4.6: WTS Porterfield faced MR Swart, scored 0 runs. Team score: 43/1
+5.1: EC Joyce faced Mudassar Bukhari, scored 0 runs. Team score: 43/1
+5.2: EC Joyce faced Mudassar Bukhari, scored 0 runs. Team score: 43/1
+5.3: EC Joyce faced Mudassar Bukhari, scored 1 runs. Team score: 44/1
+5.4: WTS Porterfield faced Mudassar Bukhari, scored 4 runs. Team score: 48/1
+5.5: WTS Porterfield faced Mudassar Bukhari, scored 0 runs. Team score: 48/1
+5.6: WTS Porterfield faced Mudassar Bukhari, scored 0 runs. Team score: 48/1
+6.1: EC Joyce faced TLW Cooper, scored 1 runs. Team score: 49/1
+6.2: WTS Porterfield faced TLW Cooper, scored 0 runs. Team score: 49/1
+6.3: WTS Porterfield faced TLW Cooper, scored 1 runs. Team score: 50/1
+6.4: EC Joyce faced TLW Cooper, scored 1 runs. Team score: 51/1
+6.5: WTS Porterfield faced TLW Cooper, scored 1 runs. Team score: 52/1
+6.6: EC Joyce faced TLW Cooper, scored 4 runs. Team score: 56/1
+7.1: WTS Porterfield faced PW Borren, scored 1 runs. Team score: 57/1
+7.2: EC Joyce faced PW Borren, scored 1 runs. Team score: 58/1
+7.3: WTS Porterfield faced PW Borren, scored 2 runs. Team score: 60/1
+7.4: WTS Porterfield faced PW Borren, scored 1 runs. Team score: 61/1
+7.5: EC Joyce faced PW Borren, scored 1 runs. Team score: 62/1
+7.6: WTS Porterfield faced PW Borren, scored 1 runs. Team score: 63/1
+7.0: WTS Porterfield faced PW Borren, scored 0 runs. Team score: 63/1
+8.1: EC Joyce faced PM Seelaar, scored 2 runs. Team score: 65/1
+8.2: EC Joyce faced PM Seelaar, scored 1 runs. Team score: 66/1
+8.3: WTS Porterfield faced PM Seelaar, scored 1 runs. Team score: 67/1
+8.4: EC Joyce faced PM Seelaar, scored 1 runs. Team score: 68/1
+8.5: WTS Porterfield faced PM Seelaar, scored 0 runs. Team score: 68/1
+8.6: WTS Porterfield faced PM Seelaar, scored 1 runs. Team score: 69/1
+9.1: WTS Porterfield faced Ahsan Malik, scored 0 runs. Team score: 69/1
+bowled!, Batsman: WTS Porterfield (48 runs from 33 balls), Bowler: Ahsan Malik (figures: 1/15). Fielders involved: None. Team score: 69/2
+9.2: AD Poynter faced Ahsan Malik, scored 1 runs. Team score: 70/2
+9.3: EC Joyce faced Ahsan Malik, scored 0 runs. Team score: 70/2
+9.4: EC Joyce faced Ahsan Malik, scored 1 runs. Team score: 71/2
+9.5: AD Poynter faced Ahsan Malik, scored 0 runs. Team score: 71/2
+9.6: AD Poynter faced Ahsan Malik, scored 0 runs. Team score: 71/2
+10.1: EC Joyce faced PM Seelaar, scored 6 runs. Team score: 77/2
+10.2: EC Joyce faced PM Seelaar, scored 1 runs. Team score: 78/2
+10.3: AD Poynter faced PM Seelaar, scored 0 runs. Team score: 78/2
+10.4: AD Poynter faced PM Seelaar, scored 1 runs. Team score: 79/2
+10.5: EC Joyce faced PM Seelaar, scored 0 runs. Team score: 79/2
+10.6: EC Joyce faced PM Seelaar, scored 1 runs. Team score: 80/2
+11.1: EC Joyce faced MR Swart, scored 1 runs. Team score: 81/2
+11.2: AD Poynter faced MR Swart, scored 0 runs. Team score: 81/2
+11.3: AD Poynter faced MR Swart, scored 1 runs. Team score: 82/2
+11.4: EC Joyce faced MR Swart, scored 1 runs. Team score: 83/2
+11.5: AD Poynter faced MR Swart, scored 1 runs. Team score: 84/2
+11.6: EC Joyce faced MR Swart, scored 1 runs. Team score: 85/2
+12.1: EC Joyce faced Mudassar Bukhari, scored 2 runs. Team score: 87/2
+12.2: EC Joyce faced Mudassar Bukhari, scored 1 runs. Team score: 88/2
+12.3: AD Poynter faced Mudassar Bukhari, scored 0 runs. Team score: 88/2
+run out!, Batsman: EC Joyce (29 runs from 25 balls), Bowler: Mudassar Bukhari (figures: 1/8). Fielders involved: W Barresi. Team score: 88/3
+12.4: KJ O'Brien faced Mudassar Bukhari, scored 1 runs. Team score: 89/3
+12.5: AD Poynter faced Mudassar Bukhari, scored 1 runs. Team score: 90/3
+12.6: AD Poynter faced Mudassar Bukhari, scored 2 runs. Team score: 92/3
+12.0: AD Poynter faced Mudassar Bukhari, scored 1 runs. Team score: 93/3
+13.1: AD Poynter faced PW Borren, scored 6 runs. Team score: 99/3
+13.2: AD Poynter faced PW Borren, scored 1 runs. Team score: 100/3
+13.3: KJ O'Brien faced PW Borren, scored 4 runs. Team score: 104/3
+13.4: KJ O'Brien faced PW Borren, scored 1 runs. Team score: 105/3
+13.5: AD Poynter faced PW Borren, scored 0 runs. Team score: 105/3
+13.6: AD Poynter faced PW Borren, scored 1 runs. Team score: 106/3
+14.1: AD Poynter faced Mudassar Bukhari, scored 0 runs. Team score: 106/3
+14.2: AD Poynter faced Mudassar Bukhari, scored 4 runs. Team score: 110/3
+14.3: AD Poynter faced Mudassar Bukhari, scored 1 runs. Team score: 111/3
+14.4: KJ O'Brien faced Mudassar Bukhari, scored 6 runs. Team score: 117/3
+14.5: KJ O'Brien faced Mudassar Bukhari, scored 1 runs. Team score: 118/3
+14.6: AD Poynter faced Mudassar Bukhari, scored 1 runs. Team score: 119/3
+15.1: AD Poynter faced MR Swart, scored 1 runs. Team score: 120/3
+15.2: KJ O'Brien faced MR Swart, scored 1 runs. Team score: 121/3
+15.3: AD Poynter faced MR Swart, scored 6 runs. Team score: 127/3
+15.4: AD Poynter faced MR Swart, scored 6 runs. Team score: 133/3
+15.5: AD Poynter faced MR Swart, scored 6 runs. Team score: 139/3
+15.6: AD Poynter faced MR Swart, scored 1 runs. Team score: 140/3
+16.1: AD Poynter faced T van der Gugten, scored 4 runs. Team score: 144/3
+16.2: AD Poynter faced T van der Gugten, scored 4 runs. Team score: 148/3
+16.3: AD Poynter faced T van der Gugten, scored 1 runs. Team score: 149/3
+16.4: KJ O'Brien faced T van der Gugten, scored 0 runs. Team score: 149/3
+16.5: KJ O'Brien faced T van der Gugten, scored 2 runs. Team score: 151/3
+16.6: KJ O'Brien faced T van der Gugten, scored 6 runs. Team score: 157/3
+17.1: AD Poynter faced Ahsan Malik, scored 0 runs. Team score: 157/3
+17.2: AD Poynter faced Ahsan Malik, scored 1 runs. Team score: 158/3
+17.3: KJ O'Brien faced Ahsan Malik, scored 1 runs. Team score: 159/3
+17.4: AD Poynter faced Ahsan Malik, scored 0 runs. Team score: 159/3
+17.5: AD Poynter faced Ahsan Malik, scored 1 runs. Team score: 160/3
+17.6: KJ O'Brien faced Ahsan Malik, scored 1 runs. Team score: 161/3
+18.1: KJ O'Brien faced LV van Beek, scored 6 runs. Team score: 167/3
+18.2: KJ O'Brien faced LV van Beek, scored 6 runs. Team score: 173/3
+18.3: KJ O'Brien faced LV van Beek, scored 1 runs. Team score: 174/3
+18.4: AD Poynter faced LV van Beek, scored 0 runs. Team score: 174/3
+18.5: AD Poynter faced LV van Beek, scored 1 runs. Team score: 175/3
+18.6: KJ O'Brien faced LV van Beek, scored 4 runs. Team score: 179/3
+19.1: AD Poynter faced Ahsan Malik, scored 0 runs. Team score: 179/3
+19.2: AD Poynter faced Ahsan Malik, scored 1 runs. Team score: 180/3
+19.3: KJ O'Brien faced Ahsan Malik, scored 1 runs. Team score: 181/3
+19.4: AD Poynter faced Ahsan Malik, scored 4 runs. Team score: 185/3
+19.5: AD Poynter faced Ahsan Malik, scored 4 runs. Team score: 189/3
+19.6: AD Poynter faced Ahsan Malik, scored 0 runs. Team score: 189/3
+caught!, Batsman: AD Poynter (63 runs from 39 balls), Bowler: Ahsan Malik (figures: 2/31). Fielders involved: LV van Beek. Team score: 189/4
+End of innings for Ireland: 189/4 in 20.0 overs
+Batsman scores:
+WTS Porterfield: 48 runs from 33 balls
+PR Stirling: 7 runs from 9 balls
+EC Joyce: 29 runs from 25 balls
+AD Poynter: 63 runs from 39 balls
+KJ O'Brien: 42 runs from 16 balls
+Bowler figures:
+MR Swart: 0 wickets for 39 runs
+T van der Gugten: 1 wickets for 32 runs
+Ahsan Malik: 2 wickets for 31 runs
+Mudassar Bukhari: 1 wickets for 26 runs
+TLW Cooper: 0 wickets for 8 runs
+PW Borren: 0 wickets for 20 runs
+PM Seelaar: 0 wickets for 15 runs
+LV van Beek: 0 wickets for 18 runs
+
+Innings 2:
+0.1: PW Borren faced PR Stirling, scored 4 runs. Team score: 4/0
+0.2: PW Borren faced PR Stirling, scored 0 runs. Team score: 4/0
+0.3: PW Borren faced PR Stirling, scored 1 runs. Team score: 5/0
+0.4: SJ Myburgh faced PR Stirling, scored 1 runs. Team score: 6/0
+0.5: PW Borren faced PR Stirling, scored 1 runs. Team score: 7/0
+0.6: SJ Myburgh faced PR Stirling, scored 2 runs. Team score: 9/0
+1.1: PW Borren faced AR McBrine, scored 6 runs. Team score: 15/0
+1.2: PW Borren faced AR McBrine, scored 1 runs. Team score: 16/0
+1.3: SJ Myburgh faced AR McBrine, scored 6 runs. Team score: 22/0
+1.4: SJ Myburgh faced AR McBrine, scored 6 runs. Team score: 28/0
+1.5: SJ Myburgh faced AR McBrine, scored 6 runs. Team score: 34/0
+1.6: SJ Myburgh faced AR McBrine, scored 0 runs. Team score: 34/0
+2.1: PW Borren faced TJ Murtagh, scored 0 runs. Team score: 34/0
+2.2: PW Borren faced TJ Murtagh, scored 6 runs. Team score: 40/0
+2.3: PW Borren faced TJ Murtagh, scored 1 runs. Team score: 41/0
+2.4: SJ Myburgh faced TJ Murtagh, scored 4 runs. Team score: 45/0
+2.5: SJ Myburgh faced TJ Murtagh, scored 0 runs. Team score: 45/0
+2.6: SJ Myburgh faced TJ Murtagh, scored 1 runs. Team score: 46/0
+3.1: SJ Myburgh faced AR Cusack, scored 6 runs. Team score: 52/0
+3.2: SJ Myburgh faced AR Cusack, scored 6 runs. Team score: 58/0
+3.3: SJ Myburgh faced AR Cusack, scored 6 runs. Team score: 64/0
+3.4: SJ Myburgh faced AR Cusack, scored 0 runs. Team score: 64/0
+3.5: SJ Myburgh faced AR Cusack, scored 0 runs. Team score: 64/0
+3.6: SJ Myburgh faced AR Cusack, scored 4 runs. Team score: 68/0
+4.1: PW Borren faced TJ Murtagh, scored 4 runs. Team score: 72/0
+4.2: PW Borren faced TJ Murtagh, scored 1 runs. Team score: 73/0
+4.3: SJ Myburgh faced TJ Murtagh, scored 0 runs. Team score: 73/0
+4.4: SJ Myburgh faced TJ Murtagh, scored 4 runs. Team score: 77/0
+4.5: SJ Myburgh faced TJ Murtagh, scored 4 runs. Team score: 81/0
+4.6: SJ Myburgh faced TJ Murtagh, scored 1 runs. Team score: 82/0
+5.1: SJ Myburgh faced KJ O'Brien, scored 0 runs. Team score: 82/0
+5.2: SJ Myburgh faced KJ O'Brien, scored 1 runs. Team score: 83/0
+5.3: PW Borren faced KJ O'Brien, scored 0 runs. Team score: 83/0
+5.4: PW Borren faced KJ O'Brien, scored 4 runs. Team score: 87/0
+5.5: PW Borren faced KJ O'Brien, scored 4 runs. Team score: 91/0
+5.6: PW Borren faced KJ O'Brien, scored 0 runs. Team score: 91/0
+caught!, Batsman: PW Borren (33 runs from 15 balls), Bowler: KJ O'Brien (figures: 1/9). Fielders involved: GH Dockrell. Team score: 91/1
+6.1: W Barresi faced GH Dockrell, scored 1 runs. Team score: 92/1
+6.2: SJ Myburgh faced GH Dockrell, scored 6 runs. Team score: 98/1
+6.3: SJ Myburgh faced GH Dockrell, scored 0 runs. Team score: 98/1
+caught!, Batsman: SJ Myburgh (64 runs from 23 balls), Bowler: GH Dockrell (figures: 1/7). Fielders involved: EC Joyce. Team score: 98/2
+6.4: W Barresi faced GH Dockrell, scored 0 runs. Team score: 98/2
+6.5: W Barresi faced GH Dockrell, scored 1 runs. Team score: 99/2
+6.6: LV van Beek faced GH Dockrell, scored 1 runs. Team score: 100/2
+7.1: LV van Beek faced KJ O'Brien, scored 0 runs. Team score: 100/2
+7.2: LV van Beek faced KJ O'Brien, scored 0 runs. Team score: 100/2
+caught!, Batsman: LV van Beek (1 runs from 3 balls), Bowler: KJ O'Brien (figures: 2/9). Fielders involved: WTS Porterfield. Team score: 100/3
+7.3: W Barresi faced KJ O'Brien, scored 1 runs. Team score: 101/3
+7.4: TLW Cooper faced KJ O'Brien, scored 1 runs. Team score: 102/3
+7.5: W Barresi faced KJ O'Brien, scored 4 runs. Team score: 106/3
+7.6: W Barresi faced KJ O'Brien, scored 1 runs. Team score: 107/3
+8.1: W Barresi faced GH Dockrell, scored 1 runs. Team score: 108/3
+8.2: TLW Cooper faced GH Dockrell, scored 1 runs. Team score: 109/3
+8.3: W Barresi faced GH Dockrell, scored 1 runs. Team score: 110/3
+8.4: TLW Cooper faced GH Dockrell, scored 6 runs. Team score: 116/3
+8.5: TLW Cooper faced GH Dockrell, scored 0 runs. Team score: 116/3
+8.6: TLW Cooper faced GH Dockrell, scored 0 runs. Team score: 116/3
+9.1: W Barresi faced PR Stirling, scored 6 runs. Team score: 122/3
+9.2: W Barresi faced PR Stirling, scored 0 runs. Team score: 122/3
+9.3: W Barresi faced PR Stirling, scored 1 runs. Team score: 123/3
+9.4: TLW Cooper faced PR Stirling, scored 6 runs. Team score: 129/3
+9.5: TLW Cooper faced PR Stirling, scored 2 runs. Team score: 131/3
+9.6: TLW Cooper faced PR Stirling, scored 1 runs. Team score: 132/3
+10.1: TLW Cooper faced GH Dockrell, scored 6 runs. Team score: 138/3
+10.2: TLW Cooper faced GH Dockrell, scored 6 runs. Team score: 144/3
+10.3: TLW Cooper faced GH Dockrell, scored 6 runs. Team score: 150/3
+10.4: TLW Cooper faced GH Dockrell, scored 6 runs. Team score: 156/3
+10.5: TLW Cooper faced GH Dockrell, scored 1 runs. Team score: 157/3
+10.6: W Barresi faced GH Dockrell, scored 0 runs. Team score: 157/3
+11.1: TLW Cooper faced TJ Murtagh, scored 4 runs. Team score: 161/3
+11.2: TLW Cooper faced TJ Murtagh, scored 0 runs. Team score: 161/3
+caught!, Batsman: TLW Cooper (46 runs from 15 balls), Bowler: TJ Murtagh (figures: 1/30). Fielders involved: KJ O'Brien. Team score: 161/4
+11.3: W Barresi faced TJ Murtagh, scored 0 runs. Team score: 161/4
+11.4: W Barresi faced TJ Murtagh, scored 1 runs. Team score: 162/4
+11.5: BN Cooper faced TJ Murtagh, scored 0 runs. Team score: 162/4
+11.6: BN Cooper faced TJ Murtagh, scored 2 runs. Team score: 164/4
+12.1: W Barresi faced KJ O'Brien, scored 1 runs. Team score: 165/4
+12.2: BN Cooper faced KJ O'Brien, scored 0 runs. Team score: 165/4
+12.3: BN Cooper faced KJ O'Brien, scored 1 runs. Team score: 166/4
+12.4: W Barresi faced KJ O'Brien, scored 4 runs. Team score: 170/4
+12.5: W Barresi faced KJ O'Brien, scored 1 runs. Team score: 171/4
+12.6: BN Cooper faced KJ O'Brien, scored 6 runs. Team score: 177/4
+13.1: W Barresi faced TJ Murtagh, scored 0 runs. Team score: 177/4
+13.2: W Barresi faced TJ Murtagh, scored 6 runs. Team score: 183/4
+13.3: W Barresi faced TJ Murtagh, scored 0 runs. Team score: 183/4
+13.4: W Barresi faced TJ Murtagh, scored 4 runs. Team score: 187/4
+13.5: W Barresi faced TJ Murtagh, scored 6 runs. Team score: 193/4
+End of innings for Netherlands: 193/4 in 14.5 overs
+Batsman scores:
+PW Borren: 33 runs from 15 balls
+SJ Myburgh: 64 runs from 23 balls
+W Barresi: 40 runs from 22 balls
+LV van Beek: 1 runs from 3 balls
+TLW Cooper: 46 runs from 15 balls
+BN Cooper: 9 runs from 5 balls
+Bowler figures:
+PR Stirling: 0 wickets for 25 runs
+AR McBrine: 0 wickets for 25 runs
+TJ Murtagh: 1 wickets for 49 runs
+AR Cusack: 0 wickets for 22 runs
+KJ O'Brien: 2 wickets for 29 runs
+GH Dockrell: 1 wickets for 43 runs
+

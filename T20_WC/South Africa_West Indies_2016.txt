@@ -1,0 +1,310 @@
+Match: World T20 - T20
+Date: 2016-03-25
+Venue: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+Teams: South Africa vs West Indies
+Toss: West Indies won the toss and decided to field
+Result: West Indies won by 3 wickets
+Man of the Match: MN Samuels
+
+Innings 1:
+0.1: HM Amla faced S Badree, scored 1 runs. Team score: 1/0
+0.2: Q de Kock faced S Badree, scored 0 runs. Team score: 1/0
+0.3: Q de Kock faced S Badree, scored 0 runs. Team score: 1/0
+run out!, Batsman: HM Amla (1 runs from 1 balls), Bowler: S Badree (figures: 1/1). Fielders involved: AD Russell, D Ramdin. Team score: 1/1
+0.4: F du Plessis faced S Badree, scored 1 runs. Team score: 2/1
+0.5: Q de Kock faced S Badree, scored 2 runs. Team score: 4/1
+0.6: Q de Kock faced S Badree, scored 0 runs. Team score: 4/1
+1.1: F du Plessis faced AD Russell, scored 0 runs. Team score: 4/1
+1.2: F du Plessis faced AD Russell, scored 0 runs. Team score: 4/1
+1.3: F du Plessis faced AD Russell, scored 0 runs. Team score: 4/1
+1.4: F du Plessis faced AD Russell, scored 6 runs. Team score: 10/1
+1.5: F du Plessis faced AD Russell, scored 2 runs. Team score: 12/1
+1.6: F du Plessis faced AD Russell, scored 1 runs. Team score: 13/1
+1.0: F du Plessis faced AD Russell, scored 0 runs. Team score: 13/1
+caught!, Batsman: F du Plessis (10 runs from 8 balls), Bowler: AD Russell (figures: 1/9). Fielders involved: SJ Benn. Team score: 13/2
+2.1: Q de Kock faced CH Gayle, scored 2 runs. Team score: 15/2
+2.2: Q de Kock faced CH Gayle, scored 0 runs. Team score: 15/2
+2.3: Q de Kock faced CH Gayle, scored 4 runs. Team score: 19/2
+2.4: Q de Kock faced CH Gayle, scored 1 runs. Team score: 20/2
+2.5: RR Rossouw faced CH Gayle, scored 0 runs. Team score: 20/2
+2.6: RR Rossouw faced CH Gayle, scored 0 runs. Team score: 20/2
+caught!, Batsman: RR Rossouw (0 runs from 2 balls), Bowler: CH Gayle (figures: 1/7). Fielders involved: AD Russell. Team score: 20/3
+3.1: Q de Kock faced AD Russell, scored 0 runs. Team score: 20/3
+3.2: Q de Kock faced AD Russell, scored 0 runs. Team score: 20/3
+3.3: Q de Kock faced AD Russell, scored 2 runs. Team score: 22/3
+3.4: Q de Kock faced AD Russell, scored 1 runs. Team score: 23/3
+3.5: AB de Villiers faced AD Russell, scored 1 runs. Team score: 24/3
+3.6: AB de Villiers faced AD Russell, scored 4 runs. Team score: 28/3
+3.0: AB de Villiers faced AD Russell, scored 0 runs. Team score: 28/3
+4.1: Q de Kock faced S Badree, scored 0 runs. Team score: 28/3
+4.2: Q de Kock faced S Badree, scored 0 runs. Team score: 28/3
+4.3: Q de Kock faced S Badree, scored 0 runs. Team score: 28/3
+4.4: Q de Kock faced S Badree, scored 6 runs. Team score: 34/3
+4.5: Q de Kock faced S Badree, scored 0 runs. Team score: 34/3
+4.6: Q de Kock faced S Badree, scored 2 runs. Team score: 36/3
+5.1: AB de Villiers faced CR Brathwaite, scored 0 runs. Team score: 36/3
+5.2: AB de Villiers faced CR Brathwaite, scored 0 runs. Team score: 36/3
+5.3: AB de Villiers faced CR Brathwaite, scored 0 runs. Team score: 36/3
+5.4: AB de Villiers faced CR Brathwaite, scored 1 runs. Team score: 37/3
+5.5: Q de Kock faced CR Brathwaite, scored 1 runs. Team score: 38/3
+5.6: AB de Villiers faced CR Brathwaite, scored 1 runs. Team score: 39/3
+6.1: AB de Villiers faced SJ Benn, scored 0 runs. Team score: 39/3
+6.2: AB de Villiers faced SJ Benn, scored 2 runs. Team score: 41/3
+6.3: AB de Villiers faced SJ Benn, scored 1 runs. Team score: 42/3
+6.4: Q de Kock faced SJ Benn, scored 0 runs. Team score: 42/3
+6.5: Q de Kock faced SJ Benn, scored 0 runs. Team score: 42/3
+6.6: Q de Kock faced SJ Benn, scored 2 runs. Team score: 44/3
+7.1: AB de Villiers faced DJ Bravo, scored 1 runs. Team score: 45/3
+7.2: Q de Kock faced DJ Bravo, scored 0 runs. Team score: 45/3
+7.3: Q de Kock faced DJ Bravo, scored 1 runs. Team score: 46/3
+7.4: AB de Villiers faced DJ Bravo, scored 0 runs. Team score: 46/3
+bowled!, Batsman: AB de Villiers (11 runs from 13 balls), Bowler: DJ Bravo (figures: 1/2). Fielders involved: None. Team score: 46/4
+7.5: DA Miller faced DJ Bravo, scored 0 runs. Team score: 46/4
+7.6: DA Miller faced DJ Bravo, scored 1 runs. Team score: 47/4
+8.1: DA Miller faced CH Gayle, scored 0 runs. Team score: 47/4
+8.2: DA Miller faced CH Gayle, scored 0 runs. Team score: 47/4
+bowled!, Batsman: DA Miller (1 runs from 4 balls), Bowler: CH Gayle (figures: 2/7). Fielders involved: None. Team score: 47/5
+8.3: D Wiese faced CH Gayle, scored 1 runs. Team score: 48/5
+8.4: Q de Kock faced CH Gayle, scored 1 runs. Team score: 49/5
+8.5: D Wiese faced CH Gayle, scored 0 runs. Team score: 49/5
+8.6: D Wiese faced CH Gayle, scored 1 runs. Team score: 50/5
+9.1: D Wiese faced DJ Bravo, scored 0 runs. Team score: 50/5
+9.2: D Wiese faced DJ Bravo, scored 1 runs. Team score: 51/5
+9.3: Q de Kock faced DJ Bravo, scored 0 runs. Team score: 51/5
+9.4: Q de Kock faced DJ Bravo, scored 0 runs. Team score: 51/5
+9.5: Q de Kock faced DJ Bravo, scored 2 runs. Team score: 53/5
+9.6: Q de Kock faced DJ Bravo, scored 4 runs. Team score: 57/5
+10.1: D Wiese faced SJ Benn, scored 0 runs. Team score: 57/5
+10.2: D Wiese faced SJ Benn, scored 1 runs. Team score: 58/5
+10.3: Q de Kock faced SJ Benn, scored 1 runs. Team score: 59/5
+10.4: D Wiese faced SJ Benn, scored 4 runs. Team score: 63/5
+10.5: D Wiese faced SJ Benn, scored 2 runs. Team score: 65/5
+10.6: D Wiese faced SJ Benn, scored 1 runs. Team score: 66/5
+11.1: D Wiese faced CR Brathwaite, scored 2 runs. Team score: 68/5
+11.2: D Wiese faced CR Brathwaite, scored 2 runs. Team score: 70/5
+11.3: D Wiese faced CR Brathwaite, scored 1 runs. Team score: 71/5
+11.4: Q de Kock faced CR Brathwaite, scored 1 runs. Team score: 72/5
+11.5: D Wiese faced CR Brathwaite, scored 1 runs. Team score: 73/5
+11.6: Q de Kock faced CR Brathwaite, scored 1 runs. Team score: 74/5
+12.1: Q de Kock faced SJ Benn, scored 0 runs. Team score: 74/5
+12.2: Q de Kock faced SJ Benn, scored 1 runs. Team score: 75/5
+12.3: D Wiese faced SJ Benn, scored 1 runs. Team score: 76/5
+12.4: Q de Kock faced SJ Benn, scored 1 runs. Team score: 77/5
+12.5: D Wiese faced SJ Benn, scored 1 runs. Team score: 78/5
+12.6: Q de Kock faced SJ Benn, scored 0 runs. Team score: 78/5
+13.1: D Wiese faced CH Gayle, scored 4 runs. Team score: 82/5
+13.2: D Wiese faced CH Gayle, scored 0 runs. Team score: 82/5
+13.3: D Wiese faced CH Gayle, scored 1 runs. Team score: 83/5
+13.4: Q de Kock faced CH Gayle, scored 0 runs. Team score: 83/5
+13.5: Q de Kock faced CH Gayle, scored 2 runs. Team score: 85/5
+13.6: Q de Kock faced CH Gayle, scored 0 runs. Team score: 85/5
+14.1: D Wiese faced SJ Benn, scored 1 runs. Team score: 86/5
+14.2: Q de Kock faced SJ Benn, scored 2 runs. Team score: 88/5
+14.3: Q de Kock faced SJ Benn, scored 0 runs. Team score: 88/5
+14.4: Q de Kock faced SJ Benn, scored 1 runs. Team score: 89/5
+14.5: D Wiese faced SJ Benn, scored 1 runs. Team score: 90/5
+14.6: Q de Kock faced SJ Benn, scored 1 runs. Team score: 91/5
+15.1: Q de Kock faced AD Russell, scored 4 runs. Team score: 95/5
+15.2: Q de Kock faced AD Russell, scored 1 runs. Team score: 96/5
+15.3: D Wiese faced AD Russell, scored 1 runs. Team score: 97/5
+15.4: Q de Kock faced AD Russell, scored 0 runs. Team score: 97/5
+bowled!, Batsman: Q de Kock (47 runs from 46 balls), Bowler: AD Russell (figures: 2/23). Fielders involved: None. Team score: 97/6
+15.5: CH Morris faced AD Russell, scored 1 runs. Team score: 98/6
+15.6: D Wiese faced AD Russell, scored 0 runs. Team score: 98/6
+16.1: CH Morris faced S Badree, scored 0 runs. Team score: 98/6
+16.2: CH Morris faced S Badree, scored 4 runs. Team score: 102/6
+16.3: CH Morris faced S Badree, scored 4 runs. Team score: 106/6
+16.4: CH Morris faced S Badree, scored 0 runs. Team score: 106/6
+16.5: CH Morris faced S Badree, scored 1 runs. Team score: 107/6
+16.6: D Wiese faced S Badree, scored 1 runs. Team score: 108/6
+17.1: D Wiese faced DJ Bravo, scored 4 runs. Team score: 112/6
+17.2: D Wiese faced DJ Bravo, scored 0 runs. Team score: 112/6
+caught!, Batsman: D Wiese (32 runs from 26 balls), Bowler: DJ Bravo (figures: 2/14). Fielders involved: DJG Sammy. Team score: 112/7
+17.3: CH Morris faced DJ Bravo, scored 0 runs. Team score: 112/7
+17.4: CH Morris faced DJ Bravo, scored 0 runs. Team score: 112/7
+17.5: CH Morris faced DJ Bravo, scored 1 runs. Team score: 113/7
+17.6: AM Phangiso faced DJ Bravo, scored 1 runs. Team score: 114/7
+18.1: AM Phangiso faced AD Russell, scored 1 runs. Team score: 115/7
+18.2: CH Morris faced AD Russell, scored 1 runs. Team score: 116/7
+18.3: AM Phangiso faced AD Russell, scored 0 runs. Team score: 116/7
+18.4: AM Phangiso faced AD Russell, scored 1 runs. Team score: 117/7
+18.5: CH Morris faced AD Russell, scored 0 runs. Team score: 117/7
+18.6: CH Morris faced AD Russell, scored 1 runs. Team score: 118/7
+19.1: CH Morris faced DJ Bravo, scored 2 runs. Team score: 120/7
+19.2: CH Morris faced DJ Bravo, scored 0 runs. Team score: 120/7
+19.3: CH Morris faced DJ Bravo, scored 1 runs. Team score: 121/7
+19.4: AM Phangiso faced DJ Bravo, scored 1 runs. Team score: 122/7
+19.5: CH Morris faced DJ Bravo, scored 0 runs. Team score: 122/7
+19.6: CH Morris faced DJ Bravo, scored 0 runs. Team score: 122/7
+run out!, Batsman: AM Phangiso (4 runs from 5 balls), Bowler: DJ Bravo (figures: 3/20). Fielders involved: D Ramdin. Team score: 122/8
+End of innings for South Africa: 122/8 in 20.0 overs
+Batsman scores:
+HM Amla: 1 runs from 1 balls
+Q de Kock: 47 runs from 46 balls
+F du Plessis: 10 runs from 8 balls
+RR Rossouw: 0 runs from 2 balls
+AB de Villiers: 11 runs from 13 balls
+DA Miller: 1 runs from 4 balls
+D Wiese: 32 runs from 26 balls
+CH Morris: 16 runs from 17 balls
+AM Phangiso: 4 runs from 5 balls
+Bowler figures:
+S Badree: 1 wickets for 22 runs
+AD Russell: 2 wickets for 28 runs
+CH Gayle: 2 wickets for 17 runs
+CR Brathwaite: 0 wickets for 11 runs
+SJ Benn: 0 wickets for 24 runs
+DJ Bravo: 3 wickets for 20 runs
+
+Innings 2:
+0.1: J Charles faced K Rabada, scored 0 runs. Team score: 0/0
+0.2: J Charles faced K Rabada, scored 0 runs. Team score: 0/0
+0.3: J Charles faced K Rabada, scored 1 runs. Team score: 1/0
+0.4: CH Gayle faced K Rabada, scored 4 runs. Team score: 5/0
+0.5: CH Gayle faced K Rabada, scored 0 runs. Team score: 5/0
+bowled!, Batsman: CH Gayle (4 runs from 2 balls), Bowler: K Rabada (figures: 1/5). Fielders involved: None. Team score: 5/1
+0.6: ADS Fletcher faced K Rabada, scored 0 runs. Team score: 5/1
+1.1: J Charles faced CH Morris, scored 0 runs. Team score: 5/1
+1.2: J Charles faced CH Morris, scored 1 runs. Team score: 6/1
+1.3: ADS Fletcher faced CH Morris, scored 0 runs. Team score: 6/1
+1.4: ADS Fletcher faced CH Morris, scored 0 runs. Team score: 6/1
+1.5: ADS Fletcher faced CH Morris, scored 1 runs. Team score: 7/1
+1.6: ADS Fletcher faced CH Morris, scored 1 runs. Team score: 8/1
+1.0: J Charles faced CH Morris, scored 0 runs. Team score: 8/1
+2.1: ADS Fletcher faced K Rabada, scored 2 runs. Team score: 10/1
+2.2: ADS Fletcher faced K Rabada, scored 1 runs. Team score: 11/1
+2.3: J Charles faced K Rabada, scored 0 runs. Team score: 11/1
+2.4: J Charles faced K Rabada, scored 1 runs. Team score: 12/1
+2.5: J Charles faced K Rabada, scored 1 runs. Team score: 13/1
+2.6: ADS Fletcher faced K Rabada, scored 0 runs. Team score: 13/1
+2.0: ADS Fletcher faced K Rabada, scored 6 runs. Team score: 19/1
+3.1: J Charles faced CH Morris, scored 0 runs. Team score: 19/1
+3.2: J Charles faced CH Morris, scored 4 runs. Team score: 23/1
+3.3: J Charles faced CH Morris, scored 0 runs. Team score: 23/1
+3.4: J Charles faced CH Morris, scored 2 runs. Team score: 25/1
+3.5: J Charles faced CH Morris, scored 0 runs. Team score: 25/1
+3.6: J Charles faced CH Morris, scored 1 runs. Team score: 26/1
+3.0: J Charles faced CH Morris, scored 4 runs. Team score: 30/1
+4.1: ADS Fletcher faced Imran Tahir, scored 1 runs. Team score: 31/1
+4.2: J Charles faced Imran Tahir, scored 0 runs. Team score: 31/1
+4.3: J Charles faced Imran Tahir, scored 0 runs. Team score: 31/1
+4.4: J Charles faced Imran Tahir, scored 1 runs. Team score: 32/1
+4.5: ADS Fletcher faced Imran Tahir, scored 0 runs. Team score: 32/1
+4.6: ADS Fletcher faced Imran Tahir, scored 0 runs. Team score: 32/1
+5.1: J Charles faced D Wiese, scored 2 runs. Team score: 34/1
+5.2: J Charles faced D Wiese, scored 0 runs. Team score: 34/1
+5.3: J Charles faced D Wiese, scored 0 runs. Team score: 34/1
+run out!, Batsman: ADS Fletcher (12 runs from 12 balls), Bowler: D Wiese (figures: 1/2). Fielders involved: RR Rossouw. Team score: 34/2
+5.4: J Charles faced D Wiese, scored 1 runs. Team score: 35/2
+5.5: J Charles faced D Wiese, scored 1 runs. Team score: 36/2
+5.6: MN Samuels faced D Wiese, scored 0 runs. Team score: 36/2
+5.0: MN Samuels faced D Wiese, scored 1 runs. Team score: 37/2
+6.1: MN Samuels faced AM Phangiso, scored 0 runs. Team score: 37/2
+6.2: MN Samuels faced AM Phangiso, scored 0 runs. Team score: 37/2
+6.3: MN Samuels faced AM Phangiso, scored 0 runs. Team score: 37/2
+6.4: MN Samuels faced AM Phangiso, scored 0 runs. Team score: 37/2
+6.5: MN Samuels faced AM Phangiso, scored 1 runs. Team score: 38/2
+6.6: J Charles faced AM Phangiso, scored 0 runs. Team score: 38/2
+7.1: MN Samuels faced D Wiese, scored 0 runs. Team score: 38/2
+7.2: MN Samuels faced D Wiese, scored 1 runs. Team score: 39/2
+7.3: J Charles faced D Wiese, scored 1 runs. Team score: 40/2
+7.4: MN Samuels faced D Wiese, scored 0 runs. Team score: 40/2
+7.5: MN Samuels faced D Wiese, scored 1 runs. Team score: 41/2
+7.6: MN Samuels faced D Wiese, scored 0 runs. Team score: 41/2
+7.0: MN Samuels faced D Wiese, scored 4 runs. Team score: 45/2
+8.1: J Charles faced AM Phangiso, scored 1 runs. Team score: 46/2
+8.2: MN Samuels faced AM Phangiso, scored 1 runs. Team score: 47/2
+8.3: J Charles faced AM Phangiso, scored 1 runs. Team score: 48/2
+8.4: MN Samuels faced AM Phangiso, scored 1 runs. Team score: 49/2
+8.5: J Charles faced AM Phangiso, scored 1 runs. Team score: 50/2
+8.6: MN Samuels faced AM Phangiso, scored 1 runs. Team score: 51/2
+9.1: MN Samuels faced Imran Tahir, scored 0 runs. Team score: 51/2
+9.2: MN Samuels faced Imran Tahir, scored 1 runs. Team score: 52/2
+9.3: J Charles faced Imran Tahir, scored 2 runs. Team score: 54/2
+9.4: J Charles faced Imran Tahir, scored 1 runs. Team score: 55/2
+9.5: MN Samuels faced Imran Tahir, scored 1 runs. Team score: 56/2
+9.6: J Charles faced Imran Tahir, scored 1 runs. Team score: 57/2
+10.1: J Charles faced AM Phangiso, scored 1 runs. Team score: 58/2
+10.2: MN Samuels faced AM Phangiso, scored 1 runs. Team score: 59/2
+10.3: J Charles faced AM Phangiso, scored 0 runs. Team score: 59/2
+10.4: J Charles faced AM Phangiso, scored 6 runs. Team score: 65/2
+10.5: J Charles faced AM Phangiso, scored 0 runs. Team score: 65/2
+10.6: J Charles faced AM Phangiso, scored 1 runs. Team score: 66/2
+11.1: J Charles faced D Wiese, scored 0 runs. Team score: 66/2
+caught!, Batsman: J Charles (36 runs from 38 balls), Bowler: D Wiese (figures: 2/12). Fielders involved: F du Plessis. Team score: 66/3
+11.2: MN Samuels faced D Wiese, scored 1 runs. Team score: 67/3
+11.3: DJ Bravo faced D Wiese, scored 1 runs. Team score: 68/3
+11.4: MN Samuels faced D Wiese, scored 1 runs. Team score: 69/3
+11.5: DJ Bravo faced D Wiese, scored 1 runs. Team score: 70/3
+11.6: MN Samuels faced D Wiese, scored 0 runs. Team score: 70/3
+12.1: DJ Bravo faced K Rabada, scored 4 runs. Team score: 74/3
+12.2: DJ Bravo faced K Rabada, scored 1 runs. Team score: 75/3
+12.3: DJ Bravo faced K Rabada, scored 1 runs. Team score: 76/3
+12.4: MN Samuels faced K Rabada, scored 4 runs. Team score: 80/3
+12.5: MN Samuels faced K Rabada, scored 4 runs. Team score: 84/3
+12.6: MN Samuels faced K Rabada, scored 0 runs. Team score: 84/3
+12.0: MN Samuels faced K Rabada, scored 0 runs. Team score: 84/3
+13.1: DJ Bravo faced AM Phangiso, scored 1 runs. Team score: 85/3
+13.2: DJ Bravo faced AM Phangiso, scored 1 runs. Team score: 86/3
+13.3: MN Samuels faced AM Phangiso, scored 0 runs. Team score: 86/3
+13.4: MN Samuels faced AM Phangiso, scored 0 runs. Team score: 86/3
+13.5: MN Samuels faced AM Phangiso, scored 0 runs. Team score: 86/3
+13.6: MN Samuels faced AM Phangiso, scored 1 runs. Team score: 87/3
+13.0: DJ Bravo faced AM Phangiso, scored 0 runs. Team score: 87/3
+caught!, Batsman: DJ Bravo (10 runs from 8 balls), Bowler: AM Phangiso (figures: 1/19). Fielders involved: D Wiese. Team score: 87/4
+14.1: MN Samuels faced Imran Tahir, scored 0 runs. Team score: 87/4
+14.2: MN Samuels faced Imran Tahir, scored 1 runs. Team score: 88/4
+14.3: AD Russell faced Imran Tahir, scored 0 runs. Team score: 88/4
+14.4: AD Russell faced Imran Tahir, scored 1 runs. Team score: 89/4
+14.5: MN Samuels faced Imran Tahir, scored 1 runs. Team score: 90/4
+14.6: AD Russell faced Imran Tahir, scored 1 runs. Team score: 91/4
+15.1: AD Russell faced CH Morris, scored 0 runs. Team score: 91/4
+15.2: AD Russell faced CH Morris, scored 1 runs. Team score: 92/4
+15.3: MN Samuels faced CH Morris, scored 4 runs. Team score: 96/4
+15.4: MN Samuels faced CH Morris, scored 1 runs. Team score: 97/4
+15.5: AD Russell faced CH Morris, scored 1 runs. Team score: 98/4
+15.6: MN Samuels faced CH Morris, scored 1 runs. Team score: 99/4
+16.1: MN Samuels faced Imran Tahir, scored 0 runs. Team score: 99/4
+16.2: MN Samuels faced Imran Tahir, scored 1 runs. Team score: 100/4
+16.3: AD Russell faced Imran Tahir, scored 0 runs. Team score: 100/4
+16.4: AD Russell faced Imran Tahir, scored 0 runs. Team score: 100/4
+caught!, Batsman: AD Russell (4 runs from 8 balls), Bowler: Imran Tahir (figures: 1/13). Fielders involved: DA Miller. Team score: 100/5
+16.5: DJG Sammy faced Imran Tahir, scored 0 runs. Team score: 100/5
+bowled!, Batsman: DJG Sammy (0 runs from 1 balls), Bowler: Imran Tahir (figures: 2/13). Fielders involved: None. Team score: 100/6
+16.6: CR Brathwaite faced Imran Tahir, scored 0 runs. Team score: 100/6
+17.1: MN Samuels faced D Wiese, scored 1 runs. Team score: 101/6
+17.2: CR Brathwaite faced D Wiese, scored 1 runs. Team score: 102/6
+17.3: MN Samuels faced D Wiese, scored 1 runs. Team score: 103/6
+17.4: CR Brathwaite faced D Wiese, scored 0 runs. Team score: 103/6
+17.5: CR Brathwaite faced D Wiese, scored 0 runs. Team score: 103/6
+17.6: CR Brathwaite faced D Wiese, scored 0 runs. Team score: 103/6
+18.1: MN Samuels faced CH Morris, scored 4 runs. Team score: 107/6
+18.2: MN Samuels faced CH Morris, scored 1 runs. Team score: 108/6
+18.3: CR Brathwaite faced CH Morris, scored 1 runs. Team score: 109/6
+18.4: MN Samuels faced CH Morris, scored 4 runs. Team score: 113/6
+18.5: MN Samuels faced CH Morris, scored 0 runs. Team score: 113/6
+caught!, Batsman: MN Samuels (45 runs from 45 balls), Bowler: CH Morris (figures: 1/32). Fielders involved: AB de Villiers. Team score: 113/7
+18.6: CR Brathwaite faced CH Morris, scored 1 runs. Team score: 114/7
+19.1: CR Brathwaite faced K Rabada, scored 0 runs. Team score: 114/7
+19.2: CR Brathwaite faced K Rabada, scored 6 runs. Team score: 120/7
+19.3: CR Brathwaite faced K Rabada, scored 1 runs. Team score: 121/7
+19.4: CR Brathwaite faced K Rabada, scored 1 runs. Team score: 122/7
+19.5: D Ramdin faced K Rabada, scored 1 runs. Team score: 123/7
+End of innings for West Indies: 123/7 in 20.0 overs
+Batsman scores:
+J Charles: 36 runs from 38 balls
+CH Gayle: 4 runs from 2 balls
+ADS Fletcher: 12 runs from 12 balls
+MN Samuels: 45 runs from 45 balls
+DJ Bravo: 10 runs from 8 balls
+AD Russell: 4 runs from 8 balls
+DJG Sammy: 0 runs from 1 balls
+CR Brathwaite: 11 runs from 11 balls
+D Ramdin: 1 runs from 1 balls
+Bowler figures:
+K Rabada: 1 wickets for 39 runs
+CH Morris: 1 wickets for 33 runs
+Imran Tahir: 2 wickets for 13 runs
+D Wiese: 2 wickets for 19 runs
+AM Phangiso: 1 wickets for 19 runs
+

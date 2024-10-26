@@ -1,0 +1,268 @@
+Match: World T20 - T20
+Date: 2014-03-21
+Venue: Sylhet Stadium
+Teams: United Arab Emirates vs Zimbabwe
+Toss: Zimbabwe won the toss and decided to field
+Result: Zimbabwe won by 5 wickets
+Man of the Match: E Chigumbura
+
+Innings 1:
+0.1: Shaiman Anwar faced P Utseya, scored 0 runs. Team score: 0/0
+0.2: Shaiman Anwar faced P Utseya, scored 1 runs. Team score: 1/0
+0.3: Faizan Asif faced P Utseya, scored 1 runs. Team score: 2/0
+0.4: Shaiman Anwar faced P Utseya, scored 4 runs. Team score: 6/0
+0.5: Shaiman Anwar faced P Utseya, scored 1 runs. Team score: 7/0
+0.6: Faizan Asif faced P Utseya, scored 0 runs. Team score: 7/0
+1.1: Shaiman Anwar faced TL Chatara, scored 0 runs. Team score: 7/0
+1.2: Shaiman Anwar faced TL Chatara, scored 0 runs. Team score: 7/0
+caught!, Batsman: Shaiman Anwar (6 runs from 6 balls), Bowler: TL Chatara (figures: 1/0). Fielders involved: BRM Taylor. Team score: 7/1
+1.3: Khurram Khan faced TL Chatara, scored 1 runs. Team score: 8/1
+1.4: Faizan Asif faced TL Chatara, scored 0 runs. Team score: 8/1
+run out!, Batsman: Faizan Asif (1 runs from 3 balls), Bowler: TL Chatara (figures: 2/1). Fielders involved: Sikandar Raza. Team score: 8/2
+1.5: Khurram Khan faced TL Chatara, scored 0 runs. Team score: 8/2
+1.6: Khurram Khan faced TL Chatara, scored 0 runs. Team score: 8/2
+2.1: SP Patil faced P Utseya, scored 1 runs. Team score: 9/2
+2.2: Khurram Khan faced P Utseya, scored 1 runs. Team score: 10/2
+2.3: SP Patil faced P Utseya, scored 0 runs. Team score: 10/2
+2.4: SP Patil faced P Utseya, scored 0 runs. Team score: 10/2
+2.5: SP Patil faced P Utseya, scored 1 runs. Team score: 11/2
+2.6: Khurram Khan faced P Utseya, scored 0 runs. Team score: 11/2
+3.1: SP Patil faced T Panyangara, scored 4 runs. Team score: 15/2
+3.2: SP Patil faced T Panyangara, scored 1 runs. Team score: 16/2
+3.3: Khurram Khan faced T Panyangara, scored 0 runs. Team score: 16/2
+3.4: Khurram Khan faced T Panyangara, scored 0 runs. Team score: 16/2
+3.5: Khurram Khan faced T Panyangara, scored 0 runs. Team score: 16/2
+3.6: Khurram Khan faced T Panyangara, scored 0 runs. Team score: 16/2
+4.1: SP Patil faced TL Chatara, scored 0 runs. Team score: 16/2
+4.2: SP Patil faced TL Chatara, scored 0 runs. Team score: 16/2
+4.3: SP Patil faced TL Chatara, scored 0 runs. Team score: 16/2
+4.4: SP Patil faced TL Chatara, scored 1 runs. Team score: 17/2
+4.5: Khurram Khan faced TL Chatara, scored 0 runs. Team score: 17/2
+4.6: Khurram Khan faced TL Chatara, scored 0 runs. Team score: 17/2
+5.1: SP Patil faced T Panyangara, scored 4 runs. Team score: 21/2
+5.2: SP Patil faced T Panyangara, scored 1 runs. Team score: 22/2
+5.3: Khurram Khan faced T Panyangara, scored 1 runs. Team score: 23/2
+5.4: SP Patil faced T Panyangara, scored 4 runs. Team score: 27/2
+5.5: SP Patil faced T Panyangara, scored 0 runs. Team score: 27/2
+5.6: SP Patil faced T Panyangara, scored 4 runs. Team score: 31/2
+6.1: Khurram Khan faced N M'shangwe, scored 4 runs. Team score: 35/2
+6.2: Khurram Khan faced N M'shangwe, scored 0 runs. Team score: 35/2
+6.3: Khurram Khan faced N M'shangwe, scored 1 runs. Team score: 36/2
+6.4: SP Patil faced N M'shangwe, scored 1 runs. Team score: 37/2
+6.5: Khurram Khan faced N M'shangwe, scored 1 runs. Team score: 38/2
+6.6: SP Patil faced N M'shangwe, scored 0 runs. Team score: 38/2
+7.1: Khurram Khan faced SC Williams, scored 1 runs. Team score: 39/2
+7.2: SP Patil faced SC Williams, scored 0 runs. Team score: 39/2
+7.3: SP Patil faced SC Williams, scored 1 runs. Team score: 40/2
+7.4: Khurram Khan faced SC Williams, scored 6 runs. Team score: 46/2
+7.5: Khurram Khan faced SC Williams, scored 0 runs. Team score: 46/2
+7.6: Khurram Khan faced SC Williams, scored 0 runs. Team score: 46/2
+8.1: SP Patil faced N M'shangwe, scored 1 runs. Team score: 47/2
+8.2: Khurram Khan faced N M'shangwe, scored 4 runs. Team score: 51/2
+8.3: Khurram Khan faced N M'shangwe, scored 1 runs. Team score: 52/2
+8.4: Khurram Khan faced N M'shangwe, scored 0 runs. Team score: 52/2
+8.5: Khurram Khan faced N M'shangwe, scored 1 runs. Team score: 53/2
+8.6: Khurram Khan faced N M'shangwe, scored 4 runs. Team score: 57/2
+8.0: Khurram Khan faced N M'shangwe, scored 1 runs. Team score: 58/2
+8.1: SP Patil faced N M'shangwe, scored 4 runs. Team score: 62/2
+9.1: Khurram Khan faced SC Williams, scored 1 runs. Team score: 63/2
+9.2: SP Patil faced SC Williams, scored 1 runs. Team score: 64/2
+9.3: Khurram Khan faced SC Williams, scored 1 runs. Team score: 65/2
+9.4: SP Patil faced SC Williams, scored 1 runs. Team score: 66/2
+9.5: Khurram Khan faced SC Williams, scored 0 runs. Team score: 66/2
+caught!, Batsman: Khurram Khan (29 runs from 29 balls), Bowler: SC Williams (figures: 1/12). Fielders involved: E Chigumbura. Team score: 66/3
+9.6: SP Patil faced SC Williams, scored 0 runs. Team score: 66/3
+10.1: Rohan Mustafa faced Sikandar Raza, scored 0 runs. Team score: 66/3
+10.2: Rohan Mustafa faced Sikandar Raza, scored 1 runs. Team score: 67/3
+10.3: SP Patil faced Sikandar Raza, scored 0 runs. Team score: 67/3
+10.4: SP Patil faced Sikandar Raza, scored 0 runs. Team score: 67/3
+lbw!, Batsman: SP Patil (30 runs from 26 balls), Bowler: Sikandar Raza (figures: 1/1). Fielders involved: None. Team score: 67/4
+10.5: Amjad Ali faced Sikandar Raza, scored 0 runs. Team score: 67/4
+10.6: Amjad Ali faced Sikandar Raza, scored 1 runs. Team score: 68/4
+11.1: Amjad Ali faced SC Williams, scored 0 runs. Team score: 68/4
+11.2: Amjad Ali faced SC Williams, scored 0 runs. Team score: 68/4
+lbw!, Batsman: Amjad Ali (1 runs from 4 balls), Bowler: SC Williams (figures: 2/12). Fielders involved: None. Team score: 68/5
+11.3: Amjad Javed faced SC Williams, scored 1 runs. Team score: 69/5
+11.4: Rohan Mustafa faced SC Williams, scored 0 runs. Team score: 69/5
+11.5: Rohan Mustafa faced SC Williams, scored 1 runs. Team score: 70/5
+11.6: Amjad Javed faced SC Williams, scored 0 runs. Team score: 70/5
+12.1: Rohan Mustafa faced Sikandar Raza, scored 0 runs. Team score: 70/5
+12.2: Rohan Mustafa faced Sikandar Raza, scored 1 runs. Team score: 71/5
+12.3: Amjad Javed faced Sikandar Raza, scored 2 runs. Team score: 73/5
+12.4: Amjad Javed faced Sikandar Raza, scored 0 runs. Team score: 73/5
+12.5: Amjad Javed faced Sikandar Raza, scored 1 runs. Team score: 74/5
+12.6: Rohan Mustafa faced Sikandar Raza, scored 1 runs. Team score: 75/5
+13.1: Rohan Mustafa faced SC Williams, scored 0 runs. Team score: 75/5
+run out!, Batsman: Rohan Mustafa (4 runs from 8 balls), Bowler: SC Williams (figures: 3/14). Fielders involved: TL Chatara, BRM Taylor. Team score: 75/6
+13.2: Ahmed Raza faced SC Williams, scored 0 runs. Team score: 75/6
+13.3: Ahmed Raza faced SC Williams, scored 0 runs. Team score: 75/6
+13.4: Ahmed Raza faced SC Williams, scored 0 runs. Team score: 75/6
+13.5: Ahmed Raza faced SC Williams, scored 0 runs. Team score: 75/6
+caught!, Batsman: Ahmed Raza (0 runs from 4 balls), Bowler: SC Williams (figures: 4/14). Fielders involved: N M'shangwe. Team score: 75/7
+13.6: Amjad Javed faced SC Williams, scored 2 runs. Team score: 77/7
+14.1: EHSN Silva faced P Utseya, scored 0 runs. Team score: 77/7
+14.2: EHSN Silva faced P Utseya, scored 1 runs. Team score: 78/7
+14.3: Amjad Javed faced P Utseya, scored 1 runs. Team score: 79/7
+14.4: EHSN Silva faced P Utseya, scored 0 runs. Team score: 79/7
+14.5: EHSN Silva faced P Utseya, scored 1 runs. Team score: 80/7
+14.6: Amjad Javed faced P Utseya, scored 0 runs. Team score: 80/7
+15.1: EHSN Silva faced Sikandar Raza, scored 1 runs. Team score: 81/7
+15.2: Amjad Javed faced Sikandar Raza, scored 1 runs. Team score: 82/7
+15.3: EHSN Silva faced Sikandar Raza, scored 4 runs. Team score: 86/7
+15.4: EHSN Silva faced Sikandar Raza, scored 1 runs. Team score: 87/7
+15.5: EHSN Silva faced Sikandar Raza, scored 0 runs. Team score: 87/7
+15.6: EHSN Silva faced Sikandar Raza, scored 1 runs. Team score: 88/7
+15.0: Amjad Javed faced Sikandar Raza, scored 0 runs. Team score: 88/7
+caught!, Batsman: Amjad Javed (8 runs from 10 balls), Bowler: Sikandar Raza (figures: 2/15). Fielders involved: T Panyangara. Team score: 88/8
+16.1: EHSN Silva faced P Utseya, scored 0 runs. Team score: 88/8
+16.2: EHSN Silva faced P Utseya, scored 1 runs. Team score: 89/8
+16.3: Kamran Shazad faced P Utseya, scored 0 runs. Team score: 89/8
+16.4: Kamran Shazad faced P Utseya, scored 1 runs. Team score: 90/8
+16.5: Kamran Shazad faced P Utseya, scored 1 runs. Team score: 91/8
+16.6: EHSN Silva faced P Utseya, scored 1 runs. Team score: 92/8
+16.0: Kamran Shazad faced P Utseya, scored 1 runs. Team score: 93/8
+17.1: Kamran Shazad faced TL Chatara, scored 4 runs. Team score: 97/8
+17.2: Kamran Shazad faced TL Chatara, scored 0 runs. Team score: 97/8
+17.3: Kamran Shazad faced TL Chatara, scored 0 runs. Team score: 97/8
+17.4: Kamran Shazad faced TL Chatara, scored 1 runs. Team score: 98/8
+17.5: EHSN Silva faced TL Chatara, scored 0 runs. Team score: 98/8
+17.6: EHSN Silva faced TL Chatara, scored 1 runs. Team score: 99/8
+18.1: EHSN Silva faced T Panyangara, scored 1 runs. Team score: 100/8
+18.2: Kamran Shazad faced T Panyangara, scored 0 runs. Team score: 100/8
+18.3: Kamran Shazad faced T Panyangara, scored 0 runs. Team score: 100/8
+18.4: Kamran Shazad faced T Panyangara, scored 1 runs. Team score: 101/8
+18.5: EHSN Silva faced T Panyangara, scored 1 runs. Team score: 102/8
+18.6: Kamran Shazad faced T Panyangara, scored 1 runs. Team score: 103/8
+19.1: Kamran Shazad faced TL Chatara, scored 6 runs. Team score: 109/8
+19.2: Kamran Shazad faced TL Chatara, scored 0 runs. Team score: 109/8
+19.3: Kamran Shazad faced TL Chatara, scored 6 runs. Team score: 115/8
+19.4: Kamran Shazad faced TL Chatara, scored 0 runs. Team score: 115/8
+bowled!, Batsman: Kamran Shazad (22 runs from 16 balls), Bowler: TL Chatara (figures: 3/20). Fielders involved: None. Team score: 115/9
+19.5: AM Guruge faced TL Chatara, scored 1 runs. Team score: 116/9
+19.6: EHSN Silva faced TL Chatara, scored 0 runs. Team score: 116/9
+End of innings for United Arab Emirates: 116/9 in 20.0 overs
+Batsman scores:
+Shaiman Anwar: 6 runs from 6 balls
+Faizan Asif: 1 runs from 3 balls
+Khurram Khan: 29 runs from 29 balls
+SP Patil: 30 runs from 26 balls
+Rohan Mustafa: 4 runs from 8 balls
+Amjad Ali: 1 runs from 4 balls
+Amjad Javed: 8 runs from 10 balls
+Ahmed Raza: 0 runs from 4 balls
+EHSN Silva: 14 runs from 17 balls
+Kamran Shazad: 22 runs from 16 balls
+AM Guruge: 1 runs from 1 balls
+Bowler figures:
+P Utseya: 0 wickets for 18 runs
+TL Chatara: 3 wickets for 21 runs
+T Panyangara: 0 wickets for 23 runs
+N M'shangwe: 0 wickets for 23 runs
+SC Williams: 4 wickets for 16 runs
+Sikandar Raza: 2 wickets for 15 runs
+
+Innings 2:
+0.1: H Masakadza faced EHSN Silva, scored 0 runs. Team score: 0/0
+0.2: H Masakadza faced EHSN Silva, scored 1 runs. Team score: 1/0
+0.3: Sikandar Raza faced EHSN Silva, scored 0 runs. Team score: 1/0
+0.4: Sikandar Raza faced EHSN Silva, scored 4 runs. Team score: 5/0
+0.5: Sikandar Raza faced EHSN Silva, scored 0 runs. Team score: 5/0
+0.6: Sikandar Raza faced EHSN Silva, scored 0 runs. Team score: 5/0
+1.1: H Masakadza faced AM Guruge, scored 1 runs. Team score: 6/0
+1.2: Sikandar Raza faced AM Guruge, scored 1 runs. Team score: 7/0
+1.3: H Masakadza faced AM Guruge, scored 0 runs. Team score: 7/0
+bowled!, Batsman: H Masakadza (2 runs from 4 balls), Bowler: AM Guruge (figures: 1/2). Fielders involved: None. Team score: 7/1
+1.4: BRM Taylor faced AM Guruge, scored 0 runs. Team score: 7/1
+1.5: BRM Taylor faced AM Guruge, scored 4 runs. Team score: 11/1
+1.6: BRM Taylor faced AM Guruge, scored 1 runs. Team score: 12/1
+2.1: BRM Taylor faced EHSN Silva, scored 0 runs. Team score: 12/1
+2.2: BRM Taylor faced EHSN Silva, scored 4 runs. Team score: 16/1
+2.3: BRM Taylor faced EHSN Silva, scored 6 runs. Team score: 22/1
+2.4: BRM Taylor faced EHSN Silva, scored 0 runs. Team score: 22/1
+caught!, Batsman: BRM Taylor (15 runs from 7 balls), Bowler: EHSN Silva (figures: 1/15). Fielders involved: Shaiman Anwar. Team score: 22/2
+2.5: Sikandar Raza faced EHSN Silva, scored 0 runs. Team score: 22/2
+2.6: Sikandar Raza faced EHSN Silva, scored 2 runs. Team score: 24/2
+3.1: SC Williams faced AM Guruge, scored 0 runs. Team score: 24/2
+3.2: SC Williams faced AM Guruge, scored 0 runs. Team score: 24/2
+3.3: SC Williams faced AM Guruge, scored 0 runs. Team score: 24/2
+caught and bowled!, Batsman: SC Williams (0 runs from 3 balls), Bowler: AM Guruge (figures: 2/7). Fielders involved: None. Team score: 24/3
+3.4: V Sibanda faced AM Guruge, scored 0 runs. Team score: 24/3
+3.5: V Sibanda faced AM Guruge, scored 1 runs. Team score: 25/3
+3.6: Sikandar Raza faced AM Guruge, scored 0 runs. Team score: 25/3
+4.1: V Sibanda faced EHSN Silva, scored 1 runs. Team score: 26/3
+4.2: Sikandar Raza faced EHSN Silva, scored 0 runs. Team score: 26/3
+4.3: Sikandar Raza faced EHSN Silva, scored 0 runs. Team score: 26/3
+4.4: Sikandar Raza faced EHSN Silva, scored 1 runs. Team score: 27/3
+4.5: V Sibanda faced EHSN Silva, scored 0 runs. Team score: 27/3
+4.6: V Sibanda faced EHSN Silva, scored 1 runs. Team score: 28/3
+5.1: V Sibanda faced AM Guruge, scored 0 runs. Team score: 28/3
+5.2: V Sibanda faced AM Guruge, scored 2 runs. Team score: 30/3
+5.3: V Sibanda faced AM Guruge, scored 0 runs. Team score: 30/3
+5.4: V Sibanda faced AM Guruge, scored 0 runs. Team score: 30/3
+5.5: V Sibanda faced AM Guruge, scored 1 runs. Team score: 31/3
+5.6: Sikandar Raza faced AM Guruge, scored 0 runs. Team score: 31/3
+6.1: V Sibanda faced Ahmed Raza, scored 1 runs. Team score: 32/3
+6.2: Sikandar Raza faced Ahmed Raza, scored 1 runs. Team score: 33/3
+6.3: V Sibanda faced Ahmed Raza, scored 0 runs. Team score: 33/3
+6.4: V Sibanda faced Ahmed Raza, scored 1 runs. Team score: 34/3
+6.5: Sikandar Raza faced Ahmed Raza, scored 0 runs. Team score: 34/3
+caught!, Batsman: Sikandar Raza (9 runs from 14 balls), Bowler: Ahmed Raza (figures: 1/3). Fielders involved: Kamran Shazad. Team score: 34/4
+6.6: V Sibanda faced Ahmed Raza, scored 0 runs. Team score: 34/4
+7.1: E Chigumbura faced Kamran Shazad, scored 6 runs. Team score: 40/4
+7.2: E Chigumbura faced Kamran Shazad, scored 4 runs. Team score: 44/4
+7.3: E Chigumbura faced Kamran Shazad, scored 0 runs. Team score: 44/4
+7.4: E Chigumbura faced Kamran Shazad, scored 4 runs. Team score: 48/4
+7.5: E Chigumbura faced Kamran Shazad, scored 1 runs. Team score: 49/4
+7.6: V Sibanda faced Kamran Shazad, scored 0 runs. Team score: 49/4
+8.1: E Chigumbura faced Ahmed Raza, scored 1 runs. Team score: 50/4
+8.2: V Sibanda faced Ahmed Raza, scored 6 runs. Team score: 56/4
+8.3: V Sibanda faced Ahmed Raza, scored 1 runs. Team score: 57/4
+8.4: E Chigumbura faced Ahmed Raza, scored 4 runs. Team score: 61/4
+8.5: E Chigumbura faced Ahmed Raza, scored 1 runs. Team score: 62/4
+8.6: V Sibanda faced Ahmed Raza, scored 1 runs. Team score: 63/4
+9.1: V Sibanda faced Khurram Khan, scored 0 runs. Team score: 63/4
+caught and bowled!, Batsman: V Sibanda (16 runs from 19 balls), Bowler: Khurram Khan (figures: 1/0). Fielders involved: None. Team score: 63/5
+9.2: T Maruma faced Khurram Khan, scored 0 runs. Team score: 63/5
+9.3: T Maruma faced Khurram Khan, scored 4 runs. Team score: 67/5
+9.4: T Maruma faced Khurram Khan, scored 4 runs. Team score: 71/5
+9.5: T Maruma faced Khurram Khan, scored 0 runs. Team score: 71/5
+9.6: T Maruma faced Khurram Khan, scored 0 runs. Team score: 71/5
+10.1: E Chigumbura faced Ahmed Raza, scored 4 runs. Team score: 75/5
+10.2: E Chigumbura faced Ahmed Raza, scored 4 runs. Team score: 79/5
+10.3: E Chigumbura faced Ahmed Raza, scored 1 runs. Team score: 80/5
+10.4: T Maruma faced Ahmed Raza, scored 0 runs. Team score: 80/5
+10.5: T Maruma faced Ahmed Raza, scored 3 runs. Team score: 83/5
+10.6: E Chigumbura faced Ahmed Raza, scored 1 runs. Team score: 84/5
+11.1: E Chigumbura faced AM Guruge, scored 4 runs. Team score: 88/5
+11.2: E Chigumbura faced AM Guruge, scored 0 runs. Team score: 88/5
+11.3: E Chigumbura faced AM Guruge, scored 2 runs. Team score: 90/5
+11.4: E Chigumbura faced AM Guruge, scored 1 runs. Team score: 91/5
+11.5: T Maruma faced AM Guruge, scored 0 runs. Team score: 91/5
+11.6: T Maruma faced AM Guruge, scored 0 runs. Team score: 91/5
+12.1: E Chigumbura faced Amjad Javed, scored 3 runs. Team score: 94/5
+12.2: T Maruma faced Amjad Javed, scored 1 runs. Team score: 95/5
+12.3: E Chigumbura faced Amjad Javed, scored 1 runs. Team score: 96/5
+12.4: T Maruma faced Amjad Javed, scored 1 runs. Team score: 97/5
+12.5: E Chigumbura faced Amjad Javed, scored 0 runs. Team score: 97/5
+12.6: E Chigumbura faced Amjad Javed, scored 6 runs. Team score: 103/5
+13.1: T Maruma faced Kamran Shazad, scored 4 runs. Team score: 107/5
+13.2: T Maruma faced Kamran Shazad, scored 2 runs. Team score: 109/5
+13.3: T Maruma faced Kamran Shazad, scored 3 runs. Team score: 112/5
+13.4: E Chigumbura faced Kamran Shazad, scored 6 runs. Team score: 118/5
+End of innings for Zimbabwe: 118/5 in 14.4 overs
+Batsman scores:
+H Masakadza: 2 runs from 4 balls
+Sikandar Raza: 9 runs from 14 balls
+BRM Taylor: 15 runs from 7 balls
+SC Williams: 0 runs from 3 balls
+V Sibanda: 16 runs from 19 balls
+E Chigumbura: 54 runs from 21 balls
+T Maruma: 22 runs from 14 balls
+Bowler figures:
+EHSN Silva: 1 wickets for 20 runs
+AM Guruge: 2 wickets for 18 runs
+Ahmed Raza: 1 wickets for 30 runs
+Kamran Shazad: 0 wickets for 30 runs
+Khurram Khan: 1 wickets for 8 runs
+Amjad Javed: 0 wickets for 12 runs
+

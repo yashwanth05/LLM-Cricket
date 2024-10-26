@@ -1,0 +1,309 @@
+Match: World T20 - T20
+Date: 2014-03-23
+Venue: Shere Bangla National Stadium, Mirpur
+Teams: India vs West Indies
+Toss: India won the toss and decided to field
+Result: India won by 7 wickets
+Man of the Match: A Mishra
+
+Innings 1:
+0.1: DR Smith faced B Kumar, scored 0 runs. Team score: 0/0
+0.2: DR Smith faced B Kumar, scored 0 runs. Team score: 0/0
+0.3: DR Smith faced B Kumar, scored 0 runs. Team score: 0/0
+0.4: DR Smith faced B Kumar, scored 0 runs. Team score: 0/0
+0.5: DR Smith faced B Kumar, scored 1 runs. Team score: 1/0
+0.6: CH Gayle faced B Kumar, scored 0 runs. Team score: 1/0
+1.1: DR Smith faced Mohammed Shami, scored 0 runs. Team score: 1/0
+1.2: DR Smith faced Mohammed Shami, scored 1 runs. Team score: 2/0
+1.3: DR Smith faced Mohammed Shami, scored 1 runs. Team score: 3/0
+1.4: DR Smith faced Mohammed Shami, scored 0 runs. Team score: 3/0
+1.5: DR Smith faced Mohammed Shami, scored 0 runs. Team score: 3/0
+1.6: DR Smith faced Mohammed Shami, scored 1 runs. Team score: 4/0
+1.0: CH Gayle faced Mohammed Shami, scored 0 runs. Team score: 4/0
+1.1: CH Gayle faced Mohammed Shami, scored 0 runs. Team score: 4/0
+2.1: DR Smith faced B Kumar, scored 0 runs. Team score: 4/0
+2.2: DR Smith faced B Kumar, scored 0 runs. Team score: 4/0
+2.3: DR Smith faced B Kumar, scored 1 runs. Team score: 5/0
+2.4: DR Smith faced B Kumar, scored 0 runs. Team score: 5/0
+2.5: DR Smith faced B Kumar, scored 0 runs. Team score: 5/0
+2.6: DR Smith faced B Kumar, scored 0 runs. Team score: 5/0
+2.0: DR Smith faced B Kumar, scored 0 runs. Team score: 5/0
+Maiden over by B Kumar
+3.1: CH Gayle faced Mohammed Shami, scored 1 runs. Team score: 6/0
+3.2: CH Gayle faced Mohammed Shami, scored 0 runs. Team score: 6/0
+3.3: CH Gayle faced Mohammed Shami, scored 0 runs. Team score: 6/0
+3.4: CH Gayle faced Mohammed Shami, scored 6 runs. Team score: 12/0
+3.5: CH Gayle faced Mohammed Shami, scored 0 runs. Team score: 12/0
+3.6: CH Gayle faced Mohammed Shami, scored 4 runs. Team score: 16/0
+3.0: CH Gayle faced Mohammed Shami, scored 0 runs. Team score: 16/0
+4.1: DR Smith faced B Kumar, scored 1 runs. Team score: 17/0
+4.2: CH Gayle faced B Kumar, scored 0 runs. Team score: 17/0
+4.3: CH Gayle faced B Kumar, scored 1 runs. Team score: 18/0
+4.4: DR Smith faced B Kumar, scored 0 runs. Team score: 18/0
+4.5: DR Smith faced B Kumar, scored 0 runs. Team score: 18/0
+4.6: DR Smith faced B Kumar, scored 0 runs. Team score: 18/0
+5.1: CH Gayle faced R Ashwin, scored 0 runs. Team score: 18/0
+5.2: CH Gayle faced R Ashwin, scored 1 runs. Team score: 19/0
+5.3: CH Gayle faced R Ashwin, scored 1 runs. Team score: 20/0
+5.4: DR Smith faced R Ashwin, scored 4 runs. Team score: 24/0
+5.5: DR Smith faced R Ashwin, scored 0 runs. Team score: 24/0
+5.6: DR Smith faced R Ashwin, scored 0 runs. Team score: 24/0
+6.1: CH Gayle faced A Mishra, scored 6 runs. Team score: 30/0
+6.2: CH Gayle faced A Mishra, scored 1 runs. Team score: 31/0
+6.3: DR Smith faced A Mishra, scored 1 runs. Team score: 32/0
+6.4: CH Gayle faced A Mishra, scored 1 runs. Team score: 33/0
+6.5: DR Smith faced A Mishra, scored 0 runs. Team score: 33/0
+6.6: DR Smith faced A Mishra, scored 0 runs. Team score: 33/0
+7.1: CH Gayle faced R Ashwin, scored 1 runs. Team score: 34/0
+7.2: DR Smith faced R Ashwin, scored 4 runs. Team score: 38/0
+7.3: DR Smith faced R Ashwin, scored 0 runs. Team score: 38/0
+7.4: DR Smith faced R Ashwin, scored 0 runs. Team score: 38/0
+7.5: DR Smith faced R Ashwin, scored 0 runs. Team score: 38/0
+caught and bowled!, Batsman: DR Smith (15 runs from 32 balls), Bowler: R Ashwin (figures: 1/11). Fielders involved: None. Team score: 38/1
+7.6: MN Samuels faced R Ashwin, scored 0 runs. Team score: 38/1
+8.1: CH Gayle faced SK Raina, scored 1 runs. Team score: 39/1
+8.2: MN Samuels faced SK Raina, scored 0 runs. Team score: 39/1
+8.3: MN Samuels faced SK Raina, scored 0 runs. Team score: 39/1
+8.4: MN Samuels faced SK Raina, scored 0 runs. Team score: 39/1
+8.5: MN Samuels faced SK Raina, scored 1 runs. Team score: 40/1
+8.6: CH Gayle faced SK Raina, scored 1 runs. Team score: 41/1
+9.1: CH Gayle faced R Ashwin, scored 1 runs. Team score: 42/1
+9.2: MN Samuels faced R Ashwin, scored 1 runs. Team score: 43/1
+9.3: CH Gayle faced R Ashwin, scored 1 runs. Team score: 44/1
+9.4: MN Samuels faced R Ashwin, scored 1 runs. Team score: 45/1
+9.5: CH Gayle faced R Ashwin, scored 1 runs. Team score: 46/1
+9.6: MN Samuels faced R Ashwin, scored 0 runs. Team score: 46/1
+10.1: CH Gayle faced SK Raina, scored 0 runs. Team score: 46/1
+10.2: CH Gayle faced SK Raina, scored 1 runs. Team score: 47/1
+10.3: MN Samuels faced SK Raina, scored 0 runs. Team score: 47/1
+10.4: MN Samuels faced SK Raina, scored 1 runs. Team score: 48/1
+10.5: CH Gayle faced SK Raina, scored 1 runs. Team score: 49/1
+10.6: CH Gayle faced SK Raina, scored 1 runs. Team score: 50/1
+10.0: CH Gayle faced SK Raina, scored 1 runs. Team score: 51/1
+10.1: MN Samuels faced SK Raina, scored 0 runs. Team score: 51/1
+11.1: CH Gayle faced R Ashwin, scored 0 runs. Team score: 51/1
+11.2: CH Gayle faced R Ashwin, scored 1 runs. Team score: 52/1
+11.3: MN Samuels faced R Ashwin, scored 1 runs. Team score: 53/1
+11.4: CH Gayle faced R Ashwin, scored 0 runs. Team score: 53/1
+11.5: CH Gayle faced R Ashwin, scored 1 runs. Team score: 54/1
+11.6: CH Gayle faced R Ashwin, scored 1 runs. Team score: 55/1
+11.0: MN Samuels faced R Ashwin, scored 4 runs. Team score: 59/1
+12.1: CH Gayle faced A Mishra, scored 2 runs. Team score: 61/1
+12.2: CH Gayle faced A Mishra, scored 0 runs. Team score: 61/1
+12.3: CH Gayle faced A Mishra, scored 1 runs. Team score: 62/1
+12.4: MN Samuels faced A Mishra, scored 0 runs. Team score: 62/1
+12.5: MN Samuels faced A Mishra, scored 0 runs. Team score: 62/1
+12.6: MN Samuels faced A Mishra, scored 0 runs. Team score: 62/1
+run out!, Batsman: CH Gayle (38 runs from 37 balls), Bowler: A Mishra (figures: 1/12). Fielders involved: MS Dhoni, Mohammed Shami. Team score: 62/2
+13.1: MN Samuels faced RA Jadeja, scored 0 runs. Team score: 62/2
+13.2: MN Samuels faced RA Jadeja, scored 4 runs. Team score: 66/2
+13.3: MN Samuels faced RA Jadeja, scored 0 runs. Team score: 66/2
+13.4: MN Samuels faced RA Jadeja, scored 1 runs. Team score: 67/2
+13.5: LMP Simmons faced RA Jadeja, scored 1 runs. Team score: 68/2
+13.6: MN Samuels faced RA Jadeja, scored 4 runs. Team score: 72/2
+14.1: LMP Simmons faced A Mishra, scored 1 runs. Team score: 73/2
+14.2: LMP Simmons faced A Mishra, scored 0 runs. Team score: 73/2
+14.3: LMP Simmons faced A Mishra, scored 1 runs. Team score: 74/2
+14.4: MN Samuels faced A Mishra, scored 0 runs. Team score: 74/2
+stumped!, Batsman: MN Samuels (18 runs from 22 balls), Bowler: A Mishra (figures: 2/14). Fielders involved: MS Dhoni. Team score: 74/3
+14.5: DJ Bravo faced A Mishra, scored 0 runs. Team score: 74/3
+lbw!, Batsman: DJ Bravo (0 runs from 1 balls), Bowler: A Mishra (figures: 3/14). Fielders involved: None. Team score: 74/4
+14.6: DJG Sammy faced A Mishra, scored 1 runs. Team score: 75/4
+14.0: LMP Simmons faced A Mishra, scored 1 runs. Team score: 76/4
+15.1: LMP Simmons faced RA Jadeja, scored 4 runs. Team score: 80/4
+15.2: LMP Simmons faced RA Jadeja, scored 2 runs. Team score: 82/4
+15.3: LMP Simmons faced RA Jadeja, scored 0 runs. Team score: 82/4
+15.4: LMP Simmons faced RA Jadeja, scored 1 runs. Team score: 83/4
+15.5: DJG Sammy faced RA Jadeja, scored 0 runs. Team score: 83/4
+15.6: DJG Sammy faced RA Jadeja, scored 0 runs. Team score: 83/4
+16.1: LMP Simmons faced Mohammed Shami, scored 0 runs. Team score: 83/4
+16.2: LMP Simmons faced Mohammed Shami, scored 0 runs. Team score: 83/4
+16.3: LMP Simmons faced Mohammed Shami, scored 1 runs. Team score: 84/4
+16.4: DJG Sammy faced Mohammed Shami, scored 4 runs. Team score: 88/4
+16.5: DJG Sammy faced Mohammed Shami, scored 1 runs. Team score: 89/4
+16.6: DJG Sammy faced Mohammed Shami, scored 1 runs. Team score: 90/4
+16.0: DJG Sammy faced Mohammed Shami, scored 2 runs. Team score: 92/4
+16.1: DJG Sammy faced Mohammed Shami, scored 4 runs. Team score: 96/4
+17.1: LMP Simmons faced RA Jadeja, scored 0 runs. Team score: 96/4
+17.2: LMP Simmons faced RA Jadeja, scored 1 runs. Team score: 97/4
+17.3: DJG Sammy faced RA Jadeja, scored 0 runs. Team score: 97/4
+caught!, Batsman: DJG Sammy (13 runs from 9 balls), Bowler: RA Jadeja (figures: 1/18). Fielders involved: RG Sharma. Team score: 97/5
+17.4: LMP Simmons faced RA Jadeja, scored 0 runs. Team score: 97/5
+17.5: LMP Simmons faced RA Jadeja, scored 2 runs. Team score: 99/5
+17.6: LMP Simmons faced RA Jadeja, scored 1 runs. Team score: 100/5
+17.0: AD Russell faced RA Jadeja, scored 6 runs. Team score: 106/5
+18.1: LMP Simmons faced A Mishra, scored 0 runs. Team score: 106/5
+18.2: LMP Simmons faced A Mishra, scored 1 runs. Team score: 107/5
+18.3: AD Russell faced A Mishra, scored 0 runs. Team score: 107/5
+18.4: AD Russell faced A Mishra, scored 0 runs. Team score: 107/5
+18.5: AD Russell faced A Mishra, scored 1 runs. Team score: 108/5
+18.6: LMP Simmons faced A Mishra, scored 0 runs. Team score: 108/5
+19.1: AD Russell faced RA Jadeja, scored 0 runs. Team score: 108/5
+caught!, Batsman: AD Russell (7 runs from 5 balls), Bowler: RA Jadeja (figures: 2/27). Fielders involved: V Kohli. Team score: 108/6
+19.2: LMP Simmons faced RA Jadeja, scored 6 runs. Team score: 114/6
+19.3: LMP Simmons faced RA Jadeja, scored 6 runs. Team score: 120/6
+19.4: LMP Simmons faced RA Jadeja, scored 1 runs. Team score: 121/6
+19.5: LMP Simmons faced RA Jadeja, scored 0 runs. Team score: 121/6
+caught!, Batsman: LMP Simmons (30 runs from 24 balls), Bowler: RA Jadeja (figures: 3/40). Fielders involved: S Dhawan. Team score: 121/7
+19.6: SP Narine faced RA Jadeja, scored 1 runs. Team score: 122/7
+19.0: SP Narine faced RA Jadeja, scored 6 runs. Team score: 128/7
+19.1: SP Narine faced RA Jadeja, scored 1 runs. Team score: 129/7
+End of innings for West Indies: 129/7 in 20.0 overs
+Batsman scores:
+DR Smith: 15 runs from 32 balls
+CH Gayle: 38 runs from 37 balls
+MN Samuels: 18 runs from 22 balls
+LMP Simmons: 30 runs from 24 balls
+DJ Bravo: 0 runs from 1 balls
+DJG Sammy: 13 runs from 9 balls
+AD Russell: 7 runs from 5 balls
+SP Narine: 8 runs from 3 balls
+Bowler figures:
+B Kumar: 0 wickets for 4 runs
+Mohammed Shami: 0 wickets for 27 runs
+R Ashwin: 1 wickets for 24 runs
+A Mishra: 3 wickets for 18 runs
+SK Raina: 0 wickets for 8 runs
+RA Jadeja: 3 wickets for 48 runs
+
+Innings 2:
+0.1: RG Sharma faced S Badree, scored 0 runs. Team score: 0/0
+0.2: RG Sharma faced S Badree, scored 1 runs. Team score: 1/0
+0.3: S Dhawan faced S Badree, scored 0 runs. Team score: 1/0
+0.4: S Dhawan faced S Badree, scored 0 runs. Team score: 1/0
+0.5: S Dhawan faced S Badree, scored 0 runs. Team score: 1/0
+lbw!, Batsman: S Dhawan (0 runs from 3 balls), Bowler: S Badree (figures: 1/1). Fielders involved: None. Team score: 1/1
+0.6: V Kohli faced S Badree, scored 1 runs. Team score: 2/1
+1.1: V Kohli faced K Santokie, scored 0 runs. Team score: 2/1
+1.2: V Kohli faced K Santokie, scored 1 runs. Team score: 3/1
+1.3: RG Sharma faced K Santokie, scored 1 runs. Team score: 4/1
+1.4: V Kohli faced K Santokie, scored 1 runs. Team score: 5/1
+1.5: RG Sharma faced K Santokie, scored 0 runs. Team score: 5/1
+1.6: RG Sharma faced K Santokie, scored 0 runs. Team score: 5/1
+2.1: V Kohli faced S Badree, scored 4 runs. Team score: 9/1
+2.2: V Kohli faced S Badree, scored 6 runs. Team score: 15/1
+2.3: V Kohli faced S Badree, scored 0 runs. Team score: 15/1
+2.4: V Kohli faced S Badree, scored 0 runs. Team score: 15/1
+2.5: V Kohli faced S Badree, scored 1 runs. Team score: 16/1
+2.6: RG Sharma faced S Badree, scored 1 runs. Team score: 17/1
+3.1: RG Sharma faced K Santokie, scored 0 runs. Team score: 17/1
+3.2: RG Sharma faced K Santokie, scored 1 runs. Team score: 18/1
+3.3: V Kohli faced K Santokie, scored 2 runs. Team score: 20/1
+3.4: V Kohli faced K Santokie, scored 4 runs. Team score: 24/1
+3.5: V Kohli faced K Santokie, scored 4 runs. Team score: 28/1
+3.6: V Kohli faced K Santokie, scored 0 runs. Team score: 28/1
+4.1: RG Sharma faced S Badree, scored 0 runs. Team score: 28/1
+4.2: RG Sharma faced S Badree, scored 0 runs. Team score: 28/1
+4.3: RG Sharma faced S Badree, scored 4 runs. Team score: 32/1
+4.4: RG Sharma faced S Badree, scored 4 runs. Team score: 36/1
+4.5: RG Sharma faced S Badree, scored 1 runs. Team score: 37/1
+4.6: V Kohli faced S Badree, scored 1 runs. Team score: 38/1
+5.1: V Kohli faced SP Narine, scored 2 runs. Team score: 40/1
+5.2: RG Sharma faced SP Narine, scored 6 runs. Team score: 46/1
+5.3: RG Sharma faced SP Narine, scored 1 runs. Team score: 47/1
+5.4: V Kohli faced SP Narine, scored 1 runs. Team score: 48/1
+5.5: RG Sharma faced SP Narine, scored 0 runs. Team score: 48/1
+5.6: RG Sharma faced SP Narine, scored 0 runs. Team score: 48/1
+5.0: RG Sharma faced SP Narine, scored 0 runs. Team score: 48/1
+6.1: V Kohli faced DJ Bravo, scored 4 runs. Team score: 52/1
+6.2: V Kohli faced DJ Bravo, scored 1 runs. Team score: 53/1
+6.3: RG Sharma faced DJ Bravo, scored 4 runs. Team score: 57/1
+6.4: RG Sharma faced DJ Bravo, scored 1 runs. Team score: 58/1
+6.5: V Kohli faced DJ Bravo, scored 1 runs. Team score: 59/1
+6.6: RG Sharma faced DJ Bravo, scored 1 runs. Team score: 60/1
+7.1: RG Sharma faced SP Narine, scored 0 runs. Team score: 60/1
+7.2: RG Sharma faced SP Narine, scored 0 runs. Team score: 60/1
+7.3: RG Sharma faced SP Narine, scored 1 runs. Team score: 61/1
+7.4: V Kohli faced SP Narine, scored 1 runs. Team score: 62/1
+7.5: RG Sharma faced SP Narine, scored 1 runs. Team score: 63/1
+7.6: V Kohli faced SP Narine, scored 1 runs. Team score: 64/1
+8.1: V Kohli faced DJG Sammy, scored 1 runs. Team score: 65/1
+8.2: RG Sharma faced DJG Sammy, scored 1 runs. Team score: 66/1
+8.3: V Kohli faced DJG Sammy, scored 0 runs. Team score: 66/1
+8.4: V Kohli faced DJG Sammy, scored 1 runs. Team score: 67/1
+8.5: RG Sharma faced DJG Sammy, scored 2 runs. Team score: 69/1
+8.6: RG Sharma faced DJG Sammy, scored 4 runs. Team score: 73/1
+9.1: V Kohli faced MN Samuels, scored 2 runs. Team score: 75/1
+9.2: V Kohli faced MN Samuels, scored 1 runs. Team score: 76/1
+9.3: RG Sharma faced MN Samuels, scored 0 runs. Team score: 76/1
+9.4: RG Sharma faced MN Samuels, scored 0 runs. Team score: 76/1
+9.5: RG Sharma faced MN Samuels, scored 0 runs. Team score: 76/1
+9.6: RG Sharma faced MN Samuels, scored 0 runs. Team score: 76/1
+10.1: V Kohli faced S Badree, scored 1 runs. Team score: 77/1
+10.2: RG Sharma faced S Badree, scored 1 runs. Team score: 78/1
+10.3: V Kohli faced S Badree, scored 0 runs. Team score: 78/1
+10.4: V Kohli faced S Badree, scored 1 runs. Team score: 79/1
+10.5: RG Sharma faced S Badree, scored 0 runs. Team score: 79/1
+10.6: RG Sharma faced S Badree, scored 1 runs. Team score: 80/1
+11.1: RG Sharma faced MN Samuels, scored 3 runs. Team score: 83/1
+11.2: V Kohli faced MN Samuels, scored 1 runs. Team score: 84/1
+11.3: RG Sharma faced MN Samuels, scored 1 runs. Team score: 85/1
+11.4: V Kohli faced MN Samuels, scored 1 runs. Team score: 86/1
+11.5: RG Sharma faced MN Samuels, scored 0 runs. Team score: 86/1
+11.6: RG Sharma faced MN Samuels, scored 6 runs. Team score: 92/1
+12.1: V Kohli faced K Santokie, scored 4 runs. Team score: 96/1
+12.2: V Kohli faced K Santokie, scored 1 runs. Team score: 97/1
+12.3: RG Sharma faced K Santokie, scored 1 runs. Team score: 98/1
+12.4: V Kohli faced K Santokie, scored 1 runs. Team score: 99/1
+12.5: RG Sharma faced K Santokie, scored 1 runs. Team score: 100/1
+12.6: V Kohli faced K Santokie, scored 1 runs. Team score: 101/1
+13.1: V Kohli faced SP Narine, scored 1 runs. Team score: 102/1
+13.2: V Kohli faced SP Narine, scored 1 runs. Team score: 103/1
+13.3: RG Sharma faced SP Narine, scored 0 runs. Team score: 103/1
+13.4: RG Sharma faced SP Narine, scored 0 runs. Team score: 103/1
+13.5: RG Sharma faced SP Narine, scored 1 runs. Team score: 104/1
+13.6: V Kohli faced SP Narine, scored 0 runs. Team score: 104/1
+13.0: V Kohli faced SP Narine, scored 1 runs. Team score: 105/1
+14.1: V Kohli faced AD Russell, scored 1 runs. Team score: 106/1
+14.2: RG Sharma faced AD Russell, scored 1 runs. Team score: 107/1
+14.3: V Kohli faced AD Russell, scored 0 runs. Team score: 107/1
+14.4: V Kohli faced AD Russell, scored 0 runs. Team score: 107/1
+bowled!, Batsman: V Kohli (56 runs from 42 balls), Bowler: AD Russell (figures: 1/2). Fielders involved: None. Team score: 107/2
+14.5: Yuvraj Singh faced AD Russell, scored 0 runs. Team score: 107/2
+14.6: Yuvraj Singh faced AD Russell, scored 4 runs. Team score: 111/2
+15.1: RG Sharma faced SP Narine, scored 1 runs. Team score: 112/2
+15.2: Yuvraj Singh faced SP Narine, scored 0 runs. Team score: 112/2
+15.3: Yuvraj Singh faced SP Narine, scored 0 runs. Team score: 112/2
+15.4: Yuvraj Singh faced SP Narine, scored 0 runs. Team score: 112/2
+15.5: Yuvraj Singh faced SP Narine, scored 0 runs. Team score: 112/2
+15.6: Yuvraj Singh faced SP Narine, scored 1 runs. Team score: 113/2
+16.1: Yuvraj Singh faced AD Russell, scored 0 runs. Team score: 113/2
+16.2: Yuvraj Singh faced AD Russell, scored 0 runs. Team score: 113/2
+16.3: Yuvraj Singh faced AD Russell, scored 0 runs. Team score: 113/2
+16.4: Yuvraj Singh faced AD Russell, scored 0 runs. Team score: 113/2
+16.5: Yuvraj Singh faced AD Russell, scored 1 runs. Team score: 114/2
+16.6: RG Sharma faced AD Russell, scored 1 runs. Team score: 115/2
+16.0: RG Sharma faced AD Russell, scored 4 runs. Team score: 119/2
+17.1: Yuvraj Singh faced MN Samuels, scored 1 runs. Team score: 120/2
+17.2: RG Sharma faced MN Samuels, scored 2 runs. Team score: 122/2
+17.3: RG Sharma faced MN Samuels, scored 1 runs. Team score: 123/2
+17.4: Yuvraj Singh faced MN Samuels, scored 1 runs. Team score: 124/2
+17.5: RG Sharma faced MN Samuels, scored 0 runs. Team score: 124/2
+17.6: RG Sharma faced MN Samuels, scored 1 runs. Team score: 125/2
+18.1: RG Sharma faced K Santokie, scored 0 runs. Team score: 125/2
+18.2: RG Sharma faced K Santokie, scored 1 runs. Team score: 126/2
+18.3: Yuvraj Singh faced K Santokie, scored 1 runs. Team score: 127/2
+18.4: RG Sharma faced K Santokie, scored 0 runs. Team score: 127/2
+18.5: RG Sharma faced K Santokie, scored 1 runs. Team score: 128/2
+18.6: Yuvraj Singh faced K Santokie, scored 1 runs. Team score: 129/2
+19.1: Yuvraj Singh faced MN Samuels, scored 0 runs. Team score: 129/2
+19.2: Yuvraj Singh faced MN Samuels, scored 0 runs. Team score: 129/2
+19.3: Yuvraj Singh faced MN Samuels, scored 0 runs. Team score: 129/2
+caught!, Batsman: Yuvraj Singh (10 runs from 19 balls), Bowler: MN Samuels (figures: 1/21). Fielders involved: CH Gayle. Team score: 129/3
+19.4: SK Raina faced MN Samuels, scored 1 runs. Team score: 130/3
+End of innings for India: 130/3 in 20.0 overs
+Batsman scores:
+RG Sharma: 63 runs from 56 balls
+S Dhawan: 0 runs from 3 balls
+V Kohli: 56 runs from 42 balls
+Yuvraj Singh: 10 runs from 19 balls
+SK Raina: 1 runs from 1 balls
+Bowler figures:
+S Badree: 1 wickets for 28 runs
+K Santokie: 0 wickets for 27 runs
+SP Narine: 0 wickets for 20 runs
+DJ Bravo: 0 wickets for 12 runs
+DJG Sammy: 0 wickets for 9 runs
+MN Samuels: 1 wickets for 22 runs
+AD Russell: 1 wickets for 12 runs
+

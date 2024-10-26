@@ -1,0 +1,269 @@
+Match: World T20 - T20
+Date: 2014-03-18
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: Bangladesh vs Nepal
+Toss: Bangladesh won the toss and decided to field
+Result: Bangladesh won by 8 wickets
+Man of the Match: Al-Amin Hossain
+
+Innings 1:
+0.1: SP Khakurel faced Mashrafe Mortaza, scored 0 runs. Team score: 0/0
+0.2: SP Khakurel faced Mashrafe Mortaza, scored 2 runs. Team score: 2/0
+0.3: SP Khakurel faced Mashrafe Mortaza, scored 0 runs. Team score: 2/0
+0.4: SP Khakurel faced Mashrafe Mortaza, scored 1 runs. Team score: 3/0
+0.5: Sagar Pun faced Mashrafe Mortaza, scored 0 runs. Team score: 3/0
+0.6: Sagar Pun faced Mashrafe Mortaza, scored 0 runs. Team score: 3/0
+1.1: SP Khakurel faced Al-Amin Hossain, scored 0 runs. Team score: 3/0
+1.2: SP Khakurel faced Al-Amin Hossain, scored 1 runs. Team score: 4/0
+1.3: SP Khakurel faced Al-Amin Hossain, scored 1 runs. Team score: 5/0
+1.4: SP Khakurel faced Al-Amin Hossain, scored 1 runs. Team score: 6/0
+1.5: Sagar Pun faced Al-Amin Hossain, scored 0 runs. Team score: 6/0
+1.6: Sagar Pun faced Al-Amin Hossain, scored 0 runs. Team score: 6/0
+1.0: Sagar Pun faced Al-Amin Hossain, scored 4 runs. Team score: 10/0
+1.1: Sagar Pun faced Al-Amin Hossain, scored 1 runs. Team score: 11/0
+1.2: Sagar Pun faced Al-Amin Hossain, scored 0 runs. Team score: 11/0
+2.1: SP Khakurel faced Mashrafe Mortaza, scored 1 runs. Team score: 12/0
+2.2: Sagar Pun faced Mashrafe Mortaza, scored 0 runs. Team score: 12/0
+2.3: Sagar Pun faced Mashrafe Mortaza, scored 1 runs. Team score: 13/0
+2.4: SP Khakurel faced Mashrafe Mortaza, scored 1 runs. Team score: 14/0
+2.5: Sagar Pun faced Mashrafe Mortaza, scored 0 runs. Team score: 14/0
+2.6: Sagar Pun faced Mashrafe Mortaza, scored 0 runs. Team score: 14/0
+3.1: SP Khakurel faced Farhad Reza, scored 2 runs. Team score: 16/0
+3.2: SP Khakurel faced Farhad Reza, scored 1 runs. Team score: 17/0
+3.3: Sagar Pun faced Farhad Reza, scored 1 runs. Team score: 18/0
+3.4: SP Khakurel faced Farhad Reza, scored 1 runs. Team score: 19/0
+3.5: SP Khakurel faced Farhad Reza, scored 0 runs. Team score: 19/0
+3.6: SP Khakurel faced Farhad Reza, scored 0 runs. Team score: 19/0
+3.0: SP Khakurel faced Farhad Reza, scored 0 runs. Team score: 19/0
+caught!, Batsman: SP Khakurel (12 runs from 16 balls), Bowler: Farhad Reza (figures: 1/5). Fielders involved: Abdur Razzak. Team score: 19/1
+4.1: G Malla faced Mashrafe Mortaza, scored 3 runs. Team score: 22/1
+4.2: Sagar Pun faced Mashrafe Mortaza, scored 4 runs. Team score: 26/1
+4.3: Sagar Pun faced Mashrafe Mortaza, scored 0 runs. Team score: 26/1
+4.4: Sagar Pun faced Mashrafe Mortaza, scored 1 runs. Team score: 27/1
+4.5: G Malla faced Mashrafe Mortaza, scored 1 runs. Team score: 28/1
+4.6: Sagar Pun faced Mashrafe Mortaza, scored 0 runs. Team score: 28/1
+5.1: G Malla faced Shakib Al Hasan, scored 1 runs. Team score: 29/1
+5.2: Sagar Pun faced Shakib Al Hasan, scored 0 runs. Team score: 29/1
+5.3: Sagar Pun faced Shakib Al Hasan, scored 0 runs. Team score: 29/1
+5.4: Sagar Pun faced Shakib Al Hasan, scored 1 runs. Team score: 30/1
+5.5: G Malla faced Shakib Al Hasan, scored 4 runs. Team score: 34/1
+5.6: G Malla faced Shakib Al Hasan, scored 4 runs. Team score: 38/1
+6.1: Sagar Pun faced Al-Amin Hossain, scored 0 runs. Team score: 38/1
+caught!, Batsman: Sagar Pun (13 runs from 20 balls), Bowler: Al-Amin Hossain (figures: 1/8). Fielders involved: Shakib Al Hasan. Team score: 38/2
+6.2: P Khadka faced Al-Amin Hossain, scored 1 runs. Team score: 39/2
+6.3: G Malla faced Al-Amin Hossain, scored 0 runs. Team score: 39/2
+lbw!, Batsman: G Malla (13 runs from 6 balls), Bowler: Al-Amin Hossain (figures: 2/9). Fielders involved: None. Team score: 39/3
+6.4: S Vesawkar faced Al-Amin Hossain, scored 0 runs. Team score: 39/3
+6.5: S Vesawkar faced Al-Amin Hossain, scored 0 runs. Team score: 39/3
+6.6: S Vesawkar faced Al-Amin Hossain, scored 1 runs. Team score: 40/3
+7.1: S Vesawkar faced Farhad Reza, scored 2 runs. Team score: 42/3
+7.2: S Vesawkar faced Farhad Reza, scored 0 runs. Team score: 42/3
+7.3: S Vesawkar faced Farhad Reza, scored 0 runs. Team score: 42/3
+7.4: S Vesawkar faced Farhad Reza, scored 1 runs. Team score: 43/3
+7.5: P Khadka faced Farhad Reza, scored 4 runs. Team score: 47/3
+7.6: P Khadka faced Farhad Reza, scored 1 runs. Team score: 48/3
+8.1: P Khadka faced Al-Amin Hossain, scored 1 runs. Team score: 49/3
+8.2: S Vesawkar faced Al-Amin Hossain, scored 4 runs. Team score: 53/3
+8.3: S Vesawkar faced Al-Amin Hossain, scored 0 runs. Team score: 53/3
+8.4: S Vesawkar faced Al-Amin Hossain, scored 0 runs. Team score: 53/3
+8.5: S Vesawkar faced Al-Amin Hossain, scored 0 runs. Team score: 53/3
+8.6: S Vesawkar faced Al-Amin Hossain, scored 0 runs. Team score: 53/3
+9.1: P Khadka faced Nasir Hossain, scored 0 runs. Team score: 53/3
+9.2: P Khadka faced Nasir Hossain, scored 1 runs. Team score: 54/3
+9.3: S Vesawkar faced Nasir Hossain, scored 0 runs. Team score: 54/3
+9.4: S Vesawkar faced Nasir Hossain, scored 0 runs. Team score: 54/3
+9.5: S Vesawkar faced Nasir Hossain, scored 0 runs. Team score: 54/3
+9.6: S Vesawkar faced Nasir Hossain, scored 0 runs. Team score: 54/3
+10.1: P Khadka faced Abdur Razzak, scored 1 runs. Team score: 55/3
+10.2: S Vesawkar faced Abdur Razzak, scored 1 runs. Team score: 56/3
+10.3: P Khadka faced Abdur Razzak, scored 1 runs. Team score: 57/3
+10.4: S Vesawkar faced Abdur Razzak, scored 1 runs. Team score: 58/3
+10.5: S Vesawkar faced Abdur Razzak, scored 0 runs. Team score: 58/3
+10.6: S Vesawkar faced Abdur Razzak, scored 1 runs. Team score: 59/3
+10.0: P Khadka faced Abdur Razzak, scored 0 runs. Team score: 59/3
+11.1: S Vesawkar faced Shakib Al Hasan, scored 1 runs. Team score: 60/3
+11.2: P Khadka faced Shakib Al Hasan, scored 1 runs. Team score: 61/3
+11.3: S Vesawkar faced Shakib Al Hasan, scored 0 runs. Team score: 61/3
+11.4: S Vesawkar faced Shakib Al Hasan, scored 0 runs. Team score: 61/3
+11.5: S Vesawkar faced Shakib Al Hasan, scored 1 runs. Team score: 62/3
+11.6: P Khadka faced Shakib Al Hasan, scored 1 runs. Team score: 63/3
+12.1: P Khadka faced Nasir Hossain, scored 4 runs. Team score: 67/3
+12.2: P Khadka faced Nasir Hossain, scored 0 runs. Team score: 67/3
+12.3: P Khadka faced Nasir Hossain, scored 1 runs. Team score: 68/3
+12.4: P Khadka faced Nasir Hossain, scored 4 runs. Team score: 72/3
+12.5: P Khadka faced Nasir Hossain, scored 1 runs. Team score: 73/3
+12.6: S Vesawkar faced Nasir Hossain, scored 0 runs. Team score: 73/3
+12.0: S Vesawkar faced Nasir Hossain, scored 1 runs. Team score: 74/3
+13.1: S Vesawkar faced Shakib Al Hasan, scored 1 runs. Team score: 75/3
+13.2: P Khadka faced Shakib Al Hasan, scored 0 runs. Team score: 75/3
+13.3: P Khadka faced Shakib Al Hasan, scored 0 runs. Team score: 75/3
+13.4: P Khadka faced Shakib Al Hasan, scored 1 runs. Team score: 76/3
+13.5: S Vesawkar faced Shakib Al Hasan, scored 0 runs. Team score: 76/3
+13.6: S Vesawkar faced Shakib Al Hasan, scored 0 runs. Team score: 76/3
+14.1: P Khadka faced Nasir Hossain, scored 2 runs. Team score: 78/3
+14.2: P Khadka faced Nasir Hossain, scored 1 runs. Team score: 79/3
+14.3: P Khadka faced Nasir Hossain, scored 0 runs. Team score: 79/3
+14.4: P Khadka faced Nasir Hossain, scored 1 runs. Team score: 80/3
+14.5: S Vesawkar faced Nasir Hossain, scored 4 runs. Team score: 84/3
+14.6: S Vesawkar faced Nasir Hossain, scored 1 runs. Team score: 85/3
+14.0: P Khadka faced Nasir Hossain, scored 1 runs. Team score: 86/3
+15.1: P Khadka faced Shakib Al Hasan, scored 1 runs. Team score: 87/3
+15.2: S Vesawkar faced Shakib Al Hasan, scored 1 runs. Team score: 88/3
+15.3: P Khadka faced Shakib Al Hasan, scored 1 runs. Team score: 89/3
+15.4: S Vesawkar faced Shakib Al Hasan, scored 2 runs. Team score: 91/3
+15.5: S Vesawkar faced Shakib Al Hasan, scored 1 runs. Team score: 92/3
+15.6: P Khadka faced Shakib Al Hasan, scored 1 runs. Team score: 93/3
+16.1: P Khadka faced Farhad Reza, scored 0 runs. Team score: 93/3
+16.2: P Khadka faced Farhad Reza, scored 1 runs. Team score: 94/3
+16.3: P Khadka faced Farhad Reza, scored 4 runs. Team score: 98/3
+16.4: P Khadka faced Farhad Reza, scored 0 runs. Team score: 98/3
+16.5: P Khadka faced Farhad Reza, scored 1 runs. Team score: 99/3
+16.6: S Vesawkar faced Farhad Reza, scored 4 runs. Team score: 103/3
+16.0: S Vesawkar faced Farhad Reza, scored 4 runs. Team score: 107/3
+17.1: P Khadka faced Abdur Razzak, scored 4 runs. Team score: 111/3
+17.2: P Khadka faced Abdur Razzak, scored 0 runs. Team score: 111/3
+17.3: P Khadka faced Abdur Razzak, scored 1 runs. Team score: 112/3
+17.4: S Vesawkar faced Abdur Razzak, scored 1 runs. Team score: 113/3
+17.5: P Khadka faced Abdur Razzak, scored 1 runs. Team score: 114/3
+17.6: S Vesawkar faced Abdur Razzak, scored 1 runs. Team score: 115/3
+18.1: S Vesawkar faced Mashrafe Mortaza, scored 4 runs. Team score: 119/3
+18.2: S Vesawkar faced Mashrafe Mortaza, scored 0 runs. Team score: 119/3
+18.3: S Vesawkar faced Mashrafe Mortaza, scored 2 runs. Team score: 121/3
+18.4: S Vesawkar faced Mashrafe Mortaza, scored 1 runs. Team score: 122/3
+18.5: P Khadka faced Mashrafe Mortaza, scored 2 runs. Team score: 124/3
+18.6: P Khadka faced Mashrafe Mortaza, scored 0 runs. Team score: 124/3
+bowled!, Batsman: P Khadka (45 runs from 38 balls), Bowler: Mashrafe Mortaza (figures: 1/24). Fielders involved: None. Team score: 124/4
+19.1: S Vesawkar faced Al-Amin Hossain, scored 0 runs. Team score: 124/4
+19.2: S Vesawkar faced Al-Amin Hossain, scored 1 runs. Team score: 125/4
+19.3: B Bhandari faced Al-Amin Hossain, scored 1 runs. Team score: 126/4
+19.4: B Bhandari faced Al-Amin Hossain, scored 0 runs. Team score: 126/4
+19.5: B Bhandari faced Al-Amin Hossain, scored 0 runs. Team score: 126/4
+19.6: B Bhandari faced Al-Amin Hossain, scored 0 runs. Team score: 126/4
+19.0: B Bhandari faced Al-Amin Hossain, scored 0 runs. Team score: 126/4
+run out!, Batsman: S Vesawkar (42 runs from 44 balls), Bowler: Al-Amin Hossain (figures: 3/17). Fielders involved: Mushfiqur Rahim. Team score: 126/5
+End of innings for Nepal: 126/5 in 20.0 overs
+Batsman scores:
+SP Khakurel: 12 runs from 16 balls
+Sagar Pun: 13 runs from 20 balls
+G Malla: 13 runs from 6 balls
+P Khadka: 45 runs from 38 balls
+S Vesawkar: 42 runs from 44 balls
+B Bhandari: 1 runs from 5 balls
+Bowler figures:
+Mashrafe Mortaza: 1 wickets for 24 runs
+Al-Amin Hossain: 3 wickets for 17 runs
+Farhad Reza: 1 wickets for 27 runs
+Shakib Al Hasan: 0 wickets for 23 runs
+Nasir Hossain: 0 wickets for 22 runs
+Abdur Razzak: 0 wickets for 13 runs
+
+Innings 2:
+0.1: Tamim Iqbal faced Sompal Kami, scored 0 runs. Team score: 0/0
+0.2: Tamim Iqbal faced Sompal Kami, scored 2 runs. Team score: 2/0
+0.3: Tamim Iqbal faced Sompal Kami, scored 1 runs. Team score: 3/0
+0.4: Anamul Haque faced Sompal Kami, scored 0 runs. Team score: 3/0
+0.5: Anamul Haque faced Sompal Kami, scored 6 runs. Team score: 9/0
+0.6: Anamul Haque faced Sompal Kami, scored 4 runs. Team score: 13/0
+1.1: Tamim Iqbal faced P Khadka, scored 1 runs. Team score: 14/0
+1.2: Anamul Haque faced P Khadka, scored 0 runs. Team score: 14/0
+1.3: Anamul Haque faced P Khadka, scored 0 runs. Team score: 14/0
+1.4: Anamul Haque faced P Khadka, scored 1 runs. Team score: 15/0
+1.5: Tamim Iqbal faced P Khadka, scored 1 runs. Team score: 16/0
+1.6: Anamul Haque faced P Khadka, scored 1 runs. Team score: 17/0
+2.1: Anamul Haque faced Sompal Kami, scored 6 runs. Team score: 23/0
+2.2: Anamul Haque faced Sompal Kami, scored 0 runs. Team score: 23/0
+2.3: Anamul Haque faced Sompal Kami, scored 0 runs. Team score: 23/0
+2.4: Anamul Haque faced Sompal Kami, scored 1 runs. Team score: 24/0
+2.5: Tamim Iqbal faced Sompal Kami, scored 1 runs. Team score: 25/0
+2.6: Anamul Haque faced Sompal Kami, scored 0 runs. Team score: 25/0
+3.1: Tamim Iqbal faced P Khadka, scored 4 runs. Team score: 29/0
+3.2: Tamim Iqbal faced P Khadka, scored 0 runs. Team score: 29/0
+3.3: Tamim Iqbal faced P Khadka, scored 1 runs. Team score: 30/0
+3.4: Anamul Haque faced P Khadka, scored 0 runs. Team score: 30/0
+3.5: Anamul Haque faced P Khadka, scored 1 runs. Team score: 31/0
+3.6: Tamim Iqbal faced P Khadka, scored 2 runs. Team score: 33/0
+4.1: Anamul Haque faced SP Gauchan, scored 0 runs. Team score: 33/0
+4.2: Anamul Haque faced SP Gauchan, scored 0 runs. Team score: 33/0
+4.3: Anamul Haque faced SP Gauchan, scored 0 runs. Team score: 33/0
+4.4: Anamul Haque faced SP Gauchan, scored 4 runs. Team score: 37/0
+4.5: Anamul Haque faced SP Gauchan, scored 0 runs. Team score: 37/0
+4.6: Anamul Haque faced SP Gauchan, scored 4 runs. Team score: 41/0
+5.1: Tamim Iqbal faced P Khadka, scored 1 runs. Team score: 42/0
+5.2: Anamul Haque faced P Khadka, scored 0 runs. Team score: 42/0
+5.3: Anamul Haque faced P Khadka, scored 1 runs. Team score: 43/0
+5.4: Tamim Iqbal faced P Khadka, scored 6 runs. Team score: 49/0
+5.5: Tamim Iqbal faced P Khadka, scored 0 runs. Team score: 49/0
+5.6: Tamim Iqbal faced P Khadka, scored 4 runs. Team score: 53/0
+6.1: Anamul Haque faced JK Mukhiya, scored 1 runs. Team score: 54/0
+6.2: Tamim Iqbal faced JK Mukhiya, scored 2 runs. Team score: 56/0
+6.3: Tamim Iqbal faced JK Mukhiya, scored 0 runs. Team score: 56/0
+6.4: Tamim Iqbal faced JK Mukhiya, scored 1 runs. Team score: 57/0
+6.5: Anamul Haque faced JK Mukhiya, scored 1 runs. Team score: 58/0
+6.6: Tamim Iqbal faced JK Mukhiya, scored 1 runs. Team score: 59/0
+7.1: Tamim Iqbal faced B Regmi, scored 1 runs. Team score: 60/0
+7.2: Anamul Haque faced B Regmi, scored 1 runs. Team score: 61/0
+7.3: Tamim Iqbal faced B Regmi, scored 2 runs. Team score: 63/0
+7.4: Tamim Iqbal faced B Regmi, scored 0 runs. Team score: 63/0
+7.5: Tamim Iqbal faced B Regmi, scored 0 runs. Team score: 63/0
+caught!, Batsman: Tamim Iqbal (31 runs from 22 balls), Bowler: B Regmi (figures: 1/4). Fielders involved: Sagar Pun. Team score: 63/1
+7.6: Sabbir Rahman faced B Regmi, scored 0 runs. Team score: 63/1
+8.1: Anamul Haque faced JK Mukhiya, scored 1 runs. Team score: 64/1
+8.2: Sabbir Rahman faced JK Mukhiya, scored 0 runs. Team score: 64/1
+8.3: Sabbir Rahman faced JK Mukhiya, scored 4 runs. Team score: 68/1
+8.4: Sabbir Rahman faced JK Mukhiya, scored 1 runs. Team score: 69/1
+8.5: Anamul Haque faced JK Mukhiya, scored 0 runs. Team score: 69/1
+8.6: Anamul Haque faced JK Mukhiya, scored 4 runs. Team score: 73/1
+9.1: Sabbir Rahman faced B Regmi, scored 1 runs. Team score: 74/1
+9.2: Anamul Haque faced B Regmi, scored 0 runs. Team score: 74/1
+9.3: Anamul Haque faced B Regmi, scored 0 runs. Team score: 74/1
+9.4: Anamul Haque faced B Regmi, scored 1 runs. Team score: 75/1
+9.5: Sabbir Rahman faced B Regmi, scored 0 runs. Team score: 75/1
+9.6: Sabbir Rahman faced B Regmi, scored 0 runs. Team score: 75/1
+10.1: Anamul Haque faced SP Gauchan, scored 4 runs. Team score: 79/1
+10.2: Anamul Haque faced SP Gauchan, scored 0 runs. Team score: 79/1
+run out!, Batsman: Anamul Haque (42 runs from 33 balls), Bowler: SP Gauchan (figures: 1/12). Fielders involved: Sagar Pun, SP Khakurel. Team score: 79/2
+10.3: Shakib Al Hasan faced SP Gauchan, scored 0 runs. Team score: 79/2
+10.4: Shakib Al Hasan faced SP Gauchan, scored 2 runs. Team score: 81/2
+10.5: Shakib Al Hasan faced SP Gauchan, scored 0 runs. Team score: 81/2
+10.6: Shakib Al Hasan faced SP Gauchan, scored 0 runs. Team score: 81/2
+11.1: Sabbir Rahman faced B Regmi, scored 1 runs. Team score: 82/2
+11.2: Shakib Al Hasan faced B Regmi, scored 0 runs. Team score: 82/2
+11.3: Shakib Al Hasan faced B Regmi, scored 1 runs. Team score: 83/2
+11.4: Sabbir Rahman faced B Regmi, scored 0 runs. Team score: 83/2
+11.5: Sabbir Rahman faced B Regmi, scored 1 runs. Team score: 84/2
+11.6: Shakib Al Hasan faced B Regmi, scored 6 runs. Team score: 90/2
+12.1: Sabbir Rahman faced SP Gauchan, scored 0 runs. Team score: 90/2
+12.2: Sabbir Rahman faced SP Gauchan, scored 1 runs. Team score: 91/2
+12.3: Shakib Al Hasan faced SP Gauchan, scored 1 runs. Team score: 92/2
+12.4: Sabbir Rahman faced SP Gauchan, scored 1 runs. Team score: 93/2
+12.5: Shakib Al Hasan faced SP Gauchan, scored 1 runs. Team score: 94/2
+12.6: Sabbir Rahman faced SP Gauchan, scored 1 runs. Team score: 95/2
+13.1: Sabbir Rahman faced Sagar Pun, scored 0 runs. Team score: 95/2
+13.2: Sabbir Rahman faced Sagar Pun, scored 1 runs. Team score: 96/2
+13.3: Shakib Al Hasan faced Sagar Pun, scored 1 runs. Team score: 97/2
+13.4: Sabbir Rahman faced Sagar Pun, scored 1 runs. Team score: 98/2
+13.5: Shakib Al Hasan faced Sagar Pun, scored 1 runs. Team score: 99/2
+13.6: Sabbir Rahman faced Sagar Pun, scored 2 runs. Team score: 101/2
+14.1: Shakib Al Hasan faced SP Gauchan, scored 1 runs. Team score: 102/2
+14.2: Sabbir Rahman faced SP Gauchan, scored 6 runs. Team score: 108/2
+14.3: Sabbir Rahman faced SP Gauchan, scored 1 runs. Team score: 109/2
+14.4: Shakib Al Hasan faced SP Gauchan, scored 6 runs. Team score: 115/2
+14.5: Shakib Al Hasan faced SP Gauchan, scored 6 runs. Team score: 121/2
+14.6: Shakib Al Hasan faced SP Gauchan, scored 1 runs. Team score: 122/2
+15.1: Shakib Al Hasan faced Sagar Pun, scored 4 runs. Team score: 126/2
+15.2: Shakib Al Hasan faced Sagar Pun, scored 0 runs. Team score: 126/2
+15.3: Shakib Al Hasan faced Sagar Pun, scored 6 runs. Team score: 132/2
+End of innings for Bangladesh: 132/2 in 16.3 overs
+Batsman scores:
+Tamim Iqbal: 31 runs from 22 balls
+Anamul Haque: 42 runs from 33 balls
+Sabbir Rahman: 22 runs from 20 balls
+Shakib Al Hasan: 37 runs from 18 balls
+Bowler figures:
+Sompal Kami: 0 wickets for 21 runs
+P Khadka: 0 wickets for 24 runs
+SP Gauchan: 1 wickets for 40 runs
+JK Mukhiya: 0 wickets for 16 runs
+B Regmi: 1 wickets for 15 runs
+Sagar Pun: 0 wickets for 16 runs
+

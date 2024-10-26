@@ -1,0 +1,299 @@
+Match: World T20 - T20
+Date: 2014-04-01
+Venue: Shere Bangla National Stadium, Mirpur
+Teams: Pakistan vs West Indies
+Toss: West Indies won the toss and decided to bat
+Result: West Indies won by 84 runs
+Man of the Match: DJ Bravo
+
+Innings 1:
+0.1: DR Smith faced Mohammad Hafeez, scored 0 runs. Team score: 0/0
+0.2: DR Smith faced Mohammad Hafeez, scored 0 runs. Team score: 0/0
+0.3: DR Smith faced Mohammad Hafeez, scored 4 runs. Team score: 4/0
+0.4: DR Smith faced Mohammad Hafeez, scored 0 runs. Team score: 4/0
+0.5: DR Smith faced Mohammad Hafeez, scored 0 runs. Team score: 4/0
+0.6: DR Smith faced Mohammad Hafeez, scored 0 runs. Team score: 4/0
+1.1: CH Gayle faced Sohail Tanvir, scored 1 runs. Team score: 5/0
+1.2: CH Gayle faced Sohail Tanvir, scored 4 runs. Team score: 9/0
+1.3: CH Gayle faced Sohail Tanvir, scored 0 runs. Team score: 9/0
+1.4: CH Gayle faced Sohail Tanvir, scored 1 runs. Team score: 10/0
+1.5: DR Smith faced Sohail Tanvir, scored 0 runs. Team score: 10/0
+1.6: DR Smith faced Sohail Tanvir, scored 0 runs. Team score: 10/0
+1.0: DR Smith faced Sohail Tanvir, scored 0 runs. Team score: 10/0
+2.1: CH Gayle faced Mohammad Hafeez, scored 0 runs. Team score: 10/0
+stumped!, Batsman: CH Gayle (6 runs from 5 balls), Bowler: Mohammad Hafeez (figures: 1/4). Fielders involved: Kamran Akmal. Team score: 10/1
+2.2: LMP Simmons faced Mohammad Hafeez, scored 0 runs. Team score: 10/1
+2.3: LMP Simmons faced Mohammad Hafeez, scored 4 runs. Team score: 14/1
+2.4: LMP Simmons faced Mohammad Hafeez, scored 3 runs. Team score: 17/1
+2.5: DR Smith faced Mohammad Hafeez, scored 4 runs. Team score: 21/1
+2.6: DR Smith faced Mohammad Hafeez, scored 0 runs. Team score: 21/1
+3.1: LMP Simmons faced Sohail Tanvir, scored 0 runs. Team score: 21/1
+3.2: LMP Simmons faced Sohail Tanvir, scored 0 runs. Team score: 21/1
+3.3: LMP Simmons faced Sohail Tanvir, scored 1 runs. Team score: 22/1
+3.4: DR Smith faced Sohail Tanvir, scored 0 runs. Team score: 22/1
+3.5: DR Smith faced Sohail Tanvir, scored 0 runs. Team score: 22/1
+caught!, Batsman: DR Smith (8 runs from 13 balls), Bowler: Sohail Tanvir (figures: 1/7). Fielders involved: Kamran Akmal. Team score: 22/2
+3.6: MN Samuels faced Sohail Tanvir, scored 0 runs. Team score: 22/2
+4.1: LMP Simmons faced Zulfiqar Babar, scored 0 runs. Team score: 22/2
+4.2: LMP Simmons faced Zulfiqar Babar, scored 0 runs. Team score: 22/2
+4.3: LMP Simmons faced Zulfiqar Babar, scored 6 runs. Team score: 28/2
+4.4: LMP Simmons faced Zulfiqar Babar, scored 4 runs. Team score: 32/2
+4.5: LMP Simmons faced Zulfiqar Babar, scored 0 runs. Team score: 32/2
+4.6: LMP Simmons faced Zulfiqar Babar, scored 0 runs. Team score: 32/2
+5.1: MN Samuels faced Sohail Tanvir, scored 0 runs. Team score: 32/2
+5.2: MN Samuels faced Sohail Tanvir, scored 1 runs. Team score: 33/2
+5.3: LMP Simmons faced Sohail Tanvir, scored 1 runs. Team score: 34/2
+5.4: MN Samuels faced Sohail Tanvir, scored 4 runs. Team score: 38/2
+5.5: MN Samuels faced Sohail Tanvir, scored 1 runs. Team score: 39/2
+5.6: LMP Simmons faced Sohail Tanvir, scored 0 runs. Team score: 39/2
+6.1: MN Samuels faced Shahid Afridi, scored 0 runs. Team score: 39/2
+6.2: MN Samuels faced Shahid Afridi, scored 1 runs. Team score: 40/2
+6.3: LMP Simmons faced Shahid Afridi, scored 0 runs. Team score: 40/2
+6.4: LMP Simmons faced Shahid Afridi, scored 0 runs. Team score: 40/2
+6.5: LMP Simmons faced Shahid Afridi, scored 1 runs. Team score: 41/2
+6.6: MN Samuels faced Shahid Afridi, scored 2 runs. Team score: 43/2
+7.1: LMP Simmons faced Umar Gul, scored 1 runs. Team score: 44/2
+7.2: MN Samuels faced Umar Gul, scored 1 runs. Team score: 45/2
+7.3: LMP Simmons faced Umar Gul, scored 0 runs. Team score: 45/2
+7.4: LMP Simmons faced Umar Gul, scored 0 runs. Team score: 45/2
+7.5: LMP Simmons faced Umar Gul, scored 6 runs. Team score: 51/2
+7.6: LMP Simmons faced Umar Gul, scored 0 runs. Team score: 51/2
+8.1: MN Samuels faced Shahid Afridi, scored 0 runs. Team score: 51/2
+8.2: MN Samuels faced Shahid Afridi, scored 1 runs. Team score: 52/2
+8.3: LMP Simmons faced Shahid Afridi, scored 2 runs. Team score: 54/2
+8.4: LMP Simmons faced Shahid Afridi, scored 1 runs. Team score: 55/2
+8.5: MN Samuels faced Shahid Afridi, scored 2 runs. Team score: 57/2
+8.6: MN Samuels faced Shahid Afridi, scored 1 runs. Team score: 58/2
+9.1: MN Samuels faced Saeed Ajmal, scored 1 runs. Team score: 59/2
+9.2: LMP Simmons faced Saeed Ajmal, scored 1 runs. Team score: 60/2
+9.3: LMP Simmons faced Saeed Ajmal, scored 0 runs. Team score: 60/2
+9.4: LMP Simmons faced Saeed Ajmal, scored 0 runs. Team score: 60/2
+9.5: LMP Simmons faced Saeed Ajmal, scored 0 runs. Team score: 60/2
+9.6: LMP Simmons faced Saeed Ajmal, scored 1 runs. Team score: 61/2
+9.0: MN Samuels faced Saeed Ajmal, scored 0 runs. Team score: 61/2
+10.1: LMP Simmons faced Shahid Afridi, scored 0 runs. Team score: 61/2
+run out!, Batsman: LMP Simmons (32 runs from 30 balls), Bowler: Shahid Afridi (figures: 1/11). Fielders involved: Umar Gul. Team score: 61/3
+10.2: MN Samuels faced Shahid Afridi, scored 0 runs. Team score: 61/3
+10.3: MN Samuels faced Shahid Afridi, scored 6 runs. Team score: 67/3
+10.4: MN Samuels faced Shahid Afridi, scored 0 runs. Team score: 67/3
+bowled!, Batsman: MN Samuels (21 runs from 18 balls), Bowler: Shahid Afridi (figures: 2/17). Fielders involved: None. Team score: 67/4
+10.5: D Ramdin faced Shahid Afridi, scored 0 runs. Team score: 67/4
+10.6: D Ramdin faced Shahid Afridi, scored 2 runs. Team score: 69/4
+11.1: DJ Bravo faced Zulfiqar Babar, scored 1 runs. Team score: 70/4
+11.2: D Ramdin faced Zulfiqar Babar, scored 1 runs. Team score: 71/4
+11.3: DJ Bravo faced Zulfiqar Babar, scored 1 runs. Team score: 72/4
+11.4: D Ramdin faced Zulfiqar Babar, scored 0 runs. Team score: 72/4
+11.5: D Ramdin faced Zulfiqar Babar, scored 1 runs. Team score: 73/4
+11.6: DJ Bravo faced Zulfiqar Babar, scored 1 runs. Team score: 74/4
+11.0: DJ Bravo faced Zulfiqar Babar, scored 0 runs. Team score: 74/4
+12.1: D Ramdin faced Shahid Afridi, scored 0 runs. Team score: 74/4
+12.2: D Ramdin faced Shahid Afridi, scored 1 runs. Team score: 75/4
+12.3: DJ Bravo faced Shahid Afridi, scored 0 runs. Team score: 75/4
+12.4: DJ Bravo faced Shahid Afridi, scored 2 runs. Team score: 77/4
+12.5: DJ Bravo faced Shahid Afridi, scored 1 runs. Team score: 78/4
+12.6: D Ramdin faced Shahid Afridi, scored 0 runs. Team score: 78/4
+13.1: DJ Bravo faced Zulfiqar Babar, scored 0 runs. Team score: 78/4
+13.2: DJ Bravo faced Zulfiqar Babar, scored 1 runs. Team score: 79/4
+13.3: D Ramdin faced Zulfiqar Babar, scored 1 runs. Team score: 80/4
+13.4: DJ Bravo faced Zulfiqar Babar, scored 1 runs. Team score: 81/4
+13.5: D Ramdin faced Zulfiqar Babar, scored 0 runs. Team score: 81/4
+caught!, Batsman: D Ramdin (6 runs from 10 balls), Bowler: Zulfiqar Babar (figures: 1/18). Fielders involved: Umar Akmal. Team score: 81/5
+13.6: DJG Sammy faced Zulfiqar Babar, scored 0 runs. Team score: 81/5
+14.1: DJ Bravo faced Saeed Ajmal, scored 1 runs. Team score: 82/5
+14.2: DJG Sammy faced Saeed Ajmal, scored 0 runs. Team score: 82/5
+14.3: DJG Sammy faced Saeed Ajmal, scored 1 runs. Team score: 83/5
+14.4: DJ Bravo faced Saeed Ajmal, scored 1 runs. Team score: 84/5
+14.5: DJG Sammy faced Saeed Ajmal, scored 0 runs. Team score: 84/5
+14.6: DJG Sammy faced Saeed Ajmal, scored 0 runs. Team score: 84/5
+15.1: DJ Bravo faced Zulfiqar Babar, scored 4 runs. Team score: 88/5
+15.2: DJ Bravo faced Zulfiqar Babar, scored 0 runs. Team score: 88/5
+15.3: DJ Bravo faced Zulfiqar Babar, scored 0 runs. Team score: 88/5
+15.4: DJ Bravo faced Zulfiqar Babar, scored 1 runs. Team score: 89/5
+15.5: DJ Bravo faced Zulfiqar Babar, scored 1 runs. Team score: 90/5
+15.6: DJG Sammy faced Zulfiqar Babar, scored 4 runs. Team score: 94/5
+15.0: DJG Sammy faced Zulfiqar Babar, scored 1 runs. Team score: 95/5
+16.1: DJG Sammy faced Saeed Ajmal, scored 1 runs. Team score: 96/5
+16.2: DJ Bravo faced Saeed Ajmal, scored 1 runs. Team score: 97/5
+16.3: DJG Sammy faced Saeed Ajmal, scored 4 runs. Team score: 101/5
+16.4: DJG Sammy faced Saeed Ajmal, scored 0 runs. Team score: 101/5
+16.5: DJG Sammy faced Saeed Ajmal, scored 2 runs. Team score: 103/5
+16.6: DJG Sammy faced Saeed Ajmal, scored 4 runs. Team score: 107/5
+17.1: DJ Bravo faced Umar Gul, scored 6 runs. Team score: 113/5
+17.2: DJ Bravo faced Umar Gul, scored 6 runs. Team score: 119/5
+17.3: DJ Bravo faced Umar Gul, scored 1 runs. Team score: 120/5
+17.4: DJ Bravo faced Umar Gul, scored 0 runs. Team score: 120/5
+17.5: DJ Bravo faced Umar Gul, scored 4 runs. Team score: 124/5
+17.6: DJ Bravo faced Umar Gul, scored 2 runs. Team score: 126/5
+17.0: DJ Bravo faced Umar Gul, scored 2 runs. Team score: 128/5
+18.1: DJG Sammy faced Saeed Ajmal, scored 1 runs. Team score: 129/5
+18.2: DJ Bravo faced Saeed Ajmal, scored 6 runs. Team score: 135/5
+18.3: DJ Bravo faced Saeed Ajmal, scored 6 runs. Team score: 141/5
+18.4: DJ Bravo faced Saeed Ajmal, scored 1 runs. Team score: 142/5
+18.5: DJG Sammy faced Saeed Ajmal, scored 6 runs. Team score: 148/5
+18.6: DJG Sammy faced Saeed Ajmal, scored 4 runs. Team score: 152/5
+19.1: DJ Bravo faced Sohail Tanvir, scored 0 runs. Team score: 152/5
+run out!, Batsman: DJ Bravo (51 runs from 29 balls), Bowler: Sohail Tanvir (figures: 2/14). Fielders involved: Kamran Akmal. Team score: 152/6
+19.2: DJG Sammy faced Sohail Tanvir, scored 4 runs. Team score: 156/6
+19.3: DJG Sammy faced Sohail Tanvir, scored 0 runs. Team score: 156/6
+19.4: DJG Sammy faced Sohail Tanvir, scored 6 runs. Team score: 162/6
+19.5: DJG Sammy faced Sohail Tanvir, scored 2 runs. Team score: 164/6
+19.6: DJG Sammy faced Sohail Tanvir, scored 2 runs. Team score: 166/6
+End of innings for West Indies: 166/6 in 20.0 overs
+Batsman scores:
+DR Smith: 8 runs from 13 balls
+CH Gayle: 6 runs from 5 balls
+LMP Simmons: 32 runs from 30 balls
+MN Samuels: 21 runs from 18 balls
+D Ramdin: 6 runs from 10 balls
+DJ Bravo: 51 runs from 29 balls
+DJG Sammy: 42 runs from 20 balls
+Bowler figures:
+Mohammad Hafeez: 1 wickets for 15 runs
+Sohail Tanvir: 2 wickets for 28 runs
+Zulfiqar Babar: 1 wickets for 29 runs
+Shahid Afridi: 2 wickets for 23 runs
+Umar Gul: 0 wickets for 29 runs
+Saeed Ajmal: 0 wickets for 42 runs
+
+Innings 2:
+0.1: Ahmed Shehzad faced K Santokie, scored 0 runs. Team score: 0/0
+lbw!, Batsman: Ahmed Shehzad (0 runs from 1 balls), Bowler: K Santokie (figures: 1/0). Fielders involved: None. Team score: 0/1
+0.2: Mohammad Hafeez faced K Santokie, scored 1 runs. Team score: 1/1
+0.3: Mohammad Hafeez faced K Santokie, scored 0 runs. Team score: 1/1
+0.4: Mohammad Hafeez faced K Santokie, scored 0 runs. Team score: 1/1
+0.5: Mohammad Hafeez faced K Santokie, scored 0 runs. Team score: 1/1
+0.6: Mohammad Hafeez faced K Santokie, scored 0 runs. Team score: 1/1
+0.0: Mohammad Hafeez faced K Santokie, scored 0 runs. Team score: 1/1
+Maiden over by K Santokie
+1.1: Kamran Akmal faced S Badree, scored 0 runs. Team score: 1/1
+1.2: Kamran Akmal faced S Badree, scored 0 runs. Team score: 1/1
+1.3: Kamran Akmal faced S Badree, scored 0 runs. Team score: 1/1
+caught!, Batsman: Kamran Akmal (0 runs from 3 balls), Bowler: S Badree (figures: 1/0). Fielders involved: DJ Bravo. Team score: 1/2
+1.4: Umar Akmal faced S Badree, scored 1 runs. Team score: 2/2
+1.5: Mohammad Hafeez faced S Badree, scored 0 runs. Team score: 2/2
+1.6: Mohammad Hafeez faced S Badree, scored 1 runs. Team score: 3/2
+2.1: Mohammad Hafeez faced K Santokie, scored 1 runs. Team score: 4/2
+2.2: Mohammad Hafeez faced K Santokie, scored 1 runs. Team score: 5/2
+2.3: Mohammad Hafeez faced K Santokie, scored 0 runs. Team score: 5/2
+2.4: Mohammad Hafeez faced K Santokie, scored 2 runs. Team score: 7/2
+2.5: Mohammad Hafeez faced K Santokie, scored 0 runs. Team score: 7/2
+2.6: Mohammad Hafeez faced K Santokie, scored 1 runs. Team score: 8/2
+2.0: Umar Akmal faced K Santokie, scored 0 runs. Team score: 8/2
+3.1: Mohammad Hafeez faced S Badree, scored 0 runs. Team score: 8/2
+3.2: Mohammad Hafeez faced S Badree, scored 0 runs. Team score: 8/2
+3.3: Mohammad Hafeez faced S Badree, scored 1 runs. Team score: 9/2
+3.4: Umar Akmal faced S Badree, scored 0 runs. Team score: 9/2
+3.5: Umar Akmal faced S Badree, scored 0 runs. Team score: 9/2
+3.6: Umar Akmal faced S Badree, scored 0 runs. Team score: 9/2
+stumped!, Batsman: Umar Akmal (1 runs from 5 balls), Bowler: S Badree (figures: 2/3). Fielders involved: D Ramdin. Team score: 9/3
+4.1: Mohammad Hafeez faced MN Samuels, scored 0 runs. Team score: 9/3
+4.2: Mohammad Hafeez faced MN Samuels, scored 1 runs. Team score: 10/3
+4.3: Shoaib Malik faced MN Samuels, scored 0 runs. Team score: 10/3
+4.4: Shoaib Malik faced MN Samuels, scored 0 runs. Team score: 10/3
+4.5: Shoaib Malik faced MN Samuels, scored 0 runs. Team score: 10/3
+4.6: Shoaib Malik faced MN Samuels, scored 1 runs. Team score: 11/3
+5.1: Shoaib Malik faced S Badree, scored 1 runs. Team score: 12/3
+5.2: Mohammad Hafeez faced S Badree, scored 1 runs. Team score: 13/3
+5.3: Shoaib Malik faced S Badree, scored 0 runs. Team score: 13/3
+stumped!, Batsman: Shoaib Malik (2 runs from 6 balls), Bowler: S Badree (figures: 3/5). Fielders involved: D Ramdin. Team score: 13/4
+5.4: Sohaib Maqsood faced S Badree, scored 0 runs. Team score: 13/4
+5.5: Sohaib Maqsood faced S Badree, scored 0 runs. Team score: 13/4
+5.6: Sohaib Maqsood faced S Badree, scored 0 runs. Team score: 13/4
+6.1: Mohammad Hafeez faced MN Samuels, scored 0 runs. Team score: 13/4
+6.2: Mohammad Hafeez faced MN Samuels, scored 1 runs. Team score: 14/4
+6.3: Sohaib Maqsood faced MN Samuels, scored 0 runs. Team score: 14/4
+6.4: Sohaib Maqsood faced MN Samuels, scored 6 runs. Team score: 20/4
+6.5: Sohaib Maqsood faced MN Samuels, scored 1 runs. Team score: 21/4
+6.6: Mohammad Hafeez faced MN Samuels, scored 2 runs. Team score: 23/4
+7.1: Sohaib Maqsood faced S Badree, scored 1 runs. Team score: 24/4
+7.2: Mohammad Hafeez faced S Badree, scored 1 runs. Team score: 25/4
+7.3: Sohaib Maqsood faced S Badree, scored 1 runs. Team score: 26/4
+7.4: Mohammad Hafeez faced S Badree, scored 0 runs. Team score: 26/4
+7.5: Mohammad Hafeez faced S Badree, scored 1 runs. Team score: 27/4
+7.6: Sohaib Maqsood faced S Badree, scored 1 runs. Team score: 28/4
+8.1: Sohaib Maqsood faced AD Russell, scored 1 runs. Team score: 29/4
+8.2: Mohammad Hafeez faced AD Russell, scored 0 runs. Team score: 29/4
+8.3: Mohammad Hafeez faced AD Russell, scored 1 runs. Team score: 30/4
+8.4: Sohaib Maqsood faced AD Russell, scored 0 runs. Team score: 30/4
+8.5: Sohaib Maqsood faced AD Russell, scored 1 runs. Team score: 31/4
+8.6: Mohammad Hafeez faced AD Russell, scored 1 runs. Team score: 32/4
+9.1: Mohammad Hafeez faced SP Narine, scored 1 runs. Team score: 33/4
+9.2: Sohaib Maqsood faced SP Narine, scored 0 runs. Team score: 33/4
+9.3: Sohaib Maqsood faced SP Narine, scored 0 runs. Team score: 33/4
+9.4: Sohaib Maqsood faced SP Narine, scored 0 runs. Team score: 33/4
+9.5: Sohaib Maqsood faced SP Narine, scored 1 runs. Team score: 34/4
+9.6: Mohammad Hafeez faced SP Narine, scored 1 runs. Team score: 35/4
+10.1: Mohammad Hafeez faced AD Russell, scored 0 runs. Team score: 35/4
+10.2: Mohammad Hafeez faced AD Russell, scored 2 runs. Team score: 37/4
+10.3: Mohammad Hafeez faced AD Russell, scored 0 runs. Team score: 37/4
+caught!, Batsman: Mohammad Hafeez (21 runs from 34 balls), Bowler: AD Russell (figures: 1/6). Fielders involved: CH Gayle. Team score: 37/5
+10.4: Sohaib Maqsood faced AD Russell, scored 0 runs. Team score: 37/5
+10.5: Sohaib Maqsood faced AD Russell, scored 4 runs. Team score: 41/5
+10.6: Sohaib Maqsood faced AD Russell, scored 1 runs. Team score: 42/5
+11.1: Sohaib Maqsood faced SP Narine, scored 0 runs. Team score: 42/5
+11.2: Sohaib Maqsood faced SP Narine, scored 0 runs. Team score: 42/5
+11.3: Sohaib Maqsood faced SP Narine, scored 0 runs. Team score: 42/5
+stumped!, Batsman: Sohaib Maqsood (18 runs from 22 balls), Bowler: SP Narine (figures: 1/3). Fielders involved: D Ramdin. Team score: 42/6
+11.4: Sohail Tanvir faced SP Narine, scored 0 runs. Team score: 42/6
+11.5: Sohail Tanvir faced SP Narine, scored 6 runs. Team score: 48/6
+11.6: Sohail Tanvir faced SP Narine, scored 0 runs. Team score: 48/6
+12.1: Shahid Afridi faced MN Samuels, scored 1 runs. Team score: 49/6
+12.2: Sohail Tanvir faced MN Samuels, scored 0 runs. Team score: 49/6
+12.3: Sohail Tanvir faced MN Samuels, scored 1 runs. Team score: 50/6
+12.4: Shahid Afridi faced MN Samuels, scored 6 runs. Team score: 56/6
+12.5: Shahid Afridi faced MN Samuels, scored 0 runs. Team score: 56/6
+12.6: Shahid Afridi faced MN Samuels, scored 1 runs. Team score: 57/6
+13.1: Shahid Afridi faced SP Narine, scored 1 runs. Team score: 58/6
+13.2: Sohail Tanvir faced SP Narine, scored 1 runs. Team score: 59/6
+13.3: Shahid Afridi faced SP Narine, scored 1 runs. Team score: 60/6
+13.4: Sohail Tanvir faced SP Narine, scored 0 runs. Team score: 60/6
+13.5: Sohail Tanvir faced SP Narine, scored 1 runs. Team score: 61/6
+13.6: Shahid Afridi faced SP Narine, scored 2 runs. Team score: 63/6
+14.1: Sohail Tanvir faced DR Smith, scored 4 runs. Team score: 67/6
+14.2: Sohail Tanvir faced DR Smith, scored 1 runs. Team score: 68/6
+14.3: Shahid Afridi faced DR Smith, scored 0 runs. Team score: 68/6
+14.4: Shahid Afridi faced DR Smith, scored 0 runs. Team score: 68/6
+14.5: Shahid Afridi faced DR Smith, scored 6 runs. Team score: 74/6
+14.6: Shahid Afridi faced DR Smith, scored 0 runs. Team score: 74/6
+15.1: Sohail Tanvir faced SP Narine, scored 0 runs. Team score: 74/6
+15.2: Sohail Tanvir faced SP Narine, scored 0 runs. Team score: 74/6
+caught!, Batsman: Sohail Tanvir (14 runs from 12 balls), Bowler: SP Narine (figures: 2/15). Fielders involved: DJG Sammy. Team score: 74/7
+15.3: Umar Gul faced SP Narine, scored 0 runs. Team score: 74/7
+15.4: Umar Gul faced SP Narine, scored 1 runs. Team score: 75/7
+15.5: Shahid Afridi faced SP Narine, scored 0 runs. Team score: 75/7
+stumped!, Batsman: Shahid Afridi (18 runs from 12 balls), Bowler: SP Narine (figures: 3/16). Fielders involved: D Ramdin. Team score: 75/8
+15.6: Saeed Ajmal faced SP Narine, scored 0 runs. Team score: 75/8
+16.1: Umar Gul faced AD Russell, scored 0 runs. Team score: 75/8
+16.2: Umar Gul faced AD Russell, scored 1 runs. Team score: 76/8
+16.3: Saeed Ajmal faced AD Russell, scored 1 runs. Team score: 77/8
+16.4: Umar Gul faced AD Russell, scored 1 runs. Team score: 78/8
+16.5: Saeed Ajmal faced AD Russell, scored 0 runs. Team score: 78/8
+bowled!, Batsman: Saeed Ajmal (1 runs from 3 balls), Bowler: AD Russell (figures: 2/14). Fielders involved: None. Team score: 78/9
+16.6: Zulfiqar Babar faced AD Russell, scored 1 runs. Team score: 79/9
+17.1: Zulfiqar Babar faced K Santokie, scored 0 runs. Team score: 79/9
+17.2: Zulfiqar Babar faced K Santokie, scored 1 runs. Team score: 80/9
+17.3: Umar Gul faced K Santokie, scored 1 runs. Team score: 81/9
+17.4: Zulfiqar Babar faced K Santokie, scored 1 runs. Team score: 82/9
+17.5: Umar Gul faced K Santokie, scored 0 runs. Team score: 82/9
+caught!, Batsman: Umar Gul (4 runs from 7 balls), Bowler: K Santokie (figures: 2/9). Fielders involved: LMP Simmons. Team score: 82/10
+End of innings for Pakistan: 82/10 in 18.5 overs
+Batsman scores:
+Ahmed Shehzad: 0 runs from 1 balls
+Mohammad Hafeez: 21 runs from 34 balls
+Kamran Akmal: 0 runs from 3 balls
+Umar Akmal: 1 runs from 5 balls
+Shoaib Malik: 2 runs from 6 balls
+Sohaib Maqsood: 18 runs from 22 balls
+Sohail Tanvir: 14 runs from 12 balls
+Shahid Afridi: 18 runs from 12 balls
+Umar Gul: 4 runs from 7 balls
+Saeed Ajmal: 1 runs from 3 balls
+Zulfiqar Babar: 3 runs from 4 balls
+Bowler figures:
+K Santokie: 2 wickets for 9 runs
+S Badree: 3 wickets for 10 runs
+MN Samuels: 0 wickets for 21 runs
+AD Russell: 2 wickets for 15 runs
+SP Narine: 3 wickets for 16 runs
+DR Smith: 0 wickets for 11 runs
+

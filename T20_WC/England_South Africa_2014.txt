@@ -1,0 +1,317 @@
+Match: World T20 - T20
+Date: 2014-03-29
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: England vs South Africa
+Toss: England won the toss and decided to field
+Result: South Africa won by 3 runs
+Man of the Match: AB de Villiers
+
+Innings 1:
+0.1: HM Amla faced MM Ali, scored 0 runs. Team score: 0/0
+0.2: HM Amla faced MM Ali, scored 1 runs. Team score: 1/0
+0.3: HM Amla faced MM Ali, scored 4 runs. Team score: 5/0
+0.4: HM Amla faced MM Ali, scored 1 runs. Team score: 6/0
+0.5: Q de Kock faced MM Ali, scored 0 runs. Team score: 6/0
+0.6: Q de Kock faced MM Ali, scored 0 runs. Team score: 6/0
+0.0: Q de Kock faced MM Ali, scored 0 runs. Team score: 6/0
+1.1: HM Amla faced JW Dernbach, scored 0 runs. Team score: 6/0
+1.2: HM Amla faced JW Dernbach, scored 6 runs. Team score: 12/0
+1.3: HM Amla faced JW Dernbach, scored 0 runs. Team score: 12/0
+1.4: HM Amla faced JW Dernbach, scored 4 runs. Team score: 16/0
+1.5: HM Amla faced JW Dernbach, scored 1 runs. Team score: 17/0
+1.6: HM Amla faced JW Dernbach, scored 0 runs. Team score: 17/0
+1.0: HM Amla faced JW Dernbach, scored 0 runs. Team score: 17/0
+2.1: Q de Kock faced MM Ali, scored 1 runs. Team score: 18/0
+2.2: HM Amla faced MM Ali, scored 4 runs. Team score: 22/0
+2.3: HM Amla faced MM Ali, scored 0 runs. Team score: 22/0
+2.4: HM Amla faced MM Ali, scored 0 runs. Team score: 22/0
+2.5: HM Amla faced MM Ali, scored 6 runs. Team score: 28/0
+2.6: HM Amla faced MM Ali, scored 0 runs. Team score: 28/0
+3.1: Q de Kock faced JW Dernbach, scored 0 runs. Team score: 28/0
+3.2: Q de Kock faced JW Dernbach, scored 1 runs. Team score: 29/0
+3.3: HM Amla faced JW Dernbach, scored 1 runs. Team score: 30/0
+3.4: Q de Kock faced JW Dernbach, scored 0 runs. Team score: 30/0
+3.5: Q de Kock faced JW Dernbach, scored 4 runs. Team score: 34/0
+3.6: Q de Kock faced JW Dernbach, scored 1 runs. Team score: 35/0
+4.1: Q de Kock faced TT Bresnan, scored 0 runs. Team score: 35/0
+4.2: Q de Kock faced TT Bresnan, scored 1 runs. Team score: 36/0
+4.3: HM Amla faced TT Bresnan, scored 0 runs. Team score: 36/0
+4.4: HM Amla faced TT Bresnan, scored 4 runs. Team score: 40/0
+4.5: HM Amla faced TT Bresnan, scored 1 runs. Team score: 41/0
+4.6: Q de Kock faced TT Bresnan, scored 1 runs. Team score: 42/0
+5.1: Q de Kock faced CJ Jordan, scored 1 runs. Team score: 43/0
+5.2: HM Amla faced CJ Jordan, scored 0 runs. Team score: 43/0
+5.3: HM Amla faced CJ Jordan, scored 4 runs. Team score: 47/0
+5.4: HM Amla faced CJ Jordan, scored 1 runs. Team score: 48/0
+5.5: Q de Kock faced CJ Jordan, scored 1 runs. Team score: 49/0
+5.6: Q de Kock faced CJ Jordan, scored 1 runs. Team score: 50/0
+5.0: HM Amla faced CJ Jordan, scored 2 runs. Team score: 52/0
+6.1: Q de Kock faced JC Tredwell, scored 1 runs. Team score: 53/0
+6.2: HM Amla faced JC Tredwell, scored 1 runs. Team score: 54/0
+6.3: Q de Kock faced JC Tredwell, scored 0 runs. Team score: 54/0
+6.4: Q de Kock faced JC Tredwell, scored 4 runs. Team score: 58/0
+6.5: Q de Kock faced JC Tredwell, scored 2 runs. Team score: 60/0
+6.6: Q de Kock faced JC Tredwell, scored 0 runs. Team score: 60/0
+7.1: HM Amla faced SCJ Broad, scored 1 runs. Team score: 61/0
+7.2: Q de Kock faced SCJ Broad, scored 0 runs. Team score: 61/0
+7.3: Q de Kock faced SCJ Broad, scored 1 runs. Team score: 62/0
+7.4: HM Amla faced SCJ Broad, scored 2 runs. Team score: 64/0
+7.5: HM Amla faced SCJ Broad, scored 0 runs. Team score: 64/0
+7.6: HM Amla faced SCJ Broad, scored 4 runs. Team score: 68/0
+8.1: Q de Kock faced JC Tredwell, scored 1 runs. Team score: 69/0
+8.2: HM Amla faced JC Tredwell, scored 1 runs. Team score: 70/0
+8.3: Q de Kock faced JC Tredwell, scored 0 runs. Team score: 70/0
+8.4: Q de Kock faced JC Tredwell, scored 1 runs. Team score: 71/0
+8.5: HM Amla faced JC Tredwell, scored 2 runs. Team score: 73/0
+8.6: HM Amla faced JC Tredwell, scored 1 runs. Team score: 74/0
+9.1: HM Amla faced RS Bopara, scored 1 runs. Team score: 75/0
+9.2: Q de Kock faced RS Bopara, scored 1 runs. Team score: 76/0
+9.3: HM Amla faced RS Bopara, scored 4 runs. Team score: 80/0
+9.4: HM Amla faced RS Bopara, scored 1 runs. Team score: 81/0
+9.5: Q de Kock faced RS Bopara, scored 1 runs. Team score: 82/0
+9.6: HM Amla faced RS Bopara, scored 1 runs. Team score: 83/0
+9.0: HM Amla faced RS Bopara, scored 2 runs. Team score: 85/0
+10.1: Q de Kock faced SCJ Broad, scored 1 runs. Team score: 86/0
+10.2: HM Amla faced SCJ Broad, scored 1 runs. Team score: 87/0
+10.3: Q de Kock faced SCJ Broad, scored 1 runs. Team score: 88/0
+10.4: HM Amla faced SCJ Broad, scored 2 runs. Team score: 90/0
+10.5: HM Amla faced SCJ Broad, scored 0 runs. Team score: 90/0
+caught!, Batsman: HM Amla (64 runs from 40 balls), Bowler: SCJ Broad (figures: 1/13). Fielders involved: AD Hales. Team score: 90/1
+10.6: Q de Kock faced SCJ Broad, scored 0 runs. Team score: 90/1
+11.1: AB de Villiers faced RS Bopara, scored 1 runs. Team score: 91/1
+11.2: Q de Kock faced RS Bopara, scored 1 runs. Team score: 92/1
+11.3: AB de Villiers faced RS Bopara, scored 1 runs. Team score: 93/1
+11.4: Q de Kock faced RS Bopara, scored 2 runs. Team score: 95/1
+11.5: Q de Kock faced RS Bopara, scored 1 runs. Team score: 96/1
+11.6: AB de Villiers faced RS Bopara, scored 1 runs. Team score: 97/1
+12.1: AB de Villiers faced JC Tredwell, scored 1 runs. Team score: 98/1
+12.2: Q de Kock faced JC Tredwell, scored 0 runs. Team score: 98/1
+stumped!, Batsman: Q de Kock (30 runs from 34 balls), Bowler: JC Tredwell (figures: 1/15). Fielders involved: JC Buttler. Team score: 98/2
+12.3: JP Duminy faced JC Tredwell, scored 1 runs. Team score: 99/2
+12.4: AB de Villiers faced JC Tredwell, scored 4 runs. Team score: 103/2
+12.5: AB de Villiers faced JC Tredwell, scored 4 runs. Team score: 107/2
+12.6: AB de Villiers faced JC Tredwell, scored 1 runs. Team score: 108/2
+13.1: AB de Villiers faced SCJ Broad, scored 4 runs. Team score: 112/2
+13.2: AB de Villiers faced SCJ Broad, scored 1 runs. Team score: 113/2
+13.3: JP Duminy faced SCJ Broad, scored 1 runs. Team score: 114/2
+13.4: AB de Villiers faced SCJ Broad, scored 0 runs. Team score: 114/2
+13.5: AB de Villiers faced SCJ Broad, scored 2 runs. Team score: 116/2
+13.6: AB de Villiers faced SCJ Broad, scored 0 runs. Team score: 116/2
+14.1: JP Duminy faced CJ Jordan, scored 1 runs. Team score: 117/2
+14.2: JP Duminy faced CJ Jordan, scored 0 runs. Team score: 117/2
+14.3: JP Duminy faced CJ Jordan, scored 2 runs. Team score: 119/2
+14.4: JP Duminy faced CJ Jordan, scored 1 runs. Team score: 120/2
+run out!, Batsman: JP Duminy (6 runs from 6 balls), Bowler: CJ Jordan (figures: 1/14). Fielders involved: RS Bopara, JC Buttler. Team score: 120/3
+14.5: DA Miller faced CJ Jordan, scored 0 runs. Team score: 120/3
+14.6: DA Miller faced CJ Jordan, scored 0 runs. Team score: 120/3
+14.0: DA Miller faced CJ Jordan, scored 1 runs. Team score: 121/3
+15.1: DA Miller faced TT Bresnan, scored 0 runs. Team score: 121/3
+15.2: DA Miller faced TT Bresnan, scored 1 runs. Team score: 122/3
+15.3: AB de Villiers faced TT Bresnan, scored 0 runs. Team score: 122/3
+15.4: AB de Villiers faced TT Bresnan, scored 1 runs. Team score: 123/3
+15.5: DA Miller faced TT Bresnan, scored 1 runs. Team score: 124/3
+15.6: AB de Villiers faced TT Bresnan, scored 4 runs. Team score: 128/3
+16.1: DA Miller faced SCJ Broad, scored 1 runs. Team score: 129/3
+16.2: AB de Villiers faced SCJ Broad, scored 2 runs. Team score: 131/3
+16.3: AB de Villiers faced SCJ Broad, scored 4 runs. Team score: 135/3
+16.4: AB de Villiers faced SCJ Broad, scored 1 runs. Team score: 136/3
+16.5: DA Miller faced SCJ Broad, scored 1 runs. Team score: 137/3
+16.6: AB de Villiers faced SCJ Broad, scored 4 runs. Team score: 141/3
+17.1: DA Miller faced JW Dernbach, scored 4 runs. Team score: 145/3
+17.2: DA Miller faced JW Dernbach, scored 4 runs. Team score: 149/3
+17.3: DA Miller faced JW Dernbach, scored 1 runs. Team score: 150/3
+17.4: DA Miller faced JW Dernbach, scored 1 runs. Team score: 151/3
+17.5: AB de Villiers faced JW Dernbach, scored 2 runs. Team score: 153/3
+17.6: AB de Villiers faced JW Dernbach, scored 1 runs. Team score: 154/3
+17.0: AB de Villiers faced JW Dernbach, scored 6 runs. Team score: 160/3
+17.1: AB de Villiers faced JW Dernbach, scored 1 runs. Team score: 161/3
+17.2: AB de Villiers faced JW Dernbach, scored 6 runs. Team score: 167/3
+18.1: DA Miller faced CJ Jordan, scored 1 runs. Team score: 168/3
+18.2: DA Miller faced CJ Jordan, scored 6 runs. Team score: 174/3
+18.3: DA Miller faced CJ Jordan, scored 0 runs. Team score: 174/3
+18.4: DA Miller faced CJ Jordan, scored 0 runs. Team score: 174/3
+18.5: DA Miller faced CJ Jordan, scored 0 runs. Team score: 174/3
+caught!, Batsman: DA Miller (22 runs from 17 balls), Bowler: CJ Jordan (figures: 2/22). Fielders involved: MM Ali. Team score: 174/4
+18.6: AB de Villiers faced CJ Jordan, scored 4 runs. Team score: 178/4
+18.0: AB de Villiers faced CJ Jordan, scored 4 runs. Team score: 182/4
+19.1: JA Morkel faced TT Bresnan, scored 2 runs. Team score: 184/4
+19.2: JA Morkel faced TT Bresnan, scored 1 runs. Team score: 185/4
+19.3: AB de Villiers faced TT Bresnan, scored 6 runs. Team score: 191/4
+19.4: AB de Villiers faced TT Bresnan, scored 4 runs. Team score: 195/4
+19.5: AB de Villiers faced TT Bresnan, scored 1 runs. Team score: 196/4
+19.6: JA Morkel faced TT Bresnan, scored 0 runs. Team score: 196/4
+bowled!, Batsman: JA Morkel (3 runs from 3 balls), Bowler: TT Bresnan (figures: 1/28). Fielders involved: None. Team score: 196/5
+End of innings for South Africa: 196/5 in 20.0 overs
+Batsman scores:
+HM Amla: 64 runs from 40 balls
+Q de Kock: 30 runs from 34 balls
+AB de Villiers: 71 runs from 29 balls
+JP Duminy: 6 runs from 6 balls
+DA Miller: 22 runs from 17 balls
+JA Morkel: 3 runs from 3 balls
+Bowler figures:
+MM Ali: 0 wickets for 17 runs
+JW Dernbach: 0 wickets for 44 runs
+TT Bresnan: 1 wickets for 28 runs
+CJ Jordan: 2 wickets for 30 runs
+JC Tredwell: 1 wickets for 25 runs
+SCJ Broad: 1 wickets for 34 runs
+RS Bopara: 0 wickets for 18 runs
+
+Innings 2:
+0.1: AD Hales faced JP Duminy, scored 0 runs. Team score: 0/0
+0.2: AD Hales faced JP Duminy, scored 0 runs. Team score: 0/0
+0.3: AD Hales faced JP Duminy, scored 0 runs. Team score: 0/0
+0.4: AD Hales faced JP Duminy, scored 4 runs. Team score: 4/0
+0.5: AD Hales faced JP Duminy, scored 4 runs. Team score: 8/0
+0.6: AD Hales faced JP Duminy, scored 1 runs. Team score: 9/0
+1.1: AD Hales faced JA Morkel, scored 1 runs. Team score: 10/0
+1.2: MJ Lumb faced JA Morkel, scored 0 runs. Team score: 10/0
+1.3: MJ Lumb faced JA Morkel, scored 1 runs. Team score: 11/0
+1.4: AD Hales faced JA Morkel, scored 1 runs. Team score: 12/0
+1.5: AD Hales faced JA Morkel, scored 4 runs. Team score: 16/0
+1.6: AD Hales faced JA Morkel, scored 4 runs. Team score: 20/0
+1.0: AD Hales faced JA Morkel, scored 2 runs. Team score: 22/0
+2.1: MJ Lumb faced BE Hendricks, scored 0 runs. Team score: 22/0
+2.2: MJ Lumb faced BE Hendricks, scored 6 runs. Team score: 28/0
+2.3: MJ Lumb faced BE Hendricks, scored 0 runs. Team score: 28/0
+2.4: MJ Lumb faced BE Hendricks, scored 0 runs. Team score: 28/0
+2.5: MJ Lumb faced BE Hendricks, scored 1 runs. Team score: 29/0
+2.6: AD Hales faced BE Hendricks, scored 1 runs. Team score: 30/0
+3.1: AD Hales faced DW Steyn, scored 1 runs. Team score: 31/0
+3.2: AD Hales faced DW Steyn, scored 1 runs. Team score: 32/0
+3.3: MJ Lumb faced DW Steyn, scored 1 runs. Team score: 33/0
+3.4: AD Hales faced DW Steyn, scored 1 runs. Team score: 34/0
+3.5: MJ Lumb faced DW Steyn, scored 0 runs. Team score: 34/0
+3.6: MJ Lumb faced DW Steyn, scored 0 runs. Team score: 34/0
+3.0: MJ Lumb faced DW Steyn, scored 6 runs. Team score: 40/0
+4.1: AD Hales faced WD Parnell, scored 1 runs. Team score: 41/0
+4.2: AD Hales faced WD Parnell, scored 1 runs. Team score: 42/0
+4.3: MJ Lumb faced WD Parnell, scored 0 runs. Team score: 42/0
+4.4: MJ Lumb faced WD Parnell, scored 4 runs. Team score: 46/0
+4.5: MJ Lumb faced WD Parnell, scored 0 runs. Team score: 46/0
+caught!, Batsman: MJ Lumb (19 runs from 14 balls), Bowler: WD Parnell (figures: 1/6). Fielders involved: DA Miller. Team score: 46/1
+4.6: MM Ali faced WD Parnell, scored 0 runs. Team score: 46/1
+4.0: MM Ali faced WD Parnell, scored 1 runs. Team score: 47/1
+5.1: MM Ali faced BE Hendricks, scored 1 runs. Team score: 48/1
+5.2: AD Hales faced BE Hendricks, scored 0 runs. Team score: 48/1
+5.3: AD Hales faced BE Hendricks, scored 0 runs. Team score: 48/1
+5.4: AD Hales faced BE Hendricks, scored 4 runs. Team score: 52/1
+5.5: AD Hales faced BE Hendricks, scored 4 runs. Team score: 56/1
+5.6: AD Hales faced BE Hendricks, scored 6 runs. Team score: 62/1
+6.1: MM Ali faced Imran Tahir, scored 1 runs. Team score: 63/1
+6.2: AD Hales faced Imran Tahir, scored 1 runs. Team score: 64/1
+6.3: MM Ali faced Imran Tahir, scored 0 runs. Team score: 64/1
+6.4: MM Ali faced Imran Tahir, scored 2 runs. Team score: 66/1
+6.5: MM Ali faced Imran Tahir, scored 4 runs. Team score: 70/1
+6.6: MM Ali faced Imran Tahir, scored 1 runs. Team score: 71/1
+7.1: MM Ali faced WD Parnell, scored 1 runs. Team score: 72/1
+7.2: AD Hales faced WD Parnell, scored 1 runs. Team score: 73/1
+7.3: AD Hales faced WD Parnell, scored 0 runs. Team score: 73/1
+caught!, Batsman: AD Hales (43 runs from 25 balls), Bowler: WD Parnell (figures: 2/9). Fielders involved: DA Miller. Team score: 73/2
+7.4: MM Ali faced WD Parnell, scored 0 runs. Team score: 73/2
+caught!, Batsman: MM Ali (11 runs from 10 balls), Bowler: WD Parnell (figures: 3/9). Fielders involved: Q de Kock. Team score: 73/3
+7.5: JC Buttler faced WD Parnell, scored 1 runs. Team score: 74/3
+7.6: EJG Morgan faced WD Parnell, scored 0 runs. Team score: 74/3
+7.0: EJG Morgan faced WD Parnell, scored 1 runs. Team score: 75/3
+8.1: EJG Morgan faced JP Duminy, scored 1 runs. Team score: 76/3
+8.2: EJG Morgan faced JP Duminy, scored 0 runs. Team score: 76/3
+8.3: EJG Morgan faced JP Duminy, scored 4 runs. Team score: 80/3
+8.4: EJG Morgan faced JP Duminy, scored 1 runs. Team score: 81/3
+8.5: JC Buttler faced JP Duminy, scored 1 runs. Team score: 82/3
+8.6: EJG Morgan faced JP Duminy, scored 1 runs. Team score: 83/3
+8.0: JC Buttler faced JP Duminy, scored 1 runs. Team score: 84/3
+9.1: JC Buttler faced JA Morkel, scored 1 runs. Team score: 85/3
+9.2: EJG Morgan faced JA Morkel, scored 1 runs. Team score: 86/3
+9.3: JC Buttler faced JA Morkel, scored 1 runs. Team score: 87/3
+9.4: JC Buttler faced JA Morkel, scored 1 runs. Team score: 88/3
+9.5: EJG Morgan faced JA Morkel, scored 1 runs. Team score: 89/3
+9.6: JC Buttler faced JA Morkel, scored 2 runs. Team score: 91/3
+9.0: JC Buttler faced JA Morkel, scored 1 runs. Team score: 92/3
+10.1: JC Buttler faced Imran Tahir, scored 0 runs. Team score: 92/3
+10.2: JC Buttler faced Imran Tahir, scored 2 runs. Team score: 94/3
+10.3: JC Buttler faced Imran Tahir, scored 2 runs. Team score: 96/3
+10.4: JC Buttler faced Imran Tahir, scored 1 runs. Team score: 97/3
+10.5: EJG Morgan faced Imran Tahir, scored 1 runs. Team score: 98/3
+10.6: JC Buttler faced Imran Tahir, scored 1 runs. Team score: 99/3
+11.1: JC Buttler faced DW Steyn, scored 1 runs. Team score: 100/3
+11.2: EJG Morgan faced DW Steyn, scored 1 runs. Team score: 101/3
+11.3: JC Buttler faced DW Steyn, scored 1 runs. Team score: 102/3
+11.4: EJG Morgan faced DW Steyn, scored 0 runs. Team score: 102/3
+11.5: EJG Morgan faced DW Steyn, scored 2 runs. Team score: 104/3
+11.6: EJG Morgan faced DW Steyn, scored 1 runs. Team score: 105/3
+12.1: EJG Morgan faced Imran Tahir, scored 0 runs. Team score: 105/3
+caught!, Batsman: EJG Morgan (15 runs from 15 balls), Bowler: Imran Tahir (figures: 1/16). Fielders involved: Q de Kock. Team score: 105/4
+12.2: RS Bopara faced Imran Tahir, scored 1 runs. Team score: 106/4
+12.3: JC Buttler faced Imran Tahir, scored 1 runs. Team score: 107/4
+12.4: RS Bopara faced Imran Tahir, scored 1 runs. Team score: 108/4
+12.5: JC Buttler faced Imran Tahir, scored 2 runs. Team score: 110/4
+12.6: JC Buttler faced Imran Tahir, scored 1 runs. Team score: 111/4
+13.1: JC Buttler faced BE Hendricks, scored 4 runs. Team score: 115/4
+13.2: JC Buttler faced BE Hendricks, scored 4 runs. Team score: 119/4
+13.3: JC Buttler faced BE Hendricks, scored 1 runs. Team score: 120/4
+13.4: RS Bopara faced BE Hendricks, scored 1 runs. Team score: 121/4
+13.5: RS Bopara faced BE Hendricks, scored 1 runs. Team score: 122/4
+13.6: JC Buttler faced BE Hendricks, scored 0 runs. Team score: 122/4
+13.0: JC Buttler faced BE Hendricks, scored 6 runs. Team score: 128/4
+14.1: RS Bopara faced Imran Tahir, scored 0 runs. Team score: 128/4
+14.2: RS Bopara faced Imran Tahir, scored 3 runs. Team score: 131/4
+14.3: JC Buttler faced Imran Tahir, scored 0 runs. Team score: 131/4
+14.4: JC Buttler faced Imran Tahir, scored 0 runs. Team score: 131/4
+caught!, Batsman: JC Buttler (36 runs from 25 balls), Bowler: Imran Tahir (figures: 2/25). Fielders involved: JA Morkel. Team score: 131/5
+14.5: CJ Jordan faced Imran Tahir, scored 1 runs. Team score: 132/5
+14.6: RS Bopara faced Imran Tahir, scored 1 runs. Team score: 133/5
+15.1: RS Bopara faced WD Parnell, scored 1 runs. Team score: 134/5
+15.2: CJ Jordan faced WD Parnell, scored 1 runs. Team score: 135/5
+15.3: CJ Jordan faced WD Parnell, scored 1 runs. Team score: 136/5
+15.4: RS Bopara faced WD Parnell, scored 1 runs. Team score: 137/5
+15.5: CJ Jordan faced WD Parnell, scored 0 runs. Team score: 137/5
+15.6: CJ Jordan faced WD Parnell, scored 4 runs. Team score: 141/5
+15.0: CJ Jordan faced WD Parnell, scored 1 runs. Team score: 142/5
+16.1: CJ Jordan faced DW Steyn, scored 1 runs. Team score: 143/5
+16.2: RS Bopara faced DW Steyn, scored 1 runs. Team score: 144/5
+16.3: CJ Jordan faced DW Steyn, scored 1 runs. Team score: 145/5
+16.4: RS Bopara faced DW Steyn, scored 4 runs. Team score: 149/5
+16.5: RS Bopara faced DW Steyn, scored 1 runs. Team score: 150/5
+16.6: CJ Jordan faced DW Steyn, scored 1 runs. Team score: 151/5
+16.0: CJ Jordan faced DW Steyn, scored 1 runs. Team score: 152/5
+17.1: CJ Jordan faced WD Parnell, scored 1 runs. Team score: 153/5
+17.2: RS Bopara faced WD Parnell, scored 1 runs. Team score: 154/5
+17.3: CJ Jordan faced WD Parnell, scored 0 runs. Team score: 154/5
+17.4: CJ Jordan faced WD Parnell, scored 1 runs. Team score: 155/5
+17.5: RS Bopara faced WD Parnell, scored 4 runs. Team score: 159/5
+17.6: RS Bopara faced WD Parnell, scored 4 runs. Team score: 163/5
+18.1: CJ Jordan faced BE Hendricks, scored 0 runs. Team score: 163/5
+18.2: CJ Jordan faced BE Hendricks, scored 4 runs. Team score: 167/5
+18.3: CJ Jordan faced BE Hendricks, scored 0 runs. Team score: 167/5
+caught!, Batsman: CJ Jordan (18 runs from 16 balls), Bowler: BE Hendricks (figures: 1/44). Fielders involved: AB de Villiers. Team score: 167/6
+18.4: RS Bopara faced BE Hendricks, scored 0 runs. Team score: 167/6
+18.5: RS Bopara faced BE Hendricks, scored 6 runs. Team score: 173/6
+18.6: RS Bopara faced BE Hendricks, scored 1 runs. Team score: 174/6
+18.0: RS Bopara faced BE Hendricks, scored 1 runs. Team score: 175/6
+19.1: RS Bopara faced DW Steyn, scored 0 runs. Team score: 175/6
+caught!, Batsman: RS Bopara (33 runs from 20 balls), Bowler: DW Steyn (figures: 1/26). Fielders involved: DA Miller. Team score: 175/7
+19.2: TT Bresnan faced DW Steyn, scored 1 runs. Team score: 176/7
+19.3: SCJ Broad faced DW Steyn, scored 1 runs. Team score: 177/7
+19.4: TT Bresnan faced DW Steyn, scored 6 runs. Team score: 183/7
+19.5: TT Bresnan faced DW Steyn, scored 4 runs. Team score: 187/7
+19.6: TT Bresnan faced DW Steyn, scored 6 runs. Team score: 193/7
+End of innings for England: 193/7 in 20.0 overs
+Batsman scores:
+AD Hales: 43 runs from 25 balls
+MJ Lumb: 19 runs from 14 balls
+MM Ali: 11 runs from 10 balls
+JC Buttler: 36 runs from 25 balls
+EJG Morgan: 15 runs from 15 balls
+RS Bopara: 33 runs from 20 balls
+CJ Jordan: 18 runs from 16 balls
+TT Bresnan: 17 runs from 4 balls
+SCJ Broad: 1 runs from 1 balls
+Bowler figures:
+JP Duminy: 0 wickets for 18 runs
+JA Morkel: 0 wickets for 21 runs
+BE Hendricks: 1 wickets for 52 runs
+DW Steyn: 1 wickets for 44 runs
+WD Parnell: 3 wickets for 31 runs
+Imran Tahir: 2 wickets for 27 runs
+

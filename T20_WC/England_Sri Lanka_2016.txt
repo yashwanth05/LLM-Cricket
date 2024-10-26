@@ -1,0 +1,310 @@
+Match: World T20 - T20
+Date: 2016-03-26
+Venue: Feroz Shah Kotla, Delhi
+Teams: England vs Sri Lanka
+Toss: Sri Lanka won the toss and decided to field
+Result: England won by 10 runs
+Man of the Match: JC Buttler
+
+Innings 1:
+0.1: JJ Roy faced AD Mathews, scored 2 runs. Team score: 2/0
+0.2: JJ Roy faced AD Mathews, scored 0 runs. Team score: 2/0
+0.3: JJ Roy faced AD Mathews, scored 0 runs. Team score: 2/0
+0.4: JJ Roy faced AD Mathews, scored 2 runs. Team score: 4/0
+0.5: JJ Roy faced AD Mathews, scored 0 runs. Team score: 4/0
+0.6: JJ Roy faced AD Mathews, scored 0 runs. Team score: 4/0
+1.1: AD Hales faced HMRKB Herath, scored 0 runs. Team score: 4/0
+1.2: AD Hales faced HMRKB Herath, scored 0 runs. Team score: 4/0
+1.3: AD Hales faced HMRKB Herath, scored 0 runs. Team score: 4/0
+1.4: AD Hales faced HMRKB Herath, scored 0 runs. Team score: 4/0
+lbw!, Batsman: AD Hales (0 runs from 4 balls), Bowler: HMRKB Herath (figures: 1/0). Fielders involved: None. Team score: 4/1
+1.5: JE Root faced HMRKB Herath, scored 0 runs. Team score: 4/1
+1.6: JE Root faced HMRKB Herath, scored 0 runs. Team score: 4/1
+Maiden over by HMRKB Herath
+2.1: JJ Roy faced JDF Vandersay, scored 1 runs. Team score: 5/1
+2.2: JE Root faced JDF Vandersay, scored 1 runs. Team score: 6/1
+2.3: JJ Roy faced JDF Vandersay, scored 1 runs. Team score: 7/1
+2.4: JE Root faced JDF Vandersay, scored 1 runs. Team score: 8/1
+2.5: JJ Roy faced JDF Vandersay, scored 0 runs. Team score: 8/1
+2.6: JJ Roy faced JDF Vandersay, scored 0 runs. Team score: 8/1
+3.1: JE Root faced HMRKB Herath, scored 1 runs. Team score: 9/1
+3.2: JJ Roy faced HMRKB Herath, scored 4 runs. Team score: 13/1
+3.3: JJ Roy faced HMRKB Herath, scored 1 runs. Team score: 14/1
+3.4: JE Root faced HMRKB Herath, scored 0 runs. Team score: 14/1
+3.5: JE Root faced HMRKB Herath, scored 4 runs. Team score: 18/1
+3.6: JE Root faced HMRKB Herath, scored 1 runs. Team score: 19/1
+4.1: JE Root faced JDF Vandersay, scored 4 runs. Team score: 23/1
+4.2: JE Root faced JDF Vandersay, scored 0 runs. Team score: 23/1
+4.3: JE Root faced JDF Vandersay, scored 1 runs. Team score: 24/1
+4.4: JJ Roy faced JDF Vandersay, scored 0 runs. Team score: 24/1
+4.5: JJ Roy faced JDF Vandersay, scored 4 runs. Team score: 28/1
+4.6: JJ Roy faced JDF Vandersay, scored 1 runs. Team score: 29/1
+5.1: JJ Roy faced AD Mathews, scored 0 runs. Team score: 29/1
+5.2: JJ Roy faced AD Mathews, scored 0 runs. Team score: 29/1
+5.3: JJ Roy faced AD Mathews, scored 4 runs. Team score: 33/1
+5.4: JJ Roy faced AD Mathews, scored 1 runs. Team score: 34/1
+5.5: JE Root faced AD Mathews, scored 0 runs. Team score: 34/1
+5.6: JE Root faced AD Mathews, scored 4 runs. Team score: 38/1
+6.1: JJ Roy faced TAM Siriwardana, scored 1 runs. Team score: 39/1
+6.2: JE Root faced TAM Siriwardana, scored 1 runs. Team score: 40/1
+6.3: JJ Roy faced TAM Siriwardana, scored 6 runs. Team score: 46/1
+6.4: JJ Roy faced TAM Siriwardana, scored 0 runs. Team score: 46/1
+6.5: JJ Roy faced TAM Siriwardana, scored 0 runs. Team score: 46/1
+6.6: JJ Roy faced TAM Siriwardana, scored 1 runs. Team score: 47/1
+7.1: JJ Roy faced PVD Chameera, scored 0 runs. Team score: 47/1
+7.2: JJ Roy faced PVD Chameera, scored 0 runs. Team score: 47/1
+7.3: JJ Roy faced PVD Chameera, scored 1 runs. Team score: 48/1
+7.4: JE Root faced PVD Chameera, scored 1 runs. Team score: 49/1
+7.5: JJ Roy faced PVD Chameera, scored 0 runs. Team score: 49/1
+7.6: JJ Roy faced PVD Chameera, scored 1 runs. Team score: 50/1
+8.1: JJ Roy faced HMRKB Herath, scored 1 runs. Team score: 51/1
+8.2: JE Root faced HMRKB Herath, scored 0 runs. Team score: 51/1
+8.3: JE Root faced HMRKB Herath, scored 1 runs. Team score: 52/1
+8.4: JJ Roy faced HMRKB Herath, scored 6 runs. Team score: 58/1
+8.5: JJ Roy faced HMRKB Herath, scored 1 runs. Team score: 59/1
+8.6: JE Root faced HMRKB Herath, scored 1 runs. Team score: 60/1
+9.1: JE Root faced PVD Chameera, scored 0 runs. Team score: 60/1
+9.2: JE Root faced PVD Chameera, scored 4 runs. Team score: 64/1
+9.3: JE Root faced PVD Chameera, scored 0 runs. Team score: 64/1
+9.4: JE Root faced PVD Chameera, scored 0 runs. Team score: 64/1
+9.5: JE Root faced PVD Chameera, scored 1 runs. Team score: 65/1
+9.6: JJ Roy faced PVD Chameera, scored 0 runs. Team score: 65/1
+10.1: JE Root faced JDF Vandersay, scored 0 runs. Team score: 65/1
+caught!, Batsman: JE Root (26 runs from 24 balls), Bowler: JDF Vandersay (figures: 1/14). Fielders involved: HDRL Thirimanne. Team score: 65/2
+10.2: JC Buttler faced JDF Vandersay, scored 1 runs. Team score: 66/2
+10.3: JJ Roy faced JDF Vandersay, scored 2 runs. Team score: 68/2
+10.4: JJ Roy faced JDF Vandersay, scored 1 runs. Team score: 69/2
+10.5: JC Buttler faced JDF Vandersay, scored 0 runs. Team score: 69/2
+10.6: JC Buttler faced JDF Vandersay, scored 4 runs. Team score: 73/2
+11.1: JJ Roy faced AD Mathews, scored 1 runs. Team score: 74/2
+11.2: JC Buttler faced AD Mathews, scored 1 runs. Team score: 75/2
+11.3: JJ Roy faced AD Mathews, scored 1 runs. Team score: 76/2
+11.4: JC Buttler faced AD Mathews, scored 4 runs. Team score: 80/2
+11.5: JC Buttler faced AD Mathews, scored 0 runs. Team score: 80/2
+11.6: JC Buttler faced AD Mathews, scored 1 runs. Team score: 81/2
+12.1: JC Buttler faced JDF Vandersay, scored 4 runs. Team score: 85/2
+12.2: JC Buttler faced JDF Vandersay, scored 1 runs. Team score: 86/2
+12.3: JJ Roy faced JDF Vandersay, scored 1 runs. Team score: 87/2
+12.4: JC Buttler faced JDF Vandersay, scored 1 runs. Team score: 88/2
+12.5: JJ Roy faced JDF Vandersay, scored 0 runs. Team score: 88/2
+lbw!, Batsman: JJ Roy (45 runs from 39 balls), Bowler: JDF Vandersay (figures: 2/29). Fielders involved: None. Team score: 88/3
+12.6: EJG Morgan faced JDF Vandersay, scored 0 runs. Team score: 88/3
+13.1: JC Buttler faced AD Mathews, scored 1 runs. Team score: 89/3
+13.2: EJG Morgan faced AD Mathews, scored 1 runs. Team score: 90/3
+13.3: JC Buttler faced AD Mathews, scored 1 runs. Team score: 91/3
+13.4: EJG Morgan faced AD Mathews, scored 0 runs. Team score: 91/3
+13.5: EJG Morgan faced AD Mathews, scored 1 runs. Team score: 92/3
+13.6: JC Buttler faced AD Mathews, scored 1 runs. Team score: 93/3
+14.1: JC Buttler faced HMRKB Herath, scored 1 runs. Team score: 94/3
+14.2: EJG Morgan faced HMRKB Herath, scored 1 runs. Team score: 95/3
+14.3: JC Buttler faced HMRKB Herath, scored 1 runs. Team score: 96/3
+14.4: EJG Morgan faced HMRKB Herath, scored 1 runs. Team score: 97/3
+14.5: JC Buttler faced HMRKB Herath, scored 1 runs. Team score: 98/3
+14.6: EJG Morgan faced HMRKB Herath, scored 1 runs. Team score: 99/3
+15.1: EJG Morgan faced NLTC Perera, scored 1 runs. Team score: 100/3
+15.2: EJG Morgan faced NLTC Perera, scored 2 runs. Team score: 102/3
+15.3: EJG Morgan faced NLTC Perera, scored 4 runs. Team score: 106/3
+15.4: EJG Morgan faced NLTC Perera, scored 6 runs. Team score: 112/3
+15.5: EJG Morgan faced NLTC Perera, scored 1 runs. Team score: 113/3
+15.6: EJG Morgan faced NLTC Perera, scored 2 runs. Team score: 115/3
+15.0: EJG Morgan faced NLTC Perera, scored 1 runs. Team score: 116/3
+15.1: JC Buttler faced NLTC Perera, scored 1 runs. Team score: 117/3
+16.1: JC Buttler faced PVD Chameera, scored 0 runs. Team score: 117/3
+16.2: JC Buttler faced PVD Chameera, scored 0 runs. Team score: 117/3
+16.3: JC Buttler faced PVD Chameera, scored 4 runs. Team score: 121/3
+16.4: JC Buttler faced PVD Chameera, scored 4 runs. Team score: 125/3
+16.5: JC Buttler faced PVD Chameera, scored 0 runs. Team score: 125/3
+16.6: JC Buttler faced PVD Chameera, scored 5 runs. Team score: 130/3
+16.0: JC Buttler faced PVD Chameera, scored 1 runs. Team score: 131/3
+17.1: JC Buttler faced MD Shanaka, scored 2 runs. Team score: 133/3
+17.2: JC Buttler faced MD Shanaka, scored 4 runs. Team score: 137/3
+17.3: JC Buttler faced MD Shanaka, scored 2 runs. Team score: 139/3
+17.4: JC Buttler faced MD Shanaka, scored 6 runs. Team score: 145/3
+17.5: JC Buttler faced MD Shanaka, scored 1 runs. Team score: 146/3
+17.6: EJG Morgan faced MD Shanaka, scored 0 runs. Team score: 146/3
+18.1: JC Buttler faced PVD Chameera, scored 1 runs. Team score: 147/3
+18.2: JC Buttler faced PVD Chameera, scored 4 runs. Team score: 151/3
+18.3: JC Buttler faced PVD Chameera, scored 6 runs. Team score: 157/3
+18.4: JC Buttler faced PVD Chameera, scored 1 runs. Team score: 158/3
+18.5: EJG Morgan faced PVD Chameera, scored 1 runs. Team score: 159/3
+18.6: JC Buttler faced PVD Chameera, scored 1 runs. Team score: 160/3
+18.0: EJG Morgan faced PVD Chameera, scored 1 runs. Team score: 161/3
+19.1: EJG Morgan faced NLTC Perera, scored 1 runs. Team score: 162/3
+19.2: JC Buttler faced NLTC Perera, scored 0 runs. Team score: 162/3
+run out!, Batsman: EJG Morgan (25 runs from 18 balls), Bowler: NLTC Perera (figures: 1/19). Fielders involved: NLTC Perera. Team score: 162/4
+19.3: JC Buttler faced NLTC Perera, scored 2 runs. Team score: 164/4
+19.4: JC Buttler faced NLTC Perera, scored 0 runs. Team score: 164/4
+19.5: JC Buttler faced NLTC Perera, scored 1 runs. Team score: 165/4
+19.6: BA Stokes faced NLTC Perera, scored 6 runs. Team score: 171/4
+End of innings for England: 171/4 in 20.0 overs
+Batsman scores:
+JJ Roy: 45 runs from 39 balls
+AD Hales: 0 runs from 4 balls
+JE Root: 26 runs from 24 balls
+JC Buttler: 69 runs from 38 balls
+EJG Morgan: 25 runs from 18 balls
+BA Stokes: 6 runs from 1 balls
+Bowler figures:
+AD Mathews: 0 wickets for 26 runs
+HMRKB Herath: 1 wickets for 27 runs
+JDF Vandersay: 2 wickets for 29 runs
+TAM Siriwardana: 0 wickets for 9 runs
+PVD Chameera: 0 wickets for 37 runs
+NLTC Perera: 1 wickets for 28 runs
+MD Shanaka: 0 wickets for 15 runs
+
+Innings 2:
+0.1: LD Chandimal faced DJ Willey, scored 1 runs. Team score: 1/0
+0.2: TM Dilshan faced DJ Willey, scored 2 runs. Team score: 3/0
+0.3: TM Dilshan faced DJ Willey, scored 0 runs. Team score: 3/0
+caught!, Batsman: TM Dilshan (2 runs from 2 balls), Bowler: DJ Willey (figures: 1/3). Fielders involved: AD Hales. Team score: 3/1
+0.4: TAM Siriwardana faced DJ Willey, scored 0 runs. Team score: 3/1
+0.5: TAM Siriwardana faced DJ Willey, scored 0 runs. Team score: 3/1
+0.6: TAM Siriwardana faced DJ Willey, scored 0 runs. Team score: 3/1
+1.1: LD Chandimal faced CJ Jordan, scored 1 runs. Team score: 4/1
+1.2: LD Chandimal faced CJ Jordan, scored 0 runs. Team score: 4/1
+1.3: LD Chandimal faced CJ Jordan, scored 0 runs. Team score: 4/1
+caught!, Batsman: LD Chandimal (2 runs from 4 balls), Bowler: CJ Jordan (figures: 1/1). Fielders involved: JC Buttler. Team score: 4/2
+1.4: HDRL Thirimanne faced CJ Jordan, scored 0 runs. Team score: 4/2
+1.5: HDRL Thirimanne faced CJ Jordan, scored 1 runs. Team score: 5/2
+1.6: TAM Siriwardana faced CJ Jordan, scored 1 runs. Team score: 6/2
+1.0: TAM Siriwardana faced CJ Jordan, scored 1 runs. Team score: 7/2
+1.1: HDRL Thirimanne faced CJ Jordan, scored 1 runs. Team score: 8/2
+2.1: HDRL Thirimanne faced DJ Willey, scored 0 runs. Team score: 8/2
+2.2: HDRL Thirimanne faced DJ Willey, scored 1 runs. Team score: 9/2
+2.3: TAM Siriwardana faced DJ Willey, scored 0 runs. Team score: 9/2
+2.4: TAM Siriwardana faced DJ Willey, scored 6 runs. Team score: 15/2
+2.5: TAM Siriwardana faced DJ Willey, scored 0 runs. Team score: 15/2
+caught!, Batsman: TAM Siriwardana (8 runs from 8 balls), Bowler: DJ Willey (figures: 2/10). Fielders involved: EJG Morgan. Team score: 15/3
+2.6: AD Mathews faced DJ Willey, scored 0 runs. Team score: 15/3
+run out!, Batsman: HDRL Thirimanne (3 runs from 5 balls), Bowler: DJ Willey (figures: 3/10). Fielders involved: BA Stokes. Team score: 15/4
+3.1: CK Kapugedera faced LE Plunkett, scored 0 runs. Team score: 15/4
+3.2: CK Kapugedera faced LE Plunkett, scored 0 runs. Team score: 15/4
+3.3: CK Kapugedera faced LE Plunkett, scored 1 runs. Team score: 16/4
+3.4: AD Mathews faced LE Plunkett, scored 0 runs. Team score: 16/4
+3.5: AD Mathews faced LE Plunkett, scored 0 runs. Team score: 16/4
+3.6: AD Mathews faced LE Plunkett, scored 1 runs. Team score: 17/4
+4.1: AD Mathews faced CJ Jordan, scored 4 runs. Team score: 21/4
+4.2: AD Mathews faced CJ Jordan, scored 4 runs. Team score: 25/4
+4.3: AD Mathews faced CJ Jordan, scored 1 runs. Team score: 26/4
+4.4: CK Kapugedera faced CJ Jordan, scored 1 runs. Team score: 27/4
+4.5: CK Kapugedera faced CJ Jordan, scored 1 runs. Team score: 28/4
+4.6: AD Mathews faced CJ Jordan, scored 0 runs. Team score: 28/4
+4.0: AD Mathews faced CJ Jordan, scored 0 runs. Team score: 28/4
+5.1: CK Kapugedera faced LE Plunkett, scored 0 runs. Team score: 28/4
+5.2: CK Kapugedera faced LE Plunkett, scored 3 runs. Team score: 31/4
+5.3: AD Mathews faced LE Plunkett, scored 0 runs. Team score: 31/4
+5.4: AD Mathews faced LE Plunkett, scored 1 runs. Team score: 32/4
+5.5: CK Kapugedera faced LE Plunkett, scored 1 runs. Team score: 33/4
+5.6: AD Mathews faced LE Plunkett, scored 1 runs. Team score: 34/4
+6.1: AD Mathews faced BA Stokes, scored 0 runs. Team score: 34/4
+6.2: AD Mathews faced BA Stokes, scored 0 runs. Team score: 34/4
+6.3: AD Mathews faced BA Stokes, scored 1 runs. Team score: 35/4
+6.4: CK Kapugedera faced BA Stokes, scored 1 runs. Team score: 36/4
+6.5: CK Kapugedera faced BA Stokes, scored 0 runs. Team score: 36/4
+6.6: CK Kapugedera faced BA Stokes, scored 1 runs. Team score: 37/4
+6.0: AD Mathews faced BA Stokes, scored 1 runs. Team score: 38/4
+7.1: AD Mathews faced LE Plunkett, scored 1 runs. Team score: 39/4
+7.2: CK Kapugedera faced LE Plunkett, scored 1 runs. Team score: 40/4
+7.3: CK Kapugedera faced LE Plunkett, scored 0 runs. Team score: 40/4
+7.4: CK Kapugedera faced LE Plunkett, scored 0 runs. Team score: 40/4
+7.5: CK Kapugedera faced LE Plunkett, scored 1 runs. Team score: 41/4
+7.6: AD Mathews faced LE Plunkett, scored 1 runs. Team score: 42/4
+7.0: CK Kapugedera faced LE Plunkett, scored 4 runs. Team score: 46/4
+8.1: AD Mathews faced BA Stokes, scored 1 runs. Team score: 47/4
+8.2: CK Kapugedera faced BA Stokes, scored 1 runs. Team score: 48/4
+8.3: CK Kapugedera faced BA Stokes, scored 0 runs. Team score: 48/4
+8.4: CK Kapugedera faced BA Stokes, scored 1 runs. Team score: 49/4
+8.5: AD Mathews faced BA Stokes, scored 0 runs. Team score: 49/4
+8.6: AD Mathews faced BA Stokes, scored 0 runs. Team score: 49/4
+8.0: AD Mathews faced BA Stokes, scored 0 runs. Team score: 49/4
+9.1: CK Kapugedera faced AU Rashid, scored 1 runs. Team score: 50/4
+9.2: AD Mathews faced AU Rashid, scored 0 runs. Team score: 50/4
+9.3: AD Mathews faced AU Rashid, scored 6 runs. Team score: 56/4
+9.4: AD Mathews faced AU Rashid, scored 1 runs. Team score: 57/4
+9.5: CK Kapugedera faced AU Rashid, scored 1 runs. Team score: 58/4
+9.6: AD Mathews faced AU Rashid, scored 1 runs. Team score: 59/4
+10.1: AD Mathews faced BA Stokes, scored 4 runs. Team score: 63/4
+10.2: AD Mathews faced BA Stokes, scored 1 runs. Team score: 64/4
+10.3: CK Kapugedera faced BA Stokes, scored 0 runs. Team score: 64/4
+10.4: CK Kapugedera faced BA Stokes, scored 1 runs. Team score: 65/4
+10.5: AD Mathews faced BA Stokes, scored 1 runs. Team score: 66/4
+10.6: CK Kapugedera faced BA Stokes, scored 1 runs. Team score: 67/4
+11.1: CK Kapugedera faced AU Rashid, scored 1 runs. Team score: 68/4
+11.2: AD Mathews faced AU Rashid, scored 6 runs. Team score: 74/4
+11.3: AD Mathews faced AU Rashid, scored 1 runs. Team score: 75/4
+11.4: CK Kapugedera faced AU Rashid, scored 6 runs. Team score: 81/4
+11.5: CK Kapugedera faced AU Rashid, scored 1 runs. Team score: 82/4
+11.6: AD Mathews faced AU Rashid, scored 6 runs. Team score: 88/4
+12.1: CK Kapugedera faced LE Plunkett, scored 1 runs. Team score: 89/4
+12.2: CK Kapugedera faced LE Plunkett, scored 0 runs. Team score: 89/4
+12.3: CK Kapugedera faced LE Plunkett, scored 4 runs. Team score: 93/4
+12.4: CK Kapugedera faced LE Plunkett, scored 1 runs. Team score: 94/4
+12.5: AD Mathews faced LE Plunkett, scored 0 runs. Team score: 94/4
+12.6: AD Mathews faced LE Plunkett, scored 1 runs. Team score: 95/4
+12.0: CK Kapugedera faced LE Plunkett, scored 0 runs. Team score: 95/4
+caught!, Batsman: CK Kapugedera (35 runs from 32 balls), Bowler: LE Plunkett (figures: 1/23). Fielders involved: BA Stokes. Team score: 95/5
+13.1: AD Mathews faced MM Ali, scored 1 runs. Team score: 96/5
+13.2: NLTC Perera faced MM Ali, scored 1 runs. Team score: 97/5
+13.3: AD Mathews faced MM Ali, scored 1 runs. Team score: 98/5
+13.4: NLTC Perera faced MM Ali, scored 6 runs. Team score: 104/5
+13.5: NLTC Perera faced MM Ali, scored 1 runs. Team score: 105/5
+13.6: AD Mathews faced MM Ali, scored 1 runs. Team score: 106/5
+14.1: AD Mathews faced DJ Willey, scored 1 runs. Team score: 107/5
+14.2: NLTC Perera faced DJ Willey, scored 0 runs. Team score: 107/5
+14.3: NLTC Perera faced DJ Willey, scored 2 runs. Team score: 109/5
+14.4: NLTC Perera faced DJ Willey, scored 1 runs. Team score: 110/5
+14.5: AD Mathews faced DJ Willey, scored 0 runs. Team score: 110/5
+14.6: AD Mathews faced DJ Willey, scored 1 runs. Team score: 111/5
+15.1: AD Mathews faced MM Ali, scored 6 runs. Team score: 117/5
+15.2: AD Mathews faced MM Ali, scored 6 runs. Team score: 123/5
+15.3: AD Mathews faced MM Ali, scored 2 runs. Team score: 125/5
+15.4: AD Mathews faced MM Ali, scored 1 runs. Team score: 126/5
+15.5: NLTC Perera faced MM Ali, scored 6 runs. Team score: 132/5
+15.6: NLTC Perera faced MM Ali, scored 0 runs. Team score: 132/5
+16.1: AD Mathews faced CJ Jordan, scored 1 runs. Team score: 133/5
+16.2: NLTC Perera faced CJ Jordan, scored 0 runs. Team score: 133/5
+16.3: NLTC Perera faced CJ Jordan, scored 4 runs. Team score: 137/5
+16.4: NLTC Perera faced CJ Jordan, scored 0 runs. Team score: 137/5
+caught!, Batsman: NLTC Perera (21 runs from 11 balls), Bowler: CJ Jordan (figures: 2/21). Fielders involved: DJ Willey. Team score: 137/6
+16.5: MD Shanaka faced CJ Jordan, scored 0 runs. Team score: 137/6
+16.6: MD Shanaka faced CJ Jordan, scored 1 runs. Team score: 138/6
+17.1: MD Shanaka faced DJ Willey, scored 0 runs. Team score: 138/6
+17.2: MD Shanaka faced DJ Willey, scored 1 runs. Team score: 139/6
+17.3: AD Mathews faced DJ Willey, scored 1 runs. Team score: 140/6
+17.4: MD Shanaka faced DJ Willey, scored 6 runs. Team score: 146/6
+17.5: MD Shanaka faced DJ Willey, scored 0 runs. Team score: 146/6
+17.6: MD Shanaka faced DJ Willey, scored 4 runs. Team score: 150/6
+18.1: AD Mathews faced CJ Jordan, scored 1 runs. Team score: 151/6
+18.2: MD Shanaka faced CJ Jordan, scored 4 runs. Team score: 155/6
+18.3: MD Shanaka faced CJ Jordan, scored 0 runs. Team score: 155/6
+caught!, Batsman: MD Shanaka (16 runs from 9 balls), Bowler: CJ Jordan (figures: 3/27). Fielders involved: JE Root. Team score: 155/7
+18.4: HMRKB Herath faced CJ Jordan, scored 1 runs. Team score: 156/7
+18.5: AD Mathews faced CJ Jordan, scored 1 runs. Team score: 157/7
+18.6: HMRKB Herath faced CJ Jordan, scored 0 runs. Team score: 157/7
+bowled!, Batsman: HMRKB Herath (1 runs from 2 balls), Bowler: CJ Jordan (figures: 4/29). Fielders involved: None. Team score: 157/8
+19.1: AD Mathews faced BA Stokes, scored 0 runs. Team score: 157/8
+19.2: AD Mathews faced BA Stokes, scored 2 runs. Team score: 159/8
+19.3: AD Mathews faced BA Stokes, scored 2 runs. Team score: 161/8
+19.4: AD Mathews faced BA Stokes, scored 0 runs. Team score: 161/8
+19.5: AD Mathews faced BA Stokes, scored 0 runs. Team score: 161/8
+19.6: AD Mathews faced BA Stokes, scored 0 runs. Team score: 161/8
+End of innings for Sri Lanka: 161/8 in 20.0 overs
+Batsman scores:
+LD Chandimal: 2 runs from 4 balls
+TM Dilshan: 2 runs from 2 balls
+TAM Siriwardana: 8 runs from 8 balls
+HDRL Thirimanne: 3 runs from 5 balls
+AD Mathews: 73 runs from 54 balls
+CK Kapugedera: 35 runs from 32 balls
+NLTC Perera: 21 runs from 11 balls
+MD Shanaka: 16 runs from 9 balls
+HMRKB Herath: 1 runs from 2 balls
+Bowler figures:
+DJ Willey: 3 wickets for 27 runs
+CJ Jordan: 4 wickets for 29 runs
+LE Plunkett: 1 wickets for 23 runs
+BA Stokes: 0 wickets for 19 runs
+AU Rashid: 0 wickets for 31 runs
+MM Ali: 0 wickets for 32 runs
+

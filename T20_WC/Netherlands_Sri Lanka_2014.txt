@@ -1,0 +1,145 @@
+Match: World T20 - T20
+Date: 2014-03-24
+Venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+Teams: Netherlands vs Sri Lanka
+Toss: Sri Lanka won the toss and decided to field
+Result: Sri Lanka won by 9 wickets
+Man of the Match: AD Mathews
+
+Innings 1:
+0.1: SJ Myburgh faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+0.2: SJ Myburgh faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+0.3: SJ Myburgh faced KMDN Kulasekara, scored 0 runs. Team score: 0/0
+caught!, Batsman: SJ Myburgh (0 runs from 3 balls), Bowler: KMDN Kulasekara (figures: 1/0). Fielders involved: SL Malinga. Team score: 0/1
+0.4: MR Swart faced KMDN Kulasekara, scored 0 runs. Team score: 0/1
+0.5: MR Swart faced KMDN Kulasekara, scored 0 runs. Team score: 0/1
+0.6: MR Swart faced KMDN Kulasekara, scored 0 runs. Team score: 0/1
+Maiden over by KMDN Kulasekara
+1.1: W Barresi faced AD Mathews, scored 0 runs. Team score: 0/1
+1.2: W Barresi faced AD Mathews, scored 0 runs. Team score: 0/1
+1.3: W Barresi faced AD Mathews, scored 1 runs. Team score: 1/1
+1.4: MR Swart faced AD Mathews, scored 0 runs. Team score: 1/1
+caught!, Batsman: MR Swart (0 runs from 4 balls), Bowler: AD Mathews (figures: 1/1). Fielders involved: KC Sangakkara. Team score: 1/2
+1.5: W Barresi faced AD Mathews, scored 0 runs. Team score: 1/2
+caught!, Batsman: W Barresi (1 runs from 4 balls), Bowler: AD Mathews (figures: 2/1). Fielders involved: LD Chandimal. Team score: 1/3
+1.6: PW Borren faced AD Mathews, scored 0 runs. Team score: 1/3
+2.1: TLW Cooper faced KMDN Kulasekara, scored 0 runs. Team score: 1/3
+2.2: TLW Cooper faced KMDN Kulasekara, scored 1 runs. Team score: 2/3
+2.3: PW Borren faced KMDN Kulasekara, scored 0 runs. Team score: 2/3
+2.4: PW Borren faced KMDN Kulasekara, scored 0 runs. Team score: 2/3
+2.5: PW Borren faced KMDN Kulasekara, scored 0 runs. Team score: 2/3
+2.6: PW Borren faced KMDN Kulasekara, scored 0 runs. Team score: 2/3
+3.1: TLW Cooper faced AD Mathews, scored 0 runs. Team score: 2/3
+3.2: TLW Cooper faced AD Mathews, scored 4 runs. Team score: 6/3
+3.3: TLW Cooper faced AD Mathews, scored 2 runs. Team score: 8/3
+3.4: TLW Cooper faced AD Mathews, scored 1 runs. Team score: 9/3
+3.5: PW Borren faced AD Mathews, scored 0 runs. Team score: 9/3
+3.6: PW Borren faced AD Mathews, scored 0 runs. Team score: 9/3
+lbw!, Batsman: PW Borren (0 runs from 7 balls), Bowler: AD Mathews (figures: 3/8). Fielders involved: None. Team score: 9/4
+4.1: TLW Cooper faced SL Malinga, scored 0 runs. Team score: 9/4
+4.2: TLW Cooper faced SL Malinga, scored 0 runs. Team score: 9/4
+4.3: TLW Cooper faced SL Malinga, scored 0 runs. Team score: 9/4
+4.4: TLW Cooper faced SL Malinga, scored 1 runs. Team score: 10/4
+4.5: BN Cooper faced SL Malinga, scored 0 runs. Team score: 10/4
+4.6: BN Cooper faced SL Malinga, scored 1 runs. Team score: 11/4
+5.1: BN Cooper faced AD Mathews, scored 0 runs. Team score: 11/4
+5.2: BN Cooper faced AD Mathews, scored 0 runs. Team score: 11/4
+5.3: BN Cooper faced AD Mathews, scored 0 runs. Team score: 11/4
+5.4: BN Cooper faced AD Mathews, scored 4 runs. Team score: 15/4
+5.5: BN Cooper faced AD Mathews, scored 0 runs. Team score: 15/4
+5.6: BN Cooper faced AD Mathews, scored 0 runs. Team score: 15/4
+6.1: TLW Cooper faced BAW Mendis, scored 1 runs. Team score: 16/4
+6.2: BN Cooper faced BAW Mendis, scored 3 runs. Team score: 19/4
+6.3: TLW Cooper faced BAW Mendis, scored 4 runs. Team score: 23/4
+6.4: TLW Cooper faced BAW Mendis, scored 1 runs. Team score: 24/4
+6.5: BN Cooper faced BAW Mendis, scored 1 runs. Team score: 25/4
+run out!, Batsman: BN Cooper (9 runs from 10 balls), Bowler: BAW Mendis (figures: 1/10). Fielders involved: NLTC Perera. Team score: 25/5
+6.6: TLW Cooper faced BAW Mendis, scored 0 runs. Team score: 25/5
+7.1: Mudassar Bukhari faced AD Mathews, scored 1 runs. Team score: 26/5
+7.2: TLW Cooper faced AD Mathews, scored 1 runs. Team score: 27/5
+7.3: Mudassar Bukhari faced AD Mathews, scored 0 runs. Team score: 27/5
+7.4: Mudassar Bukhari faced AD Mathews, scored 0 runs. Team score: 27/5
+7.5: Mudassar Bukhari faced AD Mathews, scored 1 runs. Team score: 28/5
+7.6: TLW Cooper faced AD Mathews, scored 1 runs. Team score: 29/5
+8.1: TLW Cooper faced BAW Mendis, scored 4 runs. Team score: 33/5
+8.2: TLW Cooper faced BAW Mendis, scored 0 runs. Team score: 33/5
+lbw!, Batsman: TLW Cooper (21 runs from 18 balls), Bowler: BAW Mendis (figures: 2/14). Fielders involved: None. Team score: 33/6
+8.3: LV van Beek faced BAW Mendis, scored 1 runs. Team score: 34/6
+8.4: Mudassar Bukhari faced BAW Mendis, scored 1 runs. Team score: 35/6
+8.5: LV van Beek faced BAW Mendis, scored 0 runs. Team score: 35/6
+8.6: LV van Beek faced BAW Mendis, scored 0 runs. Team score: 35/6
+9.1: Mudassar Bukhari faced SL Malinga, scored 0 runs. Team score: 35/6
+9.2: Mudassar Bukhari faced SL Malinga, scored 1 runs. Team score: 36/6
+9.3: LV van Beek faced SL Malinga, scored 0 runs. Team score: 36/6
+bowled!, Batsman: LV van Beek (1 runs from 4 balls), Bowler: SL Malinga (figures: 1/3). Fielders involved: None. Team score: 36/7
+9.4: PM Seelaar faced SL Malinga, scored 2 runs. Team score: 38/7
+9.5: PM Seelaar faced SL Malinga, scored 1 runs. Team score: 39/7
+9.6: Mudassar Bukhari faced SL Malinga, scored 0 runs. Team score: 39/7
+bowled!, Batsman: Mudassar Bukhari (4 runs from 8 balls), Bowler: SL Malinga (figures: 2/6). Fielders involved: None. Team score: 39/8
+10.1: PM Seelaar faced BAW Mendis, scored 0 runs. Team score: 39/8
+caught!, Batsman: PM Seelaar (3 runs from 3 balls), Bowler: BAW Mendis (figures: 3/16). Fielders involved: AD Mathews. Team score: 39/9
+10.2: Ahsan Malik faced BAW Mendis, scored 0 runs. Team score: 39/9
+10.3: Ahsan Malik faced BAW Mendis, scored 0 runs. Team score: 39/9
+lbw!, Batsman: Ahsan Malik (0 runs from 2 balls), Bowler: BAW Mendis (figures: 4/16). Fielders involved: None. Team score: 39/10
+End of innings for Netherlands: 39/10 in 11.3 overs
+Batsman scores:
+SJ Myburgh: 0 runs from 3 balls
+MR Swart: 0 runs from 4 balls
+W Barresi: 1 runs from 4 balls
+PW Borren: 0 runs from 7 balls
+TLW Cooper: 21 runs from 18 balls
+BN Cooper: 9 runs from 10 balls
+Mudassar Bukhari: 4 runs from 8 balls
+LV van Beek: 1 runs from 4 balls
+PM Seelaar: 3 runs from 3 balls
+Ahsan Malik: 0 runs from 2 balls
+Bowler figures:
+KMDN Kulasekara: 1 wickets for 1 runs
+AD Mathews: 3 wickets for 16 runs
+SL Malinga: 2 wickets for 6 runs
+BAW Mendis: 4 wickets for 16 runs
+
+Innings 2:
+0.1: MDKJ Perera faced T van der Gugten, scored 0 runs. Team score: 0/0
+0.2: MDKJ Perera faced T van der Gugten, scored 0 runs. Team score: 0/0
+0.3: MDKJ Perera faced T van der Gugten, scored 0 runs. Team score: 0/0
+0.4: MDKJ Perera faced T van der Gugten, scored 4 runs. Team score: 4/0
+0.5: MDKJ Perera faced T van der Gugten, scored 2 runs. Team score: 6/0
+0.6: MDKJ Perera faced T van der Gugten, scored 0 runs. Team score: 6/0
+1.1: TM Dilshan faced Ahsan Malik, scored 4 runs. Team score: 10/0
+1.2: TM Dilshan faced Ahsan Malik, scored 1 runs. Team score: 11/0
+1.3: MDKJ Perera faced Ahsan Malik, scored 1 runs. Team score: 12/0
+1.4: MDKJ Perera faced Ahsan Malik, scored 6 runs. Team score: 18/0
+1.5: MDKJ Perera faced Ahsan Malik, scored 2 runs. Team score: 20/0
+1.6: MDKJ Perera faced Ahsan Malik, scored 0 runs. Team score: 20/0
+1.0: MDKJ Perera faced Ahsan Malik, scored 0 runs. Team score: 20/0
+caught!, Batsman: MDKJ Perera (15 runs from 11 balls), Bowler: Ahsan Malik (figures: 1/14). Fielders involved: MR Swart. Team score: 20/1
+2.1: TM Dilshan faced T van der Gugten, scored 0 runs. Team score: 20/1
+2.2: TM Dilshan faced T van der Gugten, scored 1 runs. Team score: 21/1
+2.3: TM Dilshan faced T van der Gugten, scored 0 runs. Team score: 21/1
+2.4: TM Dilshan faced T van der Gugten, scored 0 runs. Team score: 21/1
+2.5: TM Dilshan faced T van der Gugten, scored 0 runs. Team score: 21/1
+2.6: TM Dilshan faced T van der Gugten, scored 4 runs. Team score: 25/1
+2.0: TM Dilshan faced T van der Gugten, scored 1 runs. Team score: 26/1
+3.1: TM Dilshan faced Ahsan Malik, scored 0 runs. Team score: 26/1
+3.2: TM Dilshan faced Ahsan Malik, scored 1 runs. Team score: 27/1
+3.3: DPMD Jayawardene faced Ahsan Malik, scored 0 runs. Team score: 27/1
+3.4: DPMD Jayawardene faced Ahsan Malik, scored 1 runs. Team score: 28/1
+3.5: TM Dilshan faced Ahsan Malik, scored 1 runs. Team score: 29/1
+3.6: DPMD Jayawardene faced Ahsan Malik, scored 1 runs. Team score: 30/1
+4.1: DPMD Jayawardene faced T van der Gugten, scored 0 runs. Team score: 30/1
+4.2: DPMD Jayawardene faced T van der Gugten, scored 0 runs. Team score: 30/1
+4.3: DPMD Jayawardene faced T van der Gugten, scored 0 runs. Team score: 30/1
+4.4: DPMD Jayawardene faced T van der Gugten, scored 4 runs. Team score: 34/1
+4.5: DPMD Jayawardene faced T van der Gugten, scored 0 runs. Team score: 34/1
+4.6: DPMD Jayawardene faced T van der Gugten, scored 5 runs. Team score: 39/1
+4.0: DPMD Jayawardene faced T van der Gugten, scored 1 runs. Team score: 40/1
+End of innings for Sri Lanka: 40/1 in 5.0 overs
+Batsman scores:
+MDKJ Perera: 15 runs from 11 balls
+TM Dilshan: 13 runs from 12 balls
+DPMD Jayawardene: 12 runs from 10 balls
+Bowler figures:
+T van der Gugten: 0 wickets for 22 runs
+Ahsan Malik: 1 wickets for 18 runs
+

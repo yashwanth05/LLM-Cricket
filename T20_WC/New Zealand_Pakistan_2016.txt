@@ -1,0 +1,300 @@
+Match: World T20 - T20
+Date: 2016-03-22
+Venue: Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh
+Teams: New Zealand vs Pakistan
+Toss: New Zealand won the toss and decided to bat
+Result: New Zealand won by 22 runs
+Man of the Match: MJ Guptill
+
+Innings 1:
+0.1: MJ Guptill faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.2: MJ Guptill faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.3: MJ Guptill faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.4: MJ Guptill faced Mohammad Amir, scored 0 runs. Team score: 0/0
+0.5: MJ Guptill faced Mohammad Amir, scored 1 runs. Team score: 1/0
+0.6: KS Williamson faced Mohammad Amir, scored 0 runs. Team score: 1/0
+1.1: MJ Guptill faced Mohammad Irfan, scored 0 runs. Team score: 1/0
+1.2: MJ Guptill faced Mohammad Irfan, scored 6 runs. Team score: 7/0
+1.3: MJ Guptill faced Mohammad Irfan, scored 1 runs. Team score: 8/0
+1.4: KS Williamson faced Mohammad Irfan, scored 2 runs. Team score: 10/0
+1.5: KS Williamson faced Mohammad Irfan, scored 4 runs. Team score: 14/0
+1.6: KS Williamson faced Mohammad Irfan, scored 0 runs. Team score: 14/0
+2.1: MJ Guptill faced Mohammad Amir, scored 4 runs. Team score: 18/0
+2.2: MJ Guptill faced Mohammad Amir, scored 0 runs. Team score: 18/0
+2.3: MJ Guptill faced Mohammad Amir, scored 0 runs. Team score: 18/0
+2.4: MJ Guptill faced Mohammad Amir, scored 1 runs. Team score: 19/0
+2.5: MJ Guptill faced Mohammad Amir, scored 4 runs. Team score: 23/0
+2.6: MJ Guptill faced Mohammad Amir, scored 4 runs. Team score: 27/0
+2.0: MJ Guptill faced Mohammad Amir, scored 0 runs. Team score: 27/0
+3.1: KS Williamson faced Mohammad Sami, scored 0 runs. Team score: 27/0
+3.2: KS Williamson faced Mohammad Sami, scored 1 runs. Team score: 28/0
+3.3: MJ Guptill faced Mohammad Sami, scored 1 runs. Team score: 29/0
+3.4: MJ Guptill faced Mohammad Sami, scored 1 runs. Team score: 30/0
+3.5: KS Williamson faced Mohammad Sami, scored 4 runs. Team score: 34/0
+3.6: KS Williamson faced Mohammad Sami, scored 1 runs. Team score: 35/0
+3.0: MJ Guptill faced Mohammad Sami, scored 0 runs. Team score: 35/0
+4.1: KS Williamson faced Imad Wasim, scored 0 runs. Team score: 35/0
+4.2: KS Williamson faced Imad Wasim, scored 1 runs. Team score: 36/0
+4.3: MJ Guptill faced Imad Wasim, scored 1 runs. Team score: 37/0
+4.4: KS Williamson faced Imad Wasim, scored 0 runs. Team score: 37/0
+4.5: KS Williamson faced Imad Wasim, scored 1 runs. Team score: 38/0
+4.6: MJ Guptill faced Imad Wasim, scored 6 runs. Team score: 44/0
+5.1: KS Williamson faced Mohammad Sami, scored 0 runs. Team score: 44/0
+5.2: KS Williamson faced Mohammad Sami, scored 1 runs. Team score: 45/0
+5.3: MJ Guptill faced Mohammad Sami, scored 0 runs. Team score: 45/0
+5.4: MJ Guptill faced Mohammad Sami, scored 6 runs. Team score: 51/0
+5.5: MJ Guptill faced Mohammad Sami, scored 4 runs. Team score: 55/0
+5.6: MJ Guptill faced Mohammad Sami, scored 0 runs. Team score: 55/0
+6.1: KS Williamson faced Imad Wasim, scored 1 runs. Team score: 56/0
+6.2: MJ Guptill faced Imad Wasim, scored 1 runs. Team score: 57/0
+6.3: KS Williamson faced Imad Wasim, scored 0 runs. Team score: 57/0
+6.4: KS Williamson faced Imad Wasim, scored 2 runs. Team score: 59/0
+6.5: KS Williamson faced Imad Wasim, scored 0 runs. Team score: 59/0
+6.6: KS Williamson faced Imad Wasim, scored 1 runs. Team score: 60/0
+7.1: KS Williamson faced Mohammad Irfan, scored 2 runs. Team score: 62/0
+7.2: KS Williamson faced Mohammad Irfan, scored 0 runs. Team score: 62/0
+caught!, Batsman: KS Williamson (21 runs from 21 balls), Bowler: Mohammad Irfan (figures: 1/15). Fielders involved: Shahid Afridi. Team score: 62/1
+7.3: C Munro faced Mohammad Irfan, scored 1 runs. Team score: 63/1
+7.4: MJ Guptill faced Mohammad Irfan, scored 4 runs. Team score: 67/1
+7.5: MJ Guptill faced Mohammad Irfan, scored 1 runs. Team score: 68/1
+7.6: C Munro faced Mohammad Irfan, scored 1 runs. Team score: 69/1
+8.1: C Munro faced Shahid Afridi, scored 0 runs. Team score: 69/1
+8.2: C Munro faced Shahid Afridi, scored 4 runs. Team score: 73/1
+8.3: C Munro faced Shahid Afridi, scored 1 runs. Team score: 74/1
+8.4: MJ Guptill faced Shahid Afridi, scored 1 runs. Team score: 75/1
+8.5: C Munro faced Shahid Afridi, scored 0 runs. Team score: 75/1
+caught!, Batsman: C Munro (7 runs from 6 balls), Bowler: Shahid Afridi (figures: 1/6). Fielders involved: Khalid Latif. Team score: 75/2
+8.6: MJ Guptill faced Shahid Afridi, scored 1 runs. Team score: 76/2
+9.1: MJ Guptill faced Imad Wasim, scored 1 runs. Team score: 77/2
+9.2: CJ Anderson faced Imad Wasim, scored 1 runs. Team score: 78/2
+9.3: MJ Guptill faced Imad Wasim, scored 0 runs. Team score: 78/2
+9.4: MJ Guptill faced Imad Wasim, scored 1 runs. Team score: 79/2
+9.5: CJ Anderson faced Imad Wasim, scored 1 runs. Team score: 80/2
+9.6: MJ Guptill faced Imad Wasim, scored 1 runs. Team score: 81/2
+10.1: MJ Guptill faced Shahid Afridi, scored 0 runs. Team score: 81/2
+10.2: MJ Guptill faced Shahid Afridi, scored 2 runs. Team score: 83/2
+10.3: MJ Guptill faced Shahid Afridi, scored 4 runs. Team score: 87/2
+10.4: MJ Guptill faced Shahid Afridi, scored 0 runs. Team score: 87/2
+10.5: MJ Guptill faced Shahid Afridi, scored 4 runs. Team score: 91/2
+10.6: MJ Guptill faced Shahid Afridi, scored 2 runs. Team score: 93/2
+11.1: CJ Anderson faced Imad Wasim, scored 2 runs. Team score: 95/2
+11.2: CJ Anderson faced Imad Wasim, scored 1 runs. Team score: 96/2
+11.3: MJ Guptill faced Imad Wasim, scored 1 runs. Team score: 97/2
+11.4: CJ Anderson faced Imad Wasim, scored 2 runs. Team score: 99/2
+11.5: CJ Anderson faced Imad Wasim, scored 0 runs. Team score: 99/2
+11.6: CJ Anderson faced Imad Wasim, scored 1 runs. Team score: 100/2
+12.1: CJ Anderson faced Mohammad Irfan, scored 0 runs. Team score: 100/2
+12.2: CJ Anderson faced Mohammad Irfan, scored 4 runs. Team score: 104/2
+12.3: CJ Anderson faced Mohammad Irfan, scored 1 runs. Team score: 105/2
+12.4: MJ Guptill faced Mohammad Irfan, scored 1 runs. Team score: 106/2
+12.5: CJ Anderson faced Mohammad Irfan, scored 0 runs. Team score: 106/2
+12.6: CJ Anderson faced Mohammad Irfan, scored 4 runs. Team score: 110/2
+13.1: MJ Guptill faced Shahid Afridi, scored 4 runs. Team score: 114/2
+13.2: MJ Guptill faced Shahid Afridi, scored 2 runs. Team score: 116/2
+13.3: MJ Guptill faced Shahid Afridi, scored 0 runs. Team score: 116/2
+13.4: MJ Guptill faced Shahid Afridi, scored 4 runs. Team score: 120/2
+13.5: MJ Guptill faced Shahid Afridi, scored 2 runs. Team score: 122/2
+13.6: MJ Guptill faced Shahid Afridi, scored 1 runs. Team score: 123/2
+14.1: MJ Guptill faced Mohammad Sami, scored 4 runs. Team score: 127/2
+14.2: MJ Guptill faced Mohammad Sami, scored 0 runs. Team score: 127/2
+14.3: MJ Guptill faced Mohammad Sami, scored 0 runs. Team score: 127/2
+bowled!, Batsman: MJ Guptill (82 runs from 50 balls), Bowler: Mohammad Sami (figures: 1/23). Fielders involved: None. Team score: 127/3
+14.4: LRPL Taylor faced Mohammad Sami, scored 0 runs. Team score: 127/3
+14.5: LRPL Taylor faced Mohammad Sami, scored 0 runs. Team score: 127/3
+14.6: LRPL Taylor faced Mohammad Sami, scored 0 runs. Team score: 127/3
+15.1: CJ Anderson faced Shahid Afridi, scored 1 runs. Team score: 128/3
+15.2: CJ Anderson faced Shahid Afridi, scored 4 runs. Team score: 132/3
+15.3: CJ Anderson faced Shahid Afridi, scored 0 runs. Team score: 132/3
+caught!, Batsman: CJ Anderson (22 runs from 15 balls), Bowler: Shahid Afridi (figures: 2/37). Fielders involved: Shoaib Malik. Team score: 132/4
+15.4: LRPL Taylor faced Shahid Afridi, scored 0 runs. Team score: 132/4
+15.5: LRPL Taylor faced Shahid Afridi, scored 1 runs. Team score: 133/4
+15.6: L Ronchi faced Shahid Afridi, scored 1 runs. Team score: 134/4
+15.0: LRPL Taylor faced Shahid Afridi, scored 1 runs. Team score: 135/4
+16.1: LRPL Taylor faced Mohammad Amir, scored 4 runs. Team score: 139/4
+16.2: LRPL Taylor faced Mohammad Amir, scored 2 runs. Team score: 141/4
+16.3: LRPL Taylor faced Mohammad Amir, scored 2 runs. Team score: 143/4
+16.4: LRPL Taylor faced Mohammad Amir, scored 1 runs. Team score: 144/4
+16.5: L Ronchi faced Mohammad Amir, scored 1 runs. Team score: 145/4
+16.6: LRPL Taylor faced Mohammad Amir, scored 1 runs. Team score: 146/4
+17.1: LRPL Taylor faced Mohammad Irfan, scored 1 runs. Team score: 147/4
+17.2: L Ronchi faced Mohammad Irfan, scored 1 runs. Team score: 148/4
+17.3: LRPL Taylor faced Mohammad Irfan, scored 3 runs. Team score: 151/4
+17.4: L Ronchi faced Mohammad Irfan, scored 6 runs. Team score: 157/4
+17.5: L Ronchi faced Mohammad Irfan, scored 1 runs. Team score: 158/4
+17.6: LRPL Taylor faced Mohammad Irfan, scored 2 runs. Team score: 160/4
+18.1: L Ronchi faced Mohammad Sami, scored 1 runs. Team score: 161/4
+18.2: LRPL Taylor faced Mohammad Sami, scored 0 runs. Team score: 161/4
+18.3: LRPL Taylor faced Mohammad Sami, scored 2 runs. Team score: 163/4
+18.4: LRPL Taylor faced Mohammad Sami, scored 0 runs. Team score: 163/4
+18.5: LRPL Taylor faced Mohammad Sami, scored 1 runs. Team score: 164/4
+18.6: L Ronchi faced Mohammad Sami, scored 0 runs. Team score: 164/4
+caught!, Batsman: L Ronchi (11 runs from 7 balls), Bowler: Mohammad Sami (figures: 2/27). Fielders involved: Shoaib Malik. Team score: 164/5
+19.1: LRPL Taylor faced Mohammad Amir, scored 6 runs. Team score: 170/5
+19.2: LRPL Taylor faced Mohammad Amir, scored 1 runs. Team score: 171/5
+19.3: GD Elliott faced Mohammad Amir, scored 1 runs. Team score: 172/5
+19.4: LRPL Taylor faced Mohammad Amir, scored 2 runs. Team score: 174/5
+19.5: LRPL Taylor faced Mohammad Amir, scored 4 runs. Team score: 178/5
+19.6: LRPL Taylor faced Mohammad Amir, scored 2 runs. Team score: 180/5
+End of innings for New Zealand: 180/5 in 20.0 overs
+Batsman scores:
+MJ Guptill: 82 runs from 50 balls
+KS Williamson: 21 runs from 21 balls
+C Munro: 7 runs from 6 balls
+CJ Anderson: 22 runs from 15 balls
+LRPL Taylor: 36 runs from 23 balls
+L Ronchi: 11 runs from 7 balls
+GD Elliott: 1 runs from 1 balls
+Bowler figures:
+Mohammad Amir: 0 wickets for 41 runs
+Mohammad Irfan: 1 wickets for 46 runs
+Mohammad Sami: 2 wickets for 27 runs
+Imad Wasim: 0 wickets for 26 runs
+Shahid Afridi: 2 wickets for 40 runs
+
+Innings 2:
+0.1: Sharjeel Khan faced MJ Santner, scored 4 runs. Team score: 4/0
+0.2: Sharjeel Khan faced MJ Santner, scored 0 runs. Team score: 4/0
+0.3: Sharjeel Khan faced MJ Santner, scored 2 runs. Team score: 6/0
+0.4: Sharjeel Khan faced MJ Santner, scored 0 runs. Team score: 6/0
+0.5: Sharjeel Khan faced MJ Santner, scored 1 runs. Team score: 7/0
+0.6: Sharjeel Khan faced MJ Santner, scored 4 runs. Team score: 11/0
+0.0: Sharjeel Khan faced MJ Santner, scored 4 runs. Team score: 15/0
+1.1: Ahmed Shehzad faced CJ Anderson, scored 4 runs. Team score: 19/0
+1.2: Ahmed Shehzad faced CJ Anderson, scored 0 runs. Team score: 19/0
+1.3: Ahmed Shehzad faced CJ Anderson, scored 2 runs. Team score: 21/0
+1.4: Ahmed Shehzad faced CJ Anderson, scored 1 runs. Team score: 22/0
+1.5: Ahmed Shehzad faced CJ Anderson, scored 1 runs. Team score: 23/0
+1.6: Sharjeel Khan faced CJ Anderson, scored 0 runs. Team score: 23/0
+1.0: Sharjeel Khan faced CJ Anderson, scored 1 runs. Team score: 24/0
+2.1: Sharjeel Khan faced AF Milne, scored 4 runs. Team score: 28/0
+2.2: Sharjeel Khan faced AF Milne, scored 4 runs. Team score: 32/0
+2.3: Sharjeel Khan faced AF Milne, scored 0 runs. Team score: 32/0
+2.4: Sharjeel Khan faced AF Milne, scored 0 runs. Team score: 32/0
+2.5: Sharjeel Khan faced AF Milne, scored 1 runs. Team score: 33/0
+2.6: Ahmed Shehzad faced AF Milne, scored 0 runs. Team score: 33/0
+3.1: Sharjeel Khan faced MJ McClenaghan, scored 0 runs. Team score: 33/0
+3.2: Sharjeel Khan faced MJ McClenaghan, scored 4 runs. Team score: 37/0
+3.3: Sharjeel Khan faced MJ McClenaghan, scored 4 runs. Team score: 41/0
+3.4: Sharjeel Khan faced MJ McClenaghan, scored 4 runs. Team score: 45/0
+3.5: Sharjeel Khan faced MJ McClenaghan, scored 0 runs. Team score: 45/0
+3.6: Sharjeel Khan faced MJ McClenaghan, scored 6 runs. Team score: 51/0
+4.1: Ahmed Shehzad faced CJ Anderson, scored 0 runs. Team score: 51/0
+4.2: Ahmed Shehzad faced CJ Anderson, scored 1 runs. Team score: 52/0
+4.3: Sharjeel Khan faced CJ Anderson, scored 0 runs. Team score: 52/0
+4.4: Sharjeel Khan faced CJ Anderson, scored 4 runs. Team score: 56/0
+4.5: Sharjeel Khan faced CJ Anderson, scored 1 runs. Team score: 57/0
+4.6: Ahmed Shehzad faced CJ Anderson, scored 4 runs. Team score: 61/0
+5.1: Sharjeel Khan faced AF Milne, scored 0 runs. Team score: 61/0
+5.2: Sharjeel Khan faced AF Milne, scored 4 runs. Team score: 65/0
+5.3: Sharjeel Khan faced AF Milne, scored 0 runs. Team score: 65/0
+caught!, Batsman: Sharjeel Khan (52 runs from 26 balls), Bowler: AF Milne (figures: 1/13). Fielders involved: MJ Guptill. Team score: 65/1
+5.4: Ahmed Shehzad faced AF Milne, scored 0 runs. Team score: 65/1
+5.5: Ahmed Shehzad faced AF Milne, scored 1 runs. Team score: 66/1
+5.6: Khalid Latif faced AF Milne, scored 0 runs. Team score: 66/1
+6.1: Ahmed Shehzad faced GD Elliott, scored 4 runs. Team score: 70/1
+6.2: Ahmed Shehzad faced GD Elliott, scored 2 runs. Team score: 72/1
+6.3: Ahmed Shehzad faced GD Elliott, scored 1 runs. Team score: 73/1
+6.4: Khalid Latif faced GD Elliott, scored 1 runs. Team score: 74/1
+6.5: Ahmed Shehzad faced GD Elliott, scored 1 runs. Team score: 75/1
+6.6: Khalid Latif faced GD Elliott, scored 1 runs. Team score: 76/1
+7.1: Khalid Latif faced IS Sodhi, scored 0 runs. Team score: 76/1
+7.2: Khalid Latif faced IS Sodhi, scored 1 runs. Team score: 77/1
+7.3: Ahmed Shehzad faced IS Sodhi, scored 2 runs. Team score: 79/1
+7.4: Ahmed Shehzad faced IS Sodhi, scored 0 runs. Team score: 79/1
+7.5: Ahmed Shehzad faced IS Sodhi, scored 0 runs. Team score: 79/1
+7.6: Ahmed Shehzad faced IS Sodhi, scored 0 runs. Team score: 79/1
+8.1: Khalid Latif faced MJ Santner, scored 0 runs. Team score: 79/1
+8.2: Khalid Latif faced MJ Santner, scored 0 runs. Team score: 79/1
+caught!, Batsman: Khalid Latif (3 runs from 7 balls), Bowler: MJ Santner (figures: 1/15). Fielders involved: GD Elliott. Team score: 79/2
+8.3: Ahmed Shehzad faced MJ Santner, scored 0 runs. Team score: 79/2
+8.4: Ahmed Shehzad faced MJ Santner, scored 1 runs. Team score: 80/2
+8.5: Ahmed Shehzad faced MJ Santner, scored 1 runs. Team score: 81/2
+8.6: Umar Akmal faced MJ Santner, scored 1 runs. Team score: 82/2
+8.0: Ahmed Shehzad faced MJ Santner, scored 1 runs. Team score: 83/2
+9.1: Ahmed Shehzad faced GD Elliott, scored 0 runs. Team score: 83/2
+9.2: Ahmed Shehzad faced GD Elliott, scored 1 runs. Team score: 84/2
+9.3: Umar Akmal faced GD Elliott, scored 1 runs. Team score: 85/2
+9.4: Ahmed Shehzad faced GD Elliott, scored 1 runs. Team score: 86/2
+9.5: Umar Akmal faced GD Elliott, scored 2 runs. Team score: 88/2
+9.6: Umar Akmal faced GD Elliott, scored 1 runs. Team score: 89/2
+10.1: Umar Akmal faced MJ Santner, scored 0 runs. Team score: 89/2
+10.2: Umar Akmal faced MJ Santner, scored 1 runs. Team score: 90/2
+10.3: Ahmed Shehzad faced MJ Santner, scored 0 runs. Team score: 90/2
+10.4: Ahmed Shehzad faced MJ Santner, scored 0 runs. Team score: 90/2
+10.5: Ahmed Shehzad faced MJ Santner, scored 1 runs. Team score: 91/2
+10.6: Umar Akmal faced MJ Santner, scored 0 runs. Team score: 91/2
+11.1: Ahmed Shehzad faced IS Sodhi, scored 1 runs. Team score: 92/2
+11.2: Umar Akmal faced IS Sodhi, scored 1 runs. Team score: 93/2
+11.3: Ahmed Shehzad faced IS Sodhi, scored 1 runs. Team score: 94/2
+11.4: Umar Akmal faced IS Sodhi, scored 1 runs. Team score: 95/2
+11.5: Ahmed Shehzad faced IS Sodhi, scored 1 runs. Team score: 96/2
+11.6: Umar Akmal faced IS Sodhi, scored 0 runs. Team score: 96/2
+12.1: Ahmed Shehzad faced MJ Santner, scored 0 runs. Team score: 96/2
+12.2: Ahmed Shehzad faced MJ Santner, scored 0 runs. Team score: 96/2
+caught!, Batsman: Ahmed Shehzad (33 runs from 34 balls), Bowler: MJ Santner (figures: 2/21). Fielders involved: MJ Guptill. Team score: 96/3
+12.3: Umar Akmal faced MJ Santner, scored 1 runs. Team score: 97/3
+12.4: Shahid Afridi faced MJ Santner, scored 0 runs. Team score: 97/3
+12.5: Shahid Afridi faced MJ Santner, scored 4 runs. Team score: 101/3
+12.6: Shahid Afridi faced MJ Santner, scored 1 runs. Team score: 102/3
+12.0: Shahid Afridi faced MJ Santner, scored 2 runs. Team score: 104/3
+13.1: Umar Akmal faced IS Sodhi, scored 1 runs. Team score: 105/3
+13.2: Shahid Afridi faced IS Sodhi, scored 6 runs. Team score: 111/3
+13.3: Shahid Afridi faced IS Sodhi, scored 1 runs. Team score: 112/3
+13.4: Umar Akmal faced IS Sodhi, scored 1 runs. Team score: 113/3
+13.5: Shahid Afridi faced IS Sodhi, scored 1 runs. Team score: 114/3
+13.6: Umar Akmal faced IS Sodhi, scored 1 runs. Team score: 115/3
+14.1: Umar Akmal faced MJ McClenaghan, scored 0 runs. Team score: 115/3
+14.2: Umar Akmal faced MJ McClenaghan, scored 2 runs. Team score: 117/3
+14.3: Umar Akmal faced MJ McClenaghan, scored 0 runs. Team score: 117/3
+14.4: Umar Akmal faced MJ McClenaghan, scored 1 runs. Team score: 118/3
+14.5: Shahid Afridi faced MJ McClenaghan, scored 4 runs. Team score: 122/3
+14.6: Shahid Afridi faced MJ McClenaghan, scored 1 runs. Team score: 123/3
+15.1: Shahid Afridi faced IS Sodhi, scored 0 runs. Team score: 123/3
+caught!, Batsman: Shahid Afridi (20 runs from 10 balls), Bowler: IS Sodhi (figures: 1/19). Fielders involved: CJ Anderson. Team score: 123/4
+15.2: Shoaib Malik faced IS Sodhi, scored 2 runs. Team score: 125/4
+15.3: Shoaib Malik faced IS Sodhi, scored 1 runs. Team score: 126/4
+15.4: Umar Akmal faced IS Sodhi, scored 1 runs. Team score: 127/4
+15.5: Shoaib Malik faced IS Sodhi, scored 1 runs. Team score: 128/4
+15.6: Umar Akmal faced IS Sodhi, scored 1 runs. Team score: 129/4
+16.1: Umar Akmal faced MJ McClenaghan, scored 2 runs. Team score: 131/4
+16.2: Umar Akmal faced MJ McClenaghan, scored 1 runs. Team score: 132/4
+16.3: Shoaib Malik faced MJ McClenaghan, scored 0 runs. Team score: 132/4
+16.4: Shoaib Malik faced MJ McClenaghan, scored 2 runs. Team score: 134/4
+16.5: Shoaib Malik faced MJ McClenaghan, scored 1 runs. Team score: 135/4
+16.6: Umar Akmal faced MJ McClenaghan, scored 2 runs. Team score: 137/4
+17.1: Shoaib Malik faced AF Milne, scored 1 runs. Team score: 138/4
+17.2: Umar Akmal faced AF Milne, scored 2 runs. Team score: 140/4
+17.3: Umar Akmal faced AF Milne, scored 0 runs. Team score: 140/4
+17.4: Umar Akmal faced AF Milne, scored 0 runs. Team score: 140/4
+caught!, Batsman: Umar Akmal (24 runs from 26 balls), Bowler: AF Milne (figures: 2/17). Fielders involved: MJ Guptill. Team score: 140/5
+17.5: Shoaib Malik faced AF Milne, scored 1 runs. Team score: 141/5
+17.6: Sarfraz Ahmed faced AF Milne, scored 1 runs. Team score: 142/5
+18.1: Sarfraz Ahmed faced MJ McClenaghan, scored 1 runs. Team score: 143/5
+18.2: Shoaib Malik faced MJ McClenaghan, scored 2 runs. Team score: 145/5
+18.3: Shoaib Malik faced MJ McClenaghan, scored 1 runs. Team score: 146/5
+18.4: Sarfraz Ahmed faced MJ McClenaghan, scored 2 runs. Team score: 148/5
+18.5: Sarfraz Ahmed faced MJ McClenaghan, scored 2 runs. Team score: 150/5
+18.6: Sarfraz Ahmed faced MJ McClenaghan, scored 1 runs. Team score: 151/5
+19.1: Sarfraz Ahmed faced AF Milne, scored 2 runs. Team score: 153/5
+19.2: Sarfraz Ahmed faced AF Milne, scored 1 runs. Team score: 154/5
+19.3: Shoaib Malik faced AF Milne, scored 0 runs. Team score: 154/5
+19.4: Shoaib Malik faced AF Milne, scored 2 runs. Team score: 156/5
+19.5: Shoaib Malik faced AF Milne, scored 1 runs. Team score: 157/5
+19.6: Sarfraz Ahmed faced AF Milne, scored 1 runs. Team score: 158/5
+End of innings for Pakistan: 158/5 in 20.0 overs
+Batsman scores:
+Sharjeel Khan: 52 runs from 26 balls
+Ahmed Shehzad: 33 runs from 34 balls
+Khalid Latif: 3 runs from 7 balls
+Umar Akmal: 24 runs from 26 balls
+Shahid Afridi: 20 runs from 10 balls
+Shoaib Malik: 15 runs from 13 balls
+Sarfraz Ahmed: 11 runs from 8 balls
+Bowler figures:
+MJ Santner: 2 wickets for 29 runs
+CJ Anderson: 0 wickets for 19 runs
+AF Milne: 2 wickets for 26 runs
+MJ McClenaghan: 0 wickets for 43 runs
+GD Elliott: 0 wickets for 16 runs
+IS Sodhi: 1 wickets for 25 runs
+
